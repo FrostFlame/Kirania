@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Классы  ",
@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "path:Бестиарий  ",
+      "color": {
+        "a": 1,
+        "rgb": 65806
+      }
     }
   ],
   "collapse-display": true,
@@ -123,6 +130,6 @@
   "repelStrength": 11.875,
   "linkStrength": 1,
   "linkDistance": 277,
-  "scale": 0.19450022690616559,
+  "scale": 0.0989543021863746,
   "close": true
 }
