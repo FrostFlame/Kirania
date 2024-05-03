@@ -5,117 +5,124 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Классы  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"Играбельные расы\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 354022
-      }
-    },
-    {
-      "query": "path:\"Заклинания/0-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"Заклинания/1-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:\"Заклинания/2-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:\"Заклинания/3-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:\"Заклинания/4-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:\"Заклинания/5-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:\"Заклинания/6-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:\"Заклинания/7-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:\"Заклинания/8-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"Заклинания/9-го уровня\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:Инвентарь  ",
-      "color": {
-        "a": 1,
-        "rgb": 14576929
+        "rgb": 15728640
       }
     },
     {
       "query": "path:\"Прокачка персонажа\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048454
+        "rgb": 15640603
+      }
+    },
+    {
+      "query": "path:\"Играбельные расы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 354795
+      }
+    },
+    {
+      "query": "path:\"Инвентарь/Волшебные предметы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775772
+      }
+    },
+    {
+      "query": "path:Инвентарь  ",
+      "color": {
+        "a": 1,
+        "rgb": 5503243
+      }
+    },
+    {
+      "query": "path:\"Заклинания/0-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15200243
+      }
+    },
+    {
+      "query": "path:\"Заклинания/1-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12771317
+      }
+    },
+    {
+      "query": "path:\"Заклинания/2-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10084085
+      }
+    },
+    {
+      "query": "path:\"Заклинания/3-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8301026
+      }
+    },
+    {
+      "query": "path:\"Заклинания/4-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10134444
+      }
+    },
+    {
+      "query": "path:\"Заклинания/5-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7308959
+      }
+    },
+    {
+      "query": "path:\"Заклинания/6-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4237744
+      }
+    },
+    {
+      "query": "path:\"Заклинания/7-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5030082
+      }
+    },
+    {
+      "query": "path:\"Заклинания/8-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"Заклинания/9-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01875,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 11.875,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3823010968770001,
+  "linkDistance": 277,
+  "scale": 0.19450022690616559,
   "close": true
 }

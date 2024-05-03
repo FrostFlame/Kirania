@@ -1,5 +1,7 @@
 [
   "share-note",
   "obsidian-style-settings",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-plugin-toc",
+  "obsidian-gdrive-sync"
 ]
