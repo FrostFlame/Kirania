@@ -6,6 +6,12 @@
   "filesList": [
     {
       "mimeType": "application/json",
+      "id": "1yHgpZDZHFOVvJATY7CT13fc6hYDXTf7s",
+      "name": "Заклинания/2-го уровня/Гадание.md",
+      "modifiedTime": "2024-05-05T19:53:19.940Z"
+    },
+    {
+      "mimeType": "application/json",
       "id": "1SQRKGRcP0ySJHkfLMWFdXmbrUDnVj_Q9",
       "name": "Классы/Мистик.md",
       "modifiedTime": "2024-05-05T19:29:10.767Z"
@@ -993,12 +999,6 @@
       "id": "1_rptuPdoNgjsDPSS8LzdsoKAM3OxJRR0",
       "name": "Заклинания/2-го уровня/Божественное оружие.md",
       "modifiedTime": "2024-05-04T10:32:16.367Z"
-    },
-    {
-      "mimeType": "application/json",
-      "id": "1yHgpZDZHFOVvJATY7CT13fc6hYDXTf7s",
-      "name": "Заклинания/2-го уровня/Гадание.md",
-      "modifiedTime": "2024-05-04T10:32:04.534Z"
     },
     {
       "mimeType": "application/json",
