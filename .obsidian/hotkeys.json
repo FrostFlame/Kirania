@@ -7,20 +7,20 @@
       "key": "Q"
     }
   ],
-  "share-note:copy-link": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "outline:open": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "obsidian-gdrive-sync:drive-upload-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
