@@ -6,6 +6,12 @@
   "filesList": [
     {
       "mimeType": "application/json",
+      "id": "1AXEvSCTc_EaV6Q8HR6mM5rt-L2tljEiq",
+      "name": "Заклинания/2-го уровня/Внушение.md",
+      "modifiedTime": "2024-05-05T18:27:05.951Z"
+    },
+    {
+      "mimeType": "application/json",
       "id": "1RNht9NELseahiRI1VSVD-YXv9ABYFLo7",
       "name": "Заклинания/2-го уровня/Вихрь искривления.md",
       "modifiedTime": "2024-05-05T18:22:48.100Z"
@@ -873,12 +879,6 @@
       "id": "185rlAt7LIJyHdXcJPhHg4ADXGfSxlGxH",
       "name": "Заклинания/2-го уровня/Благословение удачи.md",
       "modifiedTime": "2024-05-04T10:32:26.162Z"
-    },
-    {
-      "mimeType": "application/json",
-      "id": "1AXEvSCTc_EaV6Q8HR6mM5rt-L2tljEiq",
-      "name": "Заклинания/2-го уровня/Внушение.md",
-      "modifiedTime": "2024-05-04T10:32:18.353Z"
     },
     {
       "mimeType": "application/json",
