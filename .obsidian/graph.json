@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Классы  ",
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:\"Прокачка персонажа\"  ",
+      "query": "path:\"Прокачка персонажа/Школы Магии\"",
       "color": {
         "a": 1,
-        "rgb": 15640603
+        "rgb": 1830613
       }
     },
     {
@@ -118,6 +118,13 @@
         "a": 1,
         "rgb": 65806
       }
+    },
+    {
+      "query": "path:\"Прокачка персонажа\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16093245
+      }
     }
   ],
   "collapse-display": true,
@@ -130,6 +137,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.19450022690616683,
+  "scale": 0.19450022690616744,
   "close": true
 }
