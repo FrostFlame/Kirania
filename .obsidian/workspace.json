@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заклинания/4-го уровня/Гигантское насекомое.md",
+                "file": "Заклинания/4-го уровня/Град.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Заклинания/4-го уровня/Град.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Заклинания/4-го уровня/Град.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Заклинания/4-го уровня/Град.md"
+              }
             }
           }
         ]
@@ -165,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0ba29ab054e741",
+  "active": "3abfc915603fd47e",
   "lastOpenFiles": [
-    "Заклинания/9-го уровня/Исполнение желаний.md",
     "Заклинания/4-го уровня/Гигантское насекомое.md",
+    "Заклинания/9-го уровня/Исполнение желаний.md",
     "Бестиарий/Звери/ПО 3/Гигантский скорпион.md",
     "Бестиарий/Звери/ПО 0,25/Лось.md",
     "Бестиарий/Звери/ПО 3",
