@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заклинания/4-го уровня/Оглушающая кара.md",
+                "file": "Заклинания/4-го уровня/Огненная стена.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Заклинания/4-го уровня/Огненная стена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Заклинания/4-го уровня/Огненная стена.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Заклинания/4-го уровня/Огненная стена.md"
+              }
             }
           }
         ]
@@ -165,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0ba29ab054e741",
+  "active": "3abfc915603fd47e",
   "lastOpenFiles": [
-    "Прокачка персонажа/Школы Магии/Хронургия.md",
     "Заклинания/4-го уровня/Оглушающая кара.md",
+    "Прокачка персонажа/Школы Магии/Хронургия.md",
     "Заклинания/4-го уровня/Облачение тени.md",
     "Заклинания/4-го уровня/Мираж.md",
     "Заклинания/4-го уровня/Магический глаз.md",
