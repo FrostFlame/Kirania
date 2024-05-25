@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заклинания/4-го уровня/Отилюков упругий шар.md",
+                "file": "Заклинания/4-го уровня/Очарование чудовища.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Заклинания/4-го уровня/Очарование чудовища.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Заклинания/4-го уровня/Очарование чудовища.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Заклинания/4-го уровня/Очарование чудовища.md"
+              }
             }
           }
         ]
@@ -165,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0ba29ab054e741",
+  "active": "3abfc915603fd47e",
   "lastOpenFiles": [
     "Заклинания/4-го уровня/Отилюков упругий шар.md",
     "Заклинания/6-го уровня/Распад.md",
