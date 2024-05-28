@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Волшебник.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "bdd85e03fcd99d6d",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Волшебник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Волшебник.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Воин.md"
+                "file": "Классы/Волшебник.md"
               }
             }
           }
@@ -185,8 +184,8 @@
   },
   "active": "3abfc915603fd47e",
   "lastOpenFiles": [
-    "Классы/Варвар.md",
     "Классы/Воин.md",
+    "Классы/Варвар.md",
     "Заклинания/5-го уровня/Телекинез.md",
     "Инвентарь/Оружие.md",
     "Классы/Бард.md",
