@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Классы/Жрец.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Классы/Жрец.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Классы/Жрец.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Друид.md"
+                "file": "Классы/Жрец.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "3abfc915603fd47e",
   "lastOpenFiles": [
+    "Классы/Друид.md",
     "Классы/Волшебник.md",
     "Классы/Воин.md",
     "Классы/Варвар.md",
@@ -193,7 +194,6 @@
     "Классы/Алхимик.md",
     "Заклинания/4-го уровня/Эвардовы чёрные щупальца.md",
     "Классы/Жрец.md",
-    "Классы/Друид.md",
     "Заклинания/4-го уровня/Цепкая лоза.md",
     "Заклинания/4-го уровня/Центр притяжения.md",
     "Прокачка персонажа/Школы Магии/Гравитургия.md",
