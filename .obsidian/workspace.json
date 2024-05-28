@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы/Волшебник.md",
+                "file": "Классы/Друид.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Волшебник.md",
+                "file": "Классы/Друид.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Волшебник.md",
+                "file": "Классы/Друид.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Волшебник.md"
+                "file": "Классы/Друид.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "3abfc915603fd47e",
   "lastOpenFiles": [
+    "Классы/Волшебник.md",
     "Классы/Воин.md",
     "Классы/Варвар.md",
     "Заклинания/5-го уровня/Телекинез.md",
@@ -191,7 +192,6 @@
     "Классы/Бард.md",
     "Классы/Алхимик.md",
     "Заклинания/4-го уровня/Эвардовы чёрные щупальца.md",
-    "Классы/Волшебник.md",
     "Классы/Жрец.md",
     "Классы/Друид.md",
     "Заклинания/4-го уровня/Цепкая лоза.md",
