@@ -230,7 +230,8 @@
               "properties": [
                 "языки"
               ],
-              "fallback": "-"
+              "fallback": "-",
+              "conditioned": true
             },
             {
               "type": "property",
