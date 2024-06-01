@@ -258,16 +258,6 @@
           "hasRule": true
         },
         {
-          "type": "traits",
-          "id": "c8cba8882a1a",
-          "properties": [
-            "способности"
-          ],
-          "conditioned": true,
-          "dice": false,
-          "heading": "Способности"
-        },
-        {
           "type": "spells",
           "id": "69b97a6baa6a",
           "properties": [
@@ -275,7 +265,7 @@
           ],
           "conditioned": true,
           "dice": true,
-          "heading": "Заклинания"
+          "heading": ""
         },
         {
           "type": "text",
@@ -285,6 +275,16 @@
           ],
           "conditioned": true,
           "text": null
+        },
+        {
+          "type": "traits",
+          "id": "c8cba8882a1a",
+          "properties": [
+            "способности"
+          ],
+          "conditioned": true,
+          "dice": false,
+          "heading": "Способности"
         },
         {
           "type": "traits",
