@@ -108,9 +108,9 @@
                 "хиты"
               ],
               "display": "Хиты",
-              "dice": false,
-              "diceProperty": "hit_dice",
-              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "dice": true,
+              "diceProperty": "хиты_кости",
+              "diceCallback": "if (\"хиты_кости\" in monster) {\n  return [{ text: monster[\"хиты_кости\"] }];\n} else {\n  return property;\n}",
               "callback": "",
               "conditioned": true
             },
