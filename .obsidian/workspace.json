@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Конструкты/ПО 0/Дух конструкта.md",
+                "file": "Бестиарий/Конструкты/ПО 0/Крошечный слуга.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,6 +77,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "066cb5cb2a0c8cfc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бестиарий/Конструкты/ПО 0/Дух конструкта.md",
+                "file": "Бестиарий/Конструкты/ПО 0/Крошечный слуга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бестиарий/Конструкты/ПО 0/Дух конструкта.md",
+                "file": "Бестиарий/Конструкты/ПО 0/Крошечный слуга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бестиарий/Конструкты/ПО 0/Дух конструкта.md"
+                "file": "Бестиарий/Конструкты/ПО 0/Крошечный слуга.md"
               }
-            }
-          },
-          {
-            "id": "066cb5cb2a0c8cfc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "ba5ba0189b0881f2",
@@ -200,8 +199,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e4e9ebf947bd65dd",
+  "active": "5a2e504a5ab3fa49",
   "lastOpenFiles": [
+    "Бестиарий/Конструкты/ПО 0/Дух конструкта.md",
     "Бестиарий/Конструкты/ПО 0/Гомункул.md",
     "Бестиарий/Исчадия/ПО 5/Барлгура.md",
     "Классы/Изобретатель.md",
@@ -227,7 +227,6 @@
     "Бестиарий/Звери/Нет ПО/Дух зверя.md",
     "Бестиарий/Аберрации/ПО 0/Дух аберрации.md",
     "Бестиарий/Конструкты/ПО 0/Слуга-гомункул.md",
-    "Бестиарий/Конструкты/ПО 0/Дух конструкта.md",
     "z_templates",
     "Бестиарий/Фамильяры",
     "Инвентарь/Волшебные предметы/Вариативная редкость",
