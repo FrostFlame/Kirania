@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Звери/ПО 0,125/Мастиф.md",
+                "file": "Бестиарий/Звери/ПО 0,125/Пони.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бестиарий/Звери/ПО 0,125/Мастиф.md",
+                "file": "Бестиарий/Звери/ПО 0,125/Пони.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бестиарий/Звери/ПО 0,125/Мастиф.md",
+                "file": "Бестиарий/Звери/ПО 0,125/Пони.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бестиарий/Звери/ПО 0,125/Мастиф.md"
+                "file": "Бестиарий/Звери/ПО 0,125/Пони.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "8f24ccb3e4089dc3",
   "lastOpenFiles": [
-    "Бестиарий/Звери/ПО 0,125/Гигантская крыса.md",
     "Бестиарий/Звери/ПО 0,125/Мастиф.md",
+    "Бестиарий/Звери/ПО 0,125/Гигантская крыса.md",
     "Бестиарий/Звери/ПО 0,125/Верблюд.md",
     "z_templates/Кастомный монстр.md",
     "Бестиарий/Звери/ПО 0,25/Рой крыс.md",
