@@ -78,7 +78,9 @@
               "id": "48d98a281be8",
               "properties": [
                 "image"
-              ]
+              ],
+              "fallback": "-",
+              "conditioned": true
             }
           ]
         },
