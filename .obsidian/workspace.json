@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Сова.md",
+                "file": "Бестиарий/Монстры/ПО 0/Трессим.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Сова.md",
+                "file": "Бестиарий/Монстры/ПО 0/Трессим.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Сова.md",
+                "file": "Бестиарий/Монстры/ПО 0/Трессим.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Сова.md"
+                "file": "Бестиарий/Монстры/ПО 0/Трессим.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "bb2f3cbecc0b1c47",
+  "active": "c4ebafef52808a4e",
   "lastOpenFiles": [
+    "Бестиарий/Звери/Нет ПО/Сова.md",
     "Бестиарий/Звери/Нет ПО/Пиранья.md",
     "Бестиарий/Звери/Нет ПО/Паук.md",
     "Бестиарий/Звери/Нет ПО/Осьминог.md",
@@ -227,7 +228,6 @@
     "Бестиарий/Слизь/ПО 0,5/Серая слизь.md",
     "Классы/Изобретатель.md",
     "Бестиарий/Нежить/ПО 0,25/Скелет.md",
-    "Бестиарий/Нежить/ПО 0,25/Зомби.md",
     "z_templates",
     "Бестиарий/Фамильяры",
     "Инвентарь/Волшебные предметы/Вариативная редкость",
