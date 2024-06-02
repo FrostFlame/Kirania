@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Летучая мышь.md",
+                "file": "Бестиарий/Звери/Нет ПО/Лиса.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Летучая мышь.md",
+                "file": "Бестиарий/Звери/Нет ПО/Лиса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Летучая мышь.md",
+                "file": "Бестиарий/Звери/Нет ПО/Лиса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бестиарий/Звери/Нет ПО/Летучая мышь.md"
+                "file": "Бестиарий/Звери/Нет ПО/Лиса.md"
               }
             }
           },
@@ -199,8 +199,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "bb2f3cbecc0b1c47",
+  "active": "c4ebafef52808a4e",
   "lastOpenFiles": [
+    "Бестиарий/Звери/Нет ПО/Летучая мышь.md",
     "Бестиарий/Звери/Нет ПО/Летающая обезьяна.md",
     "Бестиарий/Звери/Нет ПО/Альмираж.md",
     "Бестиарий/Исчадия/ПО 0,25/Курица бездны.md",
