@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7da5668288d8f1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Классы/Жрец.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Жрец.md",
+                "file": "Классы/Колдун.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Жрец.md",
+                "file": "Классы/Колдун.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Жрец.md"
+                "file": "Классы/Колдун.md"
               }
             }
           },
@@ -199,10 +186,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7da5668288d8f1ec",
+  "active": "843c499521e3eb40",
   "lastOpenFiles": [
-    "Заклинания/9-го уровня/Множественное полное исцеление.md",
+    "Классы/Изобретатель.md",
     "Классы/Жрец.md",
+    "Заклинания/9-го уровня/Множественное полное исцеление.md",
     "Заклинания/8-го уровня/Аура святости.md",
     "Заклинания/7-го уровня/Божественное слово.md",
     "Заклинания/7-го уровня/Храм богов.md",
@@ -226,7 +214,6 @@
     "Заклинания/6-го уровня/Первородный страж.md",
     "Классы/Волшебник.md",
     "Заклинания/9-го уровня/Метеоритный дождь.md",
-    "Заклинания/9-го уровня/Полное превращение.md",
     "z_assets/КурицаБездны-synced.png",
     "z_templates",
     "Бестиарий/Фамильяры",
