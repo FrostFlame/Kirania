@@ -95,6 +95,56 @@
           "nested": [
             {
               "type": "property",
+              "id": "6a49c859db8a",
+              "properties": [
+                "предыстория"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Предыстория"
+            },
+            {
+              "type": "property",
+              "id": "e9797a1ad93a",
+              "properties": [
+                "раса"
+              ],
+              "fallback": "-",
+              "display": "Раса",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "f8bb7bfa19ba",
+              "properties": [
+                "подраса"
+              ],
+              "fallback": "-",
+              "display": "Подраса",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c99afb488acb",
+              "properties": [
+                "класс"
+              ],
+              "fallback": "-",
+              "display": "Класс",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "98c8092a7bf8",
+              "properties": [
+                "подкласс"
+              ],
+              "fallback": "-",
+              "display": "Подкласс",
+              "conditioned": true
+            },
+            {
+              "type": "property",
               "id": "4aab68f92919",
               "properties": [
                 "кд"
@@ -114,6 +164,16 @@
               "diceProperty": "хиты_кости",
               "diceCallback": "if (\"хиты_кости\" in monster) {\n  return [{ text: monster[\"хиты_кости\"] }];\n} else {\n  return property;\n}",
               "callback": "",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5b189beb2b1a",
+              "properties": [
+                "кость хитов"
+              ],
+              "fallback": "-",
+              "display": "Кость хитов",
               "conditioned": true
             },
             {
@@ -237,13 +297,44 @@
             },
             {
               "type": "property",
+              "id": "ea7acb986a68",
+              "properties": [
+                "доспехи"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Владение доспехами"
+            },
+            {
+              "type": "property",
+              "id": "09485b6ba9b8",
+              "properties": [
+                "оружие"
+              ],
+              "fallback": "-",
+              "display": "Владение оружием",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "4a6b1b0b18b9",
+              "properties": [
+                "инструменты"
+              ],
+              "fallback": "-",
+              "display": "Владение инструментами",
+              "conditioned": true
+            },
+            {
+              "type": "property",
               "id": "cbd9695adb0a",
               "display": "Показатель Опасности",
               "properties": [
                 "по"
               ],
               "callback": "",
-              "fallback": "-"
+              "fallback": "-",
+              "conditioned": true
             },
             {
               "type": "property",
@@ -267,7 +358,7 @@
           ],
           "conditioned": true,
           "dice": true,
-          "heading": ""
+          "heading": "Заклинания"
         },
         {
           "type": "text",
@@ -409,6 +500,94 @@
           "fallback": "-",
           "heading": "Описание",
           "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "9a2a6a6a98bb",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "fa59f83bdb48",
+              "properties": [
+                "деньги"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Деньги"
+            },
+            {
+              "type": "property",
+              "id": "394a994b19ea",
+              "properties": [
+                "ин_оружие"
+              ],
+              "fallback": "-",
+              "display": "Оружие",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ebeb2a28681b",
+              "properties": [
+                "ин_доспехи"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Доспехи"
+            },
+            {
+              "type": "property",
+              "id": "ba7878693928",
+              "properties": [
+                "волшебные предметы"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Волшебный предметы"
+            },
+            {
+              "type": "property",
+              "id": "8b19889a398a",
+              "properties": [
+                "ин_расходники"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Расходники"
+            },
+            {
+              "type": "property",
+              "id": "cb68794b7808",
+              "properties": [
+                "ин_квест"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Квестовые предметы"
+            },
+            {
+              "type": "property",
+              "id": "883ab849194a",
+              "properties": [
+                "ин_рп"
+              ],
+              "fallback": "-",
+              "display": "РП предметы",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba09e96a2bc8",
+              "properties": [
+                "ин_дополнительно"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Дополнительно"
+            }
+          ],
+          "heading": "Инвентарь"
         }
       ],
       "name": "Basic 5e Russian Layout",
