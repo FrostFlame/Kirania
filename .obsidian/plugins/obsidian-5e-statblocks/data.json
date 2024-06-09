@@ -145,6 +145,17 @@
             },
             {
               "type": "property",
+              "id": "2a8a3bf849e8",
+              "properties": [
+                "инициатива"
+              ],
+              "fallback": "-",
+              "hasRule": false,
+              "conditioned": true,
+              "display": "Инициатива"
+            },
+            {
+              "type": "property",
               "id": "4aab68f92919",
               "properties": [
                 "кд"
@@ -206,6 +217,30 @@
           "calculate": true,
           "hasRule": true,
           "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "db08eabb1878",
+          "properties": [
+            "спасброски игрока"
+          ],
+          "fallback": "-",
+          "headingProp": false,
+          "doNotAddClass": false,
+          "conditioned": true,
+          "heading": "Спасброски",
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "bbf859d8c969",
+          "properties": [
+            "навыки игрока"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "heading": "Навыки",
+          "hasRule": true
         },
         {
           "type": "group",

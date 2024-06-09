@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "163d227deb50953c",
+        "id": "1ccc6d93b1dd88f3",
         "type": "tabs",
         "children": [
           {
-            "id": "81118e91b52ad1de",
+            "id": "c6c78f7ff7d48ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Игроки/Астра Хитоэль.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb3abbb853ac550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Играбельные расы/Полуэльфы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8da59fbf675cfc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Классы/Жрец.md",
+                "file": "Классы/Колдун.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "простой яд",
+                "query": "черты",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи/Игроки/Астра Хитоэль.md",
+                "file": "Классы/Колдун.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Персонажи/Игроки/Астра Хитоэль.md",
+                "file": "Классы/Колдун.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Персонажи/Игроки/Астра Хитоэль.md"
+                "file": "Классы/Колдун.md"
               }
             }
           },
@@ -197,19 +173,23 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "81118e91b52ad1de",
+  "active": "c6c78f7ff7d48ea9",
   "lastOpenFiles": [
+    "Бестиарий/Нежить/ПО 1/Спектр.md",
+    "Классы/Колдун.md",
+    "Бестиарий/Нежить/ПО 1",
+    "Прокачка персонажа/Предыстории.md",
+    "Классы/Жрец.md",
     "Играбельные расы/Полуэльфы.md",
     "Персонажи/Игроки/Астра Хитоэль.md",
-    "Untitled.canvas",
-    "Классы/Колдун.md",
     "Персонажи/Игроки/Арм Кола-Морг.md",
     "z_templates/Шаблон персонажа.md",
+    "Прокачка персонажа/Черты.md",
+    "Классы/Варвар.md",
+    "Untitled.canvas",
     "2024-06-07.md",
-    "Классы/Жрец.md",
     "Инвентарь/Снаряжение.md",
     "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Зелье силы великана.md",
-    "Классы/Варвар.md",
     "Играбельные расы/Голиафы.md",
     "Бестиарий/Феи/ПО 0,25/Спрайт.md",
     "Персонажи/NPC",
@@ -231,11 +211,8 @@
     "Заклинания/7-го уровня/Храм богов.md",
     "Заклинания/7-го уровня/Призыв небожителя.md",
     "Заклинания/6-го уровня/Запрет.md",
-    "Заклинания/6-го уровня/Стена клинков.md",
-    "Заклинания/6-го уровня/Слово возврата.md",
     "z_assets/КурицаБездны-synced.png",
     "z_templates",
-    "Бестиарий/Фамильяры",
     "z_assets/Трессим-synced.png",
     "z_assets/ЛетающаяОбезьяна-synced.png",
     "z_assets/Альмираж-synced.png",
