@@ -622,7 +622,8 @@
               "display": "Дополнительно"
             }
           ],
-          "heading": "Инвентарь"
+          "heading": "Инвентарь",
+          "conditioned": true
         }
       ],
       "name": "Basic 5e Russian Layout",
