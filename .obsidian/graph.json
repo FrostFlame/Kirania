@@ -1,0 +1,142 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Классы  ",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    },
+    {
+      "query": "path:\"Прокачка персонажа/Школы Магии\"",
+      "color": {
+        "a": 1,
+        "rgb": 1830613
+      }
+    },
+    {
+      "query": "path:\"Играбельные расы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 354795
+      }
+    },
+    {
+      "query": "path:\"Инвентарь/Волшебные предметы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775772
+      }
+    },
+    {
+      "query": "path:Инвентарь  ",
+      "color": {
+        "a": 1,
+        "rgb": 5503243
+      }
+    },
+    {
+      "query": "path:\"Заклинания/0-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15200243
+      }
+    },
+    {
+      "query": "path:\"Заклинания/1-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12771317
+      }
+    },
+    {
+      "query": "path:\"Заклинания/2-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10084085
+      }
+    },
+    {
+      "query": "path:\"Заклинания/3-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8301026
+      }
+    },
+    {
+      "query": "path:\"Заклинания/4-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10134444
+      }
+    },
+    {
+      "query": "path:\"Заклинания/5-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7308959
+      }
+    },
+    {
+      "query": "path:\"Заклинания/6-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4237744
+      }
+    },
+    {
+      "query": "path:\"Заклинания/7-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5030082
+      }
+    },
+    {
+      "query": "path:\"Заклинания/8-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"Заклинания/9-го уровня\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Бестиарий  ",
+      "color": {
+        "a": 1,
+        "rgb": 65806
+      }
+    },
+    {
+      "query": "path:\"Прокачка персонажа\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16093245
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.13873223932666714,
+  "close": true
+}
