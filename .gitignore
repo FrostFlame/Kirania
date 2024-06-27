@@ -1,2 +1,4 @@
 /.idea
 /.obsidian
+
+!/.obsidian/plugins/obsidian-gdrive-sync
