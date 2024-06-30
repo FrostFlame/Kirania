@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Бестиарий/Звери/Нет ПО/Альмираж.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "bdd85e03fcd99d6d",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Бестиарий/Звери/Нет ПО/Альмираж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Друид.md",
+                "file": "Бестиарий/Звери/Нет ПО/Альмираж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Друид.md"
+                "file": "Бестиарий/Звери/Нет ПО/Альмираж.md"
               }
             }
           },
@@ -189,8 +188,15 @@
   },
   "active": "3c6c430d412f3580",
   "lastOpenFiles": [
-    "Заклинания/1-го уровня/Поглощение.md",
+    "Классы/Чародей.md",
+    "Бестиарий/Звери/Нет ПО/Альмираж.md",
+    "z_assets/Трессим-synced.png",
+    "z_assets/ЛетающаяОбезьяна-synced.png",
+    "z_assets/КурицаБездны-synced.png",
+    "z_assets/Альмираж-synced.png",
+    "z_assets",
     "Классы/Друид.md",
+    "Заклинания/1-го уровня/Поглощение.md",
     "Заклинания/1-го уровня/Сотворение или уничтожение воды.md",
     "Заклинания/1-го уровня/Скороход.md",
     "Заклинания/1-го уровня/Силок.md",
@@ -213,12 +219,6 @@
     "Заклинания/1-го уровня/Чудо-ягоды.md",
     "Заклинания/1-го уровня/Волна грома.md",
     "Заклинания/1-го уровня/Огонь фей.md",
-    "Персонажи/Игроки/Эда.md",
-    "Заклинания/0-го уровня/Ядовитые брызги.md",
-    "z_assets/Трессим-synced.png",
-    "z_assets/ЛетающаяОбезьяна-synced.png",
-    "z_assets/КурицаБездны-synced.png",
-    "z_assets/Альмираж-synced.png",
     "Бестиарий/Фамильяры",
     "Бестиарий/Драконы/ПО 10",
     "Бестиарий/Драконы/ПО 0",
@@ -229,7 +229,6 @@
     "Персонажи/NPC",
     "Персонажи/Игроки",
     "Персонажи",
-    "Бестиарий/Untitled",
     "z_assets/Pasted image 20240504112843-synced.png",
     "z_Assets/Barbarian_tiefling_male.png",
     "z_Assets/Grog.png",
