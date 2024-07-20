@@ -100,27 +100,12 @@
   "state": {
     "creatures": [
       {
-        "initiative": 6,
+        "initiative": 14,
         "static": false,
         "modifier": 0,
         "hp": 0,
         "currentMaxHP": 0,
-        "id": "ID_288a8a78cafb",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "initiative": 4,
-        "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 0,
-        "id": "ID_9a68db48981b",
+        "id": "ID_7918c949fb8a",
         "currentHP": 0,
         "tempHP": 0,
         "status": [],
