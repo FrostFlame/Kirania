@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
+                "file": "Заклинания/5-го уровня/Вещий сон.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
+                "file": "Заклинания/5-го уровня/Вещий сон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
+                "file": "Заклинания/5-го уровня/Вещий сон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заклинания/5-го уровня/Быстрый колчан.md"
+                "file": "Заклинания/5-го уровня/Вещий сон.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "18a1b3e13ef72996",
   "lastOpenFiles": [
-    "Классы/Магус.md",
     "Заклинания/5-го уровня/Быстрый колчан.md",
+    "Классы/Магус.md",
     "Заклинания/4-го уровня/Аура жизни.md",
     "Заклинания/5-го уровня/Вещий сон.md",
     "Классы/Чародей.md",
