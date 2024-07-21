@@ -11,8 +11,12 @@
             "id": "18a1b3e13ef72996",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "bdd85e03fcd99d6d",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Заклинания/5-го уровня/Быстрый колчан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Заклинания/5-го уровня/Быстрый колчан.md"
+              }
             }
           },
           {
@@ -150,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +173,8 @@
   },
   "active": "18a1b3e13ef72996",
   "lastOpenFiles": [
+    "Заклинания/4-го уровня/Аура жизни.md",
+    "Заклинания/5-го уровня/Быстрый колчан.md",
     "Классы/Чародей.md",
     "Бестиарий/Исчадия/ПО 4/Суккуб Инкуб.md",
     "Бестиарий/Исчадия/ПО 5/Шипастый дьявол.md",
@@ -197,8 +205,6 @@
     "Заклинания/4-го уровня/Призыв малых элементалей.md",
     "Заклинания/4-го уровня/Призыв духа конструкта.md",
     "Заклинания/4-го уровня/Призыв духа аберрации.md",
-    "Заклинания/4-го уровня/Смятение.md",
-    "Заклинания/4-го уровня/Предсказание.md",
     "z_assets/Трессим-synced.png",
     "z_assets/ЛетающаяОбезьяна-synced.png",
     "z_assets/КурицаБездны-synced.png",
