@@ -1,7 +1,7 @@
 {
   "refreshToken": "1//0566Yka4JrGEwCgYIARAAGAUSNwF-L9IriahEEM2aDW5BizKoYeGxZeOYFoOLYLh8qFj7qpdlro7AhUuf_MyjrxG4pAC8CTySQzY",
-  "accessToken": "ya29.a0AcM612w0QXDdXIOba-NPFKANInizmm8hdnLLLU2u7a2VL3LCJAMHc9_F71UeU2fxkzKlV2tjrQoPzidgboTTb4SkejnVnRYwIvjozoONhquC-sUC7jzWMEfYvDM25QlsB8DFEFFWL_uRbMJiD16X2qRIwYI9homPQ_Df0vsQfQaCgYKATESARASFQHGX2Mi7GqRfmQwgDbTGPHW45uj0Q0177",
-  "accessTokenExpiryTime": 1725733688638,
+  "accessToken": "ya29.a0AcM612xNktcsU_B9uPgsJdCIwi2rps5HPx-PVQgs6ixRT2g1tyH6JvtHm7pp0xBYPfxnXv9M2lScL77aOBHhkUKI70ImhqNSqqo4JuruULfbteEcK5UmXmtHxNklJ_8HCH_o2eyy_cEfcJl7MfawlUlsXCTBWEy4ldooOTaF5gaCgYKAewSARASFQHGX2MicXkBXIc0fVIaVhG81dgEXQ0177",
+  "accessTokenExpiryTime": 1725735498691,
   "validToken": true,
   "vaultId": "14hNidiCF98mhiPOE4mDEU2R2dybZjItx",
   "filesList": [
@@ -9,7 +9,7 @@
       "mimeType": "application/json",
       "id": "1uOrKyI2AVOPSHGq2z_4GI3YrEXMlZFTL",
       "name": "Классы/Воин.md",
-      "modifiedTime": "2024-09-07T17:50:52.826Z"
+      "modifiedTime": "2024-09-07T18:17:40.938Z"
     },
     {
       "mimeType": "application/json",
