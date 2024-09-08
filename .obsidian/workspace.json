@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72b7ebcb31c2f689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Классы/Воин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba8e68a755440dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Классы/Жрец.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72b7ebcb31c2f689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Классы/Воин.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Жрец.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Жрец.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Воин.md"
+                "file": "Классы/Жрец.md"
               }
             }
           },
@@ -226,13 +226,13 @@
       "obsidian-gdrive-sync:Download Current File": false
     }
   },
-  "active": "72b7ebcb31c2f689",
+  "active": "ba8e68a755440dbb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Классы/Воин.md",
     "Классы/Бард.md",
-    "Классы/Варвар.md",
     "Классы/Жрец.md",
+    "Классы/Воин.md",
+    "Untitled.md",
+    "Классы/Варвар.md",
     "Бестиарий/Нежить/ПО 1/Ужасающий воин.md",
     "Бестиарий/Нежить/ПО 0,5/Скелет боевого коня.md",
     "Бестиарий/Нежить/ПО 4/Привидение.md",
