@@ -1,15 +1,21 @@
 {
   "refreshToken": "1//0566Yka4JrGEwCgYIARAAGAUSNwF-L9IriahEEM2aDW5BizKoYeGxZeOYFoOLYLh8qFj7qpdlro7AhUuf_MyjrxG4pAC8CTySQzY",
-  "accessToken": "ya29.a0AcM612z1gvcHof-VJMtEPsFg0PW1JvznZtW_HjUA7d1ULMRR54UxSplqOLaXOLYAJ8_dvMeocmpWR6rF7RpbhuctxYvsDvVuBkf7AV8e-hPZGQ4AZ29Aoyk72cGPoh654ejrkLcQ7TSbAZ_RQ137ihUmVG_WZODk8vtjEuqu6QaCgYKAc0SARASFQHGX2Mied9zrhX2Ss8r1TzvODqlLw0177",
-  "accessTokenExpiryTime": 1725746339000,
+  "accessToken": "ya29.a0AcM612w2C66c8Qfp6V9Ui7TtRJVKXLTf934iimugVY2y8rkZRuG3Jug4uhFowiMHU2KvXACgGme0blF2w7Ad7jr0k_eLHg8kwL1Xfzqr_i3YKh0s2l9shItQRnCys0-ZHB-WVs1FgXdXvPj5iLb6g8zYOrjwoCX0kTIvb0h9bgaCgYKAdASARASFQHGX2MiGfxAsO8nts4oZIRvEBDxZA0177",
+  "accessTokenExpiryTime": 1725791363995,
   "validToken": true,
   "vaultId": "14hNidiCF98mhiPOE4mDEU2R2dybZjItx",
   "filesList": [
     {
       "mimeType": "application/json",
+      "id": "1PMfpu222eTYIVRiLCW5QJWj1QwGdy95V",
+      "name": "Классы/Бард.md",
+      "modifiedTime": "2024-09-08T09:47:34.022Z"
+    },
+    {
+      "mimeType": "application/json",
       "id": "1uOrKyI2AVOPSHGq2z_4GI3YrEXMlZFTL",
       "name": "Классы/Воин.md",
-      "modifiedTime": "2024-09-07T21:27:56.166Z"
+      "modifiedTime": "2024-09-08T09:45:35.156Z"
     },
     {
       "mimeType": "application/json",
@@ -22,12 +28,6 @@
       "id": "1-arstFjDAxUQ6hBPPe3txlaMScWBuBmW",
       "name": "Классы/Варвар.md",
       "modifiedTime": "2024-09-07T20:44:30.189Z"
-    },
-    {
-      "mimeType": "application/json",
-      "id": "1PMfpu222eTYIVRiLCW5QJWj1QwGdy95V",
-      "name": "Классы/Бард.md",
-      "modifiedTime": "2024-09-07T20:43:37.077Z"
     },
     {
       "mimeType": "application/json",

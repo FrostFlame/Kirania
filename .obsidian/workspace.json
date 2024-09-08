@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Бард.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Воин.md",
+                "file": "Классы/Бард.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Воин.md"
+                "file": "Классы/Бард.md"
               }
             }
           },
@@ -226,10 +227,10 @@
       "obsidian-gdrive-sync:Download Current File": false
     }
   },
-  "active": "72b7ebcb31c2f689",
+  "active": "7c5fec83ac8e82b0",
   "lastOpenFiles": [
-    "Классы/Бард.md",
     "Классы/Воин.md",
+    "Классы/Бард.md",
     "Классы/Варвар.md",
     "Классы/Жрец.md",
     "Бестиарий/Нежить/ПО 1/Ужасающий воин.md",
