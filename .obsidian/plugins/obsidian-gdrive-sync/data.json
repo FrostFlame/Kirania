@@ -1,7 +1,7 @@
 {
   "refreshToken": "1//0566Yka4JrGEwCgYIARAAGAUSNwF-L9IriahEEM2aDW5BizKoYeGxZeOYFoOLYLh8qFj7qpdlro7AhUuf_MyjrxG4pAC8CTySQzY",
-  "accessToken": "ya29.a0AcM612z9rV-cU0ll0AlCVfsNDiPaw7OwDYA-UjGnubK1LEh5r--VFzEZPrOkqxiyFKBz8H1soGMtjXOTSIB5k_B31Mt35QXUG_-9S7bdcjiNYNnTWSMA6kVh_3yIM_bO8ZnpgWEgvgctvJRUYTnhUwuLNujsOPLq1FBCLYcY2gaCgYKAboSARASFQHGX2Miypvw0YXw0ncllROIuvz2ag0177",
-  "accessTokenExpiryTime": 1725796778990,
+  "accessToken": "ya29.a0AcM612wJy3yPzqZzXpZKodyB36GLSf6FPtTPXB5TT5oMA_qJaBJvcZOLk3HaByTXNrBvj50dQCJ3JVV3gS-H34gRrFmRHDsZXdBxZv25hTF4UXn_elp7vVV2qUrSsHTU6J8Yo8bRZkpxgoqAtdXBVD8SQDtJqbvhBWWRxwA31waCgYKATUSARASFQHGX2MimuYo8BuKVPlyLg6YWivfeQ0177",
+  "accessTokenExpiryTime": 1725816965654,
   "validToken": true,
   "vaultId": "14hNidiCF98mhiPOE4mDEU2R2dybZjItx",
   "filesList": [
@@ -9,7 +9,13 @@
       "mimeType": "application/json",
       "id": "1SILUiYWSzNFk-KsttA-0bDqHXry4YgjS",
       "name": "Классы/Жрец.md",
-      "modifiedTime": "2024-09-08T11:19:00.108Z"
+      "modifiedTime": "2024-09-08T17:03:37.085Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1AcXUNyGup-FHnMst1A37LUn2fs_NY6O8",
+      "name": "Бестиарий/Небожители/Нет ПО/Ангел-хранитель.md",
+      "modifiedTime": "2024-09-08T16:52:58.950Z"
     },
     {
       "mimeType": "application/json",
@@ -4893,7 +4899,7 @@
   "vaultInit": true,
   "rootFolderId": "1lRZ6Vxq6LnRhpROoX3BmF6qhaqX94oEN",
   "refresh": false,
-  "refreshTime": "5",
+  "refreshTime": "10",
   "autoRefreshBinaryFiles": "0",
   "errorLoggingToFile": false,
   "verboseLoggingToFile": false
