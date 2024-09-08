@@ -245,7 +245,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-gdrive-sync:Upload Current File": false,
+      "obsidian-gdrive-sync:Download Current File": false
     }
   },
   "active": "e6d91ae88f811fd6",
