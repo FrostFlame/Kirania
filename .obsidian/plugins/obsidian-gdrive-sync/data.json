@@ -1,7 +1,7 @@
 {
   "refreshToken": "1//05daoB-lpy9V1CgYIARAAGAUSNwF-L9IrMkNrTZYIHDaHWePGwdzPB-PsGjvydF9iZikBtjfpGHIKRuccK4ltpUFZmjWaN5-LPww",
-  "accessToken": "ya29.a0AcM612z6OskPTJ6b-AytYTbU7wGa17NosNVV5B4eVzVKUgPr6nj8BKxj_HLFhrslNUe199esxz77UltJ9g3-oEJ010qA8f2YZbOGd0ihEgwM9K7Uo7vbew7fTP2t47rzmKdn6oxrgp4GJo8mEUhQlOUrkBIzPbOUlMdVqhB5aCgYKAaUSARASFQHGX2MiLh7JHF2ToCo6Ku-8Pk97_A0175",
-  "accessTokenExpiryTime": 1725830698861,
+  "accessToken": "ya29.a0AcM612w7vnbRakPp__2tD31GjX735N3rgnq6kYuUZdB-yqnCNmaPIeicC0nmpPkpmNqi-LAcE1fRywMA1xWWzbXitPxccnvkYz0IiKiaY3NBe7jE_Y6bYzB-JvxExXnNRIoGU-s1M_oLm5P2XXD2CRVF0yy1jEP7lv9Bt9kU4AaCgYKASYSARASFQHGX2MinjINfjH-DGuIJNfzaHtK2g0177",
+  "accessTokenExpiryTime": 1725904592962,
   "validToken": true,
   "vaultId": "14hNidiCF98mhiPOE4mDEU2R2dybZjItx",
   "filesList": [
@@ -9,7 +9,7 @@
       "mimeType": "application/json",
       "id": "1kO2T7aPdnXgqLfnYtwGrkZu9BS1oRPJz",
       "name": "Классы/Волшебник.md",
-      "modifiedTime": "2024-09-08T20:26:56.017Z"
+      "modifiedTime": "2024-09-08T20:28:30.186Z"
     },
     {
       "mimeType": "application/json",
