@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6d91ae88f811fd6",
+            "id": "4c5e466b6d35d223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы/Волшебник.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72b7ebcb31c2f689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Классы/Воин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba8e68a755440dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Классы/Жрец.md",
+                "file": "Классы/Колдун.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,12 +44,48 @@
             }
           },
           {
+            "id": "72b7ebcb31c2f689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Классы/Воин.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6d91ae88f811fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Классы/Волшебник.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f2e7419172f75896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Классы/Друид.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8e68a755440dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Классы/Жрец.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "вы создали себе вторую личность",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы/Волшебник.md",
+                "file": "Классы/Колдун.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы/Волшебник.md",
+                "file": "Классы/Колдун.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы/Волшебник.md"
+                "file": "Классы/Колдун.md"
               }
             }
           },
@@ -250,15 +262,20 @@
       "obsidian-gdrive-sync:Download Current File": false
     }
   },
-  "active": "e6d91ae88f811fd6",
+  "active": "4c5e466b6d35d223",
   "lastOpenFiles": [
+    "Заклинания/4-го уровня/Проклятое прикосновение.md",
+    "Классы/Колдун.md",
+    "Классы/Бард.md",
     "Классы/Друид.md",
     "Классы/Волшебник.md",
+    "Прокачка персонажа/Черты.md",
+    "Прокачка персонажа/Предыстории.md",
+    "Играбельные расы/Аасимары.md",
+    "Классы/Варвар.md",
+    "Классы/Жрец.md",
     "Классы/Воин.md",
     "Прокачка персонажа/Школы Магии/Гемокрафт.md",
-    "Классы/Жрец.md",
-    "Классы/Бард.md",
-    "Классы/Варвар.md",
     "Бестиарий/Небожители/Нет ПО/Ангел-хранитель.md",
     "Бестиарий/Небожители/Нет ПО",
     "Untitled.md",
@@ -275,11 +292,6 @@
     "Инвентарь/Волшебные предметы/Волшебный автомат/Электрическое масло.md",
     "Инвентарь/Волшебные предметы/Волшебный автомат/Шёпот удавки.md",
     "Инвентарь/Волшебные предметы/Волшебный автомат/Циферблат защитника.md",
-    "Инвентарь/Волшебные предметы/Волшебный автомат/Суповая ложка невероятности.md",
-    "Инвентарь/Волшебные предметы/Волшебный автомат/Сумки переноса.md",
-    "Инвентарь/Волшебные предметы/Волшебный автомат/Скрещенный арбалет.md",
-    "Инвентарь/Волшебные предметы/Волшебный автомат/Символ предвидения.md",
-    "Инвентарь/Волшебные предметы/Волшебный автомат/Святая ручная граната.md",
     "Инвентарь/Волшебные предметы/Волшебный автомат",
     "Бестиарий/Нежить/ПО 5",
     "Бестиарий/Нежить/ПО 4",
