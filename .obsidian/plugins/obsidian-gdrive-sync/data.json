@@ -1,7 +1,7 @@
 {
   "refreshToken": "1//05daoB-lpy9V1CgYIARAAGAUSNwF-L9IrMkNrTZYIHDaHWePGwdzPB-PsGjvydF9iZikBtjfpGHIKRuccK4ltpUFZmjWaN5-LPww",
-  "accessToken": "ya29.a0AcM612z-G-_hjPUf1fKSMKGznMb4pJXEmkGV3cvIP-f6x6j3RUMM8atcx-026XQYKF9RdqwY69EBkmrW1l1YeeTG5mA0roxUkJXfyqQj5tWx27yPNDhT67Rw-idVOe62DVy1s9O-GMz1yx39ver5GrRGu6KDXI4BXIleKHbWAwaCgYKAaMSARASFQHGX2Mi7L9Pz6eZeROVrbQk_DGtvw0177",
-  "accessTokenExpiryTime": 1726348346764,
+  "accessToken": "ya29.a0AcM612yuyOHFFaEANvw8aENTwNLf42CNMIuQDz7a9hPfq6FnT1Ft4Pset0Kuont-vSgXf5sHeLyul5BTr1G5qvBy8ytE3PlAOpdGciRq5El7WAZ8p2ngZzeAZKIvTloh4ZMVy4jVuqVXtBZTvO8iYtotROBawzJAhco_AgA4sQaCgYKAc0SARASFQHGX2MiUbCDt9_okSAK2XuZ50EVkQ0177",
+  "accessTokenExpiryTime": 1726350146712,
   "validToken": true,
   "vaultId": "14hNidiCF98mhiPOE4mDEU2R2dybZjItx",
   "filesList": [
@@ -9,7 +9,7 @@
       "mimeType": "application/json",
       "id": "1rubgtmCLHIm8hZwHgBRwKYmKyJ-NP0CQ",
       "name": "Классы/Колдун.md",
-      "modifiedTime": "2024-09-14T20:40:19.012Z"
+      "modifiedTime": "2024-09-14T21:00:44.197Z"
     },
     {
       "mimeType": "application/json",
