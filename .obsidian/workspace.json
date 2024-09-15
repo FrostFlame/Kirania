@@ -257,20 +257,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-gdrive-sync:Upload Current File": false,
-      "obsidian-gdrive-sync:Download Current File": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "4c5e466b6d35d223",
   "lastOpenFiles": [
+    "Классы/Варвар.md",
+    "Классы/Бард.md",
+    "Классы/Колдун.md",
     "Классы/Жрец.md",
     "Классы/Друид.md",
     "Классы/Волшебник.md",
     "Классы/Воин.md",
-    "Классы/Варвар.md",
-    "Классы/Бард.md",
-    "Классы/Колдун.md",
     "Заклинания/4-го уровня/Проклятое прикосновение.md",
     "Прокачка персонажа/Черты.md",
     "Прокачка персонажа/Предыстории.md",
