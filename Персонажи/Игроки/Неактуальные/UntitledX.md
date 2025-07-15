@@ -1,4 +1,5 @@
 ---
+имя: Гоблин
 dg-publish: true
 ---
 <html>
@@ -212,7 +213,7 @@ dg-publish: true
 		</style>
 	</head>
 	<body>
-		<div class="stat-block wide">
+		<div class="stat-block">
 			<hr class="orange-border" />
 			<div class="section-left">
 				<div class="creature-heading">
