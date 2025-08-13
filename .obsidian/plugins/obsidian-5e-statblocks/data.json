@@ -1,12 +1,641 @@
 {
   "monsters": [],
   "defaultLayouts": {},
-  "layouts": [],
-  "default": "basic-5e-layout",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "f899b8998bfa",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "a8e8b8394a3a",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "78083a48182b",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "792b88391b6b",
+                      "properties": [
+                        "имя"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "d8b8d80a99aa",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "5a6baa3b0ae9",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "9b1af8ca2ae8",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "ea8a39595a9a",
+                  "properties": [
+                    "размер",
+                    "тип",
+                    "подтип",
+                    "мировоззрение"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "48d98a281be8",
+              "properties": [
+                "image"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "38d8ca3bfad9",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "6a49c859db8a",
+              "properties": [
+                "предыстория"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Предыстория"
+            },
+            {
+              "type": "property",
+              "id": "e9797a1ad93a",
+              "properties": [
+                "раса"
+              ],
+              "fallback": "-",
+              "display": "Раса",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "f8bb7bfa19ba",
+              "properties": [
+                "подраса"
+              ],
+              "fallback": "-",
+              "display": "Подраса",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c99afb488acb",
+              "properties": [
+                "класс"
+              ],
+              "fallback": "-",
+              "display": "Класс",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "98c8092a7bf8",
+              "properties": [
+                "подкласс"
+              ],
+              "fallback": "-",
+              "display": "Подкласс",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "2a8a3bf849e8",
+              "properties": [
+                "инициатива"
+              ],
+              "fallback": "-",
+              "hasRule": false,
+              "conditioned": true,
+              "display": "Инициатива"
+            },
+            {
+              "type": "property",
+              "id": "4aab68f92919",
+              "properties": [
+                "кд"
+              ],
+              "display": "Класс Доспеха",
+              "conditioned": true,
+              "callback": ""
+            },
+            {
+              "type": "property",
+              "id": "a9da5b19d8ea",
+              "properties": [
+                "хиты"
+              ],
+              "display": "Хиты",
+              "dice": true,
+              "diceProperty": "хиты_кости",
+              "diceCallback": "if (\"хиты_кости\" in monster) {\n  return [{ text: monster[\"хиты_кости\"] }];\n} else {\n  return property;\n}",
+              "callback": "",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5b189beb2b1a",
+              "properties": [
+                "кость хитов"
+              ],
+              "fallback": "-",
+              "display": "Кость хитов",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "eadb191bd8aa",
+              "display": "Скорость",
+              "properties": [
+                "скорость"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "e8bb1a2a4b6a",
+          "properties": [
+            "характеристики"
+          ],
+          "headers": [
+            "Сил",
+            "Лов",
+            "Тел",
+            "Инт",
+            "Мдр",
+            "Хар"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "db08eabb1878",
+          "properties": [
+            "спасброски игрока"
+          ],
+          "fallback": "-",
+          "headingProp": false,
+          "doNotAddClass": false,
+          "conditioned": true,
+          "heading": "Спасброски",
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "bbf859d8c969",
+          "properties": [
+            "навыки игрока"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "heading": "Навыки",
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "085b9988688a",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "e8a89b7a58fa",
+              "display": "Спасброски",
+              "properties": [
+                "спасброски"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "8aeb383afa2b",
+              "display": "Навыки",
+              "properties": [
+                "навыки"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "4aeb4b6ba80b",
+              "display": "Уязвимость к урону",
+              "properties": [
+                "уязвимость к урону"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c9184a988af8",
+              "display": "Сопротивление урону",
+              "properties": [
+                "сопротивление урону"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "1b0aa8aad8e8",
+              "display": "Иммунитет к урону",
+              "properties": [
+                "иммунитет к урону"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "99a99aca989a",
+              "display": "Иммунитет к состоянию",
+              "properties": [
+                "иммунитет к состоянию"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "faaa7849e919",
+              "display": "Чувства",
+              "properties": [
+                "чувства"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "f9a878b82a4a",
+              "display": "Языки",
+              "properties": [
+                "языки"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ea7acb986a68",
+              "properties": [
+                "доспехи"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Владение доспехами"
+            },
+            {
+              "type": "property",
+              "id": "09485b6ba9b8",
+              "properties": [
+                "оружие"
+              ],
+              "fallback": "-",
+              "display": "Владение оружием",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "4a6b1b0b18b9",
+              "properties": [
+                "инструменты"
+              ],
+              "fallback": "-",
+              "display": "Владение инструментами",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "cbd9695adb0a",
+              "display": "Показатель Опасности",
+              "properties": [
+                "по"
+              ],
+              "callback": "",
+              "fallback": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "2b09581a283b",
+              "display": "Бонус Мастерства",
+              "properties": [
+                "бм"
+              ],
+              "callback": "",
+              "fallback": "-"
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "spells",
+          "id": "69b97a6baa6a",
+          "properties": [
+            "заклинания"
+          ],
+          "conditioned": true,
+          "dice": true,
+          "heading": "Заклинания"
+        },
+        {
+          "type": "text",
+          "id": "08998a093a4b",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "c8cba8882a1a",
+          "properties": [
+            "способности"
+          ],
+          "conditioned": true,
+          "dice": false,
+          "heading": "Способности"
+        },
+        {
+          "type": "traits",
+          "id": "185b18385a8b",
+          "properties": [
+            "действия"
+          ],
+          "heading": "Действия",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "49193a5ae868",
+          "properties": [
+            "бонусные действия"
+          ],
+          "heading": "Бонусные действия",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "fa4b5a2a983b",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "99b90bfb2889",
+              "properties": [
+                "легендарное описание"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "aa5998f8d80b",
+              "properties": [
+                "легендарные действия"
+              ],
+              "conditioned": true,
+              "dice": true,
+              "heading": "Легендарные дествия"
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "3a791a89ba29",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "8a78d9ca8969",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "3898da285b1a",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "899b7adbe93a",
+          "properties": [
+            "реакции"
+          ],
+          "heading": "Реакции",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a939282aeaaa",
+          "properties": [
+            "действия логова"
+          ],
+          "heading": "Действия логова",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "5af868483a99",
+          "properties": [
+            "региональные эффекты"
+          ],
+          "heading": "Региональные эффекты",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "a9384aeb38c9",
+          "properties": [
+            "описание"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Описание",
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "9a2a6a6a98bb",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "fa59f83bdb48",
+              "properties": [
+                "деньги"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Деньги"
+            },
+            {
+              "type": "property",
+              "id": "394a994b19ea",
+              "properties": [
+                "ин_оружие"
+              ],
+              "fallback": "-",
+              "display": "Оружие",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ebeb2a28681b",
+              "properties": [
+                "ин_доспехи"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Доспехи"
+            },
+            {
+              "type": "property",
+              "id": "ba7878693928",
+              "properties": [
+                "волшебные предметы"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Волшебный предметы"
+            },
+            {
+              "type": "property",
+              "id": "8b19889a398a",
+              "properties": [
+                "ин_расходники"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Расходники"
+            },
+            {
+              "type": "property",
+              "id": "cb68794b7808",
+              "properties": [
+                "ин_квест"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Квестовые предметы"
+            },
+            {
+              "type": "property",
+              "id": "883ab849194a",
+              "properties": [
+                "ин_рп"
+              ],
+              "fallback": "-",
+              "display": "РП предметы",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba09e96a2bc8",
+              "properties": [
+                "ин_дополнительно"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": "Дополнительно"
+            }
+          ],
+          "heading": "Инвентарь",
+          "conditioned": true
+        }
+      ],
+      "name": "Basic 5e Russian Layout",
+      "id": "db596bc99a2a",
+      "diceParsing": []
+    }
+  ],
+  "default": "db596bc99a2a",
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,
