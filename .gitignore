@@ -1,9 +1,7 @@
 /.idea
 /.obsidian/workspace.json
-.obsidian
-.obsidian/
-/.obsidian
-/.obsidian/
+.obsidian/plugins/digitalgarden/data.json
+/.obsidian/plugins/digitalgarden/data.json
 /.trash
 /.trash/
 .trash
