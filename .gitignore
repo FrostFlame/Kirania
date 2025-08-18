@@ -4,6 +4,9 @@
 .idea/
 /.obsidian/workspace.json
 /.obsidian/appearance.json
+.obsidian/appearance.json
+.obsidian/graph.json
+/.obsidian/graph.json
 .obsidian/plugins/digitalgarden/data.json
 /.obsidian/plugins/digitalgarden/data.json
 /.trash
