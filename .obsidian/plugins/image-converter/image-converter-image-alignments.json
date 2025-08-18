@@ -20,8 +20,8 @@
     },
     "71ccc878a9ba894936a9cddef222c918": {
       "position": "center",
-      "width": "389px",
-      "height": "743px",
+      "width": "310px",
+      "height": "592px",
       "wrap": false
     }
   },
@@ -33,19 +33,83 @@
       "wrap": false
     }
   },
-  "Играбельные расы/Ракины.md": {
-    "e074c61f49a8b92b3cd2268d29db689d": {
-      "position": "center",
-      "width": "481px",
-      "height": "356px",
-      "wrap": false
-    }
-  },
   "Играбельные расы/Рокборны.md": {
     "58997e29e83fe6c6bf7a75cb877e2512": {
       "position": "center",
       "width": "589px",
       "height": "521px",
+      "wrap": false
+    },
+    "27d5e4972c3b548d99960f9595ed66b0": {
+      "position": "center",
+      "width": "414px",
+      "height": "414px",
+      "wrap": false
+    },
+    "54a50b192f5ac47cbfe72a6633d2b18d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d3396e934b2c8f509c4adf1e0aaec229": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d11ebb0dfd8e72af37e4e82caeb82fa8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Играбельные расы/Иссохшие.md": {
+    "46b6a6c659221a6932b93a4d5333f962": {
+      "position": "center",
+      "width": "635px",
+      "height": "440px",
+      "wrap": false
+    },
+    "0896d97218f21967bf3359354e735534": {
+      "position": "center",
+      "width": "483px",
+      "height": "490px",
+      "wrap": false
+    }
+  },
+  "Играбельные расы/Кактары.md": {
+    "4b5c0a6887b2cee873221388b51edd09": {
+      "position": "center",
+      "width": "596px",
+      "height": "505px",
+      "wrap": false
+    },
+    "6c1aa47bab3af12dbf8319dc1b39a0ff": {
+      "position": "center",
+      "width": "449px",
+      "height": "559px",
+      "wrap": false
+    },
+    "0a2cedb481e5441d14b7b51c634a41e8": {
+      "position": "center",
+      "width": "353px",
+      "height": "577px",
+      "wrap": false
+    },
+    "6154b61cd780d261914ce5ff42130608": {
+      "position": "center",
+      "width": "476px",
+      "height": "810px",
+      "wrap": false
+    }
+  },
+  "Играбельные расы/Скорпиды.md": {
+    "c4a699716e6106c937cf8eb5ff43b555": {
+      "position": "center",
+      "width": "669px",
+      "height": "410px",
       "wrap": false
     }
   }
