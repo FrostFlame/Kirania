@@ -4,6 +4,9 @@
 .idea/
 /.obsidian/workspace.json
 /.obsidian/appearance.json
+.obsidian/appearance.json
+.obsidian/graph.json
+/.obsidian/graph.json
 .obsidian/plugins/digitalgarden/data.json
 /.obsidian/plugins/digitalgarden/data.json
 /.trash
@@ -12,3 +15,7 @@
 .trash/
 .trash
 error-log-gdrive-plugin.md
+*.json
+workspace.json
+appearance.json
+graph.json
