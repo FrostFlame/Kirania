@@ -1,12 +1,69 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "Ивовый лес",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Заклинания  ",
+      "color": {
+        "a": 1,
+        "rgb": 10480
+      }
+    },
+    {
+      "query": "path:Бестиарий  ",
+      "color": {
+        "a": 1,
+        "rgb": 15271687
+      }
+    },
+    {
+      "query": "path:Зоны  ",
+      "color": {
+        "a": 1,
+        "rgb": 2878738
+      }
+    },
+    {
+      "query": "path:Персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 15896092
+      }
+    },
+    {
+      "query": "path:Инвентарь  ",
+      "color": {
+        "a": 1,
+        "rgb": 16512347
+      }
+    },
+    {
+      "query": "path:Сюжеты  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
+    },
+    {
+      "query": "path:Классы  ",
+      "color": {
+        "a": 1,
+        "rgb": 9942263
+      }
+    },
+    {
+      "query": "path:\"Играбельные расы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.5087618855792614,
   "close": false
 }
