@@ -16,3 +16,6 @@
 .trash
 error-log-gdrive-plugin.md
 *.json
+workspace.json
+appearance.json
+graph.json
