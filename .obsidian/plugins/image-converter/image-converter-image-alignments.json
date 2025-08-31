@@ -115,9 +115,17 @@
   },
   "Классы/Варвар.md": {
     "22aad8564e95d8166546eb0d5496eb2c": {
+      "position": "left",
+      "width": "475px",
+      "height": "371px",
+      "wrap": false
+    }
+  },
+  "Классы/Бард.md": {
+    "1faf8a34101176c01f4d8f7935935208": {
       "position": "center",
-      "width": "442px",
-      "height": "346px",
+      "width": "256px",
+      "height": "392px",
       "wrap": false
     }
   }
