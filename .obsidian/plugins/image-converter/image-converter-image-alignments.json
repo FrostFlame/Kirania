@@ -6,6 +6,12 @@
       "height": "545px",
       "wrap": false
     },
+    "6440dc80aab53b6887bc1175ad189303": {
+      "position": "center",
+      "width": "471px",
+      "height": "426px",
+      "wrap": false
+    },
     "eec3247082b97147c0cccd247fd05ca1": {
       "position": "center",
       "width": "490px",
@@ -102,8 +108,8 @@
   "Играбельные расы/Скорпиды.md": {
     "c4a699716e6106c937cf8eb5ff43b555": {
       "position": "center",
-      "width": "696px",
-      "height": "427px",
+      "width": "669px",
+      "height": "410px",
       "wrap": false
     }
   },
@@ -120,20 +126,6 @@
       "position": "center",
       "width": "256px",
       "height": "392px",
-      "wrap": false
-    }
-  },
-  "Играбельные расы/Энко.md": {
-    "c63f3664ddeedec3ef05b6290b3a0c0a": {
-      "position": "center",
-      "width": "572px",
-      "height": "557px",
-      "wrap": false
-    },
-    "0a026e6db2ffb0f753f14cd1bd0ebd5e": {
-      "position": "center",
-      "width": "430px",
-      "height": "544px",
       "wrap": false
     }
   }
