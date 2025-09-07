@@ -6,6 +6,8 @@ rootdir = '.'
 for subdir, dirs, files in os.walk(rootdir):
     if regex.search(r'\p{IsCyrillic}', subdir):
         for file_name in files:
+            if file_name != 'Оружие.md':
+                continue
             with open(os.path.join(subdir, file_name), encoding='UTF8', mode='r+') as file:
                 changed = False
                 print(file_name)
