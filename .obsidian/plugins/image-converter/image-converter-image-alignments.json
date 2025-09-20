@@ -33,38 +33,6 @@
       "wrap": false
     }
   },
-  "Играбельные расы/Рокборны.md": {
-    "58997e29e83fe6c6bf7a75cb877e2512": {
-      "position": "center",
-      "width": "589px",
-      "height": "521px",
-      "wrap": false
-    },
-    "27d5e4972c3b548d99960f9595ed66b0": {
-      "position": "center",
-      "width": "414px",
-      "height": "414px",
-      "wrap": false
-    },
-    "54a50b192f5ac47cbfe72a6633d2b18d": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d3396e934b2c8f509c4adf1e0aaec229": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d11ebb0dfd8e72af37e4e82caeb82fa8": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Играбельные расы/Иссохшие.md": {
     "46b6a6c659221a6932b93a4d5333f962": {
       "position": "center",
@@ -126,6 +94,32 @@
       "position": "center",
       "width": "256px",
       "height": "392px",
+      "wrap": false
+    }
+  },
+  "Играбельные расы/Рухборны.md": {
+    "3c28cf6cfc38106d67e5efbdb7644753": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a93583109baa60fb9b61372380b7d588": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9f6aba65b73a3bd7c2ac8a14b31e57f2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "229fe900f6ce63fa33ed5e133ca8ce02": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   }
