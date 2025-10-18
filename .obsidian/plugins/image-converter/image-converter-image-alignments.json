@@ -27,38 +27,6 @@
       "wrap": false
     }
   },
-  "Играбельные расы/Рокборны.md": {
-    "58997e29e83fe6c6bf7a75cb877e2512": {
-      "position": "center",
-      "width": "589px",
-      "height": "521px",
-      "wrap": false
-    },
-    "27d5e4972c3b548d99960f9595ed66b0": {
-      "position": "center",
-      "width": "414px",
-      "height": "414px",
-      "wrap": false
-    },
-    "54a50b192f5ac47cbfe72a6633d2b18d": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d3396e934b2c8f509c4adf1e0aaec229": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d11ebb0dfd8e72af37e4e82caeb82fa8": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Играбельные расы/Иссохшие.md": {
     "46b6a6c659221a6932b93a4d5333f962": {
       "position": "center",
@@ -123,28 +91,6 @@
       "wrap": false
     }
   },
-  "Играбельные расы/Энко.md": {
-    "c63f3664ddeedec3ef05b6290b3a0c0a": {
-      "position": "center",
-      "width": "572px",
-      "height": "557px",
-      "wrap": false
-    },
-    "0a026e6db2ffb0f753f14cd1bd0ebd5e": {
-      "position": "center",
-      "width": "430px",
-      "height": "544px",
-      "wrap": false
-    }
-  },
-  "Играбельные расы/Фьорены.md": {
-    "c65f5f1a1408333434984e0249ce8d2c": {
-      "position": "center",
-      "width": "816px",
-      "height": "482px",
-      "wrap": false
-    }
-  },
   "Играбельные расы/Ханамори.md": {
     "0167b459b7526b29b1bff1bc136206fe": {
       "position": "center",
@@ -164,26 +110,6 @@
       "position": "center",
       "width": "",
       "height": "",
-      "wrap": false
-    }
-  },
-  "Играбельные расы/Исэтцу.md": {
-    "535963cec8995087568226b08c5ce50e": {
-      "position": "center",
-      "width": "526px",
-      "height": "444px",
-      "wrap": false
-    },
-    "ae0171fc33969906c4a5cd04d7a053b2": {
-      "position": "center",
-      "width": "528px",
-      "height": "549px",
-      "wrap": false
-    },
-    "c86043ffdc044d770725dc00929728de": {
-      "position": "center",
-      "width": "534px",
-      "height": "342px",
       "wrap": false
     }
   }
