@@ -6,6 +6,12 @@
       "height": "545px",
       "wrap": false
     },
+    "6440dc80aab53b6887bc1175ad189303": {
+      "position": "center",
+      "width": "471px",
+      "height": "426px",
+      "wrap": false
+    },
     "eec3247082b97147c0cccd247fd05ca1": {
       "position": "center",
       "width": "490px",
@@ -70,8 +76,8 @@
   "Играбельные расы/Скорпиды.md": {
     "c4a699716e6106c937cf8eb5ff43b555": {
       "position": "center",
-      "width": "696px",
-      "height": "427px",
+      "width": "669px",
+      "height": "410px",
       "wrap": false
     }
   },
