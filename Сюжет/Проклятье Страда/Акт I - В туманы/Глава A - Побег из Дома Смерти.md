@@ -742,7 +742,7 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 ### Скрытая яма с шипами
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
+This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[Глава A - Побег из Дома Смерти#Well and Cultist Quarters|Well and Cultist Quarters]], read:
 
 >[!info]
 > Лестница ведёт на тихую площадку. Впереди ступени продолжаются вверх и исчезают за поворотом. Справа площадка переходит в одинокий коридор. Этот земляной проход на удивление чист и лишён мусора; в его конце ещё одна лестница уходит во тьму.
