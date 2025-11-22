@@ -370,8 +370,8 @@
 <p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
 </div>
 
 ### Plague of Rats
@@ -737,7 +737,7 @@
   <strong>Saving Throws</strong> Wis +0  <br>
   <strong>Damage Immunities</strong> Poison  <br>
   <strong>Condition Immunities</strong> Poisoned  <br>
-  <strong>Senses</strong> darkvision 60 ft., passive Perception 8  <br>
+  <strong>Senses</strong> darkvision 60 ft., passive Perception 8  <br>
   <strong>Languages</strong> understands the languages it knew in life but can’t speak  <br>
   <strong>Challenge</strong> 1/4
   <hr>
@@ -757,7 +757,7 @@
   <hr>
   <strong>Armor Class</strong> 10 
   <br>
-  <strong>Hit Points</strong> 78 (12d8 + 24)
+  <strong>Hit Points</strong> 78 (12d8 + 24)
   <br>
   <strong>Speed</strong> 30 ft.  
   <hr>
@@ -779,7 +779,7 @@
     </tbody>
   </table>
   <hr>
-  <strong>Damage Resistances</strong> Necrotic<br>
+  <strong>Damage Resistances</strong> Necrotic<br>
   <strong>Damage Immunities</strong> Poison  <br>
   <strong>Condition Immunities</strong> Charmed, Exhaustion, Poisoned  <br>
   <strong>Senses</strong> Darkvision 60 ft., passive Perception 7  <br>
