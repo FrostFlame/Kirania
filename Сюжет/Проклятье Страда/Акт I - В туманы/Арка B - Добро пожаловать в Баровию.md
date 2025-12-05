@@ -124,7 +124,6 @@
 Мужчина - Исмарк Колянович. Ворон - это Муриэль, замаскированная **верворон** и член [[Информация о Баровии#Фракции#Хранители Пера|Хранителей Пера]]. Двое **разведчиков** с легкими арбалетами (+4 к попаданию, дальность 80/320 футов, 6 (1к8 + 2) пронзающего урона) по имени Кереза (ж) и Корга (м) стоят на страже на крышах поблизости, в то время как 6 баровийских **обывателей** ремонтируют баррикаду
 
 > [!profile]+ **Профиль: Исмарк Колянович**
->
 > **Roleplaying Information**
 > ***Резонанс.*** Исмарк должен вызывать лесть своим неподдельным интересом и сочувствием к игрокам, симпатию к его вине и отчаянию, нежность к его стремлению выйти из тени своего предка и благодарность за его дружелюбие и помощь
 >
@@ -233,7 +232,7 @@
 
 - Чуть более 3 месяцев назад группа потенциальных "революционеров" отправилась маршем в замок Равенлофт, чтобы "убить вампира". Дору, сын деревенского священника отца Донавича, "забил им головы сказками" о том, что Туманы рассятся и Солнце вернётся в Баровию
 * Никто из революционеров так и не вернулся. Несколько дней спустя в деревню пришел серокожий эльф и объявил, что у жителей деревни есть 90 дней, чтобы проститься со всем, что им дорого, прежде чем хозиян замка Равенлофт, теперь пробудившийся после столетнего сна, накажет за их неповиновение
-* Некоторые жители деревни уехали. Многие другие хотели уехать. Однако Исмарк произнес громкую речь на деревенской площади перед статуей Исмарка Великого, пообещав жителям деревни, что те, кто остался, будут стоять и защищать свои дома. "Дерзость ублюдка", - усмехается Билдрат. "Стоит перед статуей своего прадеда, как будто он стоит десятой доли его самого"
+* Некоторые жители деревни уехали. Многие другие хотели уехать. Однако Исмарк произнес громкую речь на деревенской площади перед статуей Исмарка Великого, пообещав жителям деревни, что те, кто остался, будут стоять и защищать свои дома. ***"Дерзость ублюдка"***, - усмехается Билдрат. ***"Стоит перед статуей своего прадеда, как будто он стоит хотя бы десятой доли его самого"***
 * Билдрат хотел уехать, но его сестра Марта и ее муж Драгомир решили остаться со своим сыном Парривимплом, вдохновленные словами Исмарка. Не желая покидать свою семью, Билдрат тоже остался. ***"Они решили, что будут сражаться, чтобы защитить то, что принадлежит им"***, - выдыхает он, смаргивая слезы. ***"Чертовы идиоты должны были бежать без оглядки"***
 * Через 90 дней после того, как эльф произнес свое объявление, мёртвые пришли, собравшись в орды десятками из Сваличского Леса. Жители деревни сопротивлялись, защищая улицы баррикадами, мечами и стрелами. ***"Но мертвые продолжали прибывать"***, - прохрипел Билдрат. ***"И Марта—"*** Он замолкает. (Билдрат потерял Марту и Драгомира в результате нападений и обвиняет Исмарка в его неспособности защитить их, в результате чего Парривимпл — племянник Билдрата — остался сиротой)
 
@@ -304,7 +303,7 @@
 >
 > Пожилой мужчина, одетый в изысканную одежду, с редеющими седыми волосами, падающими на затылок, тяжело опирается на трость в дверях. Его живот, лоб и левое колено плотно обмотаны окровавленными бинтами. Рядом с ним стоит молодая девушка с длинными рыжими волосами и стальным нагрудником поверх серой туники с длинными рукавами, ее лицо бледное и напряженное. Рапира в ножнах висит у нее на боку, правая рука покоится на ее сверкающей рукояти
 > 
-> ***"Иди домой, Аленка"***, - гремит мужчина. ***“И вы все тоже. Пока я бургомистр, я не допущу этого безумия"***
+> ***"Иди домой, Алёнка"***, - гремит мужчина. ***“И вы все тоже. Пока я бургомистр, я не допущу этого безумия"***
 
 Женщина с каштановыми волосами - Аленка Константинова, баровийка средних лет **обывательница**. Мужчина постарше - бургомистр Колян Индирович, **ветеран** с 4 [[ДМовские заметки#Истощение|степенями истощения]]. Рыжеволосая молодая женщина - Ирина Коляна
 
@@ -375,794 +374,730 @@
 > [!design]- **Design Note: Толпа**
 > Эта сцена была добавлена, чтобы рассказать игрокам о происхождении Ирины, предвосхитить интерес к ней Страда, задать драматичный вопрос, пока игроки посещают особняк, и расположить к себе Ирину и Коляна перед прибытием Страда во время осады позже той ночью
 
-### Within the Mansion
-This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+### В особняке
 
-If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
-#### Lunch with the Burgomaster
-Lunch, which is already stewing in a pot over the kitchen hearth, is a stew of turnips and rabbit meat. Ireena apologizes for the sparse meal, but the players can clearly see that the family’s pantry is nearly bare.
+>[!info]
+> Внутри, особняк хорошо обставлен, но на балках видны следы износа. В глаза бросаются заколоченные окна и святые символы, расположенные в каждой комнате
 
-During the meal, Kolyan and Ireena ask the players about their interests and lives outside of Barovia. Ireena especially is fascinated by tales of the world beyond the mists. 
+Если игроки помогли разогнать толпу, Колян и Ирина тепло приветствуют их, особенно если игроки упоминают имя Исмарка. Упоминают игроки или нет, что Исмарк предоставил им комнату и питание в поместье, Колян приглашает их остаться на обед в благодарность за помощь в борьбе с Алёнкой
 
-If the players are looking to purchase additional supplies, Ireena offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask her why Ismark is called "the Lesser," Ireena and Kolyan wince, and can share the following information:
+#### Обед с бургомистром
 
-* When Strahd's dusk elf servant—a cruel-looking man named Rahadin—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
-* Ismark, however, delivered a thundering and inspiring speech, invoking the memory of Lugdana and Ismark the Great to encourage them to stay and fight for their homes. Most did so.
-* When Strahd's siege began, many who lost homes or loved ones blamed Ismark, who they felt had led them astray with his foolish fantasies of heroism and valor. They now call him "Ismark the Lesser" in mockery of his ancestry.
-* No one feels more guilty or ashamed than Ismark himself, who has taken the weight of every death incurred in the siege on his own shoulders.
+Обед, который уже тушится в горшочке над кухонным очагом, представляет собой рагу из репы и мяса кролика. Ирина приносит извинения за скудную еду, но игроки отчетливо видят, что семейная кладовая почти пуста
 
-If the players ask about Doru's rebellion, Ireena can share the following information:
+Во время ужина Колян и Ирина расспрашивают игроков об их интересах и жизни за пределами Баровии. Ирина особенно очарована рассказами о мире за пределами туманов
 
-* Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
-* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
-* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
-#### Kolyan’s Dilemma
-During lunch, Kolyan invites the players to help him deliberate on a dilemma he’s been trying to solve, noting that he would find it useful to have “an outside perspective" on the matter. If the players agree to do so, read:
+Если игроки хотят приобрести дополнительные припасы, Ирина подсказывает им, как добраться до магазина Билдрата, но предупреждает, чтобы они не упоминали имя Исмарка. Если игроки спросят ее, почему Исмарка называют "Невеликим", Ирина и Колян поморщатся и могут поделиться следующей информацией:
 
-<div class="description">
-<p>The burgomaster nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
-<p>"Each night," he rumbles, “dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
-</div>
+* Когда 3 месяца назад слуга Страда, сумеречный эльф — жестокий на вид человек по имени Рахадин - передал свое предупреждение, многие баровийцы были готовы бежать из деревни в Валлаки
+* Исмарк, однако, произнес вдохновляющую речь, взывая к памяти Лугданы и Исмарка Великого, чтобы побудить их остаться и сражаться за свои дома. Большинство так и поступило
+* Когда началась осада Страда, многие, потерявшие дома или близких, винили Исмарка, который, по их мнению, ввел их в заблуждение своими глупыми фантазиями о героизме и доблести. Теперь они называют его "Исмарк Невеликий" в насмешку над его происхождением
+* Никто не чувствует себя более виноватым или пристыженным, чем сам Исмарк, который взвалил на свои плечи тяжесть всех смертей, понесенных во время осады
 
-After the players have discussed and answered Kolyan’s question, read:
+Если игроки спросят о восстании Дору, Ирина может поделиться следующей информацией:
 
-<div class="description">
-<p>Kolyan nods. “Interesting. One more thing: Although dozens of the dead attack the village each night, our scouts have reported that hundreds more lurk in the woods around us—perhaps as many as a thousand. If they attacked all at once, we would surely be overrun—and yet, seemingly by the grace of the Morninglord, they have not. Why?</p>
-</div>
+* Дору был их другом и сыном деревенского священника отца Донавича. Он был светлым и жизнерадостным молодым человеком, с солнечным нравом и рвением ко всему, что он делал
+* Чуть более 3 месяцев назад, без предупреждения, Дору объявил крестовый поход против замка Равенлофт, который, как он провозгласил, освободит Баровию от туманов и вернет солнечный свет в долину. Его сопровождали более двух десятков молодых баровийцев, а также ученый из далеких стран по имени Аланик Рэй, который последние несколько недель гостил в доме Исмарка и Ирины, изучая историю и экологию Баровии
+* Ирина мало что помнит об Аланике, кроме того, что он был любопытным, несколько напряженным человеком, который держался особняком, совершал долгие прогулки по Сваличским лесам и держал ручную обезьянку. Однако она помнит, что в какой-то момент у него был яростный спор с Дору, который привел ее в замешательство, когда вскоре после этого он сопровождал Дору в замок Равенлофт
 
-If the players provide a suitably impressive or insightful answer, Kolyan asks if they intend to travel to the other settlements beyond Barovia if they survive the night—namely, Vallaki and Krezk to the west. If the players express an interest in doing so, Kolyan fetches a quill and ink from his writing desk and offers to draft them a signed letter of introduction. When completed, the letter reads as follows:
+#### Дилемма Коляна
 
-<div class="description">
-<p>To whom it may concern,</p>
-<p>I humbly ask that you provide the bearer of this letter with what aid you can. Trust in their purpose, assist in their endeavors, and offer shelter and counsel if you are able. Please extend to them every courtesy you would afford a friend of mine.</p>
-<p>With utmost respect,</p>
-<p>Kolyan Indirovich<br>
-Burgomaster of Barovia</p>
-</div>
+Во время обеда Колян приглашает игроков помочь ему обдумать дилемму, которую он пытается решить, отмечая, что ему было бы полезно взглянуть на этот вопрос “со стороны". Если игроки согласны сделать это, прочтите:
 
-The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
-
-> [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
-#### Rooms at the Mansion
-If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
-
-If the players ask about her parents, Ireena freely shares the following information while asking after the players' own families:
-
-* Ismark and Ireena's mother was Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Ireena wears is her last memory of her mother.)
-* Kolyan, their father, was the one who found Ireena when she was a young girl, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
-
-As the players explore their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
-
-<div class="description">
-<p>In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.</p>
-<p>Their bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn—ravenous creatures with a vampire's hunger for blood.</p>
-<p>These creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of certain holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.</p>
-<p>It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.</p>
-<p>To create a new vampire, a vampire must fully drain the blood of its victim without killing it—a torturous and careful process that can often take multiple nights. For some vampires, this process is a practical means of creating fresh and powerful thralls; for others, it presents a sadistic opportunity to slowly break their victim's will. Some vampires in the latter camp may even appear as an intermittent predator in the night, haunting their target over days or weeks before finally ending their suffering.</p>
-</div>
-
-Kolyan and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
-
-When the players are ready to depart, Ireena retrieves a wooden crate containing twelve *fire bottles* (see below) from a closet, with each bottle packed securely between wads of straw.
-
-> [!item]+ **Fire Bottle**
-> This bottle of Purple Grapemash No. 3, which bears the stamp of the Wizard of Wines winery, has been distilled, increasing its alcohol content, and had its cork removed and replaced with a rag wick. 
+>[!info]
+> Бургомистр кивает в сторону листа пергамента, лежащего на письменном столе. На его поверхности можно разглядеть грубый рисунок местности вокруг деревни, с тонкими линиями, изображающими Старую Сваличскую дорогу и реку Ивлис на юго-западе, и более темными фигурами, изображающими Сваличский лес на севере, западе и юге
 > 
-> As an action, a creature can use a lit torch or other fire source to light the wick, then throw the bottle up to 20 feet, shattering on impact. Make a ranged attack against a creature or object, treating the bottle as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. 
-> 
-> A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+> ***"Каждую ночь***, - грохочет он, ***“десятки мертвецов осаждают нашу оборону, убивая некоторых и раня еще больше. Однако вместо того, чтобы атаковать все сразу, они прибывают группами, причем каждая волна поражает нашу оборону по отдельности и почти беспорядочно в течение ночи. Что вы об этом думаете?"***
 
-> [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[Арка B - Добро пожаловать в Баровию#B5i. The Barovian Church|B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
-## B5e. Bildrath’s Mercantile
+После того, как игроки обсудят вопрос Коляна и ответят на него, прочитайте:
+
+>[!info]
+> Колян кивает. ***“Интересно. И еще одно: хотя десятки мертвецов нападают на деревню каждую ночь, наши разведчики доложили, что в лесах вокруг нас скрываются еще сотни — возможно, до тысячи. Если бы они напали все сразу, мы наверняка были бы захвачены — и все же, по-видимому, по милости Повелителя Утра, им этого не удалось. Почему?"***
+
+Если игроки дают достаточно впечатляющий или проницательный ответ, Колян спрашивает, намерены ли они отправиться в другие поселения за пределами Баровии, если переживут эту ночь, а именно в Валлаки и Крезк на западе. Если игроки выражают заинтересованность в этом, Колян берет со своего письменного стола перо и чернила и предлагает составить им подписанное рекомендательное письмо. По завершении письмо гласит следующее:
+
+>[!info]
+> Для всех, кого это может касаться,
+> Я смиренно прошу вас оказать подателю этого письма посильную помощь. Верьте в их цель, помогайте в их начинаниях и, если можете, предлагайте кров и совет. Пожалуйста, окажите им всю любезность, которую вы могли бы оказать моему другу
+> С глубочайшим уважением,
+> Колян Индирович
+> Бургомистр Баровии
+
+Письмо запечатано восковой эмблемой бургомистра Баровии: длинным мечом на фоне восходящего солнца. Колян признает, что не может обещать, что письмо будет выполнено, отмечая, что прошли “годы" с тех пор, как он посещал какие-либо другие поселения в долине. Однако он клянется, что это должно, по крайней мере, “раскрыть уши" тем, к кому они, возможно, захотят обратиться, таким как барон Варгас Валлакович и леди Фиона Вахтер из Валлаки или бургомистр Дмитрий Крезков из Крезка
+
+> [!item]+ **Рекомендательное письмо**
+> Игроки, которые представят рекомендательное письмо Коляна барону Варгасу Валлаковичу, леди Фионе Вахтер из Валлаки, бургомистру Дмитрию Крезкову из Крезка в течение первых 10 минут после знакомства с ними, их слугами или членами семьи, имеют преимущество при любой **проверке Убеждения**, проведенной в течение этих 10 минут, при условии, что проверка может пройти успешно
+
+#### Комнаты в особняке
+
+Если игроки упоминают предложение Исмарка предоставить им комнаты, Ирина показывает им 2 гостевые спальни особняка и снабжает их основными принадлежностями. ***"Я не могу сказать, сколько вам удастся поспать и когда"***, - извиняющимся тоном говорит она, под ее собственными глазами залегли темные круги. ***"Но, по крайней мере, они должны обеспечить тихое место для отдыха"***
+
+Если игроки спрашивают о ее родителях, Ирина свободно делится следующей информацией, спрашивая о семьях самих игроков:
+
+* Матерью Исмарка и Ирины была Корина Тарголова. Корина умерла от болезни 14 лет назад, но с тех пор Колян делал все возможное, чтобы продолжать растить обоих детей в одиночку. (Шарф, который носит Ирина, - ее последнее воспоминание о матери)
+* Колян, их отец, был тем, кто нашел Ирину, когда она была маленькой девочкой, на опушке Сваличского леса, недалеко от Колонного камня Равенлофта. Ирина ничего не помнит из своего прошлого до этого, но благодарна своим родителям за то, что они приняли ее и нежно любили
+
+Пока игроки исследуют свои комнаты, один из них находит вырванный отрывок из **"Руководства Ван Рихтена по вампирам"** доктора Рудольфа ван Рихтена, лежащий на ночном столике у кровати. Этот отрывок из предисловия, которое Ван Рихтен вырвал из книги Дору в разгар яростного спора, гласит следующее:
+
+>[!info]
+> В некоторых затененных уголках мира вампир правит как грозный хищник. Помимо простой жажды крови, эти существа наделены целым рядом способностей и слабостей, которые делают их столь же загадочными, сколь и устрашающими
+>
+> Их тела устойчивы к обычному оружию, они выдерживают удары, которые свалили бы большинство смертных, и заживляют даже тяжелые раны в считанные мгновения. Они двигаются с неестественной грацией, их чувства обострены так, что они услышат даже шёпот в ночи. Но их истинный ужас заключается в их сверхъестественных способностях. Они могут подчинять волю других своей собственной, заманивая в ловушку друзей и врагов одним лишь взглядом и шёпотом. Они могут менять форму с легкостью мысли, превращаясь в летучих мышей, волков или даже в зловещий туман, который ползет под дверными проемами и сквозь щели. И те, кого убивают их клыки, становятся порождениями вампиров — прожорливыми существами с вампирской жаждой крови
+>
+> Однако эти существа не являются полностью неуязвимыми, обладая гобеленом сильных сторон, сотканным из фатальных слабостей. Солнечный свет и текущая вода могут положить конец их проклятому существованию, а деревянные колья, вонзенные в сердце, парализуют их во время сна. Они шарахаются от вида определенных святых символов и не могут войти в жилище без приглашения. Они не отбрасывают ни тени, ни отражения и должны возвращаться в свои гробы, склепы или могилы, чтобы отдохнуть днём
+>
+> Говорят, что жажда крови этих существ - неугасимый огонь, который горит в их мёртвых сердцах. Молодые и только что обращенные являются рабами этой жажды, часто впадая в неистовство при одном только запахе крови. Но те, кто веками ходил в ночи, а также те, кто обладает неукротимой сосредоточенностью и волей, могут научиться усмирять этот огонь. Те, кто делает это, обладают редкой способностью скрывать свою чудовищную природу, втягивая и обнажая свои клыки по желанию — признак того, что внутреннее чудовище сдерживается, хотя бы пока вампир позволяет
+>
+> Чтобы создать нового вампира, вампир должен полностью выпить кровь своей жертвы, не убивая ее — мучительный и тщательный процесс, который часто может занимать несколько ночей. Для некоторых вампиров этот процесс является практическим средством создания новых и сильных рабов, для других он предоставляет садистскую возможность медленно сломить волю своей жертвы. Некоторые вампиры из второй группы могут даже периодически появляться в виде хищников по ночам, преследуя свою жертву в течение нескольких дней или недель, прежде чем, наконец, положить конец ее страданиям
+
+Колян и Ирина не узнают отрывок, но Ирина вспоминает, что у Дору был экземпляр **"Руководства Ван Рихтена по вампирам"**, которое он очень любил. Никто из них точно не знает, как этот отрывок оказался в их комнате для гостей
+
+Когда игроки готовы уйти, Ирина достает из шкафа деревянный ящик с 12 *огненными бутылками*, каждая бутылка надежно упакована между пучками соломы
+
+> [!item]+ **Огненная бутылка**
+> Эта бутылка Фиолетового виноградного пюре № 3, на которой стоит клеймо винодельни Винный волшебник, была подвергнута дистилляции с повышением содержания алкоголя, после чего пробка была удалена и заменена тряпичным фитилем
+>
+> **Действием** существо может использовать зажженный факел или другой источник огня, чтобы поджечь фитиль, затем подбросить бутылку на расстояние до **20 футов**, разбивающуюся при ударе. Совершите **дальнобойную атаку**, используя бутылку как [[Оружие#Импровизированное оружие|импровизированное оружие]]. При попадании цель получает **1к4 урона огнём в начале каждого хода**
+>
+> Существо может прекратить нанесение этого урона, используя **действие** для **проверки Ловкости Сл 10**, чтобы погасить пламя
+
+> [!abstract]+ **Посещение церкви**
+> Игроки, которые настаивают на посещении **E5. Церкви** находят её в основном такой, как описано в [[#B5i. Баровийская церковь]] ниже. Однако Парривимпла в это время нет в церкви, и отец Донавич не упоминает о судьбе Дору в отсутствие Ирины или Исмарка
+
+## B5e. Лавка Билдрата
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[Арка B - Добро пожаловать в Баровию#B5f. The Eastern Barricade|B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Если игроки захотят посетить её, прежде чем перейти к [[#B5f. Восточная баррикада]], эта область в значительной степени соответствует описанию:
 
-If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
+>[!info]
+> Тусклый свет из этого здания пробивается из-за задёрнутых тяжёлых штор. Знак со скрипом покачивающийся над дверью гласит «Лавка Билдрата». Заведение имеет 70 футов в длину и 40 в ширину
 
-During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
+Билдрат торгует товарами, приведенными в таблице Снаряжение из *Книги игрока*, но у него есть только товары, стоимость которых в таблице не превышает 25 зм, и цена у него в 2 раза выше цены из таблицы, ссылаясь на недавние экономические потрясения
 
-If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
-## B5f. The Eastern Barricade
-### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Если кто-либо из игроков был добр к нему в таверне, он вместо этого продает этим игрокам предметы по обычной цене, указанной в *Руководстве игрока* - специальное предложение только для них. Если кто-либо из игроков защищал Исмарка в таверне, Билдрат сердито смотрел на них и вместо этого продавал этим игрокам предметы в 5 раз дороже, чем указано в *Руководстве Игрока*, злобно заявляя, что это “специальная сделка" для друзей “великого героя города"
 
-When the players first encounter Parriwimple, read:
+Во время разговора игроков с Билдратом в комнату входит Парривимпл с коробкой товаров, которую Билдрат попросил его принести. Ему очень любопытны игроки, но Билдрат приказывает ему вернуться в свою спальню, чтобы “не беспокоить посетителей"
 
-<div class="description">
-<p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
-</div>
+Статблок Парривимпла - берсерк
 
-Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
+Если Билдрат приказывает Парривимплу убрать игроков из магазина, Парривимпл пытается схватить их и вытащить за дверь, предпочитая по возможности избегать насилия
 
-> [!profile]+ **Profile: Parriwimple**
+![[Bildrath_And_Parriwimple_transparent.png]]
+
+## B5f. Восточная Баррикада
+### Подготовка Баррикады
+
+Вскоре после возвращения к баррикаде у восточного входа в деревню игроков встречают Билдрат и Парривимпл. Однако у Парривимпла статистика **берсерка** с копьем (+5 к попаданию, дальность **5 футов**. *Удар:* **6 (1к6 + 3) колющего урона**) вместо большого топора. Билдрат также носит легкий арбалет (+2 к попаданию, дальность **80/320 футов**. *Попадание:* **4 (1к8) колющего урона**)
+
+Когда игроки впервые столкнутся с Парривимплом, прочитайте:
+
+>[!info]
+> Рядом с Билдратом стоит неуклюжая фигура — молодой человек, высокий и мускулистый. Его лохматые каштановые волосы в беспорядке падают на лицо, а кривые зубы сверкают в сером свете. Хотя мускулы перекатываются под его туникой, в его осанке есть легкость и незрелость, которые противоречат его силе и размерам. Он теребит подол своей туники, когда ваш взгляд падает на него
+
+Билдрат приветствует игроков тепло или холодно, в зависимости от их общения в таверне "Кровь вина" и (если они посещали его там) в "Лавке Билдрата". Независимо от характера Билдрата, Парривимпл рад встретить новых друзей
+
+> [!profile]+ **Профиль: Парривимпл**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
+> ***Resonance.*** Парривимпл должен вызывать сочувствие к потере своих родителей, нежность за его детские манеры и оптимистичную настойчивость, а также лесть за его впечатлённость экзотическим оружием и одеждой игроков
 >
-> ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
+> ***Emotions.*** Парривимпл чаще всего испытывает любопытство, надежду, удивление, меланхолию и замешательство
 >
-> ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
+> ***Motivations.*** Парривимпл хочет помогать своим друзьям и соседям, заботиться о своем дяде Билдрате и чтить память своих покойных родителей
 >
-> ***Inspirations.*** When playing Parriwimple, channel Lenny Small (*Of Mice and Men*) and Forrest Gump (*Forrest Gump*).
+> ***Inspirations.*** Играя Парривимпла, играйте Форреста Гампа (*Forrest Gump*)
 >
 > **Character Information**
-> ***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
+> ***Persona.*** Для всего мира Парривимпл - жизнерадостный, простодушный молодой человек. Для тех, кому он доверяет, Парривимпл - вдумчивый, проницательный, но скорбящий сирота, отчаянно пытающийся пережить смерть своих родителей, доказав свою полезность другим
 >
-> ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
+> ***Morale.*** В бою Парривимпл поднимет руки и начнёт молить о мире. Однако, если его проигнорируют, он быстро использует свою силу, чтобы сдержать любых дерущихся — с праведной яростью, если защищает своего дядю Билдрата
 >
-> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+> ***Relationships.*** Парривимпл - сирота и племянник владельца магазина Билдрата Кантемира
 
-Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
+Билдрат рад видеть, что игроки получили *огненные бутылки*. Он может сообщить игрокам, что им поручено защищать восточную баррикаду от любых небольших групп нежити, которые могут бродить вокруг деревни, вместо того чтобы атаковать с севера, юга или запада
 
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
+Если кто-либо из игроков отнесся к нему по-доброму в таверне "Кровь вина" или лавке Билдрата, Билдрат поручает Парривимплу подарить им ящик с 2 мешками подшипников, 2 мешками колючек, 10 железными шипами и 3 флягами масла из его магазина, которые будут использованы при подготовке баррикады к осаде. Билдрат также направляет игроков к паре 3-метровых лестниц прибитых к одному из домов поблизости, которые могут позволить бойцам дальнего боя подняться на крышу дома. Наконец, Билдрат инструктирует Парривимпла подчиняться инструкциям этих игроков, как если бы они были его собственными
 
-> [!info]+ **The Barricade**
-> The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
->
-> Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
+> [!info]+ **Баррикада**
+> Баррикада, которую игрокам поручено защищать, представляет собой сооружение длиной 30 футов и высотой 6 футов из бревен, сложенной мебели и прибитых деревянных досок. Каждая секция баррикады длиной в **5 футов** имеет **КД 15**, **10 хитов** и иммунитет к колющему, психическому урону и ядом
+> 
+> Деревянные платформы, разбросанные по западной стороне баррикады, позволяют защитникам выглядывать через край и атаковать приближающихся врагов. Находясь за баррикадой, защитники [[ДМовские заметки#Полное укрытие|полностью]] или на [[ДМовские заметки#Укрытие на 3/4|3/4 укрыты]], стоя на платформе
 
 ![[Eastern-Barricades.jpg]]
-<span class="credit">"The Eastern Barricade" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/ef507db2df">here!</a></span>
-### The Siege
-Dusk falls soon after the players complete their preparations. Read:
 
-<div class="description">
-<p>As the last shades of light fade from the sky, an eerie silence descends upon the village. A chill wind whispers through the streets, carrying with it the faint scent of decay as the leaves of the Svalich Woods rustle in the distance.</p>
-<p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
-</div>
+### Осада
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
+Сумерки наступают вскоре после того, как игроки завершают свои приготовления. Прочитайте:
 
-> [!info]+ **A Moonless Night**
-> At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick fog rolls in with the undead up to the area of illumination, preventing defenders with darkvision from seeing any approaching creatures early.
+>[!info]
+> Когда в небе меркнут последние отблески света, на деревню опускается жуткая тишина. Холодный ветер шепчет по улицам, неся с собой слабый запах разложения, а вдалеке шелестит листва Сваличского леса
+> 
+> Леденящий кровь вой пронзает ночь, за ним следует второй, а затем и третий. Какофония нечеловеческих воплей и стонов становится громче, эхом разносясь со всех сторон, далекий лес, кажется, оживает
 
-> [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
+Если он присутствует, лицо Билдрата становится мрачным, и он крепко сжимает свой арбалет. ***“Начинается"***, - бормочет он, когда шум снова затихает в холодной ночи. Парривимпл решительно кивает, крепче прижимая копье к груди
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
+> [!info]+ **Безлунная ночь**
+> Ночью факелы, установленные с интервалом в десять футов вдоль баррикады, освещают окружающую территорию на расстоянии **40 футов**. В ночь осады густой туман накатывает вместе с нежитью до зоны освещения, не позволяя защитникам с темным зрением увидеть приближающихся существ раньше времени
+
+> [!abstract]+ **Держа оборону**
+> Если зомби успешно прорываются через баррикаду, Парривимпл пытается удержать место прорыва своим копьем, но он благодарен за любую помощь, которую могут оказать игроки
+
+> [!info]+ **Стойкость нежити**
+> Измените способность **зомби** и **замби разносчика чумы** ***стойкость нежити*** следующим образом:
 >
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
-
+> * ***Стойкость нежити (1/день).*** Если урон уменьшает **хиты** зомби до **0**, то вместо этого количество жизней зомби уменьшается до **1**. Зомби не может использовать эту способность, если нанесен **урон излучением** или **критический удар**, если полученный **урон равен 15** или более, или если у него остался всего **1 хит**
   
-> [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 2 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
-> * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
-> * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> [!combat]- **Балансировка осады** 
+> Благодаря механике волн, это боевое столкновение представляет собой серию из 2 последовательных **легких** боевых столкновений и третьего **кровавого** боевого столкновения против группы из 4 игроков 3-го уровня, союзника CR 0 (Билдрат) и союзника CR 2 (Парривимпл), первый из которых израсходует примерно 15% от их общего количества максимальных хитов, второй - примерно 17% от их общего количества максимальных хитов, а третий - примерно 34% от их максимального количества хитов (в общей сложности 66% от их максимального количества хитов)
+> * **4 игрока**. Уменьшите количество зомби в первой волне до 5. Уменьшите количество зомби во второй волне до 1. Замените упыря в третьей волне 3 зомби
 
-***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
+***Первая волна.*** Вскоре после наступления темноты 5 **зомби** появляются из темноты и приближаются к баррикаде. Прочитайте:
 
-<div class="description">
-<p>Six figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
-</div>
+>[!info]
+> 5 фигур ковыляют к баррикаде, белки их глаз сверкают в свете факелов. Их низкие, гортанные стоны эхом разносятся по ночи, их гниющие руки протянуты к вам
 
-In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their **slam** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
+В бою зомби сосредотачивают свои атаки на баррикаде, пытаясь разрушить ее своими **ударами**. Как только зомби пробивают брешь в баррикаде, они пытаются прорваться через нее, атакуя любых защитников, которые встают у них на пути
 
-***The Second Wave.*** At the beginning of the third round of combat after the first wave arrives, two additional **zombies** emerge from the darkness, joined by two **ghouls**. Read:
+***Вторая волна.*** В начале 3-го раунда боя после прибытия первой волны из темноты появляются еще **1 зомби**, к которому присоединяются 2 **упыря**. Прочитайте:
 
-<div class="description">
-<p>Two more zombies shamble from the gloom, flanked by a pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes. These ghouls move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night.</p>
-</div>
+>[!info]
+> Еще 1 зомби ковыляет из мрака, окруженный парой изможденных, по-звериному выглядящих гуманоиднов с острыми, как бритва, когтями и голодными, горящими глазами. Эти упыри двигаются с хищной грацией, их безгубые рты обнажают ряды заостренных зубов, когда они издают пронзительный вой, который эхом разносится по ночи
 
-The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
+Зомби снова пытается разрушить баррикаду, в то время как упыри пытаются перелезть через нее, используя свои когти
 
-***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
+***Третья волна.*** В начале 7 раунда боя, после прибытия первой волны, **3 зомби** и **зомби распространитель-чумы** подходят к баррикаде. Прочитайте:
 
-<div class="description">
-<p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
-</div>
+>[!info]
+> 3 мертвеца выходят из темноты, а за ними ещё один, отличающийся. Одинокий мертвец медленно ковыляет из темноты, его белые глаза тускло смотрят сквозь мерцающий свет факелов. Его плоть, хотя и гниющая, гладкая, болезненно-белая, под его кожей надуты выступающие багровые вены. Облачко красноватого тумана непрерывно вырывается из его пасти и опускается на окровавленную землю, прежде чем рассеяться в воздухе
 
-> [!info]+ **The Plague Spreader**
-> Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature. 
+> [!info]+ **Распространитель чумы**
+> Увеличьте хиты **распространителя чумы** до **130**, уменьшите **некротический урон**, наносимый его ***ударом***, до 5 (1к8) и уменьшите урон, наносимый его ***ядовитыми миазмами***, до 7 (2к6) урона ядом на существо
 >
-> In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
+> Измените его действие ***заразные миазмы*** таким образом, чтобы гуманоид, у которого количество хитов уменьшено до **0**, не умирал автоматически, а воскресал как **зомби**, только если он умрет до стабилизации или восстановления хитов. Сл стабилизации существа, уменьшенного таким образом до 0 хитов, увеличивается до 20
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+Распространитель чумы сначала приближается к игрокам как можно ближе, затем выпускает свои ***ядовитые миазмы***, пытаясь поразить как можно больше существ. (Если возможно, постарайтесь добиться того, чтобы миазмы поразили Билдрата, чтобы убедиться, что игроки понимают природу его атаки. Ни Билдрат, ни Парривимпл раньше не видели и не слышали о зомби разносчике чумы, и оба ничего не знают о вирусе, который он переносит.) После того, как разносчик чумы использует свои миазмы, красный туман перестает вырываться у него изо рта
 
-Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
-## B5g. The Western Barricade
-### The Raven’s Guidance
-Shortly after the players dispatch the final wave, the **wereraven** Muriel appears to them in **raven** form. Read:
+## B5g. Западная Баррикада
+### Руководство ворона
 
-<div class="description">
-<p>A small, dark silhouette plunges from the skies above, resolving into the form of a familiar raven, its blue-tipped wings flashing in the torchlight. Its eyes are wide and panicked, and an urgent, desperate shriek sounds repeatedly from its wide-open beak.</p>
-</div>
+Вскоре после того, как игроки отбивают финальную волну, **верворон** Муриэль появляется перед ними в облике **ворона**. Прочитайте:
 
-Although she can’t speak in raven form, Muriel attempts to nonverbally alert the players that the western barricade has fallen, pulling their hair and clothes toward the town square. If the players don’t immediately follow, read:
+>[!info]
+> Маленький темный силуэт спускается с небес и принимает форму знакомого ворона, его крылья с голубыми кончиками сверкают в свете факелов. Его глаза широко раскрыты и полны паники, а из широко раскрытого клюва постоянно доносится настойчивый, отчаянный крик
 
-<div class="description">
-<p>You hear terrified shouts in the distance, and the sound of crunching wood.<p>
-</div>
+Хотя Муриэль не может говорить в облике ворона, она пытается невербально предупредить игроков о том, что западная баррикада пала, таща их за волосы и одежду в сторону городской площади. Если игроки не последуют немедленно, прочтите:
 
-### Ismark’s Last Stand
-If the players follow her, Muriel guides them west toward the town square, then leads them through a series of alleyways behind and around the Blood of the Vine tavern, finally emerging on the north side of the street just west of the town square. When the players arrive, read:
+>[!info]
+> Вдалеке вы слышите испуганные крики и звук трещащего дерева
 
-<div class="description">
-<p>Dozens of bodies litter the street, bloody and unmoving. The air is thick with the pungent scent of rot and death, and the howling wind sings with the sound of terrified screams.</p>
-<p>The barricade protecting the town square has been shattered, its splintered remains surrounded by a mound of corpses nearly six feet high. In the square, children scream as the elderly and infirm watch with muted horror.</p>
-<p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
-</div>
+### Битва Исмарка
+
+Если игроки следуют за ней, Муриэль ведет их на запад, к городской площади, затем ведет по ряду переулков позади таверны "Кровь вина" и вокруг нее, наконец, выходя на северную сторону улицы к западу от городской площади. Когда прибудут игроки, прочтите:
+
+>[!info]
+> Десятки тел усеивают улицу, окровавленные и неподвижные. Воздух насыщен резким запахом гнили и смерти, а завывающий ветер наполнен криками ужаса
+> 
+> Баррикада, защищавшая городскую площадь, была разрушена, ее обломки окружены насыпью из трупов высотой почти 2 метра. На площади кричат дети, а старики и немощные наблюдают за происходящим с приглушенным ужасом
+> 
+> Факелы на западе погасли, западные защитники города бежали - или были убиты. Только одна фигура остается стоять: Исмарк в разорванной и окровавленной одежде, с длинным мечом в левой руке и коротким в правой. В 20 футах от него стоит бледнокожий зомби, его плоть гладкая, болезненно-белая, с выпирающими багровыми прожилками. Его глаза тускло смотрят в сторону палаток на городской площади за ними, и, когда облачко красноватого тумана мягко вырывается из его разинутой пасти, он делает неуклюжий шаг вперед
 
 ![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
 
-<span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
+Исмарк, **хиты** которого уменьшены до **40**, приветствует любую помощь, которую игроки могут оказать против разносчика чумы. Если опущен до **30 хитов** или менее, Исмарк препятствует разносчику чумы напрямую, выполняя **действие Уклонение** в каждый из своих ходов, надеясь задержать его, предоставляя игрокам достаточно времени, чтобы победить его
 
-
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
-
-The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[Арка B - Добро пожаловать в Баровию#The Siege|The Siege]], won’t use its ***virulent miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
+Разносчик чумы, который начинает в **120 футах** от центра городской площади и имеет те же модификации, что и разносчик чумы в [[#Осада]], не будет использовать свои ***ядовитые миазмы***, пока не достигнет центра городской площади или не опустится до **30 хитов** или меньше. Каждый раунд он пытается двигаться на полной скорости по прямой к городской площади. Если это ему не удается, он использует свою ***мультиатаку***, чтобы атаковать любых существ в пределах досягаемости. (Разносчик чумы не пытается обходить мешающих ему существ, даже если это может позволить ему добраться до места назначения)
   
-> [!combat]- **Balancing the Town Square** 
-> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
-> * **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
-> * **Six Players**. Add one zombie fighting alongside the plague spreader.
+> [!combat]- **Балансирование на Городской площади**
+> Это боевое столкновение является **легким** боевым столкновением против группы из 4 игроков 3-го уровня и союзника CR 3 (Исмарк Колянович), и на него будет израсходовано примерно 16% от их общего максимального хитов
+> * **4 игрока**. Уменьшите хиты зомби разносчика чумы до **112** и уменьшите **некротический урон** от его **невооруженных ударов** до **1к6**
 
-> [!info]+ **Dying NPCs**
+> [!info]+ **Умирающие NPCs**
 >
-> As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Ismark Kolyanovich and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
-### Rahadin’s Proclamation
-Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
+> Союзные неигровые персонажи, такие как Исмарк Колянович и любой другой NPC, сражающийся бок о бок с игроками, должны упасть без сознания, если их **хиты** уменьшатся до **0**. Когда они это делают, они следуют тем же правилам **спасбросков от смерти**, что и персонажи игроков
 
-<div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it trail a dozen shambling undead, flanking the horseman with six to a side.</p>
-<p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
-<p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
-</div>
+### Провозглашение Рахадина
 
-This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
+Вскоре после того, как игроки побеждают разносчика чумы, одинокий всадник в окружении 12 **зомби** приближается к городской площади с запада. Прочитайте:
 
-<div class="description">
-<p>"Five score and seven days past, this people rose in unlawful rebellion against Strahd von Zarovich, Count of Barovia, Master of Castle Ravenloft, and Protector of the Balinok Mountains. For this treasonous act, this settlement has been met with righteous punishment, so that its inhabitants might learn the weight of their defiance.</p>
-<p>"Witnessed by the eyes of the dead and damned, this price has been extracted in blood, common and noble alike. Let it be known that on this day, the mercy of Strahd von Zarovich extends once more unto those who return to their fief and field—while those who continue in their folly shall be swept away as chaff before the wind."</p>
-</div>
-
-If not prevented, Rahadin searches the crowd, his gaze finally settling on Ismark. Leaving the undead behind, he approaches Ismark on horseback. 
-
-As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
-
-<div class="description">
-<p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
-<p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
-</div>
-
-The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
-
-Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
-
-Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
-
-> [!abstract]+ **The Players Challenge Rahadin**
-> Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
->
-> If grappled, restrained, or attacked, Rahadin first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, Rahadin swiftly and efficiently dispatches them. 
->
-> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following <span class="citation">Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)</span>: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
-
-<div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
-<hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
-</div>
-<br>
-
-<div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
-<hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-</div>
-
-## B5h. Return to the Mansion
-### Strahd’s Aftermath
-If the players follow Ismark to the burgomaster’s mansion, they find its grounds abandoned and the front door ajar. Upon arriving, Ismark rushes inside, shouting for his father and Ireena.
-
-Ismark and the players can find Kolyan and Ireena in the first-floor parlor. Read:
-
-<div class="description">
-<p>A red pool surrounds the burgomaster’s unmoving form, his glassy eyes staring unseeing toward the ceiling as blood drips from a long, elegant slash across his chest. Not far away, Ireena lies crumpled across the carpet beneath a boarded-up window, its ragged curtains drifting lazily in the cold wind.</p>
-</div>
-
-Upon arriving, Ismark lets out a strangled cry of anguish, and immediately descends to cradle his father’s head in his hands.
-
-Kolyan is obviously dead. A player who inspects Ireena and checks her breath or pulse finds that she is alive, but pale and weak, with two bloody puncture wounds piercing the flesh of her neck.
-
-Shortly after the players arrive, Ireena stirs awake, shrieking in despair when she sees her father’s corpse. If asked, she can share the following information, though she readily admits that her memory is hazy:
-
-* As the siege progressed, she returned to the manor to retrieve a fresh quiver of crossbow bolts. As she returned to the door, she heard her father inviting someone to enter their home. (“Father’s voice sounded strange," she whispers, holding her arms to her chest. “He was calm—too calm—like someone else was speaking for him.")
-* Though she doesn’t remember who the visitor was, she remembers a tall, gaunt silhouette; a deep, resonant voice; and a set of burning, hypnotic red eyes.
-* The voice—a man’s—spoke to her, and her memory went blank. She remembers feeling a sudden, sharp pain on her neck, followed by the sound of her father shouting. As she fell into unconsciousness, she recalls hearing the voice murmur, “We shall meet again."
-
-Ireena is horrified by her father’s death and the prospect that their home was visited by the Devil, Strahd von Zarovich. She is bewildered as to why Strahd might kill her father but spare her, and is deeply disturbed by the prospect that she is somehow responsible for Kolyan’s fate.
-
-Once the players have sufficiently comforted the siblings, Ismark exhaustedly asks the players to remain at the mansion with Ireena while he returns to the town square to ensure that any wounded Barovians are cared for. “We will see to our father’s burial tomorrow," he adds, quietly. "And if you can—try to get some sleep. You've more than earned it."
-### The Argument
-Ismark returns to the manor shortly before midnight. Shortly thereafter, any players who remain awake, or who have a passive Wisdom (Perception) of 15 or greater, overhear a muffled argument from the kitchen below. 
-
-The players can eavesdrop on this conversation with a successful DC 13 Dexterity (Stealth) check or a successful DC 15 Wisdom (Perception) check. Read:
-
-<div class="description">
-<p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
-<p>Ireena's voice, sharp with indignation, pierces the silence. "You have no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
-<p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
-<p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
-<p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village this morning. Alone."</p>
-<p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
-<p>"Her mother thinks she went to Vallaki—she was convinced that help from Vallaki is the only way to end our suffering," Ismark murmurs.</p>
-<p>There's a long, suffering silence. Then—</p>
-<p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
-<p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
-<p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
-<p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
-</div>
-
-Ismark and Ireena ascend the stairs a few moments later. A player with a passive Wisdom (Insight) score of 10 or more notices that both have blotchy, red eyes, as if from crying.
-
-If confronted, Ismark can reluctantly share the following information:
-
-* He no longer believes that Barovia, surrounded by suspicious neighbors and in the shadow of the Devil’s keep, is safe for Ireena.
-* Instead, Ismark intends for Ireena to travel to Vallaki, a fortified town to the west. St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead.
-
-When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
-### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
-
-When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
-
-***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
-
-Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
-
-> [!warning]+ **Clarifying Expectations**
+>[!info]
+> Вы слышите звук шагов копыт, хлюпающих по грязи. Из тени на западной дороге появляется человек в плаще верхом на пепельно-серой лошади с тусклыми, затененными глазами. За ним плетется дюжина неуклюжих мертвецов, по бокам от всадника по 6 с каждой стороны
 > 
-> *Curse of Strahd: Reloaded* is a campaign about heroes. It's also a campaign about making allies, and the bonds and strength that grow from those alliances.
+> Мерцающий свет факелов окрашивает черты мужчины в ярко-оранжевые и красные тона, открывая высокую, гибкую фигуру со смуглым цветом лица и длинными чёрными волосами, ниспадающими ниже его шеи. На его плечи наброшен легкий плащ, отороченный густым белым мехом, а руки прикрыты перчатками из мягкой черной кожи. Темно-синяя туника, отделанная бронзовой нитью, видна под слоем прочной, но гибкой кожаной брони, а в ножнах на поясе у него висит изогнутая сабля, а выше неё на спине закреплена пара скимитаров
 > 
-> As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
+> Его уши резко заостряются кверху, превращаясь в эльфийские заостренные уши, а в его темных карих глазах читается спокойная осведомленность и небрежный, почти хищный взгляд, когда они медленно осматривают окружающую обстановку. Длинный, ужасный шрам пересекает его лоб, как раз над тем местом, где морщины начали отмечать его лицо с возрастом, а губы растянуты в тонкую, постоянно нахмуренную гримасу
 
-***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
+Это Рахадин верхом на своем *фантомном скакуне*. Остановившись на краю городской площади, он достает из-под плаща свиток и разворачивает. Если его не прерывают, он начинает читать из нее, и его звучный голос разносится по площади:
 
-Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
+>[!info]
+> ***"10 десятков и 7 дней назад этот народ поднял незаконное восстание против Страда вон Заровича, графа Баровии, хозяина замка Равенлофт и Защитника гор Балинок. За это предательство это поселение понесло справедливое наказание, чтобы его жители могли осознать всю тяжесть своего неповиновения"***
+> 
+> ***"Глаза мертвых и проклятых свидетели, что эта цена была уплачена кровью, как простой, так и благородной. Да будет известно, что в этот день милость Страда вон Заровича снова распространяется на тех, кто вернётся в свои владения и на поля, в то время как те, кто продолжит своё безумие, будут сметены, как пепел на ветру"***
 
-If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
+Если не помешать, Рахадин обыскивает толпу, его взгляд, наконец, останавливается на Исмарке. Оставив нежить позади, он приближается к Исмарку верхом на лошади
 
-The players have one round to kill the rat as it scurries toward a large hole in the kitchen wall. If they fail to do so, Ireena skewers it with her rapier before it can do so, recognizing it as one of Strahd's spies.
+Когда Рахадин приближается к игрокам (или наоборот), игроки могут слышать звуки его ***смертного хора.*** Прочитайте:
 
-***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
-## B5i. The Barovian Church
+>[!info]
+> Это начинается как глухой рёв — звук на краю вашего осознания, подобного шуму океана о берег. Однако по мере его приближения приглушенный звук становится все более настойчивым, усиливаясь и нарастая сам по себе, пока не превращается из более безобидного звука, почти похожего на волны, в поток криков
+> 
+> Ваши уши наполняет какофония из тысячи голосов, умоляющих, страдающих, умирающих: психический натиск, который обрушивается на ваш разум со всех сторон, не оставляя места для размышлений. Мужчина, однако, остается непоколебимым — его, по-видимому, не беспокоит симфония криков, которая его окружает
+
+Игроки могут заметить, что любые другие баровийцы в радиусе 10 футов от Рахадина кажутся такими же встревоженными. (Ни один баровиец за пределами 10 футов не может слышать криков.) Когда Рахадин заговаривает, крики несколько стихают — достаточно, чтобы его и других было слышно, — но приобретают заметный оттенок страха
+
+Подойдя к Исмарку, Рахадин бегло осматривает его, затем холодно заявляет: ***“Пожалуйста, примите мои поздравления с вашей новой должностью и соболезнования в связи с вашей утратой"***. Если ему не помешают, он разворачивает свою лошадь и покидает деревню, снова преследуемый 12 **зомби**
+
+Первоначальное провозглашение Рахадина оставляет Исмарка застывшим с каменным лицом, но его последующее приветствие оставляет Исмарка контуженным и застывшим. Вскоре после того, как Рахадин уходит, Исмарк, кажется, осознает весомость слов Рахадина, издает пронзительный бессловесный крик и бежит к особняку бургомистра. (Если присутствует Парривимпл, он призывает игроков следовать за Исмарком)
+
+> [!abstract]+ **Игроки бросают вызов Рахадину**
+> [[Рахадин]] мало интересуется игроками. Если ему бросают вызов, он просто заявляет, что осада была “волей Страда", и сообщает игрокам, что “не им подвергать сомнению действия тех, кто стоит выше вас". Если спросить, кто он такой, он скажет только, что он Рахадин, камергер замка Равенлофт и смиренный слуга Страда вон Заровича
+> 
+> Если [[ДМовские заметки#Захват|схвачен]], [[ДМовские заметки#Опутанный|опутан]] или атакован Рахадин сначала приказывает им ***"прекратить свои глупости"***, отмечая, что ***“в духе милосердия ночи и в свете их чуждой природы"*** он не прочь закрыть глаза на их неповиновение в этом единственном случае. Если вмешивающийся игрок продолжает свое вмешательство, Рахадин быстро и эффективно избавляется от него
+>
+> Как только мешающий игрок теряет сознание, Рахадин использует рукоять своей сабли, чтобы ударить его по запястью, колену или ребрам, временно вызывая у этого игрока последствия одной из следующих **Затяжных травм**: **Потеря руки**, **Потеря ноги** или **Внутренняя травма**. Эта травма сохраняется до тех пор, пока игрок не завершит 2 продолжительных отдыха
+
+- Потеря руки: Вы больше не можете ничего держать двумя руками, и теперь можете держать одновременно только один предмет
+- Потеря ноги: Ваша **скорость хождения ногами уменьшена вдвое**, и вы обязаны использовать посох или клюку, чтобы перемещаться, если у вас нет деревянной ноги или другого протеза. После **действия Рывок** вы [[ДМовские заметки#Опрокинутый|падаете ничком]]. Вы совершаете **с помехой проверки Ловкости**, совершённые для сохранения равновесия
+- Внутренняя травма: Каждый раз, когда вы в бою пытаетесь совершить **действие**, вы должны совершать **спасбросок Телосложения Сл 15**. При **провале** вы **теряете Действие** и **не можете совершать _реакции_ до начала своего следующего хода**. Травма исчезает после **магического лечения** или если вы проведёте 10 дней, ничего не делая кроме отдыха
+
+## B5h. Возвращение в особняк
+### Последствия Страда
+
+Если игроки последуют за Исмарком в особняк бургомистра, они обнаружат, что он пуст, а входная дверь приоткрыта. Прибыв на место, Исмарк врывается внутрь, зовя своего отца и Ирину
+
+Исмарк и игроки могут найти Коляна и Ирину в гостиной на первом этаже. Прочитайте:
+
+>[!info]
+> Красная лужа окружает неподвижное тело бургомистра, его стеклянные глаза невидяще смотрят в потолок, а кровь капает из длинного аккуратного пореза поперек груди. Неподалеку Ирина лежит скрючившись на ковре под заколоченным окном, рваные занавески лениво колышутся на холодном ветру
+
+По прибытии Исмарк издает сдавленный крик боли и немедленно опускается, чтобы обхватить голову отца руками
+
+Колян, очевидно, мертв. Игрок, который осматривает Ирину и проверяет ее дыхание или пульс, обнаруживает, что она жива, но бледна и слаба, с двумя кровавыми колотыми ранами, пронзающими плоть ее шеи
+
+Вскоре после прибытия игроков Ирина просыпается и вскрикивает от отчаяния, когда видит труп своего отца. Если ее спросят, она может поделиться следующей информацией, хотя и с готовностью признает, что ее память туманна:
+
+* Пока осада продолжалась, она вернулась в поместье, чтобы взять новый колчан с арбалетными болтами. Когда она возвращалась к двери, она услышала, как ее отец приглашает кого-то войти в их дом. (***“Голос отца звучал странно"***, - шепчет она, прижимая руки к груди. ***“Он был спокоен — слишком спокоен, — как будто кто-то другой говорил за него"***)
+* Хотя она и не помнит, кто был посетителем, она помнит высокий, худощавый силуэт; глубокий, звучный голос; и горящие, гипнотизирующие красные глаза
+* Голос — мужской - заговорил с ней, и больше она ничего не помнит. Она помнит, как почувствовала внезапную острую боль в шее, за которой последовал крик ее отца. Проваливаясь в беспамятство, она вспоминает, как услышала голос, прошептавший: ***“Мы еще встретимся"***
+
+Ирина в ужасе от смерти своего отца и перспективы того, что их дом посетил дьявол, Страд вон Зарович. Она сбита с толку, почему Страд мог убить ее отца, но пощадить ее, и глубоко обеспокоена перспективой того, что она каким-то образом несет ответственность за судьбу Коляна
+
+После того, как игроки достаточно утешили брата и сестру, Исмарк устало просит игроков остаться в особняке с Ириной, пока он возвращается на городскую площадь, чтобы убедиться, что обо всех раненых баровийцах позаботятся. ***“Завтра мы позаботимся о похоронах нашего отца***, - тихо добавляет он. - ***И если можете, постарайтесь немного поспать. Вы более чем заслужили это***"
+
+### Спор
+
+Исмарк возвращается в поместье незадолго до полуночи. Вскоре после этого все игроки, которые остаются бодрствующими или обладают **пассивным Восприятием 15** или выше, слышат приглушенный спор, доносящийся с кухни внизу
+
+Игроки могут подслушать этот разговор с помощью успешной **проверки Скрытности Сл 13** или **проверки Восприятия Сл 15**. Прочитайте:
+
+>[!info]
+> Бормотание из соседней комнаты почти неразборчиво, его заглушают низкие стонами и скрипами деревянных конструкций старого дома. Однако по мере того, как вы напрягаете слух, слова брата и сестры постепенно становятся чётче
+> 
+> Резкий от возмущения голос Ирины разрывает тишину. - ***"Ты не имеешь права, Исмарк. Ты не можешь просто так решить отослать меня, как будто я просто какое-то неудобство! Я такой же ребёнок Отца, как и ты, и я нужна нашим людям, чтобы отстроиться. И тебе я тоже нужна!"***
+> 
+> Ответ Исмарка сдержан, хотя и пронизан безошибочной ноткой беспокойства. ***"Взгляд Дьявола пал на тебя - и даже если мы не верим в легенду о женщинах с рыжими волосами, другие могут. Баровия просто больше не безопасна для тебя"***
+>
+> По другую сторону тонкой деревянной перегородки раздается вызывающее фырканье. ***"Я не трусиха, Исмарк, и я не брошу наших друзей и соседей в час нужды"***
+> 
+> Наступает пауза. Затем Исмарк тихо говорит: ***"Гертруда ушла из деревни сегодня утром. Одна"***
+> 
+> Вы слышите прерывистое дыхание со стороны Ирины. ***"Почему?"***
+> 
+> ***"Ее мать думает, что она отправилась в Валлаки — она была убеждена, что помощь от Валлаки - единственный способ положить конец нашим страданиям"***, - бормочет Исмарк
+> 
+> Наступает долгое, страдальческое молчание. Затем —
+> 
+> Исмарк, кажется, колеблется, его слова слегка заплетаются. ***"Я не прошу тебя бросить их. Но есть и другие, кому нужна твоя помощь. Подумай о наших соседях, которые бежали в Валлаки. Им нужно руководство, защита — и, возможно, лидер, который однажды вернет их домой"***
+> 
+> Наступает долгая пауза. Голос Ирины, когда она наконец заговаривает, низкий — едва слышный. ***"Мне все равно это не нравится"***
+> 
+> Исмарк отвечает спокойно. ***"Это твой выбор. Я не могу отнять этого у тебя. Но после потери Отца я не могу... мне невыносима мысль о том, что я потеряю и тебя тоже"***
+> 
+> Тишина, которая следует за этим, осязаема, отягощена невысказанными эмоциями. Наконец, ее нарушает голос Ирины, хрупкий и тихий. ***"Я пойду. Если только ради тебя. И только если мы сначала похороним отца — вместе"***
+
+Через несколько минут Исмарк и Ирина поднимаются по лестнице. Игрок с **пассивной Проницательностью 10** и больше, замечает, что у обоих покрасневшие глаза, как будто от слез
+
+В случае разговора Исмарк может неохотно поделиться следующей информацией:
+
+* Он больше не верит, что Баровия, окруженная подозрительными соседями и находящаяся в тени крепости Дьявола, безопасна для Ирины
+* Вместо этого Исмарк намеревается отправить Ирину в Валлаки, укрепленный город на западе. Говорят, что церковь святого Андрала в Валлаки является священной землей, защищающей своих прихожан от вампиров и прочей нежити
+
+Когда игрок возвращается в свою комнату, он может увидеть 2 **стаи летучих мышей** — шпионов Страда — собравшихся на карнизе соседнего дома и молча наблюдающих из темноты
+
+### Утро в особняке
+
+Отдых игроков в особняке проходит без происшествий. Когда они просыпаются на следующее утро незадолго до рассвета, они могут обнаружить труп бургомистра, лежащий в гробу в гостиной
+
+> [!info]
+> Бургомистр находится в боковой гостиной в простом, деревянном гробу, который лежит на полу в окружении увядающих цветов и слабого запаха разложения
+
+Исмарк и Ирина в столовой, спокойно пьют чай
+
+Когда игроки спускаются на первый этаж, Ирина приветствует их и настаивает на приготовлении им на завтрак миски каши на козьем молоке и чашки ромашкового чая. Пока Ирина возится на кухне, Исмарк торжественно и извиняющимся тоном просит игроков о 3 одолжениях
+
+***Сопровождение Ирины.*** Исмарк сначала тихо замечает, что Ирина, похоже, стала мишенью как для Дьявола, так и для ее односельчан, и что он больше не верит, что деревня, которая находится прямо в тени замка Равенлофт, безопасна для нее
+
+Исмарк делится информацией о своем желании привезти ее в Валлаки и отмечает, что церковь святого Андрала в Валлаки считается освященной землей, защищающей своих прихожан от вампиров и другой нежити. Хотя он не может покинуть Баровию из-за своих обязанностей, как преемник своего отца, Исмарк спрашивает игроков, не согласятся ли они отвести ее в церковь Святого Андрала вместо него
+
+> [!warning]+ **Уточнение ожиданий**
+> 
+> *Curse of Strahd: Reloaded* - кампания о героях. Это также кампания о приобретении союзников, о связях и силе, которые вырастают из этих союзов
+> 
+> Таким образом, хотя Айрина не является важным NPC для кампании, группа, отклонившая запрос Исмарка, вероятно, имеет несоответствующие ожидания с типом кампании, которую вы планируете проводить. Если игроки откажутся сопровождать Ирину в Валлаки, приостановите игру и поговорите с ними, чтобы уточнить и подтвердить ожидания. Если игроки по-прежнему неохотно берут с собой Ирину, задавайте вопросы и продолжайте обсуждать проблему, прежде чем возобновить игру
+
+***В поисках Мадам Евы.*** Нападение Страда на деревню только укрепило веру Исмарка в то, что баровийцы должны найти какой-то способ спастись от тирании вампира. ***"Мы не можем так дальше жить"***, - хрипит он, костяшки его пальцев белеют, пока он смотрит в свою кружку. ***"Я слышал, какие ужасные вещи были сто лет назад, перед тем, как он уснул. Вампиры прячутся в каждой тени. Родители и их дети исчезают в ночи. Крысы, волки и летучие мыши сообщают замку о каждом нашем шаге. Даже если дьявол снова погрузится в спячку через пятьдесят или шестьдесят лет, кем мы будем, если обречём наших детей и внуков на ту же участь?"***
+
+Хотя Исмарк просит их быть осторожными и особо не распространяться об этом, чтобы не навлечь гнев Страда обратно на деревню, он просит игроков обратиться за мудростью к мадам Еве, вистанской провидице и мудрецу, живущей в у озера Тсер. ***"Если кто-то и знает, как можно уничтожить дьявола и освободить наших людей***, - бормочет он, - ***так это она"***
+
+Если игроки соглашаются сделать это, игрок с наивысшим показателем **пассивного Восприятия** замечает [[Крыса|крысу]] — одного из шпионов Страда, — наблюдающую за ними с восхищенным, злобным и осмысленным интересом из-под ближайшего предмета мебели. Будучи замеченной, крыса немедленно бросается на кухню в явной попытке сбежать
+
+У игроков есть **1 раунд**, чтобы убить крысу, когда она устремится к большой дыре в кухонной стене. Если им это не удается, Ирина протыкает её своей рапирой прежде, чем она успевает это сделать, признавая в ней одного из шпионов Страда
+
+***Доставка гроба.*** Попросив о первых двух одолжениях, Исмарк просит игроков помочь ему и Ирине отнести гроб Коляна в церковь. Если они это сделают, брат с сестрой сопровождают игроков в церковь
+
+## B5i. Баровийская церковь
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Неигровые персонажи#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+Когда игроки прибывают в церковь с телом бургомистра, [[Неигровые персонажи#Исмарк Колянович|Исмарк]] обеспокоен повреждениями, нанесенными ее стенам и крыше. Когда он стучит в парадную дверь и зовёт отца Донавича, если Парривимпл еще жив, прочтите следующее:
 
-<div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
-</div>
+>[!info]
+> Когда стук Исмарка эхом разносится в холодном воздухе, с темной улицы доносится голос: ***"Он не выходит"***
+> 
+> Из тумана выступает неуклюжий силуэт—Парривимпл
 
-If Bildrath died in the siege, add:
+Если Билдрат погиб во время осады, добавьте:
 
-<div class="description">
-<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
-</div>
+>[!info]
+> Одежда Парривимпла все еще растрепана и заляпана кровью, а его щеки опухшие и красные пятнами
 
-Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
+Парривимпл, который вышел на прогулку (***"Это помогает мне думать"***, - бормочет он, если его спросят), может поделиться следующей информацией, если его спросят:
 
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
+* Отец Донавич раньше был добрым и дружелюбным человеком, всегда готовым поделиться с посетителями словом мудрости или теплым яблочным пирогом с крабами
+* Однако с тех пор, как началась осада, Донавич заперся в церкви и чаще прогонял посетителей, чем принимал. Когда Парривимпл видела его в последний раз 2 дня назад, Донавич выглядел так, словно не спал и не мылся почти неделю
+* Отец Донавич не носил свой священный символ (бронзовую солнечную вспышку) со времен восстания, что Парривимпл считает странным. (Парривимпл всегда нравилось, как свет отражается от его поверхности, и обожал слушать, как сын Донавича, Дору, рассказывает истории о том, как когда-то в Баровии светило солнце)
+* Парривимпл скучает по Дору, который ушел, чтобы возглавить восстание против Страда 3 месяца назад вместе с незнакомцем Алаником. (Парривимпл также скучает по любимой обезьянке Аланика, с которой он любил играть.) Несмотря на то, что дядя сказал ему, что Дору умер в замке Равенлофт, Парривимпл надеется, что он каким-то образом выжил
 
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
-### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+Парривимпл не будет сопровождать игроков в церковь, но желает им всего наилучшего и приглашает их навестить его в магазине Билдрата перед отъездом
 
-<div class="description">
-<p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
-<p>You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.</p>
-</div>
+### Внутри церкви
 
-Doru does not cry out to his father when the players enter the chapel. Instead, when the players first approach the chapel, Donavich’s prayers halt. Add the following line to the chapel’s description in place of Doru’s cry:
+>[!info]
+> Двери открываются, открывая зал шириной 10 футов и длиной 20 футов, ведущий в ярко освещенную часовню. Зал неосвещен и пахнет плесенью. 4 двери, по 2 с каждой стороны зала, ведут в смежные помещения
+> 
+> Вы видите, что часовня завалена мусором, и слышите тихий голос изнутри, читающий молитву
 
-<div class="description">
-<p>The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace."</p>
-</div>
+Когда игроки впервые подходят к часовне, молитвы Донавича прекращаются
 
-> [!lore]+ **A Recent History of the Church**
+>[!info]
+> Звуки невнятной молитвы прекращаются, и по залу разносится хриплый, усталый голос фигуры, стоящей на коленях за алтарем. ***“Я не могу предложить благословение, которого вы ищете. Идите и оставьте в покое это проклятое место"***
+
+> [!lore]+ **Недавняя история церкви**
 >
-> Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
+> Отец Донавич не был сторонником похода Дору на замок Равенлофт. Мягкий человек с мягким голосом, Донавич боялся, что Дору встретит только свой конец за стенами крепости. Однако, чтобы обезопасить своего сына и в знак своей любви, Донавич подарил Дору свой священный символ, а также свое благословение
+> 
+> Однако священный символ Донавича мало что сделал для защиты его сына. Когда Страд начал осаду деревни Баровия 6 ночей назад, его силы нежити были не одиноки: Страд также послал Дору, теперь только что обращенное **вампирское отродье**, терроризировать церковь и мучить своего отца. Донавичу едва удалось заманить Дору в ловушку в подземелье, где он до сих пор остается заключенным
 >
-> Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia six nights ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
+> С тех пор, как вернулся Дору, отец Донавич не был способен произносить никаких заклинаний и больше не чувствует присутствия Повелителя Утра, когда молится. Когда Страд отправил Дору обратно в Баровию, он позволил Дору продолжать носить священный символ его отца в качестве жестокой шутки. В результате Донавич ошибочно полагает, что природа нежити Дору исказила его символ — и, следовательно, его связь с Повелителем Утра — и таким образом помешала ему достичь божественной милости Повелителя Утра
 >
-> Since Doru returned, Father Donavich has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
+> Однако на самом деле ему мешает собственная потеря веры - кризис, который ослепляет его перед еще более суровой истиной. Донавич верит, что его сын, Дору, мертв, и что **вампирское отродье**, запертое в подземелье, является грязным и нечестивым зверем, который носит шкуру Дору. Он ошибается: хотя его тело теперь превратилось в нежить, душа Дору очень даже жива
 >
-> In fact, however, it is Father Donavich’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
+> Хотя он не может игнорировать прямые команды Страда, и хотя жажда крови тяжело давит на его мысли и действия, Дору продолжает ожесточенно бороться со своей собственной вампирской природой. Хотя ему не всегда это удается, именно это сопротивление позволило отцу вообще заманить его в ловушку в подземелье. Когда в нем просыпается надежда, Дору взывает к отцу, чтобы тот освободил его, умоляя о спасении и прощении. Однако Донавич пока отказывается отвечать
 >
-> Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
->
-> Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
+> Дору продолжает носить священный символ своего отца, как для того, чтобы убедить себя в том, что однажды они помирятся, так и для того, чтобы укрепить свою волю, когда соблазны вампира слишком сильно разгораются внутри. Его способность сопротивляться зову крови медленно росла с момента его заключения, но так же росло и его истощение, усугубляемое медленным голоданием. Теперь здравомыслие Дору балансирует на острие ножа, и простой толчок может означать спасение — или проклятие
 
-> [!profile]+ **Profile: Father Donavich**
+> [!profile]+ **Профиль: Отец Донавич**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
+> ***Resonance.*** Донавич должен вызывать сочувствие к его печали и страхам, жалость к его разлуке с Хозяином Утра, нежность за его доброту и гостеприимство и дискомфорт за его ревностное осуждение немертвой природы Дору
 >
-> ***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
+> ***Emotions.*** В своем нынешнем состоянии Донавич чаще всего испытывает горе, вину, истощение, сострадание и одержимость. Примирившись с Дору, он чаще всего испытывает надежду, облегчение, благодарность, замешательство, страх и стыд
 >
-> ***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
+> ***Motivations.*** Отец Донавич хочет освободить своего сына из лап Страда — любой ценой
 >
-> ***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Denethor (The Lord of the Rings).
+> ***Inspirations.*** Когда играете отца Донавича, играйте Эддарда Старка ("Игра престолов"), Уолтера Уайта ("Во все тяжкие") и Денетора ("Властелин колец")
 >
 > **Character Information**
-> ***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
->
-> ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
->
-> ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+> ***Persona.*** Для всего мира отец Донавич - скорбящий, но ревностный отец. Для тех, кому он доверяет, Донавич - сломленный человек, плывущий по течению, потерянный и сбитый с толку, без руководства и цели
+> 
+> ***Morale.*** В бою отец Донавич обычно сражается, чтобы защитить своих людей и церковь. Однако в своем нынешнем состоянии он немедленно сдался бы, слишком терзаемый чувством вины, чтобы даже защищать свою собственную жизнь
+> 
+> ***Relationships.*** Отец Донавич - отец Дору и священник баровийской церкви
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
+Если он узнает, что Исмарк и Ирина с игроками, Донавич отнесется к ним более тепло и извинится за аварийное состояние часовни
 
-As the conversation unfolds, the following exchanges might occur:
+По ходу разговора могут произойти следующее:
 
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
-* If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
+* Если Исмарк, Ирина или другой игрок спросят о похоронах умершего бургомистра, отец Донавич сообщит им, что он был бы рад присмотреть за похоронами, но что он не может совершить священные обряды, которые освятили бы останки Коляна. (Донавич скорбит, узнав о смерти Коляна, и выражает свои соболезнования в связи с его кончиной)
+* Если Исмарк, Ирина или игрок заметят ущерб, нанесенный церкви, отец Донавич сообщит им, что он был нанесен **порождением вампира**, напавшим во время осады — неживой оболочкой его сына Дору. (И Исмарк, и Ирина потрясены и шокированы, узнав о судьбе Дору, поскольку считали, что он умер в замке Равенлофт)
+* Если Исмарк, Ирина или игрок сообщают ему, что Гертруда (невеста Дору) пропала, отец Донавич оплакивает ее и бормочет тихую молитву, чтобы Повелитель Утра сохранил и защитил ее душу
 
-If the players inquire further, Donavich can share the following information:
+Если игроки поинтересуются дальше, Донавич может поделиться следующей информацией:
 
-* When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
-* Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
-* Ever since Doru returned, Donavich hasn’t been able to cast spells or feel the Morninglord’s presence. He believes that this is because Doru still has his holy symbol, and that Strahd’s foul influence has corrupted Donavich’s connection to the gods.
-* Donavich believes that his son is dead, and that the creature that wears his skin is a mockery that must be destroyed.
+* Когда Дору отправился в замок Равенлофт, отец Донавич подарил ему священный символ Повелителя Утра — бронзовую солнечную вспышку на кожаном шнуре, — чтобы защитить его перед лицом темноты. Однако, когда Дору не вернулся, Донавич опасался худшего
+* 6 дней назад, когда начиналась осада, Дору вернулся в церковь в полночь, теперь уже превратившись в **порождение вампира**. Донавичу удалось заманить Дору в подземелье и заманить его там в ловушку
+* С тех пор как вернулся Дору, Донавич не мог произносить заклинания или чувствовать присутствие Повелителя Утра. Он считает, что это потому, что у Дору все еще есть его священный символ, и что дурное влияние Страда испортило связь Донавича с богами
+* Донавич считает, что его сын мертв, и что существо, носящее его кожу, - это пародия, издевательство дьявола, которое должна быть уничтожена
 
-Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
+Донавич знает, что ему не победить Дору, и ему невыносимо снова видеть лицо своего сына. Однако, если игроки согласятся, Донавич просит их спуститься в подземелье, уничтожить тело Дору и забрать его священный символ. В обмен Донавич предлагает совершить надлежащие погребальные обряды и указать игрокам место, где они смогут укрыться от Дьявола Страда
 
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
-### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
+Если игроки согласны, Донавич выдает ключ от висячего замка на **E5d. Люке** и позволяет им войти. (Исмарк остается наверху с Ириной, не желая подвергать ее воздействию вампира — даже Дору, — но обещает игрокам, что присоединится к ним, если Дору окажется слишком опасным, чтобы справиться с ней. **Проверка Проницательности Сл 12** показывает, что он также, похоже, слишком напуган судьбой Дору, чтобы встретиться с ним лицом к лицу)
 
-<div class="description">
-<p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
-</div>
+### Спуск в подвал
 
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+>[!info]
+> Подвал церкви имеет грубо обработанные стены и глинянно-земляной утрамбованный пол. Гнилые опоры едва выдерживают вес деревянного потолка. Свет свечей из часовни наверху проникает сюда сквозь щели, но в полумраке нет никаких признаков присутствия какого-либо существа
 
-<div class="description">
-<p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
-</div>
+Дору, **порождение вампира**, использовал свою способность ***паучье лазание***, чтобы зацепиться за потолок при звуке приближения игроков. Игрок с **пассивным Восприятием 16** или выше автоматически замечает его в затемненном верхнем углу на дальней стороне комнаты. В противном случае прочтите следующее по истечении 1 раунда
 
-Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
+>[!info]
+> Голос молодого человека, напряженный и усталый, эхом доносится из темноты наверху. “Вы пришли убить меня, не так ли?"
 
-<div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
-<p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
-<p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
-</div>
-<br>
+Дору предпочитает разговаривать с игроками из укрытия тьмы, но не откажется, если игроки прикажут ему раскрыться. Если он это сделает, прочтите следующее:
+
+>[!info]
+> Из темноты поперечных балок наверху, как мотылек из своего кокона, выползает фигура, двигаясь подобно пауку, медленно опускаясь на землю. Когда она попадает в слабый свет, тень принимает форму молодого человека, его юношеские черты поразительно напоминают отца Донавича
+> 
+> Его кожа призрачно-бледная,, разводы грязи видны на его лице. Его одежда рваная и поношенная, а волосы представляют собой неопрятный беспорядок узлов. Его глаза красные и налитые кровью, взгляд мечется от лица к лицу. На шее у него висит кожаный шнурок с окровавленным бронзовым лучом солнца, лежащий на его груди. Он сглатывает и облизывает губы — и вы замечаете пару острых клыков, когда он делает это
+> 
+> ***"Если вы хотите меня убить, я не стану вас останавливать"***, - говорит он срывающимся голосом. ***"Но у меня есть только одна просьба"***
 
 ![[Doru.jpg]]
-<span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-
-> [!profile]+ **Profile: Doru**
+> [!profile]+ **Профиль: Дору**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
+> ***Resonance.*** Дору должен вызывать сочувствие к его борьбе со своей вампирской природой, легкий дискомфорт от его порой нечеловеческих манер и нежность за его явную преданность своему отцу и Гертруде
 >
-> ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
+> ***Emotions.*** Дору чаще всего испытывает горе, вину, стыд, отчаяние, смирение и надежду
 >
-> ***Motivations.*** Doru wants to reconcile with his father and ensure Gertruda's safety.
+> ***Motivations.*** Дору хочет помириться со своим отцом и обеспечить безопасность Гертруды
 >
-> ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
->
+> ***Inspirations.*** Играя Дору игрйте Теона Греджоя ("Игра престолов"), Зуко ("Аватар: Последний покоритель воздуха"), Джесси Пинкмана ("Во все тяжкие") и Стива Харрингтона ("Очень странные дела")
+> 
 > **Character Information**
-> ***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
+> ***Persona.*** Для всего мира Дору - чудовищное, кровожадное порождение вампира. Для тех, кому он доверяет, Дору - сломленный, виноватый человек, который отчаянно пытается не причинить боль тем, кого любит
+> 
+> ***Morale.*** В драке Дору попытается сбежать, чтобы никому не причинить вреда, но если его отцу или Гертруде угрожает опасность, он яростно сражается, чтобы защитить их
+> 
+> ***Relationships.*** Дору - сын отца Донавича, бывший друг Эшера и жених Гертруды
+
+> [!info]+ **Дору это запомнит**
 >
-> ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
+> Когда начнется разговор игроков с Дору, тайно положите на стол к6 так, чтобы на его верхней грани была 1. Каждый раз, когда игроки противодействуют Дору, увеличивайте число на к6 на 1. Каждый раз, когда игроки подбадривают или проявляют доброту, уменьшайте число на к6 на 1. (Число не может быть ниже 0 или выше 6)
+> 
+> Если игроки согласны провести эксперимент Дору, бросьте вторую к6, когда начнется эксперимент. Если результат на второй кости равен или больше числа на первом, Дору сопротивляется своей вампирической зависимости и испытание заканчивается успешно. Однако, если результат на второй кости меньше, чем на первой, Дору поддается своей жажде крови и атакует источник крови
 >
-> ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+> Например, если игроки дважды противостоят Дору и не проявляют ни доброты, ни ободрения, на первом кубике должна выпасть тройка. Если второй кубик выпадет один или два, Дору атакует
 
-> [!info]+ **Doru Will Remember That**
+Просьба Дору проста: чтобы доказать самому себе, что он может контролировать свои вампирские порывы, он хочет, чтобы игроки явили ему запах свежей крови. Если он может воздержаться от атак целую минуту, он хочет, чтобы игроки сказали отцу Донавичу, что его сын все еще жив. Если он не может, он хочет, чтобы игроки убили его. В любом случае, он не помешает игрокам забрать священный символ после завершения эксперимента
+
+> [!abstract] **Игроки атакуют**
+> Дору не сражается, чтобы защитить себя, если на него нападают. Вместо этого он сворачивается в клубок в конце комнаты и умоляет игроков дать ему шанс — всего один шанс — проявить себя. Если игроки отказываются, Дору умоляет своего отца спасти его перед смертью, хотя его мольбы остаются неуслышанными
+
+Дору также может поделиться следующей информацией с игроками, если его спросят:
+
+* В детстве Дору был в восторге от историй о солнце, свете и надежде, которые оно когда-то принесло в долину. Став старше, он научился фехтованию у Исмарка и изучил книгу "Руководство Ван Рихтена по вампирам", чтобы научиться уничтожать нежить. Он мечтал о том, как однажды уничтожит Дьявола из замка Равенлофт и принесет свободу своему народу
+* 16 недель назад иностранный ученый, называющий себя Алаником Рэем, прибыл в Баровию и снял комнату в поместье бургомистра. Однако, когда огромный немертвый лютоволк напал на группу детей, которые отошли слишком далеко от деревни, Дору один видел, как "Аланик" отбивался от него с мастерством эксперта — и когда волк сбил шляпу с головы "Аланика", его внешность волшебным образом изменилась, показав, что это легендарный охотник на вампиров доктор Рудольф ван Рихтен
+* Дору выступил против него и настоял, чтобы Ван Рихтен возглавил восстание деревни против замка Равенлофт. Хотя поначалу Ван Рихтен сопротивлялся, в конце концов он согласился - при условии, что Дору позволит ему сохранить маскировку. 2 дня спустя Дору с помощью человека по имени Эшер — деревенского барда и старейшего друга Дору — собрал более двух десятков бойцов для похода на крепость
+* С помощью Ван Рихтена толпа уничтожала всех мертвецов охранников, которые пытались встать у них на пути. Однако, когда они, наконец, открыли склеп Страда, Эшера нигде не было — и гроб Страда был пуст. (Если спросить, Дору категорически отрицает, что Эшер их предал)
+* Вскоре после этого Страд появился из тени и атаковал толпу с безжалостной силой. Большинство товарищей Дору были убиты. Сам Дору был превращен в вампирское отродье, и позже узнал, что Эшер был таким же. Дору не знает, что случилось с Ван Рихтеном, но был вынужден назвать личность старика, когда Страд допрашивал его позже
+* Дору провел почти 3 месяца в замке Равенлофт, в течение которых Страд неоднократно заставлял его пить кровь его бывших товарищей. 6 ночей назад Страд приказал Дору вернуться в церковь к своему отцу
+* Дору не может ослушаться прямых приказов Страда и постоянно чувствует его присутствие. Его вампирская кровожадность постоянно отвлекает, и ему трудно контролировать его хищнические побуждения и инстинкты. Когда он впервые вернулся в церковь, он был почти благодарен отцу за то, что тот запер его в подвале, где он не мог причинить никому вреда
+* Дору не знает, можно ли спасти его душу или тело, но он сохранил священный символ своего отца, который напоминает ему о его вере и семье, а также укрепляет его волю против зависимостей его новой формы. Если бы не это, он подозревает, что потерял бы контроль над собой несколько дней или даже недель назад. (Дору не знает, почему Страд позволил ему оставить его, но подозревает, что Страд рассматривал это как форму ироничного развлечения)
+
+Если игроки спросят о его ссоре с "Алаником", Дору со стыдом признает, что он заставил Ван Рихтена сопровождать своих повстанцев в замок, угрожая двинуться на замок Равенлофт с ним или без него. (Разъяренный Ван Рихтен вырвал предисловие к экземпляру "Руководства Ван Рихтена по вампирам", который Дору купил в караване Вистани 10 лет назад, чтобы подчеркнуть свою правоту. ***"Он предупреждал меня, что вера и книги ничего не значат перед лицом истинного зла"***, - бормочет Дору. ***"Я должен был послушать его"***. Дору не уверен, что случилось с остальной частью книги)
+
+По ходу разговора Дору может спросить игроков:
+
+* видели ли Эшера в деревне, и
+* пережила ли осаду невеста Дору, Гертруда
+
+Если сказать, что Гертруда уехала из деревни одна в Валлаки — вероятно, в ошибочной попытке спасти самого Дору, — Дору заметно расстроится, но вслух надеется, что она благополучно добралась до места. Он просит игроков присмотреть за ней и помочь вернуть ее домой, если они ее найдут. Дору чувствует, что заслужил свою судьбу, но считает, что Гертруда, добрая и сострадательная женщина, заслуживает гораздо лучшего
+
+### Суд над Дору
+
+Если игроки соглашаются выполнить просьбу Дору, предоставив ему доступ свежей крови, он просит их хранить молчание, пока он сопротивляется, и сразить его, если он сдастся. Когда начнется суд, прочтите следующее:
+
+>[!info]
+> Мышцы Дору напрягаются, и он крепко зажмуривает глаза. Несколько мгновений спустя его ноздри раздуваются, и тонкая струйка слюны начинает стекать по губам. Он хнычет, его когтистые пальцы сгибаются и дергаются
+> 
+> ***"Когда придут тени***, - шепчет он, - ***я не уступлю. Тьма - разрушитель, и искушение - оружие его. Я встречусь лицом к лицу с ночью и ужасами её и буду ждать рассвета. Ибо в свете любви Повелителя Утра может остаться только свет"***
+> 
+> Голос Дору дрожит, его истощенное тело трясётся. Один кулак он прижимает к боку, другой сжимает окровавленную солнечную вспышку, которая висит у него на шее
+> 
+> ***"В свете любви Повелителя Утра"***, - повторяет он, задыхаясь. ***"В свете любви Повелителя утра. Гертруда. Гертруда. Гертруда —"***
+
+Если Дору уступает жажде крови, он делает паузу, затем атакует. Бросьте инициативу
+
+В противном случае, если Дору успешно справится с жаждой крови, прочтите:
+
+>[!info]
+> После того, что кажется вечностью, тело Дору наконец расслабляется. Его напряженные мышцы, кажется, расслабляются, дыхание становится ровнее, и выражение напряжения исчезает с его лица. Его глаза остаются закрытыми еще мгновение, затем распахиваются — и клыки в его рту медленно втягиваются, оставляя только обычную пару клыков
+> 
+> - ***Я не сдался***, - хрипло шепчет он. - ***Пока нет***
+
+Дору благодарит игроков и без возражений отказывается от священного символа. Если игроки упоминают об этом, он удивляется, услышав, что у него втянулись клыки, но признает важность этого со смирением и недоверием. (В конце концов, Дору много раз читал "Руководство Ван Рихтена по вампирам")
+
+Дору предупреждает игроков, что Страд, скорее всего, проявит активный интерес к новичкам на своей земле, и поэтому им следует быть осторожными. В знак своей благодарности он сообщает игрокам местонахождение тайника с оружием, который Ван Рихтен хранил на случай чрезвычайных ситуаций. Чтобы добраться до него, игроки должны пересечь мост через реку Ивлис и пройти по Старой Сваличской дороге 300 шагов на юг вглубь леса, пока не доберутся до древнего дуба. Они найдут тайник, спрятанный в дупле под корнями дерева
+
+Если игроки проявят интерес узнать больше о вампирах, Дору может поделиться информацией, содержащейся в **Рожденные смертью** и **Прикованные к могиле**, а также общими деталями **перевёртыша**, **регенерации** и **слабостей вампиров** из статблока **вампира**. Дору, однако, отмечает, что Дьявол не похож ни на одного другого вампира. ***"Он обладает силами, недоступными пониманию обычного вампира. Он... непостижим"***. Он вздрагивает, его глаза закрываются от болезненных воспоминаний. (Дору не может поделиться какими-либо подробностями относительно способностей Страда, только то, что он, казалось, убил друзей Дору ***"в считанные мгновения"***)
+
+>[!info]- Рождённые смертью
+> Большинство жертв вампира становятся порождениями вампира — хищными созданиями с вампирским голодом к крови, но находящимися под контролем вампира, который их создал. Если истинный вампир позволит порождению выпить кровь из своего тела, порождение превратится в истинного вампира, не подконтрольного своему хозяину. Немногие вампиры готовы отказаться от этого влияния. Порождение вампира обретает собственную волю, когда его создатель погибает
+
+>[!info]- Прикованные к могиле
+> Каждый вампир связан со своим гробом, склепом, или местом захоронения, в котором он должен покоиться днем. Если вампир не был официально похоронен, он должен находиться в земле на глубине в 1 фут, в месте его превращения в нежить. Вампир может перемещать свое место захоронения, транспортируя гроб, или достаточное количество могильной земли. Некоторые вампиры оборудуют несколько мест для своего отдыха
+
+>[!info] Общие детали
+> **Перевёртыш**. Вампир может превращаться в летучую мышь или туман, если не находится под солнечным светом или в текущей воде
+> **Регенерация**. Вампиры быстро регенерируют, если не находятся под солнечным светом
+> **Слабости вампиров**:
+> **Запрет**. Вампир не может войти в жилище без приглашения одного из обитателей.
+> - **Текущая вода**. Текущая вода наносит вампиру урон
+> - **Кол в сердце**. Если оружие, наносящее Колющий урон, вонзить в сердце [[ДМовские заметки#Недееспособность|недееспособного]] вампира в его месте отдыха, он становится [[ДМовские заметки#Паралич|парализован]], пока оружие не вынут
+> - **Солнечный свет**. Солнечный свет наносит урон вампиру и ослепляет его
+
+Перед уходом игроков Дору еще раз просит их передать отцу Донавичу, что его сын все еще жив. Если его попросить подняться с ними наверх, он откажется. ***"Я согрешил своим высокомерием, и это мое покаяние"***, - мягко говорит он. ***"Я покину эту тюрьму только тогда, когда позволит мой отец"***
+
+### Похороны
+
+Если игроки возвращаются к отцу Донавичу со святым символом в руках, он принимает его с благодарностью
+
+Если игроки скажут отцу Донавичу, что они убили Дору, чтобы получить символ, прочитайте:
+
+>[!info]
+> Глаза Донавича наполняются слезами, когда он сжимает символ в руках так крепко, что костяшки пальцев начинают белеть. Сдавленный всхлип вырывается у него, когда он опускается на колени, баюкая амулет, как младенца
+> 
+> ***"Мой мальчик — мой дорогой, драгоценный мальчик"***, - бормочет он, его голос едва громче шепота. ***"Да простит меня Повелитель Утра за то, что я сделал — и за то, чего я не смог сделать"***
+> 
+> Он сглатывает, и его лицо напрягается, становясь жестким как камень. ***"Это должно было быть сделано. Ради него — и ради нас"***
+
+В противном случае, если игроки пощадят Дору и передадут его последнее сообщение, прочитайте:
+
+>[!info]
+> Донавич отшатывается, как будто его ударили, его лицо побледнело, а глаза расширились от шока. Мгновение он просто стоит там, безмолвствуя, а затем тишину нарушает болезненный звук, нечто среднее между вздохом и рыданием, когда он прижимает символ к груди
+> 
+> Его глаза блестят, когда он проводит дрожащей рукой по волосам, мириады эмоций сменяют друг друга на его лице: неверие, ярость, горе, стыд и — наконец — надежда. Он прислоняется к ближайшей скамье, его тело дрожит от напряжения
+> 
+> ***- Мой мальчик***, - выдыхает он — ***Он... он все еще мой мальчик?***
+
+Получив свой священный символ, отец Донавич с радостью соглашается провести похороны Коляна
+
+Кладбище соответствует описанию в **E6. Кладбище (стр. 48)**. Ночью за ним наблюдают **2 стаи летучих мышей** — шпионов Страда, — которые висят на карнизах церкви и близлежащих мавзолеях, наблюдая за игроками
+
+>[!info]
+> Кованный железный забор с ржавыми воротами окружает квадратный участок земли за ветхой церковью. На плотно расположенных надгробиях окутанных туманом высечены имена душ давно ушедших. Всё выглядит достаточно тихо
+
+Войдя на кладбище, Донавич достает 4 лопаты из сарая, примыкающего к церкви, и делится ими с игроками. Когда могила полностью вырыта и ритуал начинается, Донавич возносит молитвы Хозяину утра, прося об избавлении Коляна следующим припевом:
+
+>[!info]
+> О Владыка Утра
+> Владыка благословенного света и покровитель новых начинаний
+> Вверяем твоей милости и твоему сиянию мастера Коляна Индировича
+> Ныне покинувшего нас и навеки ушедшего в твою славу
+> Мы молим тебя даровать ему твою милость и вечный покой
+> Направь его от этой вечной тьмы к бесконечному свету
+> От мора к урожаю
+> Из тени в день
+> И из смерти в новую жизнь
+> Даруй ему вход в Твою страну света и радости
+> В общество твоих святых
+> И сияние твоё
+> По Твоей воле и милости
+
+В конце молитвы Донавича Исмарк и Ирина произносят следующие слова в память о своем отце:
+
+>[!info]
+> Исмарк вытирает глаза. ***"Колян Индирович обладал всеми качествами великого бургомистра: он был добрым, сострадательным и справедливым. Но прежде всего, он был нашим отцом — человеком, который научил нас выбирать мужество вместо страха, надежду вместо отчаяния и смех вместо печали. И хотя он покинул нас, его уроки и память о нем никогда не исчезнут. Пусть он найдет покой в объятиях Повелителя Утра, и пусть его наследие никогда не будет забыто"***
+> 
+> Ирина несколько мгновений смотрит на могилу, ее пальцы тревожно скручиваются в узлы. Наконец, она тихо говорит: ***"Когда ты нашел меня, я была чужой - ребенком, заблудившимся в лесу. Вы с мамой взяли меня к себе, заботились обо мне и любили как родную. Когда я спрашивала тебя, почему, ты всегда отвечал только: потому что мне это было нужно."*** Она запинается, задыхаясь от слов, затем говорит: ***"Я никогда не смогу отплатить за то, что ты мне дал. Но так же, как и вы, я никогда не перестану пытаться помочь тем, кто в этом нуждается"***
+
+Любые игроки, которые пожелают, могут предложить свои собственные слова, молитвы или дань уважения
+
+Вернув себе свой священный символ, Донавич сначала совершает [[Нетленные останки]], чтобы освятить останки Коляна. Затем Донавич приказывает игрокам опустить гроб в землю
+
+После завершения похорон летучие мыши Страда взмывают в воздух и исчезают в тумане, окружающем основание замка Равенлофт
+
+Донавич воспринимает присутствие летучих мышей как дурное предзнаменование. В удивительно ясный момент он предупреждает игроков и Исмарка о баровийском суеверии, согласно которому молодые женщины с рыжими волосами часто обнаруживают, что неудача сопутствует им, и спрашивает, планирует ли Ирина остаться в Баровии теперь, когда Дьявол пробудился. Если ему скажут, что Ирина и игроки намерены уехать, Донавич предложит аббатство Святой Марковии в Крезке в качестве возможного места назначения. Он отмечает, что когда-то это был бастион добра и, возможно, все еще обеспечивает некоторую защиту
+
+>[!lore] Кто знает об аббатстве?
+> Все баровийцы знают, что аббатство Святой Марковии находится в деревне Крезк. Большинство за пределами Крезка не уверены, действует ли он до сих пор, хотя ходят слухи, что Страд давным-давно разрушил его, не оставив в его залах ничего, кроме призраков. Несколько валлакийцев, включая отца Люциана Петровича из церкви Святого Андрала, знают, что аббатство было вновь открыто более ста лет назад, но никто за пределами Крезка не знает, что нынешний настоятель аббатства - тот же самый человек, который вновь открыл его двери более века назад
+
+### Возвращение в особняк
+
+Когда игроки возвращаются в поместье бургомистра после похорон, Исмарк упаковывает им трехдневный рацион в матерчатые мешки для дальнейшего путешествия. Пока он это делает, Ирина сообщает игрокам, что будет готова отправиться в путь в полдень. До тех пор игроки могут свободно исследовать деревню, делать покупки в магазине Билдрата или иным образом скоротать время
+
+Пока Исмарк упаковывает пайки, он может поделиться следующей информацией:
+
+* Поездка в Валлаки займет больше дня, если игроки планируют сначала посетить Озеро Тсер, и что Ирине и игрокам, скорее всего, придется провести ночь в дороге. Он рекомендует сделать это на самом Озере Тсер
+* Озеро Тсер находится чуть менее чем в **2 часах** езды от Баровии. (Хотя ходят слухи, что некоторые вистани заодно со Страдом, Озеро Тсер известно как безопасное место для ночевки путешественников, особенно учитывая репутацию мадам Евы)
+
+## B5j. Холм Лугданы
+
+Примерно за час до полудня [[Неигровые персонажи#Ирина Коляна|Ирина]] тихо ускользает из особняка, направляясь к холму Лугданы, небольшому тихому холму к северу от Баровии. (Холм назван в честь паладина Лугданы, которая, согласно легенде, впервые встретила бургомистра Исмарка Антоновича Великого на этом холме)
+
+Незадолго до полудня, если игроки не следили за ней, [[Неигровые персонажи#Исмарк Колянович |Исмарк]] — который в настоящее время опрашивает пару баровийских **разведчиков** по поводу их безуспешных поисков Гертруды — отмечает отсутствие Ирины с небольшим беспокойством и просит игроков найти ее и вернуть домой
+
+Поскольку Страд и его слуги приходили только ночью, Исмарк не особенно встревожен отсутствием Ирины, но все же хочет, чтобы ее доставили домой как можно быстрее. Исмарк советует игрокам сначала осмотреть холм Лугданы — одно из любимых мест Ирины в окрестностях деревни — и дает краткие указания, как туда добраться
+
+Если игроки посетят холм, прочтите:
+
+>[!info]
+> Когда вы проходите через море высоких трав к северу от деревни, перед вами возвышается пологий холм, окаймленный с дальней стороны зарослями тёмного Сваличского леса. Растения с белыми перистыми цветами и сладким землистым ароматом, кажется, танцуют среди травы на вершине холма, их листья шелестят на шепчущем ветру
+> 
+> На вершине холма стоит одинокое дерево, его узловатые ветви тянутся к небу, как протянутые руки. В его тени стоит на коленях женская фигура, ее взгляд прикован к земле
+
+Фигура - Ирина, которая надела нагрудник и рапиру, а теперь носит красный шарф на шее. Когда игроки приближаются, они видят, что она с помощью совка выкапывает ямку в земле между корнями дерева. Ирина, зацикленная на своей работе, не замечает игроков, пока они не окликают ее или иным образом не попадают в поле ее зрения
+
+Ирина тепло приветствует игроков, хотя и испытывает некоторое смущение из-за того, что заставила их прийти на ее поиски. Она откровенно рассказывает, что ищет маленький деревянный сундучок, который она и ее мать, Корина Тарголова, закопали здесь перед смертью ее матери 14 лет назад — сундучок, содержимое которого она надеется забрать на память, когда уедет в Валлаки, учитывая, что она не знает, когда, если вообще когда-нибудь, сможет вернуться домой
+
+Если Ирине разрешат закончить раскопки сундука, она откроет его и покажет содержимое. В сундуке находится серебряный браслет с драгоценными камнями, прессованный цветок астры, деревянная подвеска в форме цветка тысячелистника на кожаном шнурке и носовой платок с цветочным узором
+
+Цветок (который Ирина нашла и ее мать спрессовала), амулет (который мать Ирины носила, когда была ученицей городской целительницы) и платок (который мать Ирины помогла ей сшить) - все это воспоминания о детстве Ирины с ее матерью. Браслет - это предмет, который был найден у Ирины, когда Колян нашел ее в Сваличском лесу, и который Корина сохранила как память об их "чудо-ребенке" после того, как узнала, что больше не сможет иметь детей
+
+Браслет не имеет для Ирины никакой сентиментальной ценности, и она не помнит, почему он был у нее, когда Колян впервые нашел ее, и где она его раздобыла. Она предлагает это игрокам в качестве подарка за их согласие сопроводить ее в Валлаки, в качестве компенсации за их беспокойство
+
+Серебряный браслет, который потускнел и которому явно сотни лет, стоит 100 золотых монет и имеет замысловатый узор в виде луны и звезд по внешней стороне, с драгоценным камнем из лунного камня, встроенным в центр луны, и пятью ляписами лазурными, служащими звездами. На внутренней стороне браслета мелким изящным шрифтом выгравировано следующее общее послание: "Татьяна, Пусть ты найдешь свой путь и найдешь свет даже в самых темных местах — Мама и Папа"
+
+Ирина не знает, кто такая Татьяна. (Ирина не знает, но браслет был подарком родителей Татьяны Федоровны на восемнадцатилетие Татьяны. Он был потерян в Сваличском лесу, когда Татьяна прыгнула навстречу своей смерти с высоты птичьего полета в замке Равенлофт)
+
+Поделив вещи из сундука, Ирина снимает шарф, обнажая следы укусов на шее. Проводя по ним пальцами, она морщится. ***"Я не знаю, почему он не убил меня или не обратил"***, - говорит она, стиснув зубы, а ее руки сжимаются в кулаки. ***"Я не знаю, то ли это какая-то больная игра, в которую он играет, то ли ему просто нравится смотреть, как люди страдают"***
+
+Гнев покидает ее, когда она добавляет напряженным голосом: ***"Говорят, женщины с рыжими волосами приносят несчастье. Мне жаль, я никогда не хотела приносить их вам "***. (Она благодарна за любые заверения, которые могут предложить игроки)
+
+Ирина с радостью возвращается в особняк вместе с игроками или возвращается самостоятельно вскоре после полудня, если игрокам не удалось ее найти. Затем она забирает из своей комнаты упакованную дорожную сумку
+
+Когда игроки готовы отправляться, Ирина сердечно прощается с Исмарком и отправляется в путь
+
+***Веха***. Защита деревни и похороны бургомистра завершают веху. Если игроки покидают Баровию в сопровождении Ирины, наградите каждого игрока **400 опытом**. Если Дору успешно прошел испытание воли, наградите каждого игрока дополнительными **100 опытом**
+>[!info] Ирина присоединяется к группе
+> У Ирины статистика **напарника эксперта ("Котел всего" Таши, стр. 142)**, она использует базовый блок характеристик **дворянина** и носит легкий арбалет (**+3 к попаданию**, **дальность 80/320 футов**, 1 цель). _Попадание:_ **5 (1к8 + 1) колющего урона**). У нее также есть [[Черты#Лекарь|черта Лекарь]], и она начинается с 2 [[Снаряжение#Комплект целителя|наборами целителя]]
+> 
+> Начальный уровень Ирины такой же, как и средний уровень участников группы на момент ее первого присоединения к ним. Она начинает с дополнительными **владениями навыками История**, **Расследование**, **Медицина**, **Восприятие** и **Скрытность**, а также с **владением спасбросками Ловкости**. Когда она впервые присоединяется к отряду на 3-м уровне, у нее 25 (5к8) хитов
+> 
+> Ирина также получает уровень всякий раз, когда это делает группа, независимо от того, сопровождала она их или нет, заканчивая приключение на 10-м уровне
+> 
+>  По умолчанию Ирина выбирает следующие варианты помощников по мере повышения уровня:
+>  
+> - **3-й уровень.** Ирина получает **экспертизу** в навыках **Проницательность** и **Медицина**
+> - **4-ый уровень.** Ловкость Ирины увеличивается на 2 до 14
+> - **8-ой уровень.** Ловкость Ирины увеличивается на 2 до 16
+> - **10-ый уровень.** Ловкость Ирины увеличивается на 2 до 18
 >
-> When the players’ conversation with Doru begins, secretly place a six-sided die on the table, with its top face showing a one. Each time the players antagonize or discourage Doru, increase the number on the die by one. Each time the players are encouraging or kind, decrease the number on the die by one. (The number can’t go below zero or above six.)
->
-> If the players agree to perform Doru’s experiment, roll a second six-sided die when the experiment begins. If the result on the second die is equal to or greater than the number on the first, Doru resists his vampiric addiction and the test ends successfully. If the result on the second die is less than the number on the first, however, Doru succumbs to his bloodlust and attacks the source of the blood.
->
-> For example, if the players antagonize Doru twice and offer no kindness or encouragement, the first die should show a three. If the second die rolls a one or a two, Doru attacks.
+> Никто из слуг или монстров Страда — независимо от их интеллекта, и тем более сам Страд — никогда не нападает на Ирину
 
-Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
-
-> [!abstract] **The Players Attack**
-> Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
-
-Doru can also share the following information with the players if asked:
-
-* As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
-* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
-* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
-* With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
-* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
-* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Six nights ago, Strahd commanded Doru to return to the church and his father. 
-* Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
-* Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
-
-If the players ask about his argument with "Alanik," Doru admits, shamefacedly, that he forced Van Richten to accompany his rebels to the castle, threatening to march on Castle Ravenloft with or without Van Richten's help. (An enraged Van Richten ripped out the preface of Doru's copy of *Van Richten's Guide to Vampires*—which Doru bought from a Vistani caravan ten years prior—in order to make a point. "He warned me that faith and books meant nothing in the face of true evil," Doru murmurs. "I should have listened." Doru isn't sure what happened to the rest of the book.)
-
-As the conversation continues, Doru might ask the players:
-
-* whether Escher has been seen in the village, and
-* whether Doru’s betrothed, Gertruda, survived the siege.
-
-If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
-### Doru's Trial
-If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
-
-<div class="description">
-<p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
-<p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
-<p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
-<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —"</p>
-</div>
-
-If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pauses, then attacks. Roll initiative.
-
-Otherwise, if Doru successfully resists the bloodlust, read:
-
-<div class="description">
-<p>After what seems like an eternity, Doru's body finally relaxes. His tense muscles seem to uncoil, his breath grows steadier, and the look of strain fades from his face. His eyes remain closed a moment longer, then flutter open—and the fangs in his mouth slowly retract, leaving only an ordinary pair of canines behind.</p>
-<p>"I have not yielded," he whispers hoarsely. "Not yet."</p>
-</div>
-
-Doru thanks the players and relinquishes the holy symbol without protest. If the players mention it, he is surprised to hear that his fangs have retracted, but recognizes the significance with humility and disbelief. (Doru has, after all, read *Van Richten's Guide to Vampires* many times.)
-
-Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel down the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
-
-If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
-
-Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
-### The Burial
-If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
-
-If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
-
-<div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
-<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
-<p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
-</div>
-
-Otherwise, if the players spared Doru and relay his final message, read:
-
-<div class="description">
-<p>Donavich stumbles back as if he's been struck, his face pale and his eyes wide with shock. For a moment, he simply stands there, silent—and then the silence is broken by a pained noise, a cross between a gasp and a sob, as he clutches the symbol to his chest. </p>
-<p>His eyes glisten as he runs a trembling hand through his hair, a myriad of emotions playing across his face in quick succession: disbelief, rage, grief, shame, and—finally—hope. He sags against a nearby pew, his body shaking with exertion. </p>
-<p>"My boy," he chokes out. "He's—he's still my boy?" </p>
-</div>
-
-Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
-
-The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
-
-Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
-
-<div class="description" style="text-align: center;">
-<p>O Morninglord</p>
-<p>Lord of blessed light and patron of new beginnings</p>
-<p>We commend into thy mercy and thy radiance Master Kolyan Indirovich</p>
-<p>Now departed hence from us and gone evermore into your glory.</p>
-<p>We beseech thee to grant unto him thy mercy and everlasting peace</p>
-<p>As thou deliver'st him from this everlasting darkness into infinite light</p>
-<p>From pestilence into growth</p>
-<p>From shadow into day</p>
-<p>And from death into new life.</p>
-<p>Grant him entrance into Your land of light and joy</p>
-<p>In the fellowship of thy saints</p>
-<p>And the brilliance of thy presence</p>
-<p>By Your will and grace.</p>
-</div>
-
-At the conclusion of Donavich’s prayer, Ismark and Ireena offer the following words in memory of their father:
-
-<div class="description">
-<p>Ismark wipes his eyes. "Kolyan Indirovich bore all the qualities of a great burgomaster: he was kind, compassionate, and just. But above all else, he was our father—the man who taught us to choose courage over fear, hope over despair, and laughter over sorrow. Even though he has left us, his lessons and memory never will. May he find rest in the Morninglord's embrace, and may his legacy be never forgotten."</p>
-<p>Ireena stares at the grave for a few moments, her fingers twisting anxiously into knots. Finally, she says, quietly, "When you found me, I was a stranger—a child, lost in the woods. You and Mother took me in, cared for me, and loved me as your own. When I asked you why, you only ever said: Because I needed it." She falters, choking on the words, then says: "I can never hope to repay what you gave me. But, just as you did, I will never stop trying to help those who need it."</p>
-</div>
-
-Any players who wish to may offer words, prayers, or tributes of their own. 
-
-If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground. 
-
-With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
-
-Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
-
-> [!lore] **Who Knows of the Abbey?**
-> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
-### Return to the Mansion
-When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
-
-As Ismark packs the rations, he can share the following information:
-
-* The journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given Madam Eva's reputation.)
-## B5j. Lugdana's Knoll
-Approximately an hour before noon, [[Неигровые персонажи#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
-
-Shortly before noon, if the players haven't been keeping track of her, [[Неигровые персонажи#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for Gertruda—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
-
-Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
-
-If the players visit the knoll, read:
-
-<div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
-</div>
-
-The figure is Ireena, who has donned her chestplate and rapier and now wears a red scarf around her neck. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
-
-Ireena greets the players with warmth, though with some embarrassment for having driven them to come search for her. She shares freely that she is digging for a small wooden chest that she and her mother, Korina Targolova, buried here before her mother's death fourteen years ago—a coffer whose contents she hopes to take as a keepsake when she departs for Vallaki, given that she doesn't know when, if ever, she'll be able to return home.
-
-If allowed to finish unearthing the chest, Ireena opens it, revealing its contents. The chest contains a silver bracelet set with gemstones, a pressed aster flower, a wooden charm in the shape of the yarrow flower on a leather cord, and a handkerchief with floral patterns.
-
-The flower (which Ireena found and her mother pressed), charm (which Ireena's mother wore as an apprentice to the town's healer), and handkerchief (which Ireena's mother helped her to sew) are all mementos of Ireena's childhood with her mother. The bracelet is an item that Ireena was found carrying when Kolyan found her in the Svalich Wood, which Korina kept as a memento of their "miracle child" after she learned that she could bear no more children.
-
-The bracelet holds no sentimental value for Ireena, and she doesn't remember why she was carrying it when Kolyan first found her, or where she obtained it. She offers it to the players as a gift for their agreement to escort her to Vallaki, as compensation for their trouble.
-
-The silver bracelet, which is tarnished and clearly hundreds of years old, is worth 100 gp and bears an intricate pattern of the moon and stars along the exterior, with a moonstone gem embedded at the center of the moon and five lapis-lazuli serving as the stars. On the inside of the bracelet, in tiny, elegant script, the following message is engraved in Common: "Tatyana: May you find your path, and may you find light even in the darkest places—Mother & Father."
-
-Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
-
-After sharing the items in the chest, Ireena removes her scarf, revealing the bite marks on her neck. As she traces her fingers along them, she grimaces. "I don't know why he hasn't killed me or turned me," she says, gritting her teeth as her hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
-
-The anger leaves her as she adds, her voice tightening, "They say women with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (She is grateful for any reassurances the players might offer.)
-
-Ireena gladly returns to the mansion with the players, or returns on her own shortly after noon if the players failed to find her. She then retrieves a packed traveling bag from her room.
-
-When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
-
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
-
-> [!info]+ **Ireena Joins the Party**
->
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
->
-> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
->
-> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
->
-> By default, Ireena chooses the following sidekick options as she gains levels:
->
-> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
-> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
-> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
-> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
->
-> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
-## B5k. Mad Mary’s Townhouse
+## B5k. Особняк безумной Мэри
 <span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
 
-There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
+У игроков не должно быть причин посещать **Особняк Безумной Мэри** (стр. 44) в этой версии. Однако, если они это сделают, то будут внесены следующие изменения:
 
-Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
+Безумная Мэри не прятала Гертруду в этом доме всю свою жизнь. Вместо этого Гертруда жила довольно обычной жизнью, хотя и с довольно властной овдовевшей матерью. (Ирина и Гертруда изначально сблизились, будучи молодыми девушками, из-за потери своих родителей - матери Ирины и отца Гертруды) Когда он был жив, отец Гертруды был торговцем, который воспитывал Гертруду на историях о великих лордах и леди, используя скудные средства их семьи, чтобы время от времени покупать ей в караванах Вистани книги по дипломатии и военной истории
 
-The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing Gertruda's disappearance, and dropped it on the floor in anguish.)
+Первый этаж этого старого, грязного жилища состоит из одной комнаты. На севере находится небольшая кухня, столешницы которой грязные и покрыты пылью. На полу разбитый стакан, а на столе, покрытом грязной синей скатертью, стоит протухшее блюдо на двоих. (Мэри налила себе бокал вина, чтобы успокоить нервы после того, как узнала об исчезновении Гертруды, и в отчаянии уронила его на пол)
 
-A small sitting area to the south contains a fireplace, two comfortable armchairs, and a dirty rug. Stairs lead up from here to the second floor.
+В небольшой гостиной с южной стороны есть камин, 2 удобных кресла и грязный ковер. Отсюда на второй этаж ведет лестница
 
-The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.) 
+В коридоре второго этажа есть 3 деревянные двери. Одна ведет в ванную комнату с неопустошённым ночным горшком и миской с грязной водой. Другая ведет в спальню Мэри, где есть письменный стол и кровать. (Если она здесь, Мэри сидит на кровати и тихо всхлипывает)
 
-The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
+Третья дверь, которая слегка приоткрыта, ведет в спальню Гертруды; на полу перед ней разбился поднос с разбитым чайником и чашкой. (Мэри приносила Гертруде чай, когда обнаружила, что ее дочь пропала, и в ужасе уронила)
 
-Gertruda's room holds a clumsily handwoven dress and a shelf holding a dozen well-read, dog-eared books, as well as a hairbrush, a rug, and an open window.
+В комнате Гертруды есть платье неуклюжей ручной работы и полка с дюжиной зачитанных книг с потрепанными корешками, а также расческа, коврик и открытое окно
