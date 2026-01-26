@@ -55,7 +55,7 @@ Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind*
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 # The Tarokka Reading
 ## The Tome of Strahd
-The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
+The contents of the Tome of Strahd are now as described in [[Арка H - Потерянная душа#H9a. Reading the Tome|Arc H - The Lost Soul]].
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
@@ -80,7 +80,7 @@ Immediately before the scene in which the players meet Madam Eva, if you are usi
 
 When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd
-The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Арка H - Потерянная душа]] for more information about the gallows speaker.
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
