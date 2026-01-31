@@ -885,14 +885,17 @@ If the players ask Van Richten about his arrival in Barovia or the revolt agains
 * Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
 
 If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
-## E8b. Following Rictavio
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+## E8b. Следуя за Риктавио
 
-If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
+_Эта сцена происходит в главе 5: область N5_
 
-If the players muster sufficient evidence of their good faith or succeed on a DC 15 Charisma (Persuasion) check, Rictavio sighs and commands the players to form a protective wall around the rear of the wagon. If the players antagonize Rictavio instead, or otherwise fail to convince him, a young girl’s voice quietly rings out from the wagon: “They mean me no harm. Please, open the door.”
+Если игроки следуют за [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] к оптовому складу Арасек вместо того, чтобы ждать его в таверне «Синяя Вода», они находят его стоящим на коленях у фургона — он, по всей видимости, регулирует спицы заднего левого деревянного колеса. Игрок с **пассивным Восприятием 16** или выше замечает, что Риктавио снова и снова регулирует одну и ту же спицу, а его губы при этом шевелятся, словно он с кем-то разговаривает. Если игроки продолжают наблюдать, он занимается этим делом целых 5 минут — гораздо дольше, чем обычно занимает такая работа, — после чего встаёт и собирается уходить
+
+Если игроки сталкиваются с ним лицом к лицу, Риктавио тепло их приветствует, но делает вид, что не понимает сути их обвинений и утверждений. Если же игроки настаивают, что хотят помочь Арабелле, показывают ему обгоревшую страницу дневника или иным образом угрожают раскрыть его прикрытие, взгляд Риктавио мрачнеет, пальцы сжимаются на трости, а голос понижается почти до шёпота. Он требует ответить, не являются ли они шпионами Страда, и спокойно угрожает «разобраться» с ними, если они служат воле Дьявола
+
+Если игроки представляют достаточные доказательства своей доброй воли или преуспевают в **проверке Убеждения Сл 15**, Риктавио вздыхает и приказывает игрокам образовать защитную стену у задней части фургона. Если же игроки, напротив, настраивают Риктавио против себя или иным образом не убеждают его, из фургона тихо раздаётся голос юной девочки: ***«Они не желают мне зла. Пожалуйста, открой дверь»***
+
 ## E8c. Rictavio’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
 

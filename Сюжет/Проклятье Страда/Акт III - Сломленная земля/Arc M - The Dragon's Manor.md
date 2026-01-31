@@ -167,7 +167,7 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 > * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
 > * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
 >   
-> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Арка H - Потерянная душа]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Арка E - Пропавшая Вистана]] or [[Арка H - Потерянная душа]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Арка E - Пропавшая Вистана]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
 
 Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
 

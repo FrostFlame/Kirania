@@ -5,24 +5,23 @@ dg-publish: true
 
 # Миниатюры и предметы
 
-- [ ] 5/12 зомби
-- [ ] [[Зелье лечения]]
-- [ ] Ирина
-- [ ] Большой стрикс
-- [ ] Рой малых стриксов
-- [ ] Скорбная музыка аккордеона
-- [ ] Манускрипт Артури
-- [ ] 5 гулей
-- [ ] 3 вурдалака
-- [ ] 4 умертвия
-- [ ] гигантский паук
-- [ ] блуждающий огонёк
-- [ ] звук костра
-- [ ] звуки тихой страшной ночи (кладбища)
-- [ ] 4 волка
-- [ ] Ирина
-- [ ] Муриэль (ворон)
-- [ ] 2 стаи воронов
+- [x] 5/12 зомби
+- [x] [[Зелье лечения]]
+- [x] Ирина
+- [x] Большой стрикс
+- [x] Рой малых стриксов
+- [x] Скорбная музыка аккордеона
+- [x] Манускрипт Артури
+- [x] 5 гулей
+- [x] 3 вурдалака
+- [x] 4 умертвия
+- [x] гигантский паук
+- [x] блуждающий огонёк
+- [x] звук костра https://www.youtube.com/watch?v=X0jC2UWjoFs
+- [x] звуки тихой страшной ночи (кладбища) https://www.youtube.com/watch?v=GNqvzGeHocs, https://www.youtube.com/watch?v=hvrRvE6ftAo
+- [x] 4 волка
+- [x] Муриэль (ворон)
+- [x] 2 стаи воронов
 
 # Введение
 
@@ -394,7 +393,7 @@ _Эта сцена происходит в Главе 2: зона G_
 > 
 > Купол тумана и ветвей внезапно расходится, открывая чёрные, давящие с неба тучи. Перед вами открывается поляна, выходящая к реке, которая расширяется, формируя небольшое озеро несколько сотен футов шириной. 5 цветастых шатров, каждый 10 футов диаметром, разбиты вне кольца, образованного четырьмя фургонами с деревянными, закруглёнными крышами. Значительно больший шатёр, провисающие ткани которого подсвечиваются изнутри, стоит у берега озера. Около этого шатра, 8 лошадей без уздечек пьют воду из реки
 > 
-> Скорбная мелодия аккордеона звучит вместе с пением нескольких ярко наряженных фигур, расположившихся у костра. Тропа продолжается за лагерь, заворачивая севернее, между рекой и кромкой леса
+> Скорбная мелодия аккордеона (https://www.youtube.com/watch?v=VgVQuntsUvA&list=PLVjXFVPZ-SfXmnhaRuI9d1O2YPYotevf9) звучит вместе с пением нескольких ярко наряженных фигур, расположившихся у костра. Тропа продолжается за лагерь, заворачивая севернее, между рекой и кромкой леса
 
 Ни один из вистани в лагере не находится в состоянии опьянения, и лишь 1 — женщина-вистана по имени Элиза — служит шпионом Страда
 
@@ -408,7 +407,7 @@ _Эта сцена происходит в Главе 2: зона G_
 >- 4-й уровень (3 ячейки): [[Высшая невидимость]], [[Каменная кожа]]
 >- 5-й уровень (1 ячейка): [[Подчинение личности]]
 
-Станимир с радостью отвечает на любые вопросы игроков о вистани или о Баровии. Единственными исключением являются сведения о Старой Костемолке, о которой Станимир не упоминает. Кроме того, Станимир и другие вистани не знают, что в старой мельнице недавно обосновался шабаш **ночных ведьм**, которую они знают только как Старую мельницу Дёрстов. Вистани также не упоминают о проклятиях вистани, считая их суеверием, и описывают интерес Страда к Татьяне как «истинное желание», а не «истинную любовь»
+Станимир с радостью отвечает на любые вопросы игроков о вистани или о Баровии. Единственными исключением являются сведения о Старой Костедробилке, о которой Станимир не упоминает. Кроме того, Станимир и другие вистани не знают, что в старой мельнице недавно обосновался шабаш **ночных ведьм**, которую они знают только как Старую мельницу Дёрстов. Вистани также не упоминают о проклятиях вистани, считая их суеверием, и описывают интерес Страда к Татьяне как «истинное желание», а не «истинную любовь»
 
 >[!info]-
 > **Страд вон Зарович**
@@ -565,7 +564,7 @@ _Эта сцена происходит в Главе 2: зона G_
 > 
 > Помимо этого знака, эти существа обладают чрезвычайной живучестью. Обычные методы причинения вреда оказываются бессильны для окончательного подавления оборотня. Только укус серебра или холод силы смерти могут по-настоящему упокоить оборотня
 > 
-> Иногда заклинание снятия также может излечить поражённого ликантропа, хотя те, кто принял зверя, могут яростно сопротивляться, иногда для, для этого требуется нечто большее. Что же касается несчастных душ, рождённых под проклятием, они обречены нести своё страдание всю жизнь. Насколько показали мои исследования, для таких лиц нет ни исцеления, ни передышки. Они оказались в вечной борьбе, навсегда преследуемые волком внутри себя
+> Иногда заклинание снятия также может излечить поражённого ликантропа, хотя те, кто принял зверя, могут яростно сопротивляться, иногда для этого требуется нечто большее. Что же касается несчастных душ, рождённых под проклятием, они обречены нести своё страдание всю жизнь. Насколько показали мои исследования, для таких лиц нет ни исцеления, ни передышки. Они оказались в вечной борьбе, навсегда преследуемые волком внутри себя
 
 ### История Станимира
 
@@ -1644,174 +1643,180 @@ _**Веха.**_ Когда игроки впервые совершают **пр
 
 Урвин тихо добавляет, что барон, известен своей чрезвычайной восприимчивостью к лести — и если игрокам когда-нибудь понадобится завоевать его благосклонность, его эго может стать идеальной целью
 
-Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+Если игроки спрашивают, есть ли у барона враги в Валлаки, Урвин также может поделиться информацией о леди Фионе Вахтер
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in Vallaki Lore (p. 96). However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+>[!Леди Вахтер]
+> Нет человека, ненавидящего барона больше, чем леди Фиона Вахтер, от которой часто можно услышать: ***«Я лучше буду служить дьяволу, чем безумцу»***. Она владеет старым домом в городе (область N4), но редко покидает своё имение. Двое её взрослых сыновей: Николай и Карл – местные смутьяны. У леди Вахтер также есть дочь, Стелла, которую она в последнее время держит взаперти на территории Вахтерхауса по неизвестным причинам. Бургомистр не вступает в противостояние с Фионой или её отпрысками потому, что он боится леди Вахтер, чья семья имеет старые связи со Страдом
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from N2n. Private Guest Room and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+Когда разговор с Урвином подходит к концу, Риктавио спускается по лестнице из **N2n. Частной гостевой комнаты** и подходит к стойке, приветствуя игроков кивком. Урвин желает ему доброго утра и достаёт из-под стойки небольшой свёрток, который Риктавио принимает и прячет в плащ
 
-> [!abstract]+ **What's In the Parcel?** If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
+> [!abstract]+ **Что в свёртке?**
+> Если его спросят, Урвин может сообщить игрокам, что в свёртке всего лишь еда — несколько яблок, несколько буханок хлеба и круг сыра
 
-### Following the Ringmaster
+### Следуя за конферансье
 
-[](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded/blob/main/Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#following-the-ringmaster)
+Если один или несколько игроков последуют за Риктавио из таверны «Синяя Вода», они без труда смогут проследить за ним до **N2f. Конюшни**
 
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to N2f. Stable (p. 101) without difficulty.
+>[!Конюшня]
+> Вы слышите карканье птиц и жалобное ржание лошадей, когда заглядываете на конюшню. Стойла чистые и содержатся в хорошем состоянии. В одном из них стоит серая кобыла. Маленькая дверь располагается в восточной стене, а деревянная лестница позволяет добраться на сеновал над головами. На деревянных перилах, ограничивающих сеновал, расположились дюжины воронов
+>
+> Любой персонаж, владеющий лошадью, может оставить её здесь на ночь за **1 см**. Серая кобыла – это тягловая лошадь по кличке Друсилла и она любит яблоки. Лошадь принадлежит Риктавио
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Оказавшись внутри, Риктавио вынимает свёрток из плаща, достаёт два яблока и скармливает их своей лошади Друсилле. Когда Друсилла заканчивает есть, Риктавио оглядывается по сторонам, заставляя всех скрывающихся игроков совершить **групповую проверку Скрытности Сл 18**, иначе они будут обнаружены
 
-> [!info]+ **Group Checks** See Group Checks (_Player's Handbook_, p. 175) for more information on how to use group ability checks.
-
-> [!abstract]+ **Detecting Magic** If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> [!abstract]+ **Обнаружение магии**
+> Если игрок использует [[Обнаружение магии]] в присутствии Риктавио, он сразу может заметить:
 > 
-> - the aura of illusion magic surrounding his _hat of disguise_,
-> - the aura of enchantment magic surrounding his _ring of mind shielding_, and
-> - the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
+> - **ауру магии иллюзии**, исходящую от его [[шляпа маскировки|шляпы маскировки]]
+> - **ауру магии очарования**, исходящую от его [[Кольцо защиты разума|кольца защиты разума]]
+> - **ауру магии ограждения**, исходящую от его [[амулет защиты|амулета защиты от обнаружения и поиска]], который он носит скрытым под рубашкой
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity.
+Если он обнаруживает каких-либо игроков, Риктавио обращается к ним и с улыбкой замечает, что нехорошо прятаться в тёмных местах. Затем он в шутливой форме расспрашивает их, стараясь выяснить цель их слежки за ним, при этом избегая раскрытия своей настоящей личности
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in N7. Blinsky Toys (p. 118).)
+Если его спрашивают, для кого предназначена еда, Риктавио настаивает, что она для ***«моего друга, бедного игрушечника»***. (Он имеет в виду Гадоффа Блинского, подробнее описанного в **N7. Магазине игрушек Блинского** (стр. 118))
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+Если его застать врасплох вопросами о магических предметах или истинной личности, Риктавио направляет игроков осмотреть окрестности на предмет шпионов, а затем требует, чтобы они доказали, что не являются шпионами Страда. Если игроки убедительно ответят, он настаивает, чтобы они дали клятву хранить секрет. Если они соглашаются, его рассказ меняется следующим образом:
 
-- If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-- If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+- Если игроки не подозревают его истинную личность, Риктавио «раскрывает», что он является тайным агентом Хранителей Пера, секретного общества, посвящённого сопротивлению Страду. (Своё настоящее имя он называет засекреченным, опасаясь, что его раскрытие может привести Страда к преследованию его близких)
+- Если игроки подозревают его истинную личность, Риктавио «раскрывает», что он Артур Седжвик, бывший ученик Ван Рихтена из страны за Туманами, который последовал за доктором Ван Рихтеном в Баровию, услышав, что охотник на вампиров пропал без вести
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+Это ложь. **Проверка Проницательности Сл 18** показывает, что глаза Риктавио на мгновение устремляются вверх, прежде чем он называет имя Хранителей или Артура. При дальнейших вопросах Риктавио отрицает все дополнительные обвинения. ***«Верьте, во что хотите»***, — соглашается он, пожимая плечами. ***«То, что вы думаете, меня не касается»***
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them.
+Риктавио отказывается раскрывать дополнительную информацию, опасаясь, что агенты Страда могут выкрасть её у игроков
 
-If he fails to detect the players, Rictavio uses his _hat of disguise_ to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd.
+Если он не обнаруживает игроков, Риктавио использует свою [[шляпа маскировки|шляпу маскировки]], чтобы принять облик случайного жителя Валлаки, после чего выскальзывает из конюшни на улицу. Затем он начинает петлять по улицам и переулкам Валлаки в параноидальной попытке оторваться от возможных преследователей. Игрок, пытающийся проследить за ним, должен преуспеть в **проверке Внимательности Сл 18**, иначе он теряет Риктавио в толпе
 
-> [!abstract]+ **Following Rictavio** Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+> [!abstract]+ **Следуя за Риктавио**
+> После того как он покидает конюшню таверны «Синяя Вода», Риктавио направляется на оптовый склад Арасек, где просовывает свёрток с едой сквозь щели задней двери своего фургона. Затем он кратко рассказывает Арабелле о происходящем в городе, пока она ест, стоя на коленях перед фургоном, как описано в [[Арка E - Пропавшая Вистана#E8b. СЛедуя за Риктавио|Арке E — Пропавшая вистана]]
 
-### Exiting the Inn
+### Покидая таверну
 
-[](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded/blob/main/Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#exiting-the-inn)
+Когда в своё первое утро в Валлаки игроки выходят из таверны «Синяя Вода», они обнаруживают, что улица заполнена горожанами. Если предположить, что игроки не вмешиваются, далее разворачивается следующая сцена:
 
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+- Игроки слышат ржание лошади где-то дальше по улице — и горожане замирают и умолкают. Небольшая процессия движется с юга: барон Варгас Валлакович (как описано в _Roleplaying the Vallakovich Family_, стр. 105), едущий верхом на своём каштановом коне, по бокам от него — 2 его **мастифа** по кличке Коготь и Клык, а позади следуют 3 **стражников**. Процессию возглавляет Изек Стражни
 
-- The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in Roleplaying the Vallakovich Family, p. 105) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession.
-- The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-- The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.”
-- The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye.
-- Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her.
-- As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.” ![[Izek Strazni.png]] "Izek Strazni" by Caleb Cleveland. Support him on [Patreon!](https://patreon.com/calebisdrawing/)
+>[!Барон]-
+> Бургомистр барон Варгас Валлакович (дворянин) является жестоким властолюбцем, который гордится своим благородным происхождением и остро отточенными лидерскими качествами. Он устраивает празднования одно за другим, чтобы осчастливить всех вокруг, а его коронная фраза ***«Всё будет хорошо!»*** уже превратилась в грустный и утомительный анекдот. Барон Валлакович убедил себя, что если он сможет заставить всех в Валлаки стать счастливыми, город освободится из тёмных лап Страда
+>
+> Барон обладает ранимым эго и наказывает любого, кто смеётся над его фестивалями или относится к нему неуважительно. У него есть 2 ручных мастиффа, которые следуют за ним повсюду, также как и смертоносный и изуродованный подручный по имени Изек Стражни. Вдобавок к оружию, Изек носит с собой железное кольцо с ключами, которые открывают колодки на городской площади (область N8)
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+- Игроки видят, что старая, испуганная женщина в поношенной одежде простолюдинки только что оступилась рядом с лошадью и упала в лужу грязи в нескольких шагах от животного. Лошадь резко остановилась, и процессия замерла вместе с ней. Дьявольская рука Изека вытянута, что даёт понять — он только что толкнул или швырнул старушку в грязь. (Эта женщина — Виллемина Рикалова, мать заключённого сапожника Удо Луковича)
+- Барон сердито отчитывает женщину за то, что она запачкала его плащ своими ***«грязными крестьянскими руками»***. Старая женщина, дрожащим голосом, извиняется и умоляет барона отпустить её сына, Удо, утверждая, что он не хотел причинить вреда своей «глупой шуткой»
+- Барон настаивает, что Удо нуждается в «реабилитации» за своё «злонамеренное несчастье», и намекает, что то же самое касается и женщины. Он приказывает Изеку схватить её и запереть в кандалы, замечая, что ***«несколько дней в кандалах заставят её придержать язык»***. Изек делает шаг вперёд, напрягая дьявольскую руку с жестоким блеском в глазах
+- Изек хватает женщину, поднимает её на ноги и грубо толкает в руки поджидающих стражников. Двое стражников хватают её за руки за спиной и начинают тянуть к югу, пока она сопротивляется, плачет и умоляет отпустить её сына. Ни один из горожан не осмеливается ей помочь
+- Когда старую женщину уводят, барон обращается к окружающим его горожанам и объявляет: ***«Пусть это будет уроком о последствиях злонамеренного несчастья! Рука Дьявола длинна, но наша радость превзойдёт его тень»***
+![[Izek Strazni.png]] 
+
+> [!profile]+ **Профиль: Барон Варгас Валлакович**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Варгас должен вызывать чувство раздражения из-за своей упёртости, отвращение к своему нарциссическому высокомерию и лёгкое развлечение от его полной и абсурдной уверенности в себе
 > 
-> **Roleplaying Information** _**Resonance.**_ Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> _**Эмоции.**_ Варгас чаще всего испытывает раздражение, обиду, удовлетворение, возмущение, нетерпение или самодовольство
 > 
-> _**Emotions.**_ Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> _**Мотивы.**_ Варгас стремится укрепить свою власть, свободную от влияния Страда, и вывести Валлаки из Туманов, принуждая всех жителей города быть счастливыми
 > 
-> _**Motivations.**_ Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> _**Вдохновение.**_ При отыгрыше Варгаса ориентируйтесь на лорда Фаркуада (_Шрек_), Джоффри Баратеона (_Игра престолов_) и губернатора Рэтклиффа (_Покахонтас_)
 > 
-> _**Inspirations.**_ When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> **Информация о персонаже**
+> _**Образ.**_ Для окружающих Варгас — высокомерный, нарциссичный аристократ «голубых кровей» с дурным характером, манией спасительства и любовью к похвале и обожанию
 > 
-> **Character Information** _**Persona.**_ To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> _**Боевой дух.**_ В бою Варгас приказывает своим псам, Когтю и Клыку, а также Изеку Стражни и всем присутствующим стражникам схватить любого, кто ему противостоит. Если он лишается своих защитников, Варгас либо пытается бежать, либо — если путь к бегству перекрыт — жалко валится к ногам нападавшего, умоляя о пощаде
 > 
-> _**Morale.**_ In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> _**Связи.**_ Варгас, бургомистр Валлаки, является отцом Виктора Валлаковича, мужем баронессы Лидии Петровны, шурином отца Люциана Петровича и сыном покойного барона Валентина Валлаковича. Он также является работодателем и приёмным «отцом» Изека Стражни — своего капитана стражи и главного карателя
+
+> [!profile]+ **Профиль: Изек Стражни**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Изек должен вызывать отвращение своей жестокостью и безразличием к человеческой жизни, а также тревожный дискомфорт из-за его пугающего интереса к Ирине Коляне
 > 
-> _**Relationships.**_ Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
-
-> [!profile]+ **Profile: Izek Strazni**
+> _**Эмоции.**_ Изек чаще всего испытывает раздражение, ярость, нетерпение, садистское удовольствие, одержимость или скуку
 > 
-> **Roleplaying Information** _**Resonance.**_ Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> _**Мотивы.**_ Изек хочет верно служить барону — и, что гораздо важнее, найти и завладеть женщиной, которая ему снится
 > 
-> _**Emotions.**_ Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+> _**Вдохновение.**_ При отыгрыше Изека ориентируйтесь на сэра Грегора Клигана (_Игра престолов_), Фенрира Сивого (_Гарри Поттер_) и Кратоса (_God of War_)
 > 
-> _**Motivations.**_ Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> **Информация о персонаже**
+> _**Образ.**_ Для окружающих Изек — жестокий и грубый каратель, питающий любовь к огню и крови
 > 
-> _**Inspirations.**_ When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+> _**Боевой дух.**_ В бою Изек с готовностью достанет свой посеребрённый боевой топор и будет сражаться до смерти
 > 
-> **Character Information** _**Persona.**_ To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
-> 
-> _**Morale.**_ In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
-> 
-> _**Relationships.**_ Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> _**Связи.**_ Изек является приёмным «сыном» барона Варгаса Валлаковича, капитаном городской стражи Валлаки, частым клиентом игрушечника Гадоффа Блинского и (никому из них неизвестно) биологическим братом Ирины Коляны
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves.
+Если игроки вмешиваются в арест Виллемины, барон приветствует их как чужаков и с улыбкой спрашивает, не хотят ли они сами взять на себя ответственность за «воспитание старой дуры»
 
-_**Diplomacy.**_ If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions.
+_**Дипломатия.**_ Если игроки успешно проходят **проверку Убеждения Сл 10** или приводят аргумент, который достаточно льстит эго барона, он приказывает стражникам отпустить её под их опеку. Он приветствует их в Валлаки и помпезно приказывает им ознакомиться с правилами и традициями города
 
-_**Hostility.**_ If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe.
+_**Враждебность.**_ Если игроки дают понять, что готовы начать бой, глаза барона сужаются, а его мастифы начинают рычать. Тем временем рука Изека пылает алым пламенем, его хватка на древке посеребрённого боевого топора сжимается
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+Барон сначала требует узнать, не являются ли игроки «шпионами Дьявола Страда». Игроки могут попытаться успокоить ситуацию и разрешить арест Виллемины мирно, но любые последующие **проверки Харизмы**, направленные на то, чтобы склонить барона, совершаются **с помехой**
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in N1. St. Andral's Church, p. 97) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+Если кажется, что бой неизбежен, [[Неигровые персонажи#Отец Люциан Петрович|Отец Люциан Петрович]] (как описано в **N1. Церкви святого Андрала**, стр. 97) выходит из толпы и призывает к миру. Барон тепло приветствует его по имени, а отец Петрович извиняется за поведение Виллемины, отмечая, что в последние дни она была обеспокоена на его службах. Он обещает сопроводить её в церковь святого Андрала и позаботиться о том, чтобы её тревожный ум успокоился — предложение, которое барон нехотя принимает
 
-> [!lore]+ **What's Lucian Doing Here?** After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **Зачем Люциан здесь?**
+> После того как отец Петрович обнаружил, что **кости святого Андрала пропали** и отправил Еску за Генриком, чтобы оставить материалы для ремонта крипты, он решил обратиться к барону Валлаковичу в надежде получить его помощь в поиске костей. Однако он передумал, заметив настроение и поведение барона на улицах. (Люциан не рассказывает об этом, если он ещё не сообщил игрокам о пропавших костях в [[Арка D - Пир Св. Андрала]]. Он, однако, может сказать, что надеялся спросить барона о чём-то, но отказался от этой идеи, увидев текущее настроение человека)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated.
+Барон также вслух размышляет, не следует ли ему наказать игроков за дерзость. Отец Петрович уверяет барона, что они всего лишь чужаки, незнакомые с порядками Валлаки, и что он проследит за тем, чтобы они должным образом узнали о местных порядках
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+Барон властно приказывает проследить за этим, затем сообщает игрокам, что они застали его ***«в хорошем настроении»***, и что им следует быть благодарными за ***«милость Хозяина Утра»***. Он, однако, предупреждает, что любые будущие нарушения закона будут встречены суровым наказанием
 
-_**Departure.**_ As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+_**Уход.**_ Когда барон покидает сцену, он обращается к толпе: ***«Я ожидаю увидеть вас всех на Фестивале Пылающего Солнца через 4 дня. Всё будет хорошо!»***
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+Горожане, улыбки на лицах которых больше похожи на гримасы, мрачно повторяют: ***«Всё будет хорошо»***. Барон кивает, явно удовлетворённый, и продолжает путь на север, за ним следуют Изек, его мастифы и оставшиеся стражники. Вскоре деятельность на улице возобновляется
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+Если Ирина находится с группой, она натягивает капюшон плаща, выходя из трактира. Тем не менее, если группа не предприняла специальных действий, чтобы Изек её не заметил, он ловит взгляд Ирины и задерживает его на долгий, тягучий момент, прежде чем, в конце концов, удалиться, оставляя Ирину чувствовать себя неловко и холодно. [[Арка G - Брат и сёстра Стражни]] затем начинается
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+Если спросить, Ирина с неуверенностью отмечает, что что-то в Изеке кажется ей почти знакомым, хотя она не может вспомнить, почему
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+Если игроки каким-либо образом осмелились выступить против Вардгаса или Изека, или иначе помогли Виллемине, Эрнст Ларнак сообщает о их действиях леди Фионе Вахтер в Вахтерхаусе, затем начинается [[Арка F - Желание леди Вахтер]]
 
-_**End of an Act.**_ When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
+_**Конец акта.**_ Когда игроки отправляются из трактира «Синяя Вода» в свой первый полный день в Валлаки, **Акт I** заканчивается и **Акт II** начинается
 
-# Design Notes: Into the Valley
+# Заметки: В Долину
+## Путешествие в Валлаки
 
-[](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded/blob/main/Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#design-notes-into-the-valley)
+_**Семья Ланстен.**_ Столкновения с баровийскими разведчиками и нежитью семьи Ланстен добавлены, чтобы подчеркнуть трагедию осады Страдом деревни Баровия, представить нежить Страда и предвосхитить его конечный замысел — обратить баровийцев в нежить, чтобы, вырвавшись из Туманов, выковать новую армию
 
-## Journey to Vallaki
+_**Столкновение со Страдом.**_ Многие общественные сцены со Страдом создают ситуации, в которых, чтобы наглядно продемонстрировать его силу и жестокость, игроки неизбежно «проигрывают». Такие столкновения могут вызывать у игроков раздражение и порождать апатию или отчаяние вместо напряжённого, но приятного игрового опыта. Однако столь же важно не позволить Страду «проиграть» своё первое столкновение с игроками даже косвенно (например, через бой с его прислужниками). Возможность усомниться в силе Страда на этом этапе в корне подрывает его состоятельность как антагониста
 
-[](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded/blob/main/Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#journey-to-vallaki)
+Таким образом, это столкновение намеренно создаёт ситуацию, в которой к концу «выигрывают» и Страд, и игроки: игроки — убедив Страда позволить им и Ирине уйти, а Страд — почерпнув полезную информацию из доводов игроков и ясно дав понять, что он лишь снисходительно потакает их усилиям
 
-_**The Lansten Family.**_ The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
+Во время проведения этой сцены вспомните мудрые слова Тайвина Ланнистера: ***«Любой человек, который вынужден говорить „я — король“, на самом деле не король»***. То же справедливо и для Страда: позволяя игрокам успешно раздражать, злить его или иным образом вынуждать «наказывать их», вы фактически даёте игрокам определённую степень контроля над разговором, снижая ощущение реального и демонстрируемого контроля Страда и показывая его мелочным дворянином, зацикленным на собственном эго. Всегда помните, что, особенно на этом этапе, игроки _не могут причинить_ Страду никакого значимого вреда — а значит, он не чувствует необходимости причинять какой-либо значимый вред _им_
 
-_**Encounter with Strahd.**_ Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain.
+В целом предполагаемый эффект этого столкновения заключается в том, чтобы представить игрокам Страда, заставить их ненавидеть и бояться его, дать понять игрокрам о прислужниках и слугах Страда, убедить игроков в том, что Страд станет неизбежным антагонистом, а также помочь им оценить его мировоззрение «законно-злой» — что, пребывая в своём джентльменском образе, он не причинит им вреда до тех пор, пока они сами не дадут ему на то повод
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+_**Стрикс.**_ Большой и малые стриксы введены, чтобы дать Бабе Лисяге и друидам Холма Былого осмысленный способ противостоять верворонам Хранителей Пера. Муриэль также добавлена здесь, чтобы заранее обозначить Хранителей Пера, предвосхитить пророчество Страда (о котором игроки смогут узнать после победы над друидами на Холме Былого) и продолжить подготовку к существованию Муриэль до её формального появления в начале задания винодельни
 
-While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players _cannot hurt_ Strahd in any meaningful way—and, as such, he feels no need to hurt _them_ in any meaningful way.
+_**Изменения в ликантропии.**_ Из-за разрушительного влияния, которое персонаж-ликантроп может оказать на вашу игру, получение всех преимуществ проклятия было намеренно сделано максимально сложным. Эта версия создаёт чёткие правила, разделяющие ликантропов, которые «приняли» своё проклятие, и тех, кто этого не сделал, и гарантирует, что эти правила опираются на повествование, управляемое персонажами, а не на произвольную механику игры
 
-Altogether, the intended effect of this encounter is to introduce the players to Strahd, make the players hate and fear him, put the players on notice of Strahd's minions and servants, to reassure the players that Strahd will be an inevitable antagonist, and to make the players appreciate Strahd's Lawful Evil alignment—that, while inhabiting his Gentleman, he will do them no harm until and unless they give him reason to do so.
+Иммунитет к урону ликантропов был изменён на регенерацию, основанную на серебре, чтобы ликантропы соответствовали общепринятому пониманию ликантропии и чтобы все классы могли значимо способствовать их поражению, с магическим оружием или без него. Ликантропы также стали уязвимы к некротическому урону (в дополнение к урону от серебряного оружия), чтобы дать изобретательным игрокам альтернативный способ остановить их регенерацию и (что важнее) объяснить, как Страд, не имеющий серебряного оружия, способен держать вервольфов в повиновении
 
-_**The Strix.**_ The greater and lesser strix have been introduced to provide Baba Lysaga and the druids of Yester Hill with a meaningful way of combating the wereravens of the Keepers of the Feather. Muriel has also been added here to foreshadow the Keepers of the Feather, to foreshadow Strahd's prophecy (which the players will have an opportunity to learn after defeating the druids at Yester Hill), and to continue setting up Muriel's existence before her formal introduction at the beginning of the winery quest.
+_**Гадание Тарокка.**_ Предупреждения мадам Евы в начале гадания были добавлены, чтобы усилить напряжение, заставить игроков относиться к нему с должным вниманием и серьёзностью, а также ввести небольшой элемент драматической интриги в последующие сцены
 
-_**Changes to Lycanthropy.**_ Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics.
+_**Артури Раданавич.**_ Артури Раданавич является персонажем из источника _Advanced Dungeons & Dragons_ — _Руководство Ван Рихтена по Вистани_. Его история (и сам персонаж) в значительной степени перенесены напрямую в это руководство, чтобы более полно представить легенду (и трагедию) Ван Рихтена, объяснить превращение Ван Рихтена в более симпатичного персонажа, ввести Эcмерельду д’Авенир и создать у игроков интерес к истории Ван Рихтена при обнаружении его сожжённого дневника в Башне Ван Рихтена
 
-Lycanthropic immunity has been changed to silver-based regeneration in order to ensure that lycanthropes resonate with common understandings of lycanthropy and to ensure that all classes can meaningfully contribute to a lycanthrope's defeat, with or without magic weapons or spell. Lycanthropes have also been made weak to necrotic damage (in addition to damage from silvered weapons) in order to provide creative players with an alternate means of halting their regeneration and (more importantly) to explain how Strahd, who owns no silver weapons, is able to keep the werewolves in line.
+_**Танцующий огонь.**_ Игра Историй была введена, чтобы дать игрокам возможность расслабиться в относительно безопасном месте, одновременно взаимодействуя и исследуя истории и интересы друг друга. Сама игра — вместе с её ставками — добавляет элемент драматического напряжения в столкновение, обеспечивая вовлечённость игроков и интерес к каждой рассказанной истории
 
-_**The Tarokka Reading.**_ Madam Eva's warnings at the beginning of the reading have been added to increase the tension of the reading, to ensure that players treat it with the weight and care that it deserves, and to introduce a minor element of dramatic intrigue in the scenes that follow.
+История Станимира показывает отношения между Страдом и Вистани, тем самым предвосхищая верность Арригала к нему. История Элизы вводит _Святой Символ Вороньгего рода_ и сочувственную природу воронов, а также вмешательство Бабы Зеленны в Лесной Храм на Холме Былого (например, для призыва Черновога с помощью его). История Артури ярко представляет трагедию доктора Рудольфа ван Рихтена, создавая напряжение вокруг персонажа, с которым игроки вскоре смогут встретиться. Наконец, история Ирины предвосхищает её отношения с Изеком Стражни и её истинное происхождение в Валлаки
 
-_**Arturi Radanavich.**_ Arturi Radanavich is a creation of the _Advanced Dungeons & Dragons_ sourcebook _Van Richten's Guide to the Vistani._ His tale (and his character) have largely been transplanted directly into this guide in order to further introduce Van Richten's legend (and tragedy), to provide an explanation for Van Richten's transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in Van Richten's history upon uncovering his burned journal in Van Richten's Tower.
+_**Подарок для Арабель.**_ Просьба мадам Евы была добавлена, чтобы создать зацепку для игрушечного магазина Блинского в Валлаки (позволяя игрокам увидеть заказанную Изеком куклу в форме Ирины) и для лагеря Вистани за пределами Валлаки (позволяя игрокам начать задание по поиску пропавшей Арабель)
 
-_**The Dancing Fire.**_ The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told.
+_**_**Скелетный всадник.**_ Встреча со скелетным всадником — короткая, но выразительная сцена, призванная отразить темы нежити, одиночества и тайны, пронизывающие эту сюжетную арку
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the _Holy Symbol of Ravenkind_ and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to Izek Strazni and her true origins in Vallaki.
+_**Сторожевая башня.**_ Эта небольшая достопримечательность служит для предвосхищения трагедии баровийских беженцев, судьбы Ордена Серебряного Дракона и кровавой истории долины
 
-_**A Gift for Arabelle.**_ Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+_**Водопады Цер.**_ Столкновение с ревенантом было добавлено, чтобы дать игрокам явную, но не срочную зацепку к Аргинвостхольту. Ответы ревенанта намеренно остаются краткими, чтобы игроки узнали о Ордене Серебряного Дракона лишь при встрече с сэром Годфри Гвилимом
 
-_**The Skeletal Rider.**_ The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
+_**Встреча с Моргантой.**_ Эта сцена намеренно структурирована так, чтобы отговорить игроков раскрывать истинную личность Морганты, нападать на ночных ведьм или входить в Старую Костедробилку. (У них будет полная возможность сделать это позже в [[Арка H - Потерянная душа]].) Вместо этого сцена лишь представляет Морганту как персонажа, предвосхищает её власть над снами и сообщает игрокам, что она живёт в старой ветряной мельнице со своими двумя дочерьми (то есть её ковеном)
 
-_**The Watchtower.**_ This short landmark serves to foreshadow the tragedy of the Barovian refugees, the fate of the Order of the Silver Dragon, and the bloodstained history of the valley.
+_**Глубокий лес.**_ Стаи воронов были добавлены, чтобы игроки воспринимали воронов (а следовательно, и верворонов) как друзей и союзников. Реакция Ирины на озеро Зарович была добавлена, чтобы дополнительно предвосхитить её отношения с Изеком и её происхождение в Валлаки
 
-_**Tser Falls.**_ The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
+_**Охота вервольфа.**_ Это краткое боевое столкновение вводит вервольфов и даёт стаям воронов (а также Муриэль) возможность помогать и защищать игроков. Действия волков _**Рвать**_ была добавлена, чтобы создать более напряжённый и динамичный боевой сценарий
 
-_**Meeting Morgantha.**_ This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Арка H - Потерянная душа]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+## Добро пожаловать в Валаки
 
-_**The Deep Woods.**_ The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+_**Лагерь беженцев.**_ Лагерь баровийских беженцев размещён здесь, чтобы дать игрокам дополнительную причину ненавидеть барона Валлаковича и Изека, а также предоставить Морганте естественную аудиторию для её пирожных сновидений. Отказывая Ирине в попытках помочь им, беженцы продвигают её сюжетную линию, позволяя ей осознать, что она не сможет помочь своему народу, пока Страд жив, что подталкивает её к окончательному решению присоединиться к группе в борьбе
 
-_**The Werewolf's Hunt.**_ This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' _**Maul**_ action option has been added to create a more tense and dynamic combat scenario.
+_**Налог.**_ Налог стражи даёт игрокам дополнительную причину ненавидеть барона Валлаковича. Серебряный тариф также указывает игрокам на богатство серебряного оружия и амуниции, накопленное бароном
 
-## Welcome to Vallaki
+_**Трактир «Синяя Вода».**_ Эта последовательность намеренно структурирована так, чтобы постепенно и в управляемом темпе познакомить игроков с несколькими ключевыми персонажами Валлаки: Мартиковыми, Вахтерами, охотниками на волков и руководителем цирка Риктавио. История Риктавио написана максимально комедийно, чтобы отговорить игроков воспринимать его всерьёз до раскрытия его личности в [[Арка E - Пропавшая Вистана]]
 
-[](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded/blob/main/Act%20I%20-%20Into%20the%20Mists/Arc%20C%20-%20Into%20the%20Valley.md#welcome-to-vallaki)
-
-_**The Refugee Camp.**_ The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
-
-_**The Tax.**_ The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
-
-_**The Blue Water Inn.**_ This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
-
-_**Exiting the Inn.**_ The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do _not_ fight Izek here, and all reasonable precautions have been taken to ensure this.**
+_**Выход из трактира.**_ Столкновение игроков с бароном Валлаковичем и Изеком на дорогах Валлаки было добавлено, чтобы дать игрокам немедленную причину их не любить, познакомить игроков с отцом Люцианом Петровичем, установить основное драматическое напряжение тиранического правления барона над Валлаки, запустить преследование Ирины Изеком и дать леди Фионе Вахтер реальную причину вовлечь игроков в свои интриги. **Крайне важно, чтобы игроки здесь _не_ сражались с Изеком, и все разумные меры предосторожности для этого приняты**

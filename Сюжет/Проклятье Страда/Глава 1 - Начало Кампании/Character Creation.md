@@ -237,7 +237,7 @@ Unbeknownst to the player, the visage stamped upon the *electrum coin* is the fa
 
 The player who possesses the *electrum coin* should have strong, vivid reasons to believe that the coin first came from a wondrous vault of treasure—a conqueror's hoard—and that, one day, it will lead them to claim riches beyond imagining.
 
-***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in [[Arc E - The Missing Vistana]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
+***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in [[Арка E - Пропавшая Вистана]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
 
 When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
 ## Healing—The Wolf's Tooth
@@ -279,7 +279,7 @@ The player who possesses the *tattered banner* should have strong, vivid reasons
 
 ***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Арка E - Пропавшая Вистана]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
 
 If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
 ## Faith—The Sunrise Medallion
@@ -312,6 +312,6 @@ Rahadin, a dusk elf who had spurned Erevan's rule, helped King Barov conquer the
 
 The player who possesses the *broken blade* should have strong, vivid reasons to believe that their ancestors were refugees, driven forth from their ancestral lands and persecuted, and that the blade will one day deliver justice to the traitor who destroyed them.
 
-***Developments.*** If the player shows the *broken blade* to Kasimir Velikov in [[Arc E - The Missing Vistana]], he mournfully recalls its history and asks the player how they came to possess it. If the player informs Kasimir of how they came to inherit it, Kasimir greets them as family, wondering aloud if more of the dusk elves may have escaped Strahd's slaughter outside of Barovia.
+***Developments.*** If the player shows the *broken blade* to Kasimir Velikov in [[Арка E - Пропавшая Вистана]], he mournfully recalls its history and asks the player how they came to possess it. If the player informs Kasimir of how they came to inherit it, Kasimir greets them as family, wondering aloud if more of the dusk elves may have escaped Strahd's slaughter outside of Barovia.
 
 If the *broken blade* is ever in close proximity to Rahadin, Strahd's chamberlain, it emits a high-pitched hum and trembles violently, spinning like a compass needle in his direction just as it did upon sensing Death House. If the player shows the *broken blade* to Rahadin, he at first claims to have no memory of it, noting dispassionately the thousands that he has slaughtered. However, in combat, Rahadin eventually comes to remember the blade's origins, dismissing it as "the shattered toy of a weak and worthless man."

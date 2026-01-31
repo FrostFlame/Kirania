@@ -1940,7 +1940,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 12 (p
 
 A creature can cast a spell, including a cantrip or ritual spell, into an engraved rune. If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
-The runes must be activated in the same order as [[Arc E - The Missing Vistana#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
+The runes must be activated in the same order as [[Арка E - Пропавшая Вистана#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
 
 * evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
 * necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation

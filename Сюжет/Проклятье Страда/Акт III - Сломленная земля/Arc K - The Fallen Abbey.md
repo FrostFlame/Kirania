@@ -660,7 +660,7 @@ If the players share that they’ve come to recruit her to their cause, Ezmereld
 * As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
 
 > [!abstract]+ **Ezmerelda & Van Richten**
-> If the players mention meeting Dr. Van Richten in [[Arc E - The Missing Vistana]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
+> If the players mention meeting Dr. Van Richten in [[Арка E - Пропавшая Вистана]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
 ### What Ezmerelda Knows
 Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
 
