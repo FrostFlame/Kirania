@@ -892,7 +892,7 @@ _Эта сцена происходит в главе 5: область N5_
 
 Если игроки следуют за [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] к оптовому складу Арасек вместо того, чтобы ждать его в таверне «Синяя Вода», они находят его стоящим на коленях у фургона — он, по всей видимости, регулирует спицы заднего левого деревянного колеса. Игрок с **пассивным Восприятием 16** или выше замечает, что Риктавио снова и снова регулирует одну и ту же спицу, а его губы при этом шевелятся, словно он с кем-то разговаривает. Если игроки продолжают наблюдать, он занимается этим делом целых 5 минут — гораздо дольше, чем обычно занимает такая работа, — после чего встаёт и собирается уходить
 
-Если игроки сталкиваются с ним лицом к лицу, Риктавио тепло их приветствует, но делает вид, что не понимает сути их обвинений и утверждений. Если же игроки настаивают, что хотят помочь Арабелле, показывают ему обгоревшую страницу дневника или иным образом угрожают раскрыть его прикрытие, взгляд Риктавио мрачнеет, пальцы сжимаются на трости, а голос понижается почти до шёпота. Он требует ответить, не являются ли они шпионами Страда, и спокойно угрожает «разобраться» с ними, если они служат воле Дьявола
+Если игроки сталкиваются с ним лицом к лицу, Риктавио тепло их приветствует, но делает вид, что не понимает сути их обвинений и утверждений. Если же игроки настаивают, что хотят помочь Арабелль, показывают ему обгоревшую страницу дневника или иным образом угрожают раскрыть его прикрытие, взгляд Риктавио мрачнеет, пальцы сжимаются на трости, а голос понижается почти до шёпота. Он требует ответить, не являются ли они шпионами Страда, и спокойно угрожает «разобраться» с ними, если они служат воле Дьявола
 
 Если игроки представляют достаточные доказательства своей доброй воли или преуспевают в **проверке Убеждения Сл 15**, Риктавио вздыхает и приказывает игрокам образовать защитную стену у задней части фургона. Если же игроки, напротив, настраивают Риктавио против себя или иным образом не убеждают его, из фургона тихо раздаётся голос юной девочки: ***«Они не желают мне зла. Пожалуйста, открой дверь»***
 
@@ -1022,7 +1022,7 @@ This arc aims to remedy both issues simultaneously, providing Van Richten with a
 
 In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
+***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Арка D - Пир Святого Андрала]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Арка G - Брат и сестра Стражни]].
 
 ***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
 
@@ -1040,7 +1040,7 @@ Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been ad
 
 ***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Арка H - Потерянная душа]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
 
-The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
+The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Арка G - Брат и сестра Стражни]].
 
 *Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Арка H - Потерянная душа]] for more information about Stella's fate.)
 

@@ -197,7 +197,7 @@ Unbeknownst to the player, the *amber shard* was formerly a part of a dark vesti
 
 The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
 
-***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
+***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Арка G - Брат и сестра Стражни]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
 ## Redemption—The Angel's Feather
@@ -290,7 +290,7 @@ Unbeknownst to the player, the medallion once belonged to Sergei von Zarovich, t
 
 The player who possesses the *sunrise medallion* should have strong, vivid reasons to believe that it will strengthen or guide them in faith, and that certain signs of the divine will lead them to those in need of salvation and deliverance.
 
-***Developments.*** When the player first approaches St. Andral's Church in [[Arc D - St. Andral's Feast]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
+***Developments.*** When the player first approaches St. Andral's Church in [[Арка D - Пир Святого Андрала]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
 ## Harmony—The Stone Crest
 ![[Stone Crest.png]]
 A player seeking **harmony** begins the campaign with the *stone crest*, a flat, round stone engraved with the image of a three-pointed star. On the nights of the new moon, the star seems to glimmer with emerald light.

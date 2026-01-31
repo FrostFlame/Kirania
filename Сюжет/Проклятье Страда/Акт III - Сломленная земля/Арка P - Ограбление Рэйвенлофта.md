@@ -300,7 +300,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
 
 > [!abstract]+ **Keys to the Dungeons**
-> If the players killed Volenta in [[Arc D - St. Andral's Feast]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
+> If the players killed Volenta in [[Арка D - Пир Святого Андрала]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
 
 <div class="statblock">
 <h2>Ludmilla Vilisevic, Elementalist</h2>
@@ -1554,13 +1554,13 @@ This area is largely as described in <span class="citation">K74. North Dungeon (
 In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Арка D - Пир Святого Андрала]], the ring is instead held by Ludmilla.)
 ## P11c. South Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
 This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
-Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Арка D - Пир Святого Андрала]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
 <div class="statblock">
 <h2>Emil Toranescu</h2>
@@ -1621,13 +1621,13 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > The spells *dispel magic* and *knock* have no effect on the collar.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Арка D - Пир Святого Андрала]], the ring is instead held by Ludmilla.)
 
 > [!abstract]+ **Milivoj's Prison**
-> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
+> If Milivoj was imprisoned in Castle Ravenloft in [[Арка D - Пир Святого Андрала]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
 
 > [!abstract]+ **Henrik's Prison**
-> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75e. Empty Cell (p. 81)</span>.
+> If Henrik was imprisoned in Castle Ravenloft in [[Арка D - Пир Святого Андрала]], he is locked in <span class="citation">K75e. Empty Cell (p. 81)</span>.
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
@@ -1688,7 +1688,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 ### Meeting Volenta
 If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
-Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
+Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Арка D - Пир Святого Андрала]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
 > [!combat]- **Balancing the Torturer** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
