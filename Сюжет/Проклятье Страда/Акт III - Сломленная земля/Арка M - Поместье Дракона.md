@@ -242,7 +242,7 @@ If the players allow the figure to approach, read:
 <p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Арка I - Стены Крезка]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
@@ -257,7 +257,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
 
-If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+If the players previously encountered her in [[Арка I - Стены Крезка]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
 * She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
 * She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.

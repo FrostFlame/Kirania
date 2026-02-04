@@ -208,7 +208,7 @@ Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, 
 
 The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to redemption for the sins that they have committed.
 
-***Developments.*** When the players first arrive at the Abbey in [[Arc I - The Walls of Krezk]] or [[Arc K - The Fallen Abbey]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
+***Developments.*** When the players first arrive at the Abbey in [[Арка I - Стены Крезка]] or [[Arc K - The Fallen Abbey]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
 ## Family—The Wanderer's Scarf
 ![[Wanderer's Scarf.png]]
 A player seeking **family** begins the campaign with the *wanderer's scarf*, a multicolored scarf woven with complex patterns. The fabric is soft and warm, and is long enough to be worn around the neck or over one's head. When bright sunlight, moonlight, or starlight is allowed to pass through it, the patterns seem to shimmer and twist in eerie and beautiful ways.
@@ -226,7 +226,7 @@ Unbeknownst to the player, the *dragon's scale* formerly belonged to Argynvost, 
 
 The player who possesses the *dragon's scale* should have received the scale from a family member, and should have strong, vivid reasons to believe that the scale will one day unlock the secrets of their heritage.
 
-***Developments.*** When the player first encounters Argynvost's shadow in the foyer of Argynvostholt in [[Arc M - The Dragon's Manor]], the scale briefly burns cold in the same way that it did upon sensing Death House. Each time the player approaches a manifestation of Argynvost's spirit, the scale burns cold and glows with a bright, silver light in the direction of the manifestation. 
+***Developments.*** When the player first encounters Argynvost's shadow in the foyer of Argynvostholt in [[Арка M - Поместье Дракона]], the scale briefly burns cold in the same way that it did upon sensing Death House. Each time the player approaches a manifestation of Argynvost's spirit, the scale burns cold and glows with a bright, silver light in the direction of the manifestation. 
 
 If the player helps to retrieve Argynvost's skull and restore it to his crypt in [[Arc Q - A Shining Beacon]], Argynvost's spirit greets the player warmly, naming them his heir to the legacy of the Order of the Silver Dragon before lighting the beacon of Argynvostholt.
 ## Wealth—The Electrum Coin
@@ -237,7 +237,7 @@ Unbeknownst to the player, the visage stamped upon the *electrum coin* is the fa
 
 The player who possesses the *electrum coin* should have strong, vivid reasons to believe that the coin first came from a wondrous vault of treasure—a conqueror's hoard—and that, one day, it will lead them to claim riches beyond imagining.
 
-***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in [[Арка E - Пропавшая Вистана]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
+***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Арка M - Поместье Дракона]], or Kasimir Velikov in [[Арка E - Пропавшая Вистана]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
 
 When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
 ## Healing—The Wolf's Tooth
@@ -277,9 +277,9 @@ Unbeknownst to the player, the banner was once flown by the warlord Strahd von Z
 
 The player who possesses the *tattered banner* should have strong, vivid reasons to believe that the banner was once the sigil of a mighty conqueror—and that, by following in that conqueror's steps, they will one day achieve greatness, glory, and the right to rule.
 
-***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
+***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Арка I - Стены Крезка]], the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Арка E - Пропавшая Вистана]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Арка M - Поместье Дракона]], or Kasimir Velikov in either [[Арка E - Пропавшая Вистана]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
 
 If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
 ## Faith—The Sunrise Medallion

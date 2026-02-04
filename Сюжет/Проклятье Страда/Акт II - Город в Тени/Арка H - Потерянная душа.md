@@ -140,7 +140,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
+> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Арка M - Поместье Дракона#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
 If it's been at least six hours since Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
@@ -824,7 +824,7 @@ The players can identify these remedies, as well as the symptoms of cackle fever
 
 Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
-If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
+If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Арка I - Стены Крезка]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
 ![[Heartstone.png]]

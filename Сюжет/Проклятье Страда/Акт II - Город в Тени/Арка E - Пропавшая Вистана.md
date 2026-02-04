@@ -1006,7 +1006,7 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 >
 > If one of the players was infected by a werewolf’s bite on the Old Svalich Road, Van Richten shares that he is capable of brewing an elixir capable of suppressing the curse of lycanthropy for a single night, rendering the player a docile wolf during a full moon, rather than a raging werewolf.
 >
-> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
+> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Арка I - Стены Крезка]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
 > [!abstract]+ **Inspecting Ireena**
 > If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.

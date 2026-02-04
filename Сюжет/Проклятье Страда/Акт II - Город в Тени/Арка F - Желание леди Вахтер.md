@@ -574,7 +574,7 @@ Lady Wachter's interest in using Stella to secure power in Vallaki through marri
 
 Lady Wachter's scheme with the poisoned wine has been added to provide the players with a fuller gameplay experience in the lead-up to Izek's assassination (thereby building the dramatic tension and enhancing the impact of Izek's ultimate death), and to provide the players with a reason to seek out and benefit from Lady Wachter's aid.
 
-In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[Arc I - The Walls of Krezk]]) and to subtly foreshadow her connection to Baba Lysaga.
+In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[Арка I - Стены Крезка]]) and to subtly foreshadow her connection to Baba Lysaga.
 
 Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[Arc T - The Three Fanes]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[Арка H - Потерянная душа]].)
 

@@ -1,81 +1,89 @@
-_An adventure for five 4th-level characters._
+---
+dg-publish: true
+---
+_Приключение для пяти персонажей 4-го уровня_
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+В этой арке игроки сопровождают Ирину Коляну в церковь Святого Андрала в Валлаки, исполняя своё обещание её брату, Исмарку. Однако отец Люциан, священник церкви, сообщает им, что кости Святого Андрала — источник защитной магии церкви — были недавно украдены, подвергая опасности её охрану и прихожан
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+У игроков есть время до ночи 5-го дня после прибытия в Валлаки, чтобы выявить вора (служителя церкви Миливоя), найти кости в их укрытии (мастерская гробовщика Валлаки) и вернуть их на законное место в церкви. Их задание приведёт их к прямому столкновению с Волентой Попофски, самой садистской вампирской невестой Страда, и её вампирскими приспешниками
 
-Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+Сумеют ли игроки сорвать план Воленты и восстановить защиту церкви? Или церковь будет утрачена во тьме и крови, её мерцающий свет погаснет в тенях?
 
-> [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> [!abstract]+ **Раннний старт**
+> Если игроки приводят Ирину Коляну в церковь Святого Андрала в свою первую ночь в Валлаки (т.е. «0 день» в Валлаки), они приходят и видят, как отец Люциан завершает службу для своей паствы. После того как он успокаивает Виллемину Рикалову (подробности о Виллемине см. в [[Арка C - В долину]]), отец Люциан приветствует игроков и Ирину Коляну в церкви и предлагает им свою помощь
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
+> Если сообщить ему, что Ирина надеется найти убежище в церкви, отец Люциан с радостью предлагает ей место для сна в часовне. После того как Ирина предлагает вознаградить его за доброту, отец Люциан обдумывает её просьбу, а затем приглашает её помогать с обязанностями и обучением Йески на время её пребывания — просьба, которую Ирина любезно принимает
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
-# D1. St. Andral's Church
-<span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
+> На следующее утро, после того как кости Святого Андрала были украдены, как описано ниже, Ирина навещает игроков в таверне «Синяя Вода» до их разговора с Урвином Мартиковым, описанного в [[Арка C - В долину]], и просит их посетить церковь, чтобы поговорить с отцом Люцианом об «инциденте». (Отец Люциан попросил её не упоминать инцидент за пределами церкви, чтобы не вызвать панику.) Остальная часть этой арки проходит как обычно
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+# D1. Церковь Святого Андрала
 
-The church's occupants follow the following schedule unless interrupted:
+_Эта сцена происходит в главе 5: район N1_
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
-* In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
-* In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
+>[!read]
+> Эта согбенная, вековая каменная церковь имеет выпуклый шпиль в задней части, а вдоль стен расположены треснутые, грязные окна, на которых изображены набожные святые. Ограда из кованного железа окружает сад надгробных камней рядом с церковью. Тонкая вуаль тумана стелется среди них
 
-> [!profile]+ **Profile: Father Lucian Petrovich**
+Жители церкви следуют следующему расписанию, если им не мешают:
+
+- На рассвете Йеска присоединяется к отцу Люциану на молитвах в часовне и помогает ему готовить завтрак
+- Утром Йеска выполняет поручения по Валлаки, пока отец Люциан подметает часовню, вытирает пыль с скамеек, полирует алтарь и убирает кухню
+- Днём отец Люциан обучает Йеску чтению и знакомит его с основами истории и теологии
+- Вечером, с помощью Йески, отец Люциан ведёт службу для прихожан и произносит проповедь, обещая убежище и утешение
+
+> [!profile]+ **Профиль: Отец Люциан Петрович**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Отец Люциан должен вызывать чувство благодарности своей гостеприимностью, расположения — готовностью выслушать и проявить сочувствие, утешения — своей теплотой, спокойствием и мудростью, а также сочувствия к его тревоге по поводу пропавших костей и безопасности прихожан
+> 
+> _**Эмоции.**_ Наиболее частыми эмоциями отца Люциана являются задумчивость, надежда, тревога и сострадание
 >
-> **Roleplaying Information**
-> ***Resonance.*** Father Lucian should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+> _**Мотивации.**_ Отец Люциан стремится поддерживать дух жителей Валлаки, сохранять церковь как место убежища и утешения и воспитывать Йеску как можно лучше
 >
-> ***Emotions.*** Father Lucian’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+> _**Вдохновения.**_ При игре за отца Люциана ориентируйтесь на дядю Айро (_Аватар: Легенда об Аанге_), Майкла Карпентера и отца Фортхилла (_Досье Дрездена_), а также мистера Роджерса (_Соседство мистера Роджерса_)
 >
-> ***Motivations.*** Father Lucian wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best he can.
+> **Информация о персонаже**
+> _**Персона.**_ Для незнакомцев отец Люциан — спокойный, скромный и сострадательный священник, который всегда рад поделиться словом похвалы или несколькими жемчужинами мудрости. Для тех, кому он доверяет, отец Люциан — преданный и стойкий защитник своей общины, который тем не менее беспокоится о своей способности обезопасить прихожан. В глубине души отец Люциан испытывает нотку сомнения в промысле и силе Утреннего Господа, задаваясь вопросом, является ли пробуждение Страда испытанием веры баровийцев или знаком того, что земля навсегда оставлена
+> 
+> _**Мораль.**_ В бою отец Люциан предпочёл бы отговорить своих нападающих, при необходимости мирно сдавшись, чтобы избежать ненужного кровопролития. Однако если была бы угроза жизни невинного или членам его общины, он сражался бы до смерти с молитвой на устах и миром в сердце
 >
-> ***Inspirations.*** When playing Father Lucian, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
->
-> **Character Information**
->
-> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
->
-> ***Morale.*** In a fight, Father Lucian would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
->
-> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> _**Отношения.**_ Отец Люциан является наставником и отцовской фигурой для сироты и алтарника Йески, работодателем смотрителя Миливоя, братом баронессы Лидии Петровны и дальним потомком Таши Петровны, древнего жреца Утреннего Господа, останки которой хранятся в катакомбах замка Рэйвенлофт
 
-> [!lore]+ **The Stolen Bones**
-> Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
- >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> [!lore]+ **Украденные кости**
+> Хотя он помог дому вон Зарович подняться к власти, Святой Андрал, иронично, оставался яростным и могущественным врагом нежити всю свою жизнь. Будучи Верховным Жрецом церкви Хозяина Утра, Андрал возглавлял яростные крестовые походы против нежити, скрывавшейся в тёмных уголках королевства короля Барова, и уничтожал её, где бы она ни встречалась
 > 
-> When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
+> Столь велика была его ненависть к нежизни, что в последние часы своей жизни Святой Андрал поклялся, что место его упокоения навеки станет убежищем от сил тьмы. С тех пор его кости покоятся в крипте под церковью Валлаки, а её жрецы ежегодно на рассвете в его святой день проводят особый ритуал — в день Пира Святого Андрала. Пока этот обряд совершается, церковь остаётся освящённой землёй ещё на 1 год
+>
+> Когда Страд пробудился от своей недавней спячки, его вампирская невеста Волента Попофски решила впечатлить его единственным известным ей способом — безудержной демонстрацией страданий, резни и ужаса. И где, как не в жуткой бойне в церкви Святого Андрала в ночь её самого святого праздника, подумала она
 > 
-> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
+> Это была тёмная и ветреная ночь, когда Волента нанесла визит Хенрику ван дер Вурту, гробовщику Валлаки. Найдя в обстановке мрачное удовольствие, а в одиноком Хенрике — идеальную жертву для своих замыслов, Волента вежливо пригрозила сжечь его мастерскую дотла, если он не позволит ей использовать её в качестве базы для своих махинаций
 > 
-> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
+> Испуганный Хенрик ван дер Вурт вскоре капитулировал, и Волента установила связь с телепортационной жаровней в подземельях замка Рэйвенлофт. Используя эту связь, она призвала двух одичавших **вампирских отродий** — бывших участников восстания Дору, обезумевших от жажды крови, — и три ящика, наполненных могильной землёй, чтобы в ней отдыхать
 > 
-> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
+> Пережиток более древней эпохи, Волента знала, что останки Святого Андрала обеспечивают церковь её благословенной защитой. Она приказала Хенрику ван дер Вурту найти и похитить эти кости до ночи Пира Святого Андрала — любыми необходимыми средствами
 > 
-> Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
+> Учитывая свою профессию, Хенрик ван дер Вурт сталкивался с Миливоем — смотрителем церкви — не один раз. Он знал, что Миливой хорошо знаком с обитателями и планировкой церкви, что Миливой не особенно почитал веру Хозяина Утра, и — что самое важное — что у Миливоя было множество младших братьев и сестер, которых он отчаянно пытался прокормить
 > 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> Копаясь в собственных сбережениях в поисках средств, Хенрик ван дер Вурт подошёл к Миливою с историей и предложением. Святой Андрал, утверждал Хенрик, был предком его собственной семьи — и Хенрик стремился заполучить его останки. ***«В эти тёмные времена, — мрачно сказал Хенрик, — мы все хотим держать наши семьи рядом с собой»***
 > 
-> Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
+> Хенрик ван дер Вурт рассказал Миливою, что его семья веками искала останки Святого Андрала — но только недавно он узнал, что они находятся где-то в церкви. Несомненно, утверждал он, добрый отец Люциан будет неохотно отдавать такую реликвию, хотя её истинная ценность заключалась лишь в сентиментальном значении
 > 
-> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
+> Вот тут Миливой и вступил в дело. В обмен на плату в **15 электрумовых монет** Миливой должен был найти и добыть останки Андрала. Старые легенды, отметил Хенрик, указывали, что эти останки несут благословение Святого Андрала, освящая церковь от зла — хотя он лично сомневался в их правдивости. Он предложил Миливою использовать эти легенды как предлог, чтобы выяснить местоположение останков, либо у отца Люциана, либо у Ески, алтарника. (***«Разумеется***, — отметил Хенрик с сухим смешком, — ***я довольно уверен, что видел Изека Стражни, входящего в церковь, так что, возможно, эти легенды потеряли своё сияние добра, а?»***)
 > 
-> Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
+> Миливой, стремившийся заработать, чтобы заботиться о своих младших братьях и сёстрах, был легко убеждён украсть эти «затхлые старые реликвии» и вскоре согласился на предложение Хенрика. Он знал, что Еска, недавний сирота, был робким и боязливым ребёнком, который искал у отца Люциана безопасности и утешения. Хотя он не мог избавиться от чувства вины за то, что воспользовался страхом мальчика, Миливой решил, что несколько ночей кошмаров Ески — достойная цена за то, чтобы его собственная семья имела еду
 > 
-> Six days later, shortly before Yeska's lessons with Father Lucian, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
+> 6 дней спустя, незадолго до уроков Ески с отцом Люцианом, Миливой вслух, перед мальчиком, задумался, не нападёт ли Страд на церковь с армией вампиров и демонов. ***«Я слышал, что вампиры ненавидят солнце»***, — мрачно сказал Миливой, пока лицо Ески побледнело. ***«А если Дьявол придёт сюда, что мы вообще сможем сделать, чтобы его остановить?»***
 > 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Lucian revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
+> Когда вскоре после этого начался урок Ески, Миливой подслушивал за дверью — и молча радовался, когда отец Люциан раскрыл местоположение костей под алтарём. Той же ночью Миливой в плаще с капюшоном вернулся в церковь с лопатой в руках, крадучись по затемнённой часовне и взламывая склеп, скрывавшийся внизу
 > 
-> But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Lucian emerged to block the exit. Without recognizing him, Father Lucian demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
+> Но скрипучая доска выдала его — и когда Миливой вышел из склепа, отец Люциан появился, чтобы перегородить выход. Не узнав его, отец Люциан потребовал, чтобы нарушитель показал лицо и вернул то, что украл. Миливой впал в панику и вырвался через одно из стеклянных окон церкви, разбив его. Затем Миливой передал кости Хенрику, который заплатил ему
 > 
-> Yeska doesn't yet know that the bones were stolen. Instead, Father Lucian told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Lucian sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
+> Еска ещё не знает, что кости были украдены. Вместо этого отец Люциан сказал ему только, что сломанная ветка дерева влетела в окно, разбив стекло и повредив пол. На рассвете отец Люциан отправил Еску в мастерскую Хенрика, чтобы получить доски и гвозди для ремонта, которые Хенрик доставил лично, чтобы проверить, подозревает ли Люциан его причастность
 > 
-> Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
-## D1a. Entering the Church
+> Отец Люциан не знает, кто украл кости и зачем. Хотя он мягко расспрашивал Еску, говорил ли он кому-либо о костях, Еска честно ответил, что не говорил. Отец Люциан не смог выяснить больше при собственном кратком осмотре места преступления. Однако с приближением даты повторного освящения он опасается худшего
+
+## D1a. Входя в Церковь
+
+
+
 When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
 
 Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.

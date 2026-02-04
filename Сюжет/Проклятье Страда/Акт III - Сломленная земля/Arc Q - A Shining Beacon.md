@@ -20,7 +20,7 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 ***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Арка I - Стены Крезка#I4c. The Scrying Spell|I4c. The Scrying Spell]].
 
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Арка P - Ограбление Рэйвенлофта#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
@@ -96,7 +96,7 @@ If the third corpse melts away, or when the players first move to depart the cor
 #### Arrival in Vallaki
 Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
 ## Journey to Krezk
-As the players journey to Krezk, they again encounter the **revenant** standing guard at the bridge over the Raven River, as described in [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a shadow crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
+As the players journey to Krezk, they again encounter the **revenant** standing guard at the bridge over the Raven River, as described in [[Арка I - Стены Крезка#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a shadow crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
 
 The revenant isn't sure what the dark tidings are, but can share that Commander Vladimir Horngaard is enraged by the players' assault on Castle Ravenloft. The revenant doesn't know how Vladimir might have learned of the players' actions, but suggests that he may have learned it from the **phantom warriors** that serve as his eyes and ears in the Ethereal Plane.
 
@@ -898,7 +898,7 @@ The first time the players enter the cemetery, if they’re not using stealth or
 </div>
 
 > [!abstract]+ **Zorya’s Return**
-> If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
+> If the players befriended her in [[Арка M - Поместье Дракона]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
 
 > [!combat]- **Balancing the Fallen Knight** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
