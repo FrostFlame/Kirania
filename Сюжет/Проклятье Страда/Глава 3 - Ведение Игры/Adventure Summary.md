@@ -57,7 +57,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 
 In this act, the players receive a plea from Urwin Martikov to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
 
-If the players agree to Urwin's request in [[Arc J - The Stolen Gem]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to Davian Martikov, an elder **wereraven** and the leader of the Keepers of the Feather.
+If the players agree to Urwin's request in [[Арка J - Украденный самоцвет]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to Davian Martikov, an elder **wereraven** and the leader of the Keepers of the Feather.
 
 Upon freeing the winery from the druids' clutches, Davian asks them to journey to Yester Hill to the south, where the druids are plotting a dark ritual that threatens the vineyard's destruction. Once the players have recovered the winery's stolen gemstone and returned it to Davian Martikov, they can learn the true nature of the Keepers of the Feather and gain Muriel's knowledge of Strahd's cryptic fortunetelling.
 
@@ -65,11 +65,11 @@ Should the players accept Strahd's invitation to dine at Ravenloft, they will ha
 
 In Krezk, the players will learn that the Abbot of the Abbey of Saint Markovia has fallen into madness, and that the key to cleansing his divine spirit lies amongst the crypts of Castle Ravenloft. In the Werewolf Den, the players will receive an offer from Zuleika, a **werewolf** priestess of Mother Night: To receive the *Holy Symbol*, they must first rescue her mate from the castle dungeons. At Argynvostholt, the players receive a solemn missive from the spirit of the silver dragon Argynvost: return his stolen skull from the desecrated grounds of the castle cellar and restore it its rightful tomb. 
 
-On the night of [[Arc O - Dinner with the Devil]], the players are escorted by Strahd's black carriage to the castle, where they will meet Strahd's servants, brides, and consorts. After dining with Strahd and touring the castle, the players will learn that Strahd will be away from the castle the following night, providing the players free reign to infiltrate the keep. Not long thereafter, however, a bolt of lightning disables the drawbridge, forcing them to remain as Strahd's guests until morning—and survive an old and vengeful spirit in the process.
+On the night of [[Арка O - Ужин с Дьяволом]], the players are escorted by Strahd's black carriage to the castle, where they will meet Strahd's servants, brides, and consorts. After dining with Strahd and touring the castle, the players will learn that Strahd will be away from the castle the following night, providing the players free reign to infiltrate the keep. Not long thereafter, however, a bolt of lightning disables the drawbridge, forcing them to remain as Strahd's guests until morning—and survive an old and vengeful spirit in the process.
 
 Should the players survive, they are free to return the following night for [[Арка P - Ограбление Рэйвенлофта]], where they must battle Strahd's brides and servants to fulfill their assorted quests. Should they escape, they can then return to purify the Abbot, defeat the werewolf alpha Kiril Stoyanovich, and light the radiant beacon of Argynvostholt.
 
-Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[Arc J - The Stolen Gem]].
+Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[Арка J - Украденный самоцвет]].
 
 | Starting Level | Arc | Milestone                                                                                    | XP    |
 | :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
