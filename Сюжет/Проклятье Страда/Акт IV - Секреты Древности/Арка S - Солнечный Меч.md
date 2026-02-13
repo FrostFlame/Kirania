@@ -750,7 +750,7 @@ This area is as described in <span class="citation">X37. Wizard’s Bedchamber (
 > A player can’t accept more than one dark gift. Once a player accepts a vestige’s dark gift, all other vestiges within the temple refuse to offer them any additional dark gift, noting with distaste that their soul is “tainted" by another’s power.
 
 > [!info]+ **Stages of Corruption**
-> The first time a player fails a Charisma saving throw after using a vestige’s dark gift, that player immediately progresses to Stage Four of that vestige’s amber corruption, as described below. The player doesn’t receive the effects of Stage Three of that vestige’s [[Amber Shards#Stage Three|amber corruption]], and loses the effects of the vestige’s Stage Three amber corruption if they already possessed them.
+> The first time a player fails a Charisma saving throw after using a vestige’s dark gift, that player immediately progresses to Stage Four of that vestige’s amber corruption, as described below. The player doesn’t receive the effects of Stage Three of that vestige’s [[Янтарные осколки#Stage Three|amber corruption]], and loses the effects of the vestige’s Stage Three amber corruption if they already possessed them.
 #### Breached Vault
 <span class="citation">This scene takes place in Chapter 13, Area X33d</span>
 
@@ -771,7 +771,7 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 > 
 > If the player expresses interest in Delban’s gift, Delban offers the player the power to unleash “the cold of the void beyond the stars." To accept, the player must enter the column of lava and allow Delban to devour it.
 > 
-> ***Delban’s Gift.*** Delban’s dark gift allows a player to cast _cone of cold_ without components three times per day. A player who accepts Delban’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Delban’s [[Amber Shards#Amber Corruption|Amber Corruption]].
+> ***Delban’s Gift.*** Delban’s dark gift allows a player to cast _cone of cold_ without components three times per day. A player who accepts Delban’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Delban’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].
 >
 > Each time the player uses Delban’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Delban’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Delban’s dark gift, and resets to 5 each time the player gains an additional stage of Delban’s amber corruption.
 >
@@ -808,7 +808,7 @@ If the player passes through the amber archway or accepts Delban’s gift, the t
 >  
 > If the player passes through the amber archway or accepts Drizlash’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Drizlash’s Gift.*** Drizlash’s dark gift allows a player to cast, without components, _spider climb_ (at will) and _blink_ (three times per day). A player who accepts Drizlash’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Drizlash’s [[Amber Shards#Amber Corruption|Amber Corruption]].
+> ***Drizlash’s Gift.*** Drizlash’s dark gift allows a player to cast, without components, _spider climb_ (at will) and _blink_ (three times per day). A player who accepts Drizlash’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Drizlash’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].
 >  
 > Each time the player uses Drizlash’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Drizlash’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Drizlash’s dark gift, and resets to 5 each time the player gains an additional stage of Drizlash’s amber corruption.
 >  
@@ -839,7 +839,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 >
 > If the player passes through the amber archway or accepts Yrrga’s gift, the telepathic connection ends, and the player returns to their previous senses.
 > 
-> ***Yrrga’s Gift.*** Yrrga’s dark gift allows a player to cast _true seeing_ without components at will. A player who accepts Yrrga’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yrrga’s [[Amber Shards#Amber Corruption|Amber Corruption]].
+> ***Yrrga’s Gift.*** Yrrga’s dark gift allows a player to cast _true seeing_ without components at will. A player who accepts Yrrga’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yrrga’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].
 >
 > Each time the player uses Yrrga’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Yrrga’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Yrrga’s dark gift, and resets to 5 each time the player gains an additional stage of Yrrga’s amber corruption.
 >
@@ -866,7 +866,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 >  
 > If the player passes through the amber archway or accepts Taar Haak’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Taar Haak’s Gift.*** Taar Haak’s dark gift allows a player to cast, without components, the *enlarge/reduce* spell (self only, at-will) and *enhance ability* (Strength and self only, at-will). A player who accepts Taar Haak’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Taar Haak’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Taar Haak’s Gift.*** Taar Haak’s dark gift allows a player to cast, without components, the *enlarge/reduce* spell (self only, at-will) and *enhance ability* (Strength and self only, at-will). A player who accepts Taar Haak’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Taar Haak’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >
 > Each time the player uses Taar Haak’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Taar Haak’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Taar Haak’s dark gift, and resets to 5 each time the player gains an additional stage of Taar Haak’s amber corruption.
 >  
@@ -893,7 +893,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 >  
 > If the player passes through the amber archway or accepts Yog’s gift, the telepathic connection ends, and the player returns to their previous senses.
 >  
-> ***Yog’s Gift.*** Yog’s dark gift allows a player to cast, without components, _stoneskin_ (three times per day). A player who accepts Yog’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yog’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Yog’s Gift.*** Yog’s dark gift allows a player to cast, without components, _stoneskin_ (three times per day). A player who accepts Yog’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yog’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Yog’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Yog’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Yog’s dark gift, and resets to 5 each time the player gains an additional stage of Yog’s amber corruption.
 >  
@@ -924,7 +924,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > If the player passes through the amber archway or accepts Norganas’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Norganas’s Gift.*** Norganas’s dark gift allows a player to cast _finger of death_ without components three times per day. A player who accepts Norganas’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Norganas’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Norganas’s Gift.*** Norganas’s dark gift allows a player to cast _finger of death_ without components three times per day. A player who accepts Norganas’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Norganas’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Norganas’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Norganas’s amber corruption, as described below. The DC increases by 10 each additional time the player uses Norganas’s dark gift, and resets to 10 each time the player gains an additional stage of Norganas’s amber corruption.
 >  
@@ -949,7 +949,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > If the player passes through the amber archway or accepts Vaund’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Vaund’s Gift.*** Vaund’s dark gift allows a player to cast the _greater invisibility_ spell without components three times per day. A player who accepts Vaund’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Vaund’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Vaund’s Gift.*** Vaund’s dark gift allows a player to cast the _greater invisibility_ spell without components three times per day. A player who accepts Vaund’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Vaund’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Vaund’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Vaund’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Vaund’s dark gift, and resets to 5 each time the player gains an additional stage of Vaund’s amber corruption.
 >  
@@ -976,7 +976,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > If the player passes through the amber archway or accepts Seriach’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Seriach’s Gift.*** Seriach’s dark gift allows a player to gain the effects of a ***summon fiend*** spell twice a day. (When cast in this way, the spell conjures a **hell hound**, rather than its ordinary fiendish spirit.) A player who accepts Seriach’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Seriach’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Seriach’s Gift.*** Seriach’s dark gift allows a player to gain the effects of a ***summon fiend*** spell twice a day. (When cast in this way, the spell conjures a **hell hound**, rather than its ordinary fiendish spirit.) A player who accepts Seriach’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Seriach’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Seriach’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Seriach’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Seriach’s dark gift, and resets to 5 each time the player gains an additional stage of Seriach’s amber corruption.
 >  
@@ -1229,7 +1229,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > If the player passes through the amber archway or accepts Sykane’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Sykane’s Gift.*** Sykane’s dark gift allows a player to cast the _raise dead_ spell once per day as an action, without components. A player who accepts Sykane’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Sykane’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Sykane’s Gift.*** Sykane’s dark gift allows a player to cast the _raise dead_ spell once per day as an action, without components. A player who accepts Sykane’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Sykane’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Sykane’s dark gift, they must succeed on a DC 20 Charisma saving throw or gain an additional stage of Sykane’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Sykane’s dark gift, and resets to 20 each time the player gains an additional stage of Sykane’s amber corruption.  
 >  
@@ -1256,7 +1256,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > If the player passes through the amber archway or accepts Zrin-Hala’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Zrin-Hala’s Gift.*** Zrin-Hala’s dark gift allows a player to cast _call lightning_ and _lightning bolt_ without components twice per day each. A player who accepts Zrin-Hala’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zrin-Hala’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Zrin-Hala’s Gift.*** Zrin-Hala’s dark gift allows a player to cast _call lightning_ and _lightning bolt_ without components twice per day each. A player who accepts Zrin-Hala’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zrin-Hala’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Zrin-Hala’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Zrin-Hala’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Zrin-Hala’s dark gift, and resets to 5 each time the player gains an additional stage of Zrin-Hala’s amber corruption.  
 >  
@@ -1283,7 +1283,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > If the player passes through the amber archway or accepts Fekre’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Fekre’s Gift.*** Fekre’s dark gift allows a player to cast _contagion_ twice per day, without components and with a range of 30 feet. A player who accepts Fekre’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Fekre’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Fekre’s Gift.*** Fekre’s dark gift allows a player to cast _contagion_ twice per day, without components and with a range of 30 feet. A player who accepts Fekre’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Fekre’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Fekre’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Fekre’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Fekre’s dark gift, and resets to 5 each time the player gains an additional stage of Fekre’s amber corruption.  
 >  
@@ -1314,7 +1314,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > If the player passes through the amber archway or accepts Savnok’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Savnok’s Gift.*** Savnok’s dark gift allows a player to cast _mind blank_ (self only) once per day without components. A player who accepts Savnok’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Savnok’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Savnok’s Gift.*** Savnok’s dark gift allows a player to cast _mind blank_ (self only) once per day without components. A player who accepts Savnok’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Savnok’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Savnok’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Savnok’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Savnok’s dark gift, and resets to 5 each time the player gains an additional stage of Savnok’s amber corruption.  
 >  
@@ -1341,7 +1341,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > If the player passes through the amber archway or accepts Tarakamedes' gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Tarakamedes' Gift.*** Tarakamedes' dark gift allows a player to cast _fly_ three times per day without components. (When cast in this way, the player manifests bony, skeletal wings for the duration of the spell.) A player who accepts Tarakamedes' dark gift instantly receives its disfiguring condition, as described in Stage Three of Tarakamedes’ [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Tarakamedes' Gift.*** Tarakamedes' dark gift allows a player to cast _fly_ three times per day without components. (When cast in this way, the player manifests bony, skeletal wings for the duration of the spell.) A player who accepts Tarakamedes' dark gift instantly receives its disfiguring condition, as described in Stage Three of Tarakamedes’ [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Tarakamedes' dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Tarakamedes' amber corruption, as described below. The DC increases by 3 each additional time the player uses Tarakamedes' dark gift, and resets to 5 each time the player gains an additional stage of Tarakamedes' amber corruption.  
 >  
@@ -1366,7 +1366,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > If the player passes through the amber archway or accepts Shami-Amourae’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Shami-Amourae’s Gift.*** Shami-Amourae’s dark gift allows a player to cast _suggestion_ three times per day without components. A player who accepts Shami-Amourae’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Shami-Amourae’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Shami-Amourae’s Gift.*** Shami-Amourae’s dark gift allows a player to cast _suggestion_ three times per day without components. A player who accepts Shami-Amourae’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Shami-Amourae’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Shami-Amourae’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Shami-Amourae’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Shami-Amourae’s dark gift, and resets to 5 each time the player gains an additional stage of Shami-Amourae’s amber corruption.  
 >  
@@ -1425,7 +1425,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 >  
 > If the player passes through the amber archway or accepts Dahlver-Nar’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Dahlver-Nar’s Gift.*** Dahlver-Nar’s dark gift allows a player to gain the benefits of a _reincarnate_ spell nine times. A player who accepts Dahlver-Nar’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Dahlver-Nar’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Dahlver-Nar’s Gift.*** Dahlver-Nar’s dark gift allows a player to gain the benefits of a _reincarnate_ spell nine times. A player who accepts Dahlver-Nar’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Dahlver-Nar’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Dahlver-Nar’s dark gift, they must succeed on a DC 20 Charisma saving throw or gain an additional stage of Dahlver-Nar’s amber corruption, as described below. The DC increases by 10 each additional time the player uses Dahlver-Nar’s dark gift, and resets to 20 each time the player gains an additional stage of Dahlver-Nar’s amber corruption.  
 >  
@@ -1452,7 +1452,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 >  
 > If the player passes through the amber archway or accepts Zantras’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Zantras’s Gift.*** Zantras’s dark gift allows a player to cast _geas_ (as an action) and _dominate monster_ once per day each without components. A player who accepts Zantras’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zantras’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> ***Zantras’s Gift.*** Zantras’s dark gift allows a player to cast _geas_ (as an action) and _dominate monster_ once per day each without components. A player who accepts Zantras’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zantras’s [[Янтарные осколки#Amber Corruption|Amber Corruption]].  
 >  
 > Each time the player uses Zantras’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Zantras’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Zantras’s dark gift, and resets to 10 each time the player gains an additional stage of Zantras’s amber corruption.  
 >  
@@ -1479,7 +1479,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 >  
 > If the player passes through the amber archway or accepts Khirad’s gift, the telepathic connection ends, and the player returns to their previous senses.  
 >  
-> ***Khirad’s Gift.*** Khirad’s dark gift allows a player to cast *legend lore* and *contact other plane* once per day each. A player who accepts Khirad’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Khirad’s [[Amber Shards#Amber Corruption|Amber Corruption]]. 
+> ***Khirad’s Gift.*** Khirad’s dark gift allows a player to cast *legend lore* and *contact other plane* once per day each. A player who accepts Khirad’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Khirad’s [[Янтарные осколки#Amber Corruption|Amber Corruption]]. 
 >
 > Each time the player uses Khirad’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Khirad’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Khirad’s dark gift, and resets to 10 each time the player gains an additional stage of Khirad’s amber corruption. 
 >  

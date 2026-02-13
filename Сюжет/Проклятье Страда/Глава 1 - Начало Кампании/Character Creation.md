@@ -199,7 +199,7 @@ The player who possesses the *amber shard* should have strong, vivid reasons to 
 
 ***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Арка G - Брат и сестра Стражни]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
-If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
+If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Янтарные осколки]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
 ## Redemption—The Angel's Feather
 ![[Angel's Feather.png]]
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
@@ -242,6 +242,7 @@ The player who possesses the *electrum coin* should have strong, vivid reasons t
 When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
 ## Healing—The Wolf's Tooth
 ![[Wolf's Tooth.png]]
+
 A player seeking **healing** begins the campaign with a *wolf's tooth* coated with clear resin and mounted on a leather cord. The tooth seems to lengthen and sharpen on nights of the full moon, and calms its wearer's dreams when worn at night.
 
 Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** that served the fey goddess known as the Huntress before her gift of lycanthropy was twisted into a curse. The Huntress's holy place, the Forest Fane, dwells amidst the woodlands of Barovia, silently waiting to be restored. When it senses the presence of Death House, the tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of the house.
@@ -249,6 +250,7 @@ Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** 
 The player who possesses the *wolf's tooth* should have strong, vivid reasons to believe that the tooth is the key to curing a particular wound, malady, or curse that ails them.
 
 ***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Арка J - Украденный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Arc T - The Three Fanes]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
+
 ## Duty—The Raven's Feather
 ![[Raven's Feather.png]]
 A player seeking **duty** begins the campaign with a *raven's feather*, a small, black feather with soft, downy barbs. When held aloft before a storm, the feather seems to gently tremble, exuding the scent of cold rain and damp earth.

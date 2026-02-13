@@ -1092,7 +1092,7 @@ Creatures that don’t cast a reflection (e.g., because they are invisible, beca
 
 Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in <span class="citation">K41. Treasury (p. 67)</span>.
 ### Plundering the Treasury
-The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Amber Shards]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
+The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Янтарные осколки]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
 
 An **invisible stalker** bound by Strahd to protect the treasury’s contents lurks in the upper floor of the tower. The invisible stalker has the following changes to its statistics:
 

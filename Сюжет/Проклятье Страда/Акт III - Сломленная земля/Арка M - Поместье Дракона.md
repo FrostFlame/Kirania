@@ -133,7 +133,7 @@ If asked why he has summoned the players to Argynvostholt, Godfrey can share the
 Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
 
 * A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
+* A player in Stage One or Two of an amber shard’s corruption (see the [[Янтарные осколки]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
 * A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
 
 If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."

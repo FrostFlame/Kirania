@@ -1500,7 +1500,7 @@ The tunnel leads to [[#The Eastern Nest]].
 
 The carving depicts a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contains a vertical wavy line. A player who has previously read the *Tome of Strahd* recognizes it as the same symbol depicted therein. If Kasimir is present, he can share that the carving is the symbol of the Amber Temple, which Patrina first showed to him in his dreams.
 
-Each dangling object is an *amber shard of Sykane* (see the [[Amber Shards#Sykane, the Soul Hungerer|Amber Shards]] appendix).
+Each dangling object is an *amber shard of Sykane* (see the [[Янтарные осколки#Sykane, the Soul Hungerer|Amber Shards]] appendix).
 
 > [!info]+ **Where Are the Bodaks?**
 > If the full party enters this room while the bodaks are active, Deirdre is lurking in [[#The Eastern Nest]], while Cassius attempts to sneak behind the players via [[#The Junction]].
@@ -2260,7 +2260,7 @@ When the match has concluded, Chief Diegia announces the victor. If the players 
 > [!abstract]+ **Following Scorilo**
 > If undisturbed after losing the boasting match, Scorilo exits the longhouse, then stomps through the snow behind a group of huddled huts. He emerges amidst a small copse of pine trees, where he proceeds to punch a tall, thick tree’s rough, ragged trunk, snarling, until his knuckles split and blood runs down his arms. He then lets out a guttural bellow of frustration and collapses against the tree trunk. 
 >
-> After a few moments, he glances carefully at his surroundings, retrieves an *amber shard of Zrin-Hala* (see [[Amber Shards]]) from a small hole ten feet up the tree’s trunk, and considers it silently for several minutes. He then stows the shard back into its hiding place, uses the snow to wipe the blood from his knuckles, and returns to the longhouse, entering his family’s living quarters via a wooden side door.
+> After a few moments, he glances carefully at his surroundings, retrieves an *amber shard of Zrin-Hala* (see [[Янтарные осколки]]) from a small hole ten feet up the tree’s trunk, and considers it silently for several minutes. He then stows the shard back into its hiding place, uses the snow to wipe the blood from his knuckles, and returns to the longhouse, entering his family’s living quarters via a wooden side door.
 >
 > Players who follow Scorilo out of the longhouse can avoid his notice by succeeding on a DC 12 Dexterity (Stealth) check. If, at any point before he reveals the *amber shard*, the players interrupt Scorilo and attempt to converse with him, Scorilo halts and bitterly asks them what they want. Players who give him good reason to do so and succeed on a DC 20 Charisma (Persuasion) check can convince Scorilo to make peace with them.
 >
