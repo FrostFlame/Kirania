@@ -535,7 +535,7 @@ When the players first descend the switchback road and enter the village of Krez
 <p>A warm, pleasant breeze rustles through the pines as a woman’s voice, gentle and kind, whispers into your ears: “Find me at the Shrine of the White Sun, by the water’s edge. As you have healed this place, allow me to bring you healing in turn."</p>
 </div>
 
-Players who spoke with St. Markovia in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
+Players who spoke with St. Markovia in [[Арка Q - Сияющий Маяк#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
 ### Markovia’s Gift
 If the players follow St. Markovia’s invitation to <span class="citation">S4. Pool and Shrine (p. 146)</span>, read:
 
@@ -545,7 +545,7 @@ If the players follow St. Markovia’s invitation to <span class="citation">S4. 
 
 Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Arc K - The Fallen Abbey]] recognize her visage.
 
-If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
+If she did not speak with the players in [[Арка Q - Сияющий Маяк#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
 
 Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
 
@@ -604,7 +604,7 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 # Q5. Pack Attack
 
 > [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Arc L - The Den of Wolves]], thereby allowing Kiril to detect that outsiders had entered the den.
+> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Арка L - Логово Волков]], thereby allowing Kiril to detect that outsiders had entered the den.
 ## Q5a. The Pack Arrives
 At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
 

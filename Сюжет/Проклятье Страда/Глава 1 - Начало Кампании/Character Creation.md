@@ -228,7 +228,7 @@ The player who possesses the *dragon's scale* should have received the scale fro
 
 ***Developments.*** When the player first encounters Argynvost's shadow in the foyer of Argynvostholt in [[Арка M - Поместье Дракона]], the scale briefly burns cold in the same way that it did upon sensing Death House. Each time the player approaches a manifestation of Argynvost's spirit, the scale burns cold and glows with a bright, silver light in the direction of the manifestation. 
 
-If the player helps to retrieve Argynvost's skull and restore it to his crypt in [[Arc Q - A Shining Beacon]], Argynvost's spirit greets the player warmly, naming them his heir to the legacy of the Order of the Silver Dragon before lighting the beacon of Argynvostholt.
+If the player helps to retrieve Argynvost's skull and restore it to his crypt in [[Арка Q - Сияющий Маяк]], Argynvost's spirit greets the player warmly, naming them his heir to the legacy of the Order of the Silver Dragon before lighting the beacon of Argynvostholt.
 ## Wealth—The Electrum Coin
 ![[Electrum Coin.png]]
 A player seeking **wealth** begins the campaign with an old, chipped *electrum coin* stamped with the profiled visage of a proud, yet cold-looking nobleman. When seen in a certain light, the nobleman's expression seems to change from a firm, aristocratic sneer to a feral, monstrous snarl.
@@ -268,7 +268,7 @@ Unbeknownst to the player, the page was taken from the library of Exethanter, a 
 
 The player who possesses the *crumpled page* should have strong, vivid reasons to want to find and claim the power that the page promises.
 
-***Developments.*** When the player first approaches Exethanter's library in [[Arc S - A Sword of Sunlight]], the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
+***Developments.*** When the player first approaches Exethanter's library in [[Арка S - Солнечный Меч]], the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
 ## Ambition—The Tattered Banner
 ![[Tattered Banner.png]]
 A player seeking **ambition** begins the campaign with the *tattered banner*, an old, ragged red banner bearing the heraldry of a raven in front of a shield. The raven's wings are spread wide, and the shield has the image of a castle's keep engraved into its top. Sometimes, when a Lawful-aligned creature holds the banner, a crimson light seems to glimmer from the peak of the castle's keep, and the sound of soldiers marching can be distantly heard.
@@ -279,7 +279,7 @@ The player who possesses the *tattered banner* should have strong, vivid reasons
 
 ***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Арка I - Стены Крезка]], the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Арка M - Поместье Дракона]], or Kasimir Velikov in either [[Арка E - Пропавшая Вистана]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Арка M - Поместье Дракона]], or Kasimir Velikov in either [[Арка E - Пропавшая Вистана]] or [[Арка S - Солнечный Меч]], its appearance is met with revulsion and bitter disgust. 
 
 If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
 ## Faith—The Sunrise Medallion

@@ -669,14 +669,14 @@ Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to
 * Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
 * After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
 
-If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Arc L - The Den of Wolves]].)
+If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Арка L - Логово Волков]].)
 
 Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
 
 * conducting a seance immediately to contact the Abbey’s restless spirits; and
 * investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
 
-If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Arc L - The Den of Wolves]] for more information about Ezmerelda's plan to investigate the werewolf den.)
+If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Арка L - Логово Волков]] for more information about Ezmerelda's plan to investigate the werewolf den.)
 ### The Seance
 To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
 
@@ -720,7 +720,7 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 > * **Contrast and Transition**: When you choose cards that represent contrasting ideas or states, arrange them in an order that best illustrates the contrast or transition from one state to another.
 
 > [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Арка M - Поместье Дракона]].
+> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Арка L - Логово Волков]], and/or recovering Argynvost’s skull in [[Арка M - Поместье Дракона]].
 >
 > Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
@@ -800,4 +800,4 @@ If the player fails the first check, the Abbot notices their attention to Vasilk
 > If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
 
 > [!info]+ **Redeeming the Abbot**
-> The players can redeem the Abbot in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].
+> The players can redeem the Abbot in [[Арка Q - Сияющий Маяк]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].

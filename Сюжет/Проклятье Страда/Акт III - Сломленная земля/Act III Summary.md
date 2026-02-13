@@ -6,9 +6,9 @@ The second, a letter from Strahd von Zarovich himself, invites the players to di
 
 Should the players accept the Martikovs’ mission in [[Арка J - Украденный самоцвет]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
 
-Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Arc L - The Den of Wolves]], and uncover the mysteries of Argynvostholt in [[Арка M - Поместье Дракона]].
+Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Арка L - Логово Волков]], and uncover the mysteries of Argynvostholt in [[Арка M - Поместье Дракона]].
 
-In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenkind* in [[Arc L - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Арка M - Поместье Дракона]].
+In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenkind* in [[Арка L - Логово Волков]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Арка M - Поместье Дракона]].
 
 On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Арка O - Ужин с Дьяволом]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Арка P - Ограбление Рэйвенлофта]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
 
@@ -52,20 +52,20 @@ The most common path through Act III is as follows:
 
 * **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Арка J - Украденный самоцвет]] (🔶).
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Арка J - Украденный самоцвет]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Арка J - Украденный самоцвет]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
+* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Арка J - Украденный самоцвет]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Арка L - Логово Волков]].
 * **Neyavr 12.** The players investigate Argynvostholt in [[Арка M - Поместье Дракона]].
 * **Neyavr 13.** The players take a day of downtime.
 * **Neyavr 14.** The players dine with Strahd at dusk in [[Арка O - Ужин с Дьяволом]] (🔶).
 * **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Арка P - Ограбление Рэйвенлофта]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Арка Q - Сияющий Маяк]] (🔶).
 
 Alternately, particularly swift players might take the following path through Act III instead:
 
 * **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Арка J - Украденный самоцвет]] (🔶), then investigate Argynvostholt in [[Арка M - Поместье Дракона]].
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Арка J - Украденный самоцвет]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Арка J - Украденный самоцвет]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
+* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Арка J - Украденный самоцвет]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Арка L - Логово Волков]].
 * **Neyavr 12.** The players take a day of downtime.
 * **Neyavr 13.** The players take a day of downtime.
 * **Neyavr 14.** The players take a day of downtime, then dine with Strahd at dusk in [[Арка O - Ужин с Дьяволом]] (🔶).
 * **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Арка P - Ограбление Рэйвенлофта]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Арка Q - Сияющий Маяк]] (🔶).

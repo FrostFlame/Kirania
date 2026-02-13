@@ -232,7 +232,7 @@ If the players insist that Madam Eva foresaw the existence of the *Sunsword*, sh
 > [!design]- **Design Notes: Lady Wachter's Arc**
 > Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Арка H - Потерянная душа]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
 > 
-> The players' lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Arc S - A Sword of Sunlight]].
+> The players' lighting of the beacon of Argynvostholt in [[Арка Q - Сияющий Маяк]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Арка S - Солнечный Меч]].
 
 ***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
 

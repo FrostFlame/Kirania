@@ -10,7 +10,7 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[Amber Shards#Zrin-Hala, the Howling Storm|Zrin-Hala, the Howling Storm]])
 > * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[Amber Shards#Sykane, the Soul Hungerer|Sykane, the Soul Hungerer]])
 > * within the [[Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[Amber Shards#Yog the Invincible|Yog the Invincible]])
-> * from the **nothic** Meda in [[Arc S - A Sword of Sunlight]] (see [[Amber Shards#Khirad, the Star of Secrets|Khirad, the Star of Secrets]])
+> * from the **nothic** Meda in [[Арка S - Солнечный Меч]] (see [[Amber Shards#Khirad, the Star of Secrets|Khirad, the Star of Secrets]])
 > 
 > You should not, however, add additional shards for the players to obtain.
 
@@ -39,7 +39,7 @@ If the player accepts, they gain the following effects:
 
 * They gain a particular boon, as given in the **Amber Corruption** section below. 
 * They can continue to cast that vestige's spell once per day. Each time they do, they gain a number of levels of exhaustion equal to the number of times they've cast the spell. This number resets only if the player spends three full days without casting the vestige's spell. (For example, if a player casts Fekre's *stinking cloud* spell two days in a row, they receive one level of exhaustion on the first day and two levels of exhaustion on the second day. If the player waits three days before casting the spell again, they will receive only one level of exhaustion for doing so; otherwise, they will receive three additional levels of exhaustion.)
-* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
+* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Арка Q - Сияющий Маяк]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
 
 If the player asks the vestige about the condition, the vestige informs them that the condition is a byproduct of the imperfect connection forged by the shards. It invites that player to the Amber Temple to receive the vestige's full gift and complete their transformation.
 

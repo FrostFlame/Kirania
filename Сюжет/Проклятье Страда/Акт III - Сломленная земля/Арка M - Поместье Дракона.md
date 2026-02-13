@@ -1131,4 +1131,4 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
-> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].
+> The players can return Argynvost's skull to his crypt in [[Арка Q - Сияющий Маяк]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].
