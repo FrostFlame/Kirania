@@ -1,1071 +1,1242 @@
-_An adventure for five 4th-level characters._
+---
+dg-publish: true
+---
+_Приключение для пяти персонажей 4-го уровня_
 
-In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.
+В этой арке, по просьбе Мадам Евы, игроки посещают Игрушки Блинского, дом местного игрушечника Валлаки, чтобы приобрести подарок на именины для правнучатой племянницы Евы, Арабель. Там игроки узнают новую информацию о странствующем цирковом директоре Риктавио и грубом прислужнике барона, Изеке Стражни
 
-After obtaining a toy for Arabelle, the players visit the Vistani encampment located a short distance away from Vallaki's walls. There, the players can meet the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. 
+После того как игроки приобретают игрушку для Арабель, они посещают лагерь Вистани, расположенный недалеко от стен Валлаки. Там игроки могут встретиться с вождями лагеря: Лувашем и Арригалом, соответственно отцом и дядей Арабель
 
-When the players learn that Arabelle has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover Arabelle’s location.
+Когда игроки узнают, что Арабель недавно пропала, Луваш просит их забрать улику с места её исчезновения — странное платиновое печатное кольцо — у Казимира Великова, одного из сумеречных эльфов, чьи хижины окружают лагерь. Луваш считает, что кольцо может содержать ключ к нахождению его дочери, и обещает игрокам богатство, если они изучат его тайны в личной библиотеке барона в Валлаки и выяснят местонахождение Арабель
 
-Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, Victor Vallakovich, whose spellbook bears the same sigil as the signet ring. 
+Получив кольцо у Казимира и вернувшись в Валлаки, игрокам необходимо проникнуть в личную библиотеку барона Варгаса Валлаковича — с помощью хитрости, дипломатии или обмана. Оказавшись внутри, они вскоре встречают сына барона, Виктора Валлаковича, чья книга заклинаний несёт тот же символ, что и печатное кольцо
 
-In exchange for the players’ promise to bring back any relics found therein—including, if possible, a proper wizard’s staff—Victor tells them that the sigil was the personal symbol of the archmage Khazan, whose abandoned tower sits on the shores of Lake Baratok. Though Victor doesn’t know how to get there, he can direct the players to Szoldar Szoldarovich, a Vallakian wolf-hunter who knows the Svalich Woods well.
+В обмен на обещание игроков вернуть любые найденные там реликвии — включая, если возможно, настоящий посох волшебника — Виктор сообщает им, что этот символ был личным знаком архимага Хазана, заброшенная башня которого стоит на берегу озера Бараток. Хотя Виктор не знает, как туда добраться, он может направить игроков к Шольдару Шольдаровичу, валлакийскому охотнику на волков, который хорошо знает Сваличский лес
 
-The players can hire Szoldar as a guide, or simply buy him a drink to get directions to Lake Baratok. Upon arriving at the lake, the players can find the trapped wagon of the Vistana monster hunter Ezmerelda d’Avenir, as well as the ancient mage’s tower of Khazan himself. After bypassing the tower’s magically locked door, the players can find clues revealing Arabelle’s fate—and suggesting that the ringmaster Rictavio is not all he appears. 
+Игроки могут нанять Шольдара в качестве проводника или просто угостить его напитком, чтобы получить указания к озеру Бараток. Прибыв к озеру, игроки могут обнаружить ловушку с повозкой охотницы на чудовищ Вистани Эсмеральды д'Авенир, а также древнюю башню мага Хазана. Преодолев магически запертую дверь башни, игроки находят улики, раскрывающие судьбу Арабель, и указывающие на то, что цирковой директор Риктавио не таков, каким кажется
 
-If the players return to Vallaki, confront Rictavio, and persuade him that they’re friends, rather than foes, he reluctantly reveals his identity and leads them to Arabelle’s hiding place: the carnival wagon stored in the Arasek Stockyard. Unbeknownst to the players, however, Arabelle’s uncle, Arrigal, has followed them into Vallaki—and when Arrigal reveals himself and demands her return, the players must decide which man to trust. And even once the tension has settled, Arabelle delivers a dark and cryptic prophecy . . .
+Если игроки возвращаются в Валлаки, сталкиваются с Риктавио и убеждают его, что они друзья, а не враги, он с неохотой раскрывает свою личность и ведёт их к укрытию Арабель: цирковой повозке, хранящейся на Оптовом складе Арасека. Однако игроки не знают, что дядя Арабель, Арригал, проследовал за ними в Валлаки — и когда Арригал раскрывается и требует вернуть её, игроки должны решить, кому из мужчин доверять. И даже после того как напряжение утихает, Арабель произносит тёмное и загадочное пророчество…
 
-> [!lore]+ **Strahd’s Bounty**
+> [!lore]+ **Награда Страда**
+> Когда Страд получил [[Арка C - В Долину#C8. Чёрная карета|последнее предсказание]] Мадам Евы, он узнал, что не сможет контролировать необузданную силу Святилищ без знака божественности _Розаны_. Страд также узнал о двух способах получения такого знака: принести в жертву памятный предмет из своего прошлого у Шепчущей стены на Холме Былого, или найти смертного потомка, в котором заключена божественная искра самих Леди Три. Предпочтение Страда, разумеется, отдаётся последнему варианту
 >
-> When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
->
-> Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
+> Страд знает, что потомок одной из Леди живёт где-то в долине, и знает, какие знаки приведут его к нему. С этой целью он разослал своих шпионов по всей Баровии в поисках потомка. Хотя Страд этого не знает, его паж и последний консорт — **порождение вампира** Эшер — также взял на себя задачу преследовать потомка
 > 
-> ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
+> _**Сделка Эшера и Яна.**_ Хотя Эшер присоединился к двору Страда добровольно, в последнее время он стал тревожиться, что Страд может вскоре избавиться от него — особенно если вампирские невесты Страда, Людмила, Анастрасия и Волента, сумеют вновь завоевать его расположение. Поэтому, когда в замок Рэйвенлофт пришёл Вистана по имени Ян — один из многочисленных шпионов Страда — для отчёта, Эшер заключил с ним сделку. Ян согласился помочь в поисках потомка Леди; взамен, как только Эшер станет любимым консортом Страда, он обеспечит Яну богатство и власть
 > 
-> ***Arabelle’s Disappearance.*** Yan returned to the Vistani encampment outside of Vallaki—and it wasn’t long before he struck gold. Upon recognizing that Luvash’s daughter, Arabelle, bore many of the signs that Escher had described, Yan summoned Escher to the camp and prepared to make his move.
->
-> Alexei, a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
->
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
->
-> Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
->
-> Ordinarily, Van Richten would have been loath to reveal his location—even in the presence of one of Strahd’s foul spawn—and risk blowing his cover. However, when he noticed Yan’s sack moving and heard a child’s whimpering within, Van Richten’s mind flashed back to the kidnapping and death of his late son, Erasmus—and his body moved without thinking.
->
-> Within seconds, Yan was dead and a wounded Escher had fled for Castle Ravenloft. Van Richten swiftly rescued Arabelle from her restraints, and was astounded to see that she was a young Vistana herself. When Van Richten used his *talisman of echoes* to cast *speak with dead* on Yan’s severed head and learnt of Escher’s plan, he and Arabelle realized that the Vistani encampment was no longer safe from Strahd’s spies.
->
-> Taking Yan’s head with them to prevent investigation and wading upstream through the Luna River to mislead the dusk elves’ scouts, Van Richten and Arabelle returned to <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> to hatch a plan. Remaining at the tower was infeasible—one of Strahd's servants now knew Arabelle’s face and location, and Van Richten reasoned Strahd would surely attempt to scry her. Though the tower’s antimagic field would hinder Strahd’s efforts, it would also be the first place he would look when his scrying spell inevitably failed.
->
-> Van Richten himself had an *amulet of proof against detection and location* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
->
-> ***Lying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
->
-> Fortunately, Van Richten still had an old Vistani wagon hidden away in the woods from when he had first entered Barovia—one with ample space for Arabelle to reside. While Vistani weren’t welcome in Vallaki, Van Richten decided that a different disguise—one that would allow them to hide in plain sight—could serve just as well.
->
-> Disguising himself as Yan, Van Richten used Arabelle’s advice to sneak into the Vistani camp itself, stealing several of the colorful paints that the Vistani used to decorate their wagons. That night, Rictavio’s Carnival of Wonders was born—and Van Richten himself became Rictavio, ringmaster of the “carnival.”
->
-> As Van Richten worked, Arabelle—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
->
-> In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
->
-> ***Aftermath of the Kidnapping.*** Arabelle’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
->
-> At nearly the same time that Van Richten and Arabelle were riding through Vallaki’s gates, a dusk elf named Savid found Yan’s decapitated body amidst the reeds of the Luna River amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to Luvash, who ordered Savid to deliver it to Kasimir Velikov—the dusk elves’ leader and scholar—for inspection upon Kasimir’s return. Luvash has continued the search for Arabelle, though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
->
-> Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
->
-> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Лор Баровии#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
-# E1. Blinsky Toys
-<span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
-
-After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
-
-
-> [!profile]+ **Profile: Gadof Blinsky**
->
-> **Roleplaying Information**
-> ***Resonance.*** Blinsky should inspire amusement with his accent, attire, and morbid aesthetic, endearment for his loneliness and sincerity, and sympathy for his terror of Izek.
->
-> ***Emotions.*** Blinsky most often feels cheerful, frightened, anxious, lonely, joyful, or melancholy.
->
-> ***Motivations.*** Blinsky wants to use his macabre toys to bring joy to Barovia’s children and to succeed Fritz von Weerg as the greatest toymaker of history.
->
-> ***Inspirations.*** When playing Blinsky, channel Olaf (*Frozen*), Rubeus Hagrid (*Harry Potter*), and Gepetto (*Pinocchio*).
->
-> **Character Information**
->
-> ***Persona.*** To the world, Gadof Blinsky is a cheerful toymaker with a love for the macabre. To those he trusts, Blinsky is a lonely and anxious man, fearful that his work will never be good enough to win his customers’ love.
->
-> ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
->
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
-
-Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
-
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
-
-If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
-
-As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
-
-![[Jamboree_Poster_Distressed.png]]
-
-<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-# E2. Vistani Camp
-<span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
-
-The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
-
-When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
-## E2a. The Vistani Encampment
-### Entering the Vistani Camp
-The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>, with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
-
-When the players first enter the tent, modify the descriptive text as follows:
-
-<div class="description">
-<p>As you duck inside the tent, you hear the sound of splintering wood and shattering ceramic. Blinking through the haze of smoke that fills the interior, you see three sputtering campfires burning low with embers. A total of six Vistani sit around the hearths, watching the source of the commotion with solemn, sympathetic looks.</p>
-<p>A shirtless young man kneels on the dead grass by the center of the tent, his eyes downcast and his face pale. Beside him, a broken wooden crate sits amidst a pile of broken pottery shards, several of which are still wobbling from the force of impact.</p>
-<p>A dozen feet from the kneeling youth stands an older, larger man wearing studded leather armor and a thick, well-trimmed beard. His eyes are bloodshot, and his right hand is trembling. He appears to be leaning his weight against a makeshift wooden crutch for support; looking down, you see that his lower right leg is wrapped in blood-stained bandages.</p>
-<p>"You were supposed to keep her safe!" the larger man bellows hoarsely. He whirls, his hand grabbing blindly as if for something else to throw. Sweat beads on his forehead, and he chokes back a sob of rage. "My little girl! And now—"</p>
-<p>He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening almost imperceptibly. "And it would appear that we have company."</p>
-</div>
-
-The shirtless man is Alexei. The larger man is Luvash. The man with the goatee is Arrigal.
-
-If the players do not respond first, Luvash hails them warily and—leaning back on his crutch to conceal any weakness—asks them their business. If the players share that they have come to deliver Madam Eva’s gift, Luvash tells them that Arabelle—his daughter—has recently gone missing.
-
-> [!profile]+ **Profile: Luvash**
->
-> **Roleplaying Information**
-> ***Resonance.*** Luvash should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
->
-> ***Emotions.*** Luvash most often feels angered, melancholy, anxious, guilty, desperate, frustrated, joyful, content, amused, or grateful.
->
-> ***Motivations.*** Luvash wants to ensure that his daughter, Arabelle, is safe and loved, and that the families of the Vistani encampment can thrive and prosper.
->
-> ***Inspirations.*** When playing Luvash, channel Boromir (*The Lord of the Rings*), Robert Baratheon (*A Game of Thrones*), Bob Parr (*The Incredibles*), and Wolverine (*X-Men*).
->
-> **Character Information**
-> ***Persona.*** To the world, Luvash is a gruff, stubborn brawler with an impatient spirit and a heart of gold. To those he trusts, Luvash is a fiercely devoted father with a soft and gentle compassion—but near-overwhelmed by anxiety for the safety of his daughter.
->
-> ***Morale.*** In a fight, Luvash would draw his blade to protect his people without a moment’s hesitation, but would swiftly sheathe it if necessary to keep Arabelle safe.
->
-> ***Relationships.*** Luvash is the elder brother of Arrigal, one of Strahd’s spies. (Luvash doesn’t know that Arrigal is a spy for Strahd.) Luvash is also the father of Arabelle, whose mother was one of Madam Eva’s descendants, and—along with Arrigal—one of the two leaders of the Vistani camp outside of Vallaki.
-
-> [!profile]+ **Profile: Arrigal**
->
-> **Roleplaying Information**
-> ***Resonance.*** Arrigal should make the players feel insulted by his slight condescension, unnerved by his intense curiosity and veneer of cheerful courtesy, and—when they learn of it—both disgusted by and sympathetic to his decision to serve Strahd.
->
-> ***Emotions.*** Arrigal most often feels curious, suspicious, frustrated, resentful, relaxed, or amused.
->
-> ***Motivations.*** Arrigal wants to protect his family and ensure a bright future for Barovia’s Vistani, free of the resentments of the small-minded Barovians—a goal which he intends to accomplish by serving Strahd.
->
-> ***Inspirations.*** When playing Arrigal, channel Loki (*Thor*), Littlefinger (*A Game of Thrones*), and Hannibal Lecter (*The Silence of the Lambs*).
->
-> **Character Information**
-> ***Persona.*** To the world, Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills. Only Arrigal knows that he serves Strahd von Zarovich faithfully as one of his spies—and that he would go to great lengths to serve the vampire’s will in exchange for the prosperity of his family and people.
->
-> ***Morale.*** In a fight, Arrigal would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.
->
-> ***Relationships.*** Arrigal is Luvash’s younger brother and Arabelle’s uncle. He is also a spy for Strahd and makes regular reports to Anastrasya, one of Strahd’s vampiric brides.
-
-Luvash can share the following information with the players:
-
-* One day before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
-* Instead of watching Arabelle, Alexei got drunk on wine. When he woke up, Arabelle was gone.
-* Alexei claims that Yan, a long-time member of the encampment, gave him the wine and had vanished when Alexei awoke.
-* Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
-* The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
-* Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
-
-Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
-
-Luvash asks the players to recover the ring from Kasimir, then research its sigil in Baron Vallakovich’s library. Should the players return to him with actionable information about Arabelle’s whereabouts—or, better yet, Arabelle herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
-
-If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
-
-> [!abstract]+ **Tracking Arabelle**
-> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>. As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
+> _**Исчезновение Арабель.**_ Ян вернулся в лагерь Вистани за пределами Валлаки — и вскоре ему улыбнулась удача. Узнав, что дочь Луваша, Арабель, обладает многими признаками, которые описал Эшер, Ян вызвал Эшера в лагерь и приготовился к действию
 > 
-> A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
+> Алексей, юноша Вистани и старший кузен Арабель, обычно смотрел за ней, пока её отец, Луваш, работал. Пока Арабель играла в лесу рядом с лагерем, Ян подошёл к Алексею и угостил его обильным количеством вина — более чем достаточно, чтобы он сильно напился. Когда Алексей уснул, Ян схватил Арабель, заткнул ей рот и затолкал в мешок
 > 
-> A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
+> Ян быстро направился с Арабель к заранее оговорённому месту встречи с Эшером: неприметному участку на берегу реки Луна неподалёку. Эшер, воспользовавшись кругом телепортации в Берез, превратился в летучую мышь и прилетел на место встречи, где встретил Яна. Ян нашёл Эшера там, как и ожидал — но когда Эшер доставал плату Яна, произошла катастрофа
 > 
-> Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
-## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in <span class="citation">N9b. Dusk Elf Hovels (p. 121)</span>. The dusk elves themselves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
+> Доктор Рудольф ван Рихтен, охотник на вампиров, который бежал из замка Рэйвенлофт после пробуждения Страда, находился неподалёку, в старой башне на озере Бараток. В этот день ван Рихтен искал на болотистых берегах конкретную лекарственную траву, которой у него не осталось — и именно там, пригнувшись и скрывшись в зарослях, он заметил тайную встречу Яна и Эшера
+> 
+> Обычно ван Рихтену было бы крайне нежелательно раскрывать своё местоположение — даже в присутствии одного из отвратительных приспешников Страда — и рисковать быть разоблаченным. Однако, заметив, что мешок Яна шевелится, и услышав детский всхлип изнутри, мысли ван Рихтена мгновенно вернулись к похищению и смерти его покойного сына Эрасмуса — и его тело действовало само собой
+> 
+> Через несколько секунд Ян был мёртв, а раненый Эшер бежал в замок Рэйвенлофт. Ван Рихтен быстро освободил Арабель от пут и был поражён, увидев, что она сама — юная Вистани. Когда ван Рихтен использовал свой _**талисман отголосков**_, чтобы сотворить _**разговор с мёртвыми**_ на отсечённой голове Яна и узнать о плане Эшера, он и Арабель поняли, что лагерь Вистани больше не защищён от шпионов Страда
+> 
+> Забрав с собой голову Яна, чтобы помешать расследованию, и пройдя вверх по течению реки Луна, чтобы сбить со следа разведчиков сумеречных эльфов, ван Рихтен и Арабель вернулись к Главе 11: Башня ван Рихтена (стр. 167), чтобы разработать план. Оставаться в башне было невозможно — один из слуг Страда теперь знал лицо и местонахождение Арабель, и ван Рихтен рассудил, что Страд наверняка попытается наблюдать за ней с помощью заклинания слежения. Хотя антимагическое поле башни затруднило бы попытки Страда, это же место стало бы первым, куда он посмотрит, когда его заклинание слежения неизбежно не сработает
+> 
+> У самого ван Рихтена был *Амулет защиты от обнаружения и поиска*, позволявший укрыться от бдительного ока Страда, — а также запасной амулет, который его ученица, Эсмеральда д'Авенир, вернула ему, когда они разошлись. Двух амулетов было достаточно, чтобы защититься от магии Страда, однако Арабель всё ещё требовалось место, где она могла бы жить и спать вдали от глаз шпионов Страда — по крайней мере до тех пор, пока ван Рихтен не найдёт лучшую альтернативу
+> 
+> _**Залечь на дно.**_ Близлежащий город Валлаки, с его многочисленным и оживлённым населением, мог предоставить куда более подходящее место, чтобы затеряться в толпе. Однако, хотя ван Рихтен мог замаскироваться с помощью своей _шляпы маскировки_, у него не было подобной маскировки для Арабель, и любая попытка перевезти её в Валлаки или по его окрестностям рисковала привлечь внимание шпионов Страда
+> 
+> К счастью, у ван Рихтена всё ещё оставался старый фургон Вистани, спрятанный в лесу с тех пор, как он впервые вошёл в Баровию — с достаточным пространством, чтобы Арабель могла в нём жить. Хотя Вистани не были желанными гостями в Валлаки, ван Рихтен решил, что иная маскировка — та, что позволит им скрываться на виду — может послужить не хуже
+> 
+> Замаскировавшись под Яна, ван Рихтен с помощью советов Арабель пробрался в сам лагерь Вистани, уркав несколько ярких красок, которыми Вистани украшали свои фургоны. В ту ночь родился «Карнавал Чудес» Риктавио — и сам ван Рихтен стал Риктавио, распорядителем «карнавала».
+> 
+> Пока ван Рихтен трудился, Арабель — спрятавшая копию карты тарокка Скрытого в карман после смутного предчувствия тем утром — почувствовала, как её внутреннее Зрение вновь вспыхнуло. Не до конца понимая почему, она спрятала карту в подушке рядом с посеребрённым кинжалом, который ван Рихтен дал ей, обернув вокруг них свой браслет из бусин
+> 
+> Утром ван Рихтен спрятал Арабель в задней части фургона, в который он запряг свою лошадь Друзиллу и повёз в Валлаки. Там он заключил сделку с Гюнтером и Еленой Арасек, чтобы хранить фургон (по-прежнему с Арабель) на Оптовом складе Арасек, и поселился в частном гостевом номере Таверны Синяя Вода
+> 
+> _**Последствия похищения.**_ Отсутствие Арабель не осталось незамеченным надолго. К сумеркам той ночи, когда её похитили, Луваш обнаружил пьяного Алексея и узнал о пропаже дочери. Вистани и сумеречные эльфы разошлись по ближайшим лесам, тщетно ища хоть какие-то следы пропавшей девочки
+> 
+> Почти одновременно с тем, как ван Рихтен и Арабель въезжали в ворота Валлаки, сумеречный эльф по имени Савид обнаружил обезглавленное тело Яна среди тростника реки Луна, окружённое признаками борьбы. Савид также нашёл странную безделушку на окровавленной траве: платиновое печатное кольцо с выдавленным странным символом. Он принёс его Лувашу, который приказал Савиду доставить кольцо Казимиру Великову — лидеру и учёному сумеречных эльфов — для осмотра после возвращения Казимира. Луваш продолжил поиски Арабель, хотя его личные усилия закончились кроваво и жестоко, когда его правая нога попала в тщательно скрытую волчью ловушку
+> 
+> Между тем, ван Рихтен планирует приносить Арабель еду из кухни Таверны Синяя Вода дважды в день — утром и вечером, объясняя любопытным прохожим, что он всего лишь приносит закуски «свирепому саблезубому тигру», запертому в его фургоне. Ложь ван Рихтена, однако, более правдива, чем он сам знает. Фургон населяется доброжелательным призраком его сына, **Эрасмуса ван Рихтена**, и Эрасмус, в своей юношеской энергии, уже не раз отпугивал прохожих, тряся фургон и царапая его деревянный интерьер
+> 
+> И ван Рихтен, и Арабель знают, что это в лучшем случае временное решение. Ван Рихтен, который впервые услышал о таинственных [[Лор Баровии#Хранители пера|Хранителях Пера]] во время восстания Дору, тихо расследует их членов, как описано в N2c. Пивная (стр. 100). Он надеется определить, является ли тайное общество другом или врагом — и, если другом, можно ли доверять его агентам
 
-If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
-## E2c. Kasimir’s Hovel
-<span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
+# Подготовка
+- [x] Изек Стражни
+- [x] 12 стражей
+- [x] 2 мастифа
+- [x] Эфирные сущности
+- [x] Шольдар
+- [x] 2 ветвистых заразы
+- [x] 2 пугала
+- [x] 3 каменных грифона
+- [x] Страница из дневника Ван Рихтена
+- [x] Талисман Эха
 
-Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>. If the players enter it, read:
+# E1. Игрушки Блинского
 
-<div class="description">
-<p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
-<p>Beyond the curtains lie a larger chamber, lit and heated by a fireplace at the north end. An old green rug sits facing the fire, just beside an old wooden table flanked by several chairs. The left-side wall of this comfortable room bears a dozen cubbyholes bearing leather-bound books and small wooden statuettes of elven figures, while the wall to the right bears a faded tapestry of a lush and beautiful forest beneath a noonday sun.</p>
-</div>
+_Эта сцена происходит в Главе 5: Зона N7_
 
-The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in <span class="citation">Kasimir Velikov (p. 232)</span>, but has recently sustained a black eye and several cuts across his cheek.
+После того как игроки получили просьбу Мадам Евы в [[Арка C - В Долину]] приобрести и доставить игрушку для её правнучатой племянницы Арабель, они могут узнать дорогу в местный магазин игрушек Валлаки, Игрушки Блинского, у Урвина Мартикова, Даники Дораковой или у большинства коренных жителей Валлаки. Игрушки Блинского теперь находятся на северной окраине городской площади Валлаки, описанной в N8. Городская площадь (стр. 119)
+
+> [!profile]+ **Профиль: Гадоф Блинский**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Блинский должен вызывать улыбку своим акцентом, одеждой и мрачной эстетикой, расположение к себе за его одиночество и искренность, а также сочувствие к его страху перед Изеком
+> 
+> _**Эмоции.**_ Блинский чаще всего чувствует себя радостным, испуганным, тревожным, одиноким, ликующим или меланхоличным
+> 
+> _**Мотивы.**_ Блинский хочет использовать свои мрачные игрушки, чтобы приносить радость детям Баровии, и превзойти Фрица фон Вирга, став величайшим игрушечником в истории
+> 
+> _**Вдохновения.**_ Играя Блинского, ориентируйтесь на Олафа (_Холодное сердце_), Рубеуса Хагрида (_Гарри Поттер_) и Джепетто (_Пиноккио_)
+> 
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Гадоф Блинский — весёлый игрушечник с любовью к мрачному. Для тех, кому он доверяет, Блинский — одинокий и тревожный человек, опасающийся, что его работа никогда не будет достаточно хорошей, чтобы завоевать любовь клиентов
+> 
+> _**Боевой дух.**_ В бою Блинский будет умолять о мире, спотыкаясь и бормоча о пощаде, одновременно ища возможность для бегства
+> 
+> _**Отношения.**_ Блинский владеет Пикколо, обезьянкой, подаренной ему «Алаником Рэем», странствующим учёным (и одной из маскировок Рудольфа ван Рихтена) вскоре после восстания Дору. Блинский также делает куклы, похожие на Ирину Коляну, для Изека Стражни, и получает скромное вознаграждение за изготовление украшений для еженедельных праздников барона Валлаковича. Кроме того, Блинский является создателем протезной ноги Эсмеральды д'Авенир
+
+>[!Игрушки Блинского]
+> Над тёмным крыльцом этого стеснённого магазина висит деревянная вывеска в виде лошадки-качалки с вырезанными на обоих её сторонах буквой «Б». По обе стороны от входа располагаются два арочных окна со свинцовыми рамами. Через грязное стекло вы видите прилавки, заваленные игрушками, и плакаты, гласящие ***«Нет веселья без Блинского!»***
+
+Когда он встречает новых посетителей, Блинский выдаёт хорошо отрепетированное приветствие: ***«Добро пожаловать, друзья, в Дом Блинского, где счастье и улыбки можно приобрести по сходной цене. Возможно вы знаете ребёнка, которому нужны развлечения? Маленькая игрушка для мальчика или девочки?»***
+
+>[!Игрушки]
+> Блинский полагает, что бургомистр прав и единственный способ сбежать из Баровии – сделать всех в городе счасливыми. Блинский хочет внести свой вклад в это, обеспечив всех детей в Баровии весёлыми игрушками. На витрине можно увидеть некоторые его творения:
+>
+> - Безголовая кукла, у которой есть мешок с головами, которые можно закрепить на кукле. Среди голов в мешке есть и голова с зашитыми ртом и глазами (цена 9 мм)
+> - Миниатюрная виселица, с рабочим люком и утяжелённым «висельником» (цена 9 мм)
+> - Набор матрёшек; Чем меньше кукла, тем она изображена более старой. Самая внутренняя кукла выглядит как мумифицированный труп (цена 9 мм)
+> - Чучела летучих мышей, с подвижными крыльями, на креплениях и нитях (цена 9 мм)
+> - Заводная музыкальная карусель с фигурками скалящихся волков, гонящихся за детьми, вместо гарцующих лошадей (цена 9 мм)
+> - Кукла чревовещателя, выглядящая как Страд вон Зарович (цена 9 мм)
+> - Кукла, выглядящая в точности как Ирина Коляна (не продаётся)
+
+Пока персонажи осматривают магазин, Блинский радостно рассказывает им о своём вдохновении для создания игрушек: легендарном игрушечнике Фрице фон Вирге и его величайшем изобретении, утерянном в веках — механическом человеке, который, как говорят, находится где-то в замке Рэйвенлофт
+
+Если игроки спрашивают Блинского о кукле, похожей на Ирину Коляну (см. Жуткие игрушки, стр. 118), он тревожно настаивает, что она не продаётся, и просит выбрать другую игрушку. Если игроки требуют объяснения её зловещего сходства, они могут выведать у испуганного Блинского то, что он знает, успешно пройдя **проверку Убеждения** или **Запугивания Сл 10** или забрав куклу себе. Блинский явно боится гнева Изека и сделает всё, чтобы кукла была доставлена вовремя
+
+Если игроки спрашивают Блинского о Пикколо, он может сообщить им, что получил обезьянку чуть больше 3 месяцев назад от странствующего учёного по имени Аланик Рей
+
+Когда персонажи выходят из Игрушек Блинского, они могут увидеть, как Изек Стражни и 2 **стражника** прибывают, чтобы развесить новые указы, как описано в N8. Городская площадь
+
+>[!read]
+> ***Приходите! Приходите все, на величайшее празднование года: Фестиваль Пылающего Солнца! Присутствие ваше и ваших детей обязательно. Не зависимо от погоды. Всё будет хорошо! — Барон —***
+
+# E2. Лагерь Вистани
+
+_Эта сцена происходит в Главе 5: Зона N9_
+
+Путь от Валлаки до лагеря Вистани описан в N9. Лагерь Вистани. Путешествие составляет примерно **0,8 км** и занимает около **10 минут**
+
+Когда игроки прибывают в лагерь, они могут выбрать либо подняться на холм к кольцу повозок на вершине (см. [[Арка E - Пропавшая Вистана#E2a. Лагерь Вистани|E2a. Лагерь Вистани]]), либо поговорить с одним из сумеречных эльфов, охраняющих хижины у подножия холма (см. [[Арка E - Пропавшая Вистана#E2b. Лачуги сумеречных эльфов|E2b. Лачуги сумеречных эльфов]])
+
+## E2a. Лагерь Вистани
+### Входя в лагерь Вистани
+
+>[!read]
+> Лес расступается, открывая обширную поляну: небольшой, покрытый травой холм с небольшими землянками, расположенными на его склонах. Туман скрывает детали, но вы можете разглядеть, что эти сооружения украшены затейливой резьбой и декоративными фонарями, висящими на фигурных карнизах. Наверху холма, над туманом расположилось кольцо фургонов с круглыми крышами, окружающих кольцом большой шатёр, из отверстия в верхушке которого идёт дым. Шатёр ярко освещён изнутри. Даже большого расстояния, вы можете почуять запахи вина и лошадей, исходящие из центра этой области
+
+>[!Отыгрыш вистани]-
+> Старейшины умерли, оставив во главе пару братьев, которых зовут Луваш и Арригал
+>
+> У этих вистани есть две проблемы. Во-первых, семилетняя дочка Луваша, Арабэль, недавно исчезла из лагеря. Потому, когда персонажи прибывают в лагерь, половина вистани отправились на её поиски. Во-вторых, у вистани истощились запасы вина и они желают восполнить их. Персонажи, которые помогут им с одной из проблем, заработают уважение вистани
+
+>[!Описание лагеря]
+> **Лошади**
+> На вершине холма повсюду лежит ещё тёплый лошадиный навоз. Более двух дюжин лошадей привязаны к каменным блокам внутри круга из фургонов, но вне шатра.
+
+Когда игроки впервые входят в палатку, измените описательный текст следующим образом:
+
+>[!read]
+> Когда вы ныряете в палатку, вы слышите звук трескающегося дерева и бьющейся керамики. Мигая сквозь дымку, заполняющую интерьер, вы видите 3 дымящих костра, тлеющих углями. Всего шесть Вистани сидят вокруг очагов, наблюдая за источником шума с серьезными, сочувственными взглядами
+>
+> Молодой человек без верхней одежды стоит на коленях на мёртвой траве в центре палатки, его глаза опущены, а лицо бледное. Рядом с ним лежит сломанный деревянный ящик среди кучи осколков керамики, несколько из которых всё ещё шатаются от силы удара
+>
+> Примерно в дюжине футов от стоящего на коленях юноши стоит более взрослый, крупный мужчина в заклёпанной кожаной броне с густой, аккуратно подстриженной бородой. Его глаза покраснели, а правая рука дрожит. Кажется, он опирается на импровизированный деревянный костыль для поддержки; глядя вниз, вы видите, что его нижняя правая нога обмотана окровавленными повязками
+>
+> ***«Ты должен был её защитить!»*** — прорывается хриплым голосом крупный мужчина. Он резко оборачивается, рука вслепую хватает что-то, словно хочет снова бросить. На его лбу выступает пот, и он сдерживает всхлип ярости. ***«Моя маленькая девочка! А теперь—»***
+>
+> Он неуверенно колеблется — и спотыкается. В мгновение ока третий мужчина, также в заклёпанной кожаной броне и с аккуратно подстриженой бородкой, выходит из тени и подхватывает крупного мужчину за плечо, прежде чем тот упадёт. ***«Спокойно, брат,»*** — тихо говорит третий мужчина. ***«Ты потерял много крови.»*** Он поднимает взгляд и замечает вас, его бровь почти незаметно сдвигается. ***«Похоже, у нас компания.»***
+
+Мужчина без рубахи — Алексей. Крупный мужчина — Луваш. Мужчина с бородкой — Арригал
+
+Если игроки не отвечают первыми, Луваш настороженно приветствует их и — опираясь на костыль, чтобы скрыть любую слабость — спрашивает, с какой целью они пришли. Если игроки сообщают, что пришли доставить подарок Мадам Евы, Луваш рассказывает им, что Арабелль — его дочь — недавно пропала
+
+> [!profile]+ **Профиль: Луваш**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Луваш должен вызывать у игроков сочувствие к его горю, расположение к его преданности дочери, раздражение из-за упрямства и лёгкий дискомфорт от его вспыльчивого характера
+> 
+> _**Эмоции.**_ Луваш чаще всего испытывает злость, меланхолию, тревогу, чувство вины, отчаяние, разочарование, радость, удовлетворение, развлечение или благодарность
+> 
+> _**Мотивы.**_ Луваш хочет убедиться, что его дочь Арабель в безопасности и любима, и что семьи лагеря Вистани могут процветать и развиваться
+> 
+> _**Вдохновение.**_ При игре за Луваша ориентируйтесь на Боромира (_Властелин колец_), Роберта Баратеона (_Игра престолов_), Боба Парра (_Суперсемейка_) и Росомаху (_Люди Икс_)
+> 
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Луваш — суровый, упрямый рукастый боец с нетерпеливым характером и золотым сердцем. Для тех, кому он доверяет, Луваш — чрезвычайно преданный отец с мягкой и нежной заботой, но почти поглощённый тревогой за безопасность своей дочери
+>
+> _**Боевой дух.**_ В бою Луваш мгновенно обнажит свой меч, чтобы защитить свой народ, но при необходимости быстро уберёт его в ножны, чтобы сохранить безопасность Арабелль
+> 
+> _**Отношения.**_ Луваш — старший брат Арригала, одного из шпионов Страда. (Луваш не знает, что Арригал шпион Страда.) Луваш также является отцом Арабелль, мать которой была одной из потомков Мадам Евы, и — вместе с Арригалом — одним из двух лидеров лагеря Вистани за пределами Валлаки
+
+> [!profile]+ **Профиль: Арригал**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Арригал должен вызывать у игроков чувство оскорбления его лёгким снисхождением, беспокойство из-за его сильного любопытства и видимой приветливой учтивости, а — когда они узнают об этом — одновременно отвращение и сочувствие к его решению служить Страду
+> 
+> _**Эмоции.**_ Арригал чаще всего испытывает любопытство, подозрительность, разочарование, обиду, расслабленность или развлечение
+> 
+> _**Мотивы.**_ Арригал хочет защитить свою семью и обеспечить светлое будущее для Вистани Баровии, свободное от обид мелочных баровцев — цель, которую он намерен достичь, служа Страду
+> 
+> _**Вдохновение.**_ При игре за Арригала ориентируйтесь на Локи (_Тор_), Мизинца (_Игра престолов_) и Ганнибала Лектера (_Молчание ягнят_)
+> 
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Арригал — исполнитель и советник Луваша: осторожный, приветливый и любопытный человек, который предпочитает оставаться в стороне от чужих проблем. Для тех, кому он доверяет, Арригал — преданный дядя, яростный защитник Вистани и дуэлянт с множеством смертоносных навыков. Только Арригал знает, что он верно служит Страду вон Заровичу в качестве одного из его шпионов — и что он готов на многое, чтобы исполнить волю вампира в обмен на процветание своей семьи и народа
+> 
+> _**Боевой дух.**_ В бою Арригал действует с беспощадной хитростью, отступая при необходимости, прежде чем нанести удар из тени, используя обман, манипуляции или грязные приёмы, чтобы обеспечить себе преимущество
+> 
+> _**Отношения.**_ Арригал — младший брат Луваша и дядя Арабелль. Он также является шпионом Страда и регулярно докладывает Анастрасии, одной из вампирических жён Страда
+
+Луваш может поделиться со следующей информацией с игроками:
+
+- За день до прибытия игроков в Валлаки (1 ноября) племянник Луваша, Алексей, был назначен присматривать за Арабелль, играющей в близлежащем лесу, пока Луваш урегулирует спор между двумя семьями Вистани
+- Вместо того чтобы присматривать за Арабелль, Алексей напился вином. Когда он проснулся, Арабелль пропала
+- Алексей утверждает, что Ян, давний член лагеря, дал ему вино и исчез, когда Алексей проснулся
+- Луваш возглавил поиски Арабелль, объединив к себе более дюжины Вистани и почти столько же сумеречных эльфов-разведчиков из хижин у подножия холма. Сам Луваш был вынужден вернуться в лагерь после того, как его правая нога попала в волчий капкан, из-за чего он получил слишком тяжёлую рану, чтобы ходить
+- Поисковые отряды ещё не нашли Арабелль. Однако сумеречный эльф по имени Савид нашёл обезглавленное тело Яна, лежащее в окровавленной траве у реки Луна, окружённое следами драки
+- Савид также нашёл странный перстень с печаткой, лежащий в траве, который, похоже, был уронен во время борьбы. Луваш отдал его Казимиру, лидеру сумеречных эльфов и их главному учёному, чтобы тот опознал его, но не получил никаких полезных новостей или сведений
+
+Луваш считает, что знак на перстне с печаткой может привести его к местонахождению Арабелль. Хотя Казимир не смог разобраться в нём, ходят слухи, что барон Варгас Валлакович из Валлаки владеет впечатляющей библиотекой книг, которая может содержать ключ к опознанию перстня. Однако Вистани и сумеречным эльфам запрещено входить в город
+
+Луваш просит игроков забрать перстень у Казимира, а затем исследовать его знак в библиотеке барона Валлаковича. Если игроки вернутся к нему с пригодной к использованию информацией о местонахождении Арабелль — или, что ещё лучше, с самой Арабелль — Луваш обещает дать им ценную награду. (Если на него надавить, Луваш может пообещать игрокам сумму в 500 зм — или набор сокровищ такой же или большей стоимости)
+
+Если игроки принимают задание Луваша, он направляет их в **E2b. Хижины сумеречных эльфов**, чтобы встретиться с Казимиром
+
+> [!abstract]+ **Выслеживание Арабелль**
+> Если игроки предлагают выследить Арабелль с места её исчезновения, Луваш может направить их к точке недалеко от реки Луна, примерно в 1,6 км к югу от P. Перекрёсток реки Луна (стр. 40). По пути игроки проходят через [[Арка E - Пропавшая Вистана#E5a. Мост через реку Луна|E5a. Мост через реку Луна]] и [[Арка E - Пропавшая Вистана#E5b. Перекрёсток реки Луна|E5b. Перекрёсток реки Луна]]
+> 
+> Игрок, который обследует место, где пропала Арабелль, и успешно проходит **проверку Выживания Сл 15**, может обнаружить 3 набора следов взрослого размера на грязной траве поблизости. Один из следов идёт с севера и обрывается в траве; второй след идёт с севера, затем продолжается на юго-запад и заканчивается у основания ствола дерева в тридцати футах; третий след идёт из западного леса и продолжается к берегу реки, где обрывается. Следы с противоположной стороны реки отсутствуют
+> 
+> Игрок, который осматривает следы и успешно проходит **проверку Расследования Сл 15**, может определить по характеру движения и пятнам крови на траве, что первый и третий человек кратко сражались, и первый погиб. Второй человек затем скрылся, исчезнув в кронах деревьев. Третий человек, неся что-то тяжёлое — возможно, вес ребёнка — затем вошёл в реку
+> 
+> Поскольку река смыла все следы, за третьим человеком дальше проследить невозможно. (Обследовать всю длину реки Луна, чтобы найти точное место выхода третьего человека, — пустая трата времени и невыполнимая задача)
+
+## E2b. Лачуги сумеречных эльфов
+
+>[!read]
+> 6 простых домов окольцовывают холм, группами по 3 выступая с северной и южной сторон
+
+>[!Сумеречные эльфы]
+> Сумеречные эльфы, почти забытая раса, немногие выжившие представители которой живут в тайных местах вроде этого. У них тёмная кожа и волосы, но во всём остальном они похожи на лесных эльфов. Патрина Великовна раньше жила здесь. Её брат, Казимир Великов, живёт здесь до сих пор
+>
+> Сумеречные эльфы обитают в землянках, устроенных в склоне холма и по большей части они самодостаточны. Они являются умелыми следопытами, и многие из них находятся вне лагеря, когда туда приходят персонажи, потому что помогают вистани в поисках Арабелль. Сумеречные эльфы знают, что им небезопасно находиться в землях Баровии без «защиты» вистани
+>
+> Среди сумеречных эльфов нет ни женщин, ни детей. Страд умертвил их всех около 400 лет назад в наказание за убийство Патрины. Потому, оставшиеся эльфы не могут размножаться. Сломленный народ, им известно о абсолютной власти вампира над землями Баровии. Они держатся тихо и не хотят вновь навлечь на себя гнев Страда
+
+Если игроки подходят к одному из стражей и спрашивают о Вистани, страж направляет их к кольцу повозок на вершине холма
+
+Если игроки спрашивают о задании Луваша, страж направляет их в хижину Казимира. Страж отмечает, однако, что Казимир недавно вернулся из долгого и трудного путешествия, и игроки не должны тревожить его больше, чем это разумно необходимо
+
+## E2c. Землянка Казимира
+
+_Эта сцена происходит в Главе 5: Зона N9a._
+
+Если игроки входят в землянку, зачитайте:
+
+>[!read]
+> Вы входите в небольшой, уютный тамбур, на несколько градусов теплее, чем холодный туман снаружи. Стены этой небольшой комнаты украшены висящими эскизами и портретами гордых и мудро выглядящих эльфов с тёмной кожей, шпилями на деревьях, вырезанными из тёмного дерева, и художественными изображениями созвездий и небесных тел. Две занавеси из тёмно-коричневой ткани закрывают вход в другую комнату за ними
+>
+> За занавесями находится большая комната, освещённая и обогреваемая камином в северном конце. Старый зелёный ковёр лежит напротив огня, рядом со старым деревянным столом, окружённым несколькими стульями. Левая стена этой уютной комнаты содержит дюжину шкафчиков с книгами в кожаных переплётах и небольшими деревянными статуэтками эльфийских фигур, а правая стена украшена выцветшим гобеленом с изображением пышного и красивого леса под полуденным солнцем
+
+Игроки могут найти Казимира, сидящего на зелёном ковре напротив огня и медитирующего. Он такой, как описано в Казимир Великов (стр. 232), но недавно получил синяк по глазом и несколько порезов на щеке
 
 ![[Kasimir Velikov 1.png]]
-<span class="credit">"Kasimir Velikov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-
-> [!profile]+ **Profile: Kasimir Velikov**
->
-> **Roleplaying Information**
-> ***Resonance.*** Kasimir should make the players feel grateful for his competence and genuine interest in assisting them, mildly insulted by his slight condescension, mildly suspicious of his caginess, and sympathetic to his sorrow for the plight of his people.
->
-> ***Emotions.*** Kasimir most often feels curious, frustrated, suspicious, excited, melancholy, nostalgic, somber, or regretful.
->
-> ***Motivations.*** Kasimir wants to ensure the safety of the dusk elves and resurrect his sister, Patrina, once he’s freed her of Strahd’s dark influence and seen Strahd destroyed.
->
-> ***Inspirations.*** When playing Kasimir, channel Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*), and the Twelfth Doctor (*Doctor Who*).
->
-> **Character Information**
-> ***Persona.*** To the world, Kasimir is a quiet and withdrawn scholar, with a powerful curiosity and a fierce dedication to his people. To those he trusts, Kasimir is a lost and broken man, guilt-ridden for his role in Patrina’s death and resigned to somber despair for the dusk elves’ future. Only Kasimir knows the lengths to which he is willing to go to resurrect his sister—and the price he is willing to pay.
->
-> ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
->
-> ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
-
-> [!info]+ **What Kasimir Knows**
-> If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
-> * ***The Forest Folk.*** "Their ancestors first discovered this valley thousands of years ago. They are a reclusive people, however, and today serve the Devil and his servants."
-> * ***Argynvostholt.*** Kasimir shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
-> * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
-> * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
-
-His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
-
-Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
-
-![[Khazan's Ring.png]]
-<span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-The symbol on the signet ring resembles the connected series of lines depicted on <span class="citation">V2. Tower Door (p. 169)</span>, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
-
-Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
-
-If the players ask Kasimir about his injuries, he claims that he had been hiking across Mount Ghakis, but fell when the frozen bluff he’d been walking on crumbled beneath his weight. If the players ask him why he was visiting Mount Ghakis, he discloses only that he was searching for something of personal significance. (If the players push harder, Kasimir politely asks them to avoid intruding too deeply into his private matters.)
-
-If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
-
-<div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
-<p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
-<p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
-<p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
-<p>Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.</p>
-</div>
-
-# E3. Burgomaster’s Mansion
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
-
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Арка H - Потерянная душа]] for more information about the mirror.
-
-If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
-## E3a. Entering the Mansion
-If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
-
-If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
-### 1. Persuading the Baron
-Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
-
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
-
-While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
-
-* For the past two months, a spirit has haunted the Vallakovich mansion. 
-* Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
-* The mansion’s butler and the baroness' lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
-* The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
-* The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
-
-The Baron doesn’t mind allowing the players to use the library before they’ve solved the case, but will only grant them access if they agree to take it on. 
-
-The Baron cannot be convinced with appeals to Arabelle’s safety, insisting that he cares little for the plight of a “Vistani whelp.”
-
-If the players wish to visit the library, the baron summons Clavdia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Clavdia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
-
-The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 106)</span>. The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
-
-* The spirit has mostly been seen on the second floor, though strange sounds have been heard coming from the attic at night. 
-* Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
-* The Baroness’s lady-in-waiting, a quiet woman named Valentina, reported seeing the spirit in the Baroness’s mirror on multiple occasions. The Baroness hid the mirror away in the attic shortly thereafter.
-* Valentina described the spirit’s appearance as the distorted silhouette of a young woman. All of the servants agree that its hauntings universally carry a sense of sorrow, loneliness, and longing.
-* Few members of the household enter the attic anymore, though the Baron’s son, Victor Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
-* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
-
-If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in <span class="citation">N3o. Master Bedroom (p. 108)</span>. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
-### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
-
-The NPCs in the mansion behave as follows:
-
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* Victor Vallakovich can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
-
-> [!abstract]+ **Banishment from Vallaki**
-> If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
+> [!profile]+ **Профиль: Казимир Великов**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Казимир должен вызывать у игроков чувство благодарности за его компетентность и искреннюю заинтересованность в помощи, лёгкое раздражение из-за его лёгкого снисхождения, лёгкую подозрительность к его скрытности и сочувствие к его печали из-за бедственного положения его народа
 > 
-> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
-## E3b. Searching the Library
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
-
-If the players gain access to <span class="citation">N3l. Library (p. 107)</span>, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
-
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
-
-Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
-![[Victor Vallakovich.png]]
-<span class="credit">"Victor Vallakovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!profile]+ **Profile: Victor Vallakovich**
->
-> **Roleplaying Information**
-> ***Resonance.*** Victor should make the players feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
->
-> ***Emotions.*** Victor most often feels curious, frustrated, suspicious, excited, bored, anxious, desperate, or determined.
->
-> ***Motivations.*** Victor wants to restore Stella’s soul to her body and escape Barovia.
->
-> ***Inspirations.*** When playing Victor, channel Jonathan Byers (*Stranger Things*), Prince Zuko (*Avatar: The Last Airbender*), Raven (*Teen Titans*), and Perrin Aybara (*Wheel of Time*).
->
-> **Character Information**
-> ***Persona.*** To the world, Victor is a quiet, moody, and isolated young man with an awkward manner and a total lack of social graces. To those he trusts, Victor is a devoted and compassionate friend, with a spark of brilliance and the stubbornness of a mule. Only Victor knows that he secretly fears losing Stella’s friendship—both due to the harm caused by his *teleportation circle* and due to the time she’s spent with Erasmus van Richten in the Ethereal Plane.
->
-> ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
->
-> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
-
-Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
-
-If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
-
-If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to **N3t. Victor’s Workroom** to speak further. He won’t share any information outside of his workroom.
-
-> [!lore]+ **Ethereal Entities**
->
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations. Players who ask Victor to allow them to read the book, or who otherwise obtain it, can learn the following:
->
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
->
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
->
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
->
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
->
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+> _**Эмоции.**_ Казимир чаще всего испытывает любопытство, разочарование, подозрительность, возбуждение, меланхолию, ностальгию, мрачное настроение или сожаление
 > 
-> <hr>
->
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
->
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
->
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
->
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
->
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
->
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
->
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
->
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
->
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
->
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
-## E3c. Speaking with Victor
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
-
-Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
-
-> [!Warning]+ Counterspell 2024
+> _**Мотивы.**_ Казимир хочет обеспечить безопасность сумеречных эльфов и воскресить свою сестру Патрину, как только освободит её от тёмного влияния Страда и увидит, как Страд будет уничтожен
 > 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Арка H - Потерянная душа#Battle with the Hags|Arc H - The Lost Soul]].
-
-
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
-
-The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
-
-> [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
->
-> Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
-
-> [!info]+ **The Tome of Strahd**
-> A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
-
-If persuaded to aid the players in finding Arabelle, Victor can share the following information:
-
-* Three years ago, he found an old spellbook in his father’s library. He’s used it to study magic ever since.
-* The original owner of the spellbook was a mage named Khazan. The symbol on the cover of the spellbook was his personal sigil.
-* Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
-
-If the players agree to investigate Khazan’s tower and give Victor any artifacts they find, he tells them where the tower can be found: a gravel causeway on Lake Baratok, to the west. 
-
-> [!info]+ **What Victor Knows**
-> If asked about the different factions and locations throughout Barovia, Victor can provide the following information:
-> * ***The Amber Temple.*** Victor flips through his spellbook, then shares that, according to its pages, Khazan once sought out the secrets of power at a temple "forged of amber." "According to his notes, it was previously guarded by an order of knights in the service of a dragon," he adds curiously. "But when Strahd conquered the valley, he slaughtered them all."
-
-Victor isn’t sure how to get to Lake Baratok from Vallaki. However, he does know someone who will: Szoldar Szoldarovich, one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, Vargas forced him to accompany Szoldar on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
-
-If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, Yevgeni Krushkin, have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
-
-Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows.
-
-> [!abstract]+ **The Haunting**
-> If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
->  
-> Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Wisdom (Insight) check reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
+> _**Вдохновение.**_ При игре за Казимира ориентируйтесь на Стивена Стрейнджа (_Доктор Стрэндж_), Шерлока Холмса (_Шерлок_), Спока (_Звёздный путь_) и Двенадцатого Доктора (_Доктор Кто_)
 > 
-> If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Казимир — тихий и замкнутый учёный с сильным любопытством и яростной преданностью своему народу. Для тех, кому он доверяет, Казимир — потерянный и сломленный человек, терзаемый чувством вины за роль в смерти Патрины и смирившийся с мрачным отчаянием относительно будущего сумеречных эльфов. Только Казимир знает, на какие жертвы он готов пойти, чтобы воскресить сестру — и какую цену он готов за это заплатить
 > 
-> Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Арка H - Потерянная душа]] for more information.
-
-> [!lore]+ **Khazan’s Staff**
->
-> While reading Khazan’s spellbook, Victor learned that Khazan was the owner of a powerful wizard’s staff, which Victor believes may still be somewhere in his tower.
->
-> According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
->
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
-
-# E4. Lake Zarovich
-<span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
-
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, Bluto is not present.
-
-As the players journey west toward Szoldar’s shack, read:
-
-<div class="description">
-<p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
-<p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
-<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
-</div>
-
-If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
-
-When Szoldar and Yevgeni are away, the door to the shack is locked with a padlock. (Both wolf hunters carry a key.) If either wolf hunter is inside, the door is unlocked and hangs ajar.
-
-If the players choose to investigate the slab, they find that it bears a carving of a butterfly, the grooves lined with lichen and moss. (The slab is an ancient monument to the Dreamer, the divine sister of the Ladies Three. Szoldar and Yevgeni don't know what the carving means.)
-
-If the players enter the shack, read:
-
-<div class="description">
-<p>The walls of this cramped shack are stained dark with age and use. Knives, cleavers, traps, and chains hang from the walls, each one well-cleaned and oiled. Animal pelts hang from the rafters, their empty eyes seeming to watch you as you pass.</p>
-</div>
-
-As described in <span class="citation">N2c. Taproom (p. 100)</span>, Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in <span class="citation">N2c. Taproom (p. 100)</span>, but each bring three silvered arrows for the trip.
-
-If the players choose to set off on their own, Szoldar gives the following directions:
-
-* Exit Vallaki from the western Sunset Gate, then cross the bridge that fords the Luna River.
-* Take the northern branch of the Luna River crossroads, which is marked “Lake Baratok” on a nearby signpost.
-* Continue down the path as it bends through the woods, before ultimately arriving at the lake.
-
-Szoldar also warns the players to be cautious of werewolves on the Svalich Road and northern path. The woods to the west of Vallaki—and especially the woods around Lake Baratok—are the preferred hunting grounds of a local werewolf pack.
-
-The werewolves' recent flurry of activity has made Szoldar suspect that the pack has come under the leadership of a new, more reckless alpha. He doesn’t know where the werewolves’ den is, but he cautions the players to keep an eye out for anything strange or unusual.
-# E5. The Svalich Road
-As the players exit Szoldar’s shack, any characters with a passive Wisdom (Perception) score of 19 or higher notice a silhouette watching them from the southern treeline. If the players approach, look toward, or otherwise attempt to interact with the silhouette, it vanishes. 
-
-The silhouette is Arrigal, who has decided to spy on the players on Strahd’s behalf and to ensure that Arabelle is safely returned should the players find her. Though he remains out of sight for the remainder of the journey, Arrigal continues to track the players from afar.
-## E5a. Luna River Bridge
-The journey from Vallaki to the Luna River Crossroads is one mile long and takes twenty minutes. As the players cross the bridge over the Luna River, read the following:
-
-<div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
-<p>Halfway across the bridge, you notice something odd: a small scrap of white material fluttering on the surface of the far side of the river, caught on a tree root a dozen yards downstream.</p>
-</div>
-
-If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with Van Richten.)
-## E5b. Luna River Crossroads
-<span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
-
-The Luna River Crossroads are largely as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. 
-
-If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
-
-<div class="description">
-<p>The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast.</p>
-<p>Scattered across the intersection are four small dead saplings, their branches and trunks blackened and gnarled. Some lean at slight angles, while others stand stubbornly upright, their twig-like structures idle and quiet in the windless air.</p>
-<p>Nearby, a pair of scarecrows appear to have been mounted along two separate trees, bodies hewn of rough straw and weathered cloth clinging to twisted, low-hanging branches. Their painted sackcloth eyes seem almost mocking, and black raven's feathers poke from their stuffed guts.</p>
-<p>The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.</p>
-</div>
-
-If Szoldar is accompanying the players, he warns them that the saplings and scarecrows are new additions to the crossroads, and that recent rumors have reported sightings of scarecrows moving of their own volition through the woods.
-
-If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
-
-> [!combat]- **Balancing the Blights**
-> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> _**Боевой дух.**_ В бою Казимир попытается договориться о мире, но не станет колебаться, чтобы использовать свои самые мощные заклинания — или применить магию для спасения — если дипломатическое решение окажется невозможным
 > 
-> * ***Three Players.*** Reduce the number of scarecrows to 1.
-> * ***Four Players.*** Reduce the number of twig blights to 2.
-> * ***Six Players.*** Increase the number of scarecrows to 3.
-# E6. Lake Baratok
-The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
+> _**Отношения.**_ Казимир — лидер лагеря сумеречных эльфов и младший брат покойной Патрины Великовны, **банши**, обитающей в Янтарном Храме. Казимир также является кузеном Рахадина, камердинера Страда, и племянником покойного принца сумеречных эльфов Эревана Лёвенхарта. (Казимир не состоит в прямой родственной связи с Эреваном, который женился на тёте Казимира, Лорелей)
 
-Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
-## E6a. Ezmerelda’s Wagon
-<span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
-
-### Outside the Wagon
-Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
-
-In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
-
-A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 14 Wisdom (Survival) check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
-
-> [!warning]+ **A Chance to React**
->
-> As noted in **The Order of Combat** (<span class="citation">Player's Handbook, p. 189</span>), combat is a "clash between two sides." A participant in combat need not seek to harm one another—merely obstruct another participant from taking some sort of action or achieving some sort of goal.
->
-> As such, when one player states their intent to take an action that another player might seek to oppose—such as opening the door to Ezmerelda’s wagon—ask other nearby players if they’d like to intervene to prevent that action. (For example, a player might wish to shove the first player away from the wagon, or grapple them and pull them forcefully away.)
->
-> If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
-
-**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
-
-A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
-
-If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
-### Inside the Wagon
-**Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
-
-* ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
-* ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
-
-**Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
-
-* The climber's kit, disguise kit, healer's kit, and poisoner's kit
-* The wooden box containing the Tarokka cards
-* The sets of manacles
-* The wooden chest containing the holy symbol, holy water, perfume, antitoxin, rope, tinderbox, steel mirror, wooden stake, and spyglass
-* The spell scrolls
-* The map of Barovia (which shows only the roads and settlements of Barovia, and no longer shows all the locations marked on the adventure's map of Barovia)
-
-If the players enter the wagon by means of the door instead of the trapdoor, Ezmerelda's chicken squawks angrily at them until they depart.
-
-> [!abstract]+ **Eggsmerelda**
-> If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda,^[Credit to Lyric42 for coining the name "Eggsmerelda."] the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon.
+> [!info]+ **Что знает Казимир**
+> Если спросить о различных фракциях и локациях по всей Баровии, Казимир может предоставить следующую информацию:
 > 
-> If treated with kindness and provided with a proper apology, Eggsmerelda can share that she doesn't know where Ezmerelda is currently, and that Ezmerelda is currently "looking for something" in the woods, though she hopes that Ezmerelda will return soon. (Eggsmerelda, whose cage contains close and plentiful access to a bag of seeds and a bowl of water, is at no risk of going hungry or thirsty while Ezmerelda is away.)
-## E6b. The Tower
-### 1. The Tower Door
-<span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
+> - _**Лесной народ.**_ ***«Их предки впервые открыли эту долину тысячи лет назад. Однако они замкнутый народ и сегодня служат Дьяволу и его слугам»***
+> - _**Аргинвостхольт.**_ ***"К западу от города стоит особняк, в котором живут призраки. Легенда гласит, что давным-давно там умер дракон"***
+> - _**Янтарный Храм.**_ Казимир задумывается, затем сообщает, что когда-то ходили слухи, что Орден Серебряного Дракона охранял «тайны, скрытые в янтаре», и что их ожившие мертвецы и духи до сих пор бродят по Аргинвостхольту
+> - _**Логово оборотней.**_ Казимир сообщает, что стая оборотней исторически была кровожадной и жестокой, но стала гораздо более сдержанной — даже мирной — через десятилетие после того, как Страд впал в спячку. ***«Полагаю, это было изменение руководства,»*** — отмечает он, — ***«после отсутствия давления со стороны замка. Однако с пробуждением Страда их агрессия вновь проявилась.»*** (Казимир не знает, где находится их логово, но знает, что их деятельность исторически была сосредоточена на западной половине долины)
 
-The tower door is largely as described in <span class="citation">V2. Tower Door (p. 169)</span>. However, modify the descriptive text as follows:
+Его правая рука и предплечье бледно-голубовато-белые, с множеством вздутой и покрытой волдырями кожи. (Успешная **проверка Медицины Сл 12** выявляет симптомы обморожения)
 
-<div class="description">
-<p>The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.</p>
-</div>
+Казимир тепло приветствует игроков, хотя явно с некоторым неудобством. Если игроки просят перстень с печаткой, он достаёт его из плаща и желает им удачи, отмечая, что сам не смог его идентифицировать — странно, думает он, учитывая его знания о добаровийской геральдике и долгую историю в долине. (Он не уверен, может ли библиотека барона содержать больше информации, но считает это зацепкой, которую стоит изучить)
 
-The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
+![[Khazan's Ring.png]] 
+
+Символ на перстне с печаткой напоминает соединённую серию линий, изображённую на V2. Дверь башни, но повернутую против часовой стрелки так, что форма становится вертикально симметричной. Над каждым из двух несоединённых концов серии линий на металле вырезана крошечная аркейн руна
+
+Казимир отмечает, что руны соответствуют школам магии **Воплощения** (справа) и **Некромантии** (слева), но признаётся, что перстень не проявил никакой реакции на какой-либо вид магии
+
+Если игроки спрашивают Казимира о его ранах, он утверждает, что путешествовал по горе Гхакис, но упал, когда под его весом обрушился замёрзший обрыв, по которому он шёл. Если игроки спрашивают, зачем он посещал гору Гхакис, он раскрывает лишь то, что искал что-то имеющее для него личное значение. (Если игроки настаивают, Казимир вежливо просит их не вторгаться слишком глубоко в его личные дела)
+
+Если игроки спрашивают Казимира о истории сумеречных эльфов, Казимир рассказывает следующую историю:
+
+>[!read]
+> Даже сейчас, почти через 5 веков, воспоминания остры и ясны в моём разуме, как осколки разбитого стекла. Мне едва исполнилось 80 лет, когда мой народ потерял свободу — когда тирания клана вон Зарович взошла, словно тень, по всей земле
+>
+> Мир разрушил не Страд, а его отец, король Баров вон Зарович II. В те дни наш народ обитал в Отрондиле, Лесу Сумерек. Совет принцев правил нами, во главе с Эреваном Лёвенхартом, моим дядей и мастером искусства Песни клинка. Когда глаза короля Барова обратились к нашим землям, он потребовал нашей верности — нашу дань границам старой Заровии, королевства, которым когда-то правили его предки. Эреван, практиковавший стиль льва и носивший знак льва, никогда не был склонен к поклонению и отказался. Его акт неповиновения разжёг пламя войны
+>
+> Завоевание Барова было быстрым и жестоким. Его войска, поддержанные Рахадином, моим кузеном и предателем нашего народа, разрушили наше королевство. Я был магом и писцом при дворе Эревана — я видел, как Рахадин разрушил клинок Эревана и казнил его семью, положив конец королевской линии. Мой народ был порабощён; те, кто сопротивлялся, были истреблены, как кролики
+>
+> Баров правил нами железной рукой — и когда он умер, а его сын, Страд, пришёл к власти, мы восстали, возглавив борьбу за свободу. Но Страд был ещё более коварным и жестоким, чем его отец. Он подавил наше восстание за считанные дни и уничтожил наш народ в геноциде, оставив в живых меньше сотни человек. Он оставил нас, выживших, на милость Вистани, которые приняли нас в свои караваны и привели в безопасное убежище в этой долине
+>
+> Однако жажда завоеваний Страда была бесконечной. В течение года последние его враги пали, и он присвоил себе долину, назвав её «Баровией». Мы оказались в ловушке, заключённые в сердце новой империи нашего завоевателя. К тому времени, однако, мы построили здесь дом и решили остаться — надеясь в глубине души, что доброта Вистани сохранит нам безопасность. И с тех пор мы здесь остались
+
+# E3. Особняк бургомистра
+
+_Эта сцена происходит в Главе 5: Зона N3._
+
+![[image-7.png]]-
+
+>[!Особняк]-
+> **Прихожая A**
+> Портреты в рамах украшают стены главного фойе, в котором расположена широкая лестница с затейливыми перилами. В длинном холле, застеленном ковром, который примыкает к фойе и занимает в длину почти весь особняк, находятся несколько дверей, расположенных по стенам коридора и в его торце. Вязанки хвороста сложены под стенами
+> **Приёмная B**
+> Гостиная обставлена большим количеством качественной мебели и украшений, за чем чувствуется женская рука
+> **Столовая C**
+> Люстра из кованого железа с восковыми свечами висит над полированным деревянным обеденным столом. Вокруг стола сидят 8 женщин разного возраста в удобных креслах с высокими спинками. Они одеты в выцветшую одежду, пьют чай и едят торт, а в это время девятая женщина, хорошо одетая и очень довольная собой, ходит вокруг стола и взволнованно рассказывает об украшениях предстоящего фестиваля
+> **Комната подготовки D**
+> Белые скатерти покрывают 2 простых деревянных стола в центре этой комнаты. На этих столах аккуратно расставлены отполированные сервизы серебряной посуды. На другом столе свалены плетёные корзины с репой и свеклой
+> **Гостиная E**
+> Мягкие кресла и диваны стоят под стенами этого уютного, устланного коврами помещения. В комнате сильно пахнет табачным дымом, а на восточной стене висит голова оскалившегося в ярости бурого медведя
+> **Комнаты слуг F**
+> В этой комнате находятся 4 простых кровати и такое же число обычных деревянных сундуков
+> **Кухня G**
+> На этой теплой, хорошо оборудованной кухне работает повар, одетый в белый фартук поверх черного халата. Лестница в углу кухни ведёт на верхний этаж
+> **Буфетная H**
+> В этой буфетной находятся полки с запасами еды, которые наполовину пустуют. 2 бочонка вина стоят у восточной стены
+> **Верхняя галерея I**
+> Лестница поднимается на 20 футов в красиво оформленную галерею, которая продолжается на запад, проходя почти по всей длине особняка. Пейзажные полотна в рамах украшают стены, а красные шелковые шторы закрывают десятифутовые сводчатые окна с толстыми стёклами
+> **Комната Изека J**
+> Куклы. В этой комнате полно маленьких кукол с алебастрово-белой кожей и рыжими волосами, некоторые из них нарядно одеты, другие – просто. Некоторые из кукол расположены на длинной книжной полке, а другие расставлены аккуратными рядами на полках, висящих на стенах. Третьи свалены на кровати и тяжелом деревянном сундуке. Самое странное, что все куклы, кроме одежды, выглядят одинаково. Все они похожи на Ирину Коляну. На одежде каждой куклы нашита маленькая бирка, гласящая ***«Нет веселья без Блинского!»***
+> **Комната Виктора K**
+> В этой симпатично обставленной комнате находится кровать с балдахином, низкая книжная полка и напольное зеркало в деревянной раме, которое стоит у стены, напротив двери. В северной стене располагается окно с освинцованными стёклами. Ничего находящегося здесь не кажется необычным
+> **Библиотека L**
+> Полки от пола до потолка стоят у каждой стены этой комнаты без окон, а количество книг, находящихся здесь, мягко говоря, поражает
+> Латунная масляная лампа стоит на большом столе в центре комнаты. Стул за письменным столом удобен, а на обратной стороне спинки нашит символ ревущего медведя
+> **Запертый шкаф M**
+> К задней стене этой пустой комнаты прикован сильно избитый мужчина, на котором нет ничего, кроме белья. Железные кандалы врезались ему в запястья, из-за чего с его рук капает кровь. Это Удо лукович
+> **Шкаф N**
+> Плащи, накидки, мантии и прочие необычные одежды висят на крючках этого шкафа. На нижних полках шкафа стоит множество качественных туфель, тапок и ботинок
+> **Мастер спальня O**
+> Время размыло величие этой хозяйской спальни. Мебель потеряла свой цвет и роскошный вид. Короткий шнурок свисает от деревянного люка в потолке
+> **Свадебное платье P**
+> Эта комната пахнет пудрой и хорошими духами. Туалетный столик с зеркалом стоит у одной из стен, рядом с деревянным манекеном, одетым в белое свадебное платье. Дверь в углу ведёт в гардероб
+> **Ванная Q**
+> Железная ванна на ножках в виде когтистых лап стоит у чёрной стены. Аккуратно сложенные полотенца лежат на столе рядом с дверью
+> **Комната на чердаке R**
+> Это пыльная, квадратная 20-футовая комната имеет высокий заостренный потолок, достигающий 20 футов в самой высокой своей точке. Деревянные балки затянуты паутиной. Кроме старого стола и стоящего на нём фонаря здесь нет ничего
+> **Склад на чердаке S**
+> Этот большой чердак заполнен старыми, забытыми вещами, накрытыми белыми простынями. Вокруг них стоят бочки, сундуки и старая мебель, покрытые паутиной и пылью. Вы видите чёткие следы, ведущие в этот лабиринт
+> **Мастерская Виктора T**
+> Кто-то вырезал большой череп на этой двери. На молоточке двери висит деревянный знак, который гласит «ВСЁ НЕ ХОРОШО!». Волшебное зеркало в полный рост стоит здесь. Смотрите [[#E3c. Разговор с Виктором]] ниже или [[Арка H - Потерянная душа]] для получения дополнительной информации о зеркале. **Охранная руна** на двери накладывает **Ужас** в **конусе 30 футов** от двери при активации
+> В этой пыльной, освещённой лампами комнате, кто-то из старой, не сочетающейся с убранством поместья мебелью, обставил себе рабочий кабинет. Столы завалены листами пергамента, на которых нарисованы странные диаграммы, а на полках отдельно стоящего книжного шкафа располагается множество различных костей. Пыльный ковёр расстелен на полу перед сосновым ящиком, на котором расположился скелет кошки
+
+Если игроки открыто посещают особняк бургомистра, их встречает Клавдия, горничная Барона, и проводит в кабинет и N3e. Кабинет, а затем уходить позвать Барона. Через несколько минут Барон приходит поговорить с ними в сопровождении своих 2 **мастифов** по кличке Клык и Коготь
+
+>[!read]
+> Скорее медведь, чем человек. Его нагрудник, рапира, шелковая туника и жирная борода блестят в свете ламп. На маленьких ковриках по обе стороны от него расположилась пара черных мастиффов
+
+## E3a. Вход в особняк
+
+Если Ирина Коляна уже посещала особняк одна и получила аудиенцию у Барона по поводу баровийских беженцев, [[Неигровые персонажи#Барон Варгас Валлакович|Барон Варгас Валлакович]] с радостью предоставит ей и её спутникам доступ к своей библиотеке. В противном случае игроки могут попытаться убедить Барона впустить их или попытаться получить доступ обманом, если всё остальное не сработает
+
+Если игроки посещают библиотеку, переходите к [[Арка E - Пропавшая Вистана#E3b. Поиск в библиотеке|E3b. Поиск в библиотеке]] ниже
+
+### 1. Убеждение Барона
+
+При первой встрече с игроками Барон интересуется их воодушевлением по поводу предстоящего Фестиваля Пылающего Солнца. Указав на связки веток, сложенные по всему просторному вестибюлю особняка, он хвастается своим планом принести сожжённые дары Утреннему Владыке в гигантском плетёном солнце — вяленое мясо, благовония, украшения и тому подобное. ***«Небеса увидят нашу радость и богатство и взглянут на нас благосклонно***, — ликует он. — ***Благодаря нашему бодрому духу мы будем всё ближе к освобождению от этой зловещей тьмы»***
+
+Если игроки затем просят [[Неигровые персонажи#Барон Варгас Валлакович|Барона Валлаковича]] предоставить им доступ к библиотеке без помощи Ирины, он требует рассказать о их прошлом, их цели в Валлаки и их намерениях относительно использования его библиотеки
+
+Хотя он не особо склонен удовлетворить их просьбу, если игроки укажут, что они приключенцы, маги, жрецы, учёные или иным образом способны выполнить задачу, Варгас готов разрешить им вход в библиотеку, если они согласятся решить проблему, с которой столкнулось его хозяйство. Он может поделиться с ними следующей информацией:
+
+- В течение последних двух месяцев дух преследует особняк Валлаковичей
+- Слуги видели его отражение в зеркалах или затемнённых окнах и сообщали о холодных сквозняках, странных звуках и предметах, которые движутся сами по себе
+- Дворецкий особняка и фрейлина баронессы уже покинули службу у Барона, слишком боясь духа, чтобы продолжать работать в доме
+- Жена Барона, баронесса Лидия Петровна, устраивает ежедневные обеды для группы женщин из Валлаки, которых Варгас использует для подготовки костюмов и украшений для своих еженедельных фестивалей. Варгас отчаянно стремится, чтобы женщины оставались в неведении о существовании духа
+- Повар Барона, смелая женщина по имени Тереска, видела духа совсем недавно и чуть было не уволилась, прежде чем Барон убедил её остаться, (неохотно) повысив ей зарплату
+
+Барон не возражает против того, чтобы игроки пользовались библиотекой до того, как они решат дело, но предоставит им доступ только если они согласятся заняться этим делом
+
+Барона невозможно убедить ссылками на безопасность Арабелль, он настаивает, что мало заботится о бедственном положении «вистанийского щенка»
+
+Если игроки желают посетить библиотеку, барон вызывает служанку Клавдию, чтобы она проводила их в библиотеку перед его уходом. (Переходите к [[Арка E - Пропавшая Вистана#E3b. Поиск в библиотеке|E3b. Поиск в библиотеке]].) Если игроки хотят опросить Тереску, барон просит Клавдию проводить их на кухню. В обоих случаях, когда барон уходит, он просит их не обсуждать духа ни с кем, кто живёт вне дома
+
+Повариха Тереска — широкоплечая, грубовато сложенная женщина с твёрдым, прямолинейным характером, которая не скрывает своих эмоций. Она неохотно обсуждает духа, но может поделиться следующей информацией, если её спросить:
+
+- Духа в основном видели на втором этаже, хотя ночью из чердака доносились странные звуки
+- На прошлой неделе Тереска пережила особенно сильное происшествие, когда доставала старый горшок с чердака — зловещее присутствие, холодный сквозняк и несомненный звук дыхания — что почти заставило её уволиться с работы
+- Фрейлина баронессы, тихая женщина по имени Валентина, сообщала, что несколько раз видела духа в зеркале баронессы. Баронесса вскоре убрала зеркало на чердак
+- Валентина описала внешность духа как искажённый силуэт молодой женщины. Все слуги согласны, что его появления всегда наполнены чувством печали, одиночества и тоски
+- Мало кто из обитателей дома теперь поднимается на чердак, хотя известно, что сын Барона, Виктор Валлакович, может исчезать там на часы или даже дни. Когда это происходит, Тереска обычно оставляет его еду на столе у входа на чердак и стучит по люку, чтобы предупредить его
+- Если игроки спрашивают о Викторе, Тереска отмечает, что он ест слишком мало и кажется странно замкнутым и кратким для молодого человека его возраста, особенно после того, как странная болезнь поразила «ту девочку Вахтер» чуть более 2 месяцев назад. (Тереска не помнит её имени, но знает, что девочка была дочерью леди Фионы Вахтер и что она и Виктор хорошо ладили.) Тереска отказывается объяснять подробности, настаивая, что семейные дела Барона её не касаются
+
+Если игроки выражают желание расследовать чердак, Тереска даёт им указания к входу в N3o. Мастер спальня. Она также готовит небольшую тарелку с хлебом и сыром, которую просит отнести Виктору. Переходите к [[Арка E - Пропавшая Вистана#E3c. Разговор с Виктором|E3c. Разговор с Виктором]] ниже
+
+### 2. Проникновение в особняк
+
+Игроки могут выбрать проникновение в особняк вместо получения разрешения Барона Валлаковича. Если их обнаружат, 1 или несколько NPC могут поднять тревогу, закричав о помощи. Если тревога будет поднята, через 2 минуты в особняк прибудут **12 стражей**, а через минуту после них — Изек Стражни
+
+NPC ведут себя следующим образом:
+
+- [[Неигровые персонажи#Барон Варгас Валлакович|Барон Валлакович]] обычно находится в N3L. Библиотека днём и в N3o. Мастер спальня ночью. Его всегда сопровождают 2 **мастифа**, Клык и Коготь. Если он обнаруживает вторжение игроков, он приказывает Клыку и Когтю атаковать их, но поднимает тревогу, если собак побеждают
+- Баронессу Лидию Петровну обычно можно встретить в N3c. Столовая днём и в N3o. Мастер спальня ночью. Если днём она обнаруживает, что игроки проникли в дом, она предполагает, что они гости её мужа, Варгаса, и приветствует их соответствующим образом; в противном случае она кричит, а затем теряет сознание
+- Виктора Валлаковича обычно можно встретить в N3t. Мастерская Виктора как днём, так и ночью. Если он обнаруживает, что игроки проникли в дом, он осторожно их приветствует и требует назвать свои имена и цель визита. (Он не поднимет тревогу, если его любопытство удовлетворено)
+- Тереску, повара, обычно можно встретить в N3g. Кухня днём и в N3f. Комнаты слуг ночью. Если она обнаруживает, что игроки проникли в дом, она даёт им возможность уйти, но поднимает тревогу, если они отказываются
+- Клавдия, служанка, обычно находится на втором этаже утром, на первом этаже днём и в N3f. Комнатах слуг ночью. Если она обнаруживает, что игроки проникли в дом, она немедленно поднимает тревогу
+
+> [!abstract]+ **Изгнание из Валлаки**
+> Если Изек и стражи сталкиваются с игроками и побеждают их в бою, они конфискуют оружие игроков и выгоняют их из города, оставляя на съедение волкам Сваличского леса. Игроки приходят в себя к западу от Валлаки, на Старой Сваличской дороге, лишённые брони и любого не скрытого оружия, снаряжения или ценностей
+> 
+> Чтобы вернуть свои вещи, игрокам сначала нужно тайно вернуться в Валлаки, избегая 12 **стражей**, патрулирующих стены и ворота города. Игроки могут найти свои вещи, хранящиеся в N3m. Запертый шкаф, рядом с прикованным Удо Луковичем
+
+## E3b. Поиск в библиотеке
+
+_Эта сцена происходит в Главе 5: Зона N3l._
+
+Если игроки получают доступ в N3L. Библиотека, они могут попытаться поискать на полках информацию о платиновом перстне с печаткой. Потратив на поиск полный час, игроки могут убедиться, что ни одна книга не содержит информации о перстне
+
+В ходе поиска один из игроков обнаруживает знакомое имя в генеалогическом томе, фиксирующем рождения и смерти в семьях Валлаки: Ирина Стражни, младшая сестра Изека Стражни и дочь Григори и Фатимы Стражни. Согласно записям, однако, Ирина Стражни умерла более 18 лет назад в возрасте 4 лет, а Григори и Фатима умерли вскоре после этого. Смерть Григори и Фатимы отмечена как _самоубийство через повешение_, а причина смерти Ирины указана как _неизвестна (предположительно съедена волками)_
+
+Вскоре после того, как игроки обнаруживают эти записи, их прерывает появление Виктора Валлаковича, который пришёл в библиотеку в поисках определённой книги: _Эфирные сущности: обитатели невидимого царства_, написанной архимагом Морденкайненом
+
+![[Victor Vallakovich.png]] 
+
+> [!profile]+ **Профиль: Виктор Валлакович**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Виктор должен вызывать у игроков раздражение его подозрительностью и высокомерием, сочувствие его тревоге, разочарованию и отчаянию, а также расположение к его упрямой решимости исцелить Стеллу
+> 
+> _**Эмоции.**_ Виктор чаще всего испытывает любопытство, разочарование, подозрительность, возбуждение, скуку, тревогу, отчаяние или решимость
+> 
+> _**Мотивы.**_ Виктор хочет вернуть душу Стеллы в её тело и покинуть Баровию
+> 
+> _**Вдохновения.**_ При игре за Виктора ориентируйтесь на Джонатана Байерса (_Очень странные дела_), принца Зуко (_Аватар: Легенда об Аанге_), Рэйвена (_Юные титаны_) и Перрина Айбару (_Колесо времени_)
+> 
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Виктор — тихий, угрюмый и замкнутый молодой человек с неловкими манерами и полным отсутствием светских навыков. Для тех, кому он доверяет, Виктор — преданный и сострадательный друг, с искрой гениальности и упрямством мула. Только Виктор знает, что тайно боится потерять дружбу Стеллы — как из-за вреда, причинённого его _кругом телепортации_, так и из-за времени, проведённого ею с Эразмусом ван Рихтеном в Эфирном плане
+> 
+> _**Боевой дух.**_ В бою Виктор попытается убежать, но в случае если его загонят в угол или если он защищает своих друзей или семью от смерти, применит свои самые опасные заклинания с беспечностью и дилетантской безрассудностью. (Хотя он часто раздражителен, Виктор не будет нападать магически, если его оскорбят или унизят)
+> 
+> _**Отношения.**_ Виктор — единственный ребёнок Барона Варгаса Валлаковича (к которому он испытывает неприязнь) и баронессы Лидии Петровны (к которой он испытывает заботу, но находит раздражающей). Он близкий друг Стеллы Вахтер и дружелюбный (хотя и осторожный) знакомый духа Эрасмуса ван Рихтена. Виктор презирает и боится Изека Стражни, который 2 года назад убил детскую кошку Виктора, Мурку, пнув её через комнату, когда она случайно забрела на его путь. (С тех пор Виктор оживил скелет Мурки с помощью заклинания [[Восставший труп]])
+
+Виктор - молодой худощавый человек с небольшой проседью в его чёрных волосах. В руках у него книга в кожаном переплёте (книга заклинаний). Игроки легко заметят, что на обложке книги изображён тот же символ, что и на платиновом печатном перстне
+
+Если игроки спросят о книге заклинаний Виктора, он потребует узнать их имена и цель. Игроки могут убедить его помочь, рассказав историю исчезновения Арабелль или преуспев в **проверке Убеждения Сл 15**
+
+Если Виктор соглашается помочь игрокам, поделившись информацией о своей книге заклинаний, он сначала берёт _Эфирные сущности_ с одной из полок, после чего приглашает игроков наверх, в **N3t. Мастерская Виктора**, чтобы продолжить разговор. Вне своей мастерской он не станет делиться никакой информацией
+
+> [!lore]+ **Эфирные сущности**
+> _Эфирные сущности: обитатели Незримого царства_ за авторством Морденкайнена — это тонкая книга в твёрдом переплёте с кожаной обложкой, окрашенной в глубокий, полуночный синий цвет. Название и имя автора выбиты серебряным шрифтом вдоль корешка и на передней обложке, а углы книги украшены мелкой серебряной филигранью, напоминающей эфирные завитки. Её страницы заполнены аккуратно написанным текстом и прекрасно детализированными иллюстрациями. Игроки, которые попросят Виктора разрешить им прочитать книгу или иным образом получат её, могут узнать следующее:
+> 
+> Книга представляет собой трактат об [[Эфирный план|Эфирном Плане]] и существах, которые обитают в нём или посещают его. Она содержит всю информацию об Эфирном плане, а также бестиарий, разделённый на следующие 3 раздела:
+> 
+> - _**Эфирные: обитатели Глубинного Эфира**_, содержащий информацию о существах, которые, как говорят, обитают исключительно в Глубинном Эфире, таких как мифологические туманники, эфирные тени и мерцающие создания
+> - _**Фантомы: Путешественники из Пограничного Эфира**_, содержащий информацию о нематериальных существах, которые обитают в Пограничном Эфире и часто пересекают Материальный План, таких как **призраки** и **фантомные воины**
+> - _**Скитальцы сквозь завесы: Посетители Эфира**_, содержащий информацию о физических существах, которые могут попадать на Эфирный План, таких как **ночные ведьмы**, **кошмары** и **фазовые пауки**
+> 
+> Подраздел, посвящённый **фазовым паукам**, содержит краткую заметку о том, что большинство нематериальной нежити имеет иммунитет к урону от стихий, естественного и немагического оружия, находясь на Материальном Плане, а также о природных способах, которые разработали фазовые пауки для преодоления этих иммунитетов с помощью своих клыков и яда. В ней отмечается, что заклинатель может нанести урон нематериальному духу обычным образом, используя клык фазового паука в качестве дополнительного материального компонента для произнесения заклинаний, тогда как боевой персонаж может нанести урон нематериальному духу, покрыв 1 оружие или до 3 боеприпасов ядом фазового паука или святой водой
+> 
+> Подраздел, посвящённый **ночным ведьмам**, содержит краткую заметку о ритуале, использующем _**сердечный камень**_ ночной ведьмы и энергии лей-линии для воспроизведения эффекта заклинания _Эфирность_ для до 10 человек на 1 час в ночь полнолуния
+> 
+> Глава, посвящённая **ночным ведьмам**, носит название «Ночные ведьмы: Матроны Злобности». Она гласит следующее:
+> 
+> ---
+> 
+> Хитрые и коварные, ночные ведьмы олицетворяют злодейство. Они представляют всё, что в мире зло и жестоко, и не желают ничего больше, чем увидеть, как добродетельные обращаются к злодеянию: любовь превращается в одержимость, доброта — в ненависть, преданность — в пренебрежение, а щедрость — в эгоизм
+> 
+> Когда-то ночные ведьмы были существами Страны Фей, царства чар и красоты. Однако их мерзость привела к изгнанию в мрачное царство Ада давным-давно, где они деградировали в исчадия. Гнусная порча Ада исказила их некогда фейскую природу, и с тех пор ночные ведьмы распространяют своё зло по Нижним Планам
+> 
+> Хотя ночные ведьмы похожи на иссохших старух, в них нет ничего смертного. Их иссохшие лица обрамлены длинными, лохматыми волосами и закрученными бараньими рогами; отвратительные родинки и бородавки покрывают их пятнистую бледно-голубую кожу; а длинные, худые пальцы оканчиваются когтями, способными разрезать плоть одним касанием
+> 
+> Все ведьмы обладают магическими способностями, включая умение изменять свои формы или проклинать врагов. Ведьма также имеет некоторую устойчивость к магии и смертным орудиям, хотя прикосновение серебра ранит её, как и любого другого
+> 
+> Высокомерные до крайности, ведьмы считают себя самыми хитрыми существами — и очень часто таковыми являются. Они открыты для сделок с смертными и всегда держат своё слово, но договор с ведьмой всегда опасен. Ведьмы получают удовольствие, наблюдая, как смертные через эти сделки приводят себя к гибели, часто поступаясь своими принципами или отдавая что-то дорогое
+> 
+> Высшей наградой ночной ведьмы, однако, является душа испорченного смертного. Пока её жертва спит, ночная ведьма проходит на Эфирный План с помощью своего извращённого ониксового сердечного камня — артефакта, позволяющего ей становиться Эфирной со скоростью мысли. Там она вторгается в сны своей жертвы, наполняя её голову сомнениями и страхами в надежде заставить совершать злые поступки в реальном мире
+> 
+> Ночь за ночью она продолжает свои посещения, пока жертва наконец не умрёт во сне — в этот момент она заточает её испорченную душу в своей сумке душ в качестве тёмного трофея своей победы. Чем темнее пятна на душе, тем больше награда ночной ведьмы
+> 
+> Как и все ведьмы, ночные ведьмы размножаются, похищая и поедая человеческих младенцев. Через неделю ведьма рождает дочь, которая выглядит как человек до своего 13 дня рождения — после чего ребёнок превращается в точную копию своей ведьмовской матери
+> 
+> Некоторые ведьмы ростят дочерей, которых они рождают, создавая шабаши, усиливающие их силу. Члены шабаша получают множество сверхъестественных способностей, включая умение управлять стихиями и — 1 раз в день — рассеивать чужую магию вблизи своих логов. Как и вся ведьминская магия, такая сила имеет свою цену — рана, полученная одной ведьмой в шабаше, нанесена всем
+> 
+> Чтобы сдерживать свои изначально эгоистичные натуры, ведьмы в шабаше должны заключить письменный контракт с другими, подписанный истинными именами каждой ведьмы. Ведьмы в шабаше ревниво охраняют свой контракт, часто запечатывая его в сердце своего логова и внимательно следя за тем, чтобы их имена не попали в руки врагов
+
+## E3c. Разговор с Виктором
+
+_Эта сцена происходит в Главе 5: Область N3t_
+
+В магической книге Виктора содержатся заклинания **Послание** и **Ужас** и отсутствует заклинание **Снятие проклятия**
+
+> [!Warning]+ Контрзаклинание 2024
+> Этот гид был написан для использования заклинаний 2014 года. Если используются заклинания 2024 года, добавьте в магическую книгу Виктора заклинание _Отменить заклинание_. Заклинание действует как Контрзаклинание 5-го уровня согласно правилам 2014 года для боя в [[Арка H - Потерянная Душа#Битва с каргами|Арка H - Потерянная Душа]]
+
+Кроме того, у Виктора есть только 1 скелетный **кот**, представляющий собой анимированные останки его кота детства, Мурки. Телепортационный круг Виктора выполнен идеально, на его книжной полке нет костей, а напольное зеркало из **N3p. Свадебное платье и Зеркало Духов** он прислонил к стене рядом с ковром
+
+Зеркало является _Зеркалом Духов_, магическим предметом, отражающим как Материальный План, так и существа в Пограничном Эфире. При входе в комнату игрок, посмотревший в зеркало, видит проблеск силуэта молодой девушки, который быстро исчезает. (Это дух Стеллы Вахтер)
+
+> [!abstract]+ **Встреча с Виктором**
+> Если игроки ещё не встретили [[Неигровые персонажи#Виктор Валлакович|Виктора]], он накладывает **Высшую невидимость** согласно описанию в **N3t. Мастерская Виктора**, если замечает их приход, но неуклюже опрокидывает стопку пергамента, когда игроки входят в комнату в его спешке спрятаться. Игрок, который осмотрит пергамент, увидит, что на нём изображены сложные схемы телепортационных кругов
+> 
+> Вскоре после того как игроки входят в комнату, они слышат чихание из угла, где прячется Виктор. Затем Виктор появляется — включая свою магическую книгу и узнаваемый символ на ней — и начинает разговор с игроками, как описано в [[#E3b. Поиск в библиотеке]] выше
+
+Если Виктора убедить помочь игрокам в поисках Арабелль, он может поделиться следующей информацией
+
+- 3 года назад он нашёл старую магическую книгу в библиотеке своего отца. С тех пор он использует её для изучения магии
+- Первым владельцем магической книги был маг по имени Хазан. Символ на обложке книги был его личным знаком
+- Давным-давно Хазан построил башню волшебника, которую наделил мощными чарами, включая защитное поле, предотвращавшее использование магии другими заклинателями в пределах его действия
+
+Если игроки соглашаются исследовать башню Хазана и передать Виктору любые найденные артефакты, он сообщает им, где находится башня: на гравийной насыпи на озере Бараток, к западу
+
+> [!info]+ **Что известно Виктору**
+> Если спросить о различных фракциях и локациях по всей Баровии, Виктор может предоставить следующую информацию
+> 
+> - _**Янтарный Храм.**_ Виктор перелистывает свою магическую книгу и сообщает, что, согласно её страницам, Хазан однажды искал секреты власти в храме «сделанном из янтаря». ***«Согласно его заметкам, ранее его охранял орден рыцарей на службе у дракона»***, — добавляет он с любопытством. ***«Но когда Страд завоевал долину, он всех их истребил»***
+
+Виктор не уверен, как добраться до озера Бараток из Валлаки. Однако он знает того, кто это знает: Шольдара Шольдаровича, одного из самых умелых охотников города. (В прошлом году, в попытке побудить Виктора развивать более мужские хобби и черты характера, Варгас заставил его сопровождать Шольдара в охотничьей поездке по лесам у стен Валлаки. Виктор ненавидел этот опыт, но приобрёл здоровое уважение к знаниям Шольдара о дикой природе Баровии)
+
+Если игроки заинтересованы во встрече с Шольдаром, Виктор направляет их к обветшалой хижине у устья реки Луна на западе, которую Шольдар и его напарник, Евгений Крушкин, мастерскую для снятия шкур, потрошения и разделки добычи. Чтобы добраться туда, игроки должны двигаться на север, мимо ворот Заровича в Валлаки, а затем следовать на запад вдоль берегов озера Зарович
+
+Виктор может сообщить игрокам, что, хотя Шольдар и Евгений проводят большинство утр в проверке своих ловушек на наличие пойманной дичи, они обычно возвращаются в избу к полудню, чтобы почистить оружие, заново установить ловушки и заточить и оперить новые стрелы
+
+> [!abstract]+ **Призрак**
+> Если игроки спрашивают Виктора о призраке в особняке бурмистра, он с неохотой «раскрывает», что его магия ответственна за это, утверждая, что он экспериментировал с магией для создания различных странных эффектов, включая холодные температуры, предметы, движущиеся без прикосновения, и странные светящиеся огни. Он также утверждает, что многие из странных шумов, вероятно, исходили от Мурки, его скелетного **кота**
+> 
+> Виктор правдиво сообщает игрокам, что пытался скрывать свою магию от отца, опасаясь, что тот не одобрит. Однако его утверждение, что магия вызвала «преследования», является ложью, и преуспев в **проверке Проницательности Сл 10**, можно заметить, что он колеблется, рассказывая историю, а его глаза на мгновение устремляются к зеркалу, прислонённому к стене
+> 
+> Если Виктора поймать на явной лжи, он признаётся, что шумы, вероятно, вызваны духом, который преследует дом, но умоляет игроков никому не рассказывать, опасаясь, что барон сочтёт нужным изгнать его. Виктор обещает обеспечить, что дух затихнет, настаивая, что, вероятно, он не знал, что тревожит кого-либо. (Виктор отказывается представить духа, если его об этом просят, утверждая, что он стеснительный)
+> 
+> Виктор не раскрывает истинную личность духа (Стелла Вахтер) и его происхождение. Подробнее см. в [[Арка H - Потерянная Душа]]
+
+> [!lore]+ **Посох Хазана**
+> Читая книге заклинаний Хазана, Виктор узнал, что Хазан был владельцем могущественного посоха волшебника, который, по мнению Виктора, может всё ещё находиться где-то в его башне
+> 
+> Согласно книге заклинаний, магическая привязка позволяла Хазану призывать его, просто произнеся своё имя. С помощью посоха Хазана Виктор считает, что сможет спасти душу Стеллы с Эфирного Плана и вернуть её в тело
+> 
+> Виктор, однако, ошибается. В отличие от книги заклинаний архимага, Страд забрал посох Хазана из остатков его тела. Сейчас он спрятан в Крипте 15 в Замке Рэйвенлофт. Подробнее о посохе Хазана см. в [[Арка P - Ограбление Рэйвенлофта]]
+
+# E4. Озеро Зарович
+
+_Эта сцена происходит в Главе 2: Область L._
+
+>[!read]
+> У подножия горы, зажатое среди туманных лесов, раскинулось большое озеро. Воды которого, идеально спокойные и чёрные, отражают чёрные тучи над ним будто чудовищно огромное зеркал
+
+По мере того как игроки движутся на запад к хижине Шольдара, зачитайте:
+
+>[!read]
+> Дорога впереди неровная, усеяна галькой и местами заросшая мхом и дикой травой. Слева высоко и зловеще возвышаются деревья Сваличского леса; справа с озера дует холодный ветер, с легкой примесью солоноватого запаха, сырой земли и старого ила. Кроме скорбного карканья далёкого ворона, единственные звуки, разрывающие жуткую тишину, — это хлюпанье грязи под ногами и тихое плескание волн о берег
+>
+> Однако вскоре воздух наполняется лёгкими запахами мехов и знакомым металлическим привкусом. Впереди слышен шум бегущей воды, и видно место, где тёмные воды озера стремительно вливаются в реку, которая исчезает на юг в тёмные леса
+>
+> Небольшая, грубо построенная хижина стоит укромно у кромки воды, её брёвна изношены и потемнели от времени. Недалеко возвышается старая каменная стела на круглом основании, плотно заполненным покрытыми мхом камнями
+
+Если игроки прибывают между полуднем и сумерками, Шольдар и Евгений находятся внутри. Шольдар очищает кровь со старой заржавевшей охотничьей ловушки, а Евгений наполовину снял шкуру с большого мёртвого волка
+
+Когда Шольдар и Евгений отсутствуют, дверь хижины заперта на навесной замок. (Оба охотника за волками носят ключ.) Если хотя бы 1 из охотников находится внутри, дверь незаперта и приоткрыта
+
+Если игроки решают исследовать стеллу, они обнаруживают на ней резьбу в виде бабочки, борозды которой покрыты лишайником и мхом. (Плита является древним памятником Мечтательнице, божественной сестре Трёх Леди. Шольдар и Евгений не знают, что означает эта резьба)
+
+Если игроки входят в хижину, зачитайте:
+
+>[!read]
+> Стены этой тесной хижины тёмные от времени и использования. На стенах висят ножи, тесаки, ловушки и цепи, каждый предмет тщательно вычищен и смазан. Перекладины увешаны шкурами животных, их пустые глаза, казалось бы, наблюдают за вами, когда вы проходите мимо
+
+Шольдар и Евгений рады выступить проводниками за **5 зм в день** или рассказать о том, как добраться до каких-то важных мест **за обещание бесплатной выпивки**. Они считают глупым отправляться в путь по «проклятым землям» ночью и не станут этого делать, если только их оплата не будет заоблачной (100 зм и более). Если они присоединяются к группе, оба мужчины соответствуют описанию в [[Арка C - В Долину#Входя в таверну|N2c. Таверна]], но каждый приносит с собой 3 посеребрённые стрелы для путешествия
+
+Если игроки решают отправиться в путь самостоятельно, Шольдар даёт следующие указания:
+
+- Выйдите из Валлаки через западные Ворота Заката, затем перейдите мост через реку Луна
+- Идите по северной дороге от перекрёстка реки Луна, которая на ближайшем указателе отмечена как «Озеро Бараток»
+- Следуйте по тропе, которая изгибается через лес, пока в конечном итоге не выйдете к озеру
+
+Шольдар также предупреждает игроков быть осторожными с оборотнями на Сваличской дороге и северной тропе. Леса к западу от Валлаки — а особенно леса вокруг озера Бараток — являются излюбленными охотничьими угодьями местной стаи оборотней
+
+Недавняя активность оборотней заставила Шольдара заподозрить, что стая оказалась под руководством нового, более безрассудного альфы. Он не знает, где находится логово оборотней, но предостерегает игроков быть внимательными к любым странным или необычным явлениям
+
+# E5. Сваличская дорога
+
+Когда игроки покидают хижину Шольдара, любые персонажи с **пассивным Восприятием 19** и выше замечают силуэт, наблюдающий за ними с южной кромки леса. Если игроки подходят к силуэту, смотрят в его сторону или как-либо пытаются взаимодействовать с ним, он исчезает
+
+Силуэт — это Арригал, который решил шпионить за игроками по поручению Страда и проследить за тем, чтобы Арабелль была безопасно возвращена, если игроки её найдут. Хотя он остаётся вне поля зрения на протяжении остального пути, Арригал продолжает следить за игроками издалека
+
+## E5a. Мост через реку Луна
+
+Путешествие от Валлаки до перекрёстка реки Луна составляет **1,6 км** и занимает **20 минут**. Когда игроки переходят мост через реку Луна, зачитайте следующее:
+
+>[!read]
+> Тропа сужается, по обе стороны её обступают густые, высокие деревья. Впереди появляется старый деревянный мост, его потемневшие от времени доски перекинуты через стремительную реку внизу. Приблизившись, вы видите, как тёмная вода перекатывается по гладким камням русла, а берега по обе стороны заросли корявыми кустами и деревьями
+>
+> Когда вы ступаете на мост, ваши сапоги гулко отдаются по старому, сырому дереву. К северу вы видите, как река петляет вверх по течению вдоль линии деревьев, прежде чем скрыться за поворотом. К югу река вьётся лентой между своими берегами, постепенно растворяясь в тумане
+>
+> На середине моста вы замечаете нечто странное: небольшой клочок белого материала трепещет на поверхности реки у дальнего берега, зацепившись за корень дерева примерно в 10 метрах ниже по течению
+
+Если персонажи достают клочок материала, они обнаруживают, что это небольшой промокший белый носовой платок с вышитыми красными инициалами «Р.В.Р.» (Арабелль оставила эту улику, когда путешествовала в Валлаки вместе с ван Рихтеном)
+
+## E5b. Перекрёсток реки Луна
+
+_Эта сцена происходит в Главе 2: Область P_
+
+Если персонажи впервые посещают Перекрёсток реки Луна, здесь в засаде их поджидают **2 ветвистых заразы** и **2 пугала**. Измените описание области следующим образом:
+
+>[!read]
+> Дорога приводит к перекрёстку в форме X с ответвлениями на северо-запад, северо-восток, юго-запад и юго-восток
+>
+> По перекрёстку разбросаны 2 небольших мёртвых саженца, их ветви и стволы почернели и искривились. Некоторые наклонены под лёгким углом, другие упрямо стоят прямо, их прутовидные силуэты неподвижны и безмолвны в безветренном воздухе
+>
+> Рядом пара пугал, кажется, установлены на 2 отдельных деревьях, их тела состоят из грубой соломы и выветренной ткани, обвивающей скрученные, низко свисающие ветви. Их нарисованные глаза на мешковине кажутся почти насмешливыми, а чёрные вороновые перья торчат из набитых внутренностей
+
+Нижняя часть сломанного деревянного указателя торчит под углом возле восточного изгиба перекрёстка. Верхняя часть знака с указателями в четыре стороны лежит в зарослях неподалёку. Персонажи, могут легко разобраться, как верхняя часть указателя была раньше расположена на нижней. Когда две части будут соединены, руки указывают на КРЕЗК и ПЕРЕВАЛ ТСОЛЕНКА на юго-западе, ОЗЕРО БАРАТОК на северо-западе, ВАЛЛАКИ и РЭЙВЕНЛОФТ на северо-востоке и БЕРЕЗ на юго-востоке
+
+Если Шольдар сопровождает игроков, он предупреждает их, что саженцы и пугала — новые добавления на перекрёсток, и что недавние слухи сообщают о пугалах, которые перемещаются самостоятельно по лесу
+
+Если игроки подходят к сломанному указателю или собираются покинуть перекрёсток, заразы и пугала атакуют
+
+> [!combat]- **Combat - The Blights**  
+> **Combat Level**: Bruising **Expected Character Level**: 4 **Allies:** Szoldar Szoldarovich (CR 1/2) **Expected HP Consumption:** 18%
+
+# E6. Озеро Бараток
+
+Путешествие от перекрёстка реки Луна до озера Бараток по северо-западной тропе составляет **3,6 км** и занимает **45 минут**
+
+>[!read]
+> Вы подходите к холодному горному озеру, которое окружают туманные леса и каменистые утёсы. Густой туман клубится над стоящими, тёмными водами. Тропа заканчивается у покрытой травой насыпи, протянувшейся на сотню метров в озеро, к плоскому, топкому островку, на котором расположена каменная башня. Башня старая и обветшавшая, с разваливающимися строительными лесами, установленными с одной стороны, где большая трещина разделила стену. Потрёпанные временем статуи грифонов, бока и крылья которых покрыты мхом, взгромоздились на контрфорсы, поддерживающие стены башни
+>
+> У подножия башни, в пределах видимости входа, стоит фургон с круглой крышей, заляпанный грязью
+
+## E6a. Вагон Эсмеральды
+
+_Эта сцена происходит в Главе 11: Область V1._
+
+### Снаружи вагона
+
+>[!read]
+> Под слоем грязи, фургон покрыт свежей пурпурной краской, а на его колёсах видна вычурная золотая отделка. Латунный фонарь свисает с каждого угла, а красные занавески закрывают окна в форме надгробий, расположенные с каждой стороны. Стальной навесной замок висит на задней двери, на которой висит 3 деревянных знака по диагонали. На знаках написано, по порядку: **«Не входить!»**, **«Дом и имущество Эсмеральды д’Авенир»**, и **«Нарушители будут немедленно сожжены»**. Под предупреждением на третьем знаке кто-то нарисовал маленькое хмурое лицо с зачёркнутыми глазами, окружённое стилизованным пламенем
+
+Дверь заперта на навесной замок и может быть открыта успешной **проверкой Ловкости Сл 20** ([[Инструменты#Воровские инструменты|воровские инструменты]]) или успешной **проверкой Силы Сл 20**
+
+Игрок, подходящий к повозке, улавливает слабый запах серы и замечает, что трава вокруг выглядит так, как будто она вытоптана множеством ног. Игрок, преуспев в **проверке Выживания Сл 14**, узнаёт, что следы оставила стая волков прошлой ночью, которые, судя по всему, осмотрели повозку, прежде чем оставить её в покое. (Если Шольдар находится с игроками, он указывает на это после краткого осмотра и советует им не трогать вагон.) Игрок также узнаёт, что повозка стоит здесь не более 48 часов
+
+> [!warning]+ **Шанс среагировать**
+> Как указано в **Порядке ведения боя** (Player's Handbook, стр. 189), бой — это «столкновение двух сторон». Участник боя не обязан стремиться причинить вред другому — достаточно лишь препятствовать другому участнику в выполнении какого-либо действия или достижении цели
+> 
+> Соответственно, когда один игрок заявляет о намерении совершить действие, которому другой игрок может попытаться противодействовать — например, открыть дверь повозки Эсмеральды — спросите у других игроков поблизости, хотят ли они вмешаться, чтобы помешать этому действию. (Например, игрок может захотеть оттолкнуть первого игрока от повозки или схватить его и силой оттащить в сторону)
+> 
+> Если да, пусть все участвующие игроки бросят инициативу. (Первый игрок, разумеется, в любой момент может передумать и прекратить своё первоначальное действие)
+
+**Осмотр повозки.** Игрок, осматривающий повозку Эсмеральды, также узнаёт, что она была не единственной, кто недавно здесь стоял. Рядом есть следы второй повозки, ведущие из восточного леса к месту рядом с повозкой Эсмеральды, а затем на юг по тропе от озера. Игрок, следующий по следам на юг, обнаруживает, что они выходят на Старую Сваличскую дорогу, а затем поворачивают на восток, в сторону Валлаки. Игрок, преуспевший в **проверке Выживания Сл 14**, может определить, что второй набор следов оставлен в тот же день, когда игроки впервые прибыли в Валлаки (2 ноября)
+
+Игрок, преуспевший в **проверке Выживания Сл 10**, может проследовать по второму набору следов в лес, где они заканчиваются в тёмной, укрытой впадине. Большая часть лесной подстилки вокруг впадины окрашена яркой жёлтой и белой краской. Преуспев в **проверке Расследования Сл 14**, игрок узнаёт, что краска оставлена сравнительно недавно — примерно за день до того, как игроки впервые прибыли в Валлаки (1 ноября)
+
+Если игрок ранее видел повозку Риктавио на Оптовом складе Арасек, он узнаёт краску как того же оттенка жёлтого, что и знак на повозке
+
+Фургон излучает ауру **школы Вызова**, если его исследовать при помощи заклинания **Обнаружение магии**. Персонаж, который сотворит заклинание **Опознание** на фургон, узнает командное слово, необходимое, чтобы управляться с ним
+
+Любой, кто сидя на месте возницы произносит командное слово (**«Дроваш»**), призывает пару почти реальных тягловых лошадей, которые волшебным образом запряжены в фургон и не могут быть отделены от него. Лошади и фургон имеют **скорость 30 футов**, и лошади повинуются простым командам возницы. Возница может отпустить лошадей произнеся другое командное слово (**«Арвеш»**). Лошадей можно рассеять (**Сл 15**), но им невозможно нанести урон
+
+Фургон оснащён скрытым люком под дном, который может обнаружить персонаж, осматривающий фургон снизу и преуспевший в **проверке Расследования Сл 13**. Люк открывается внутрь фургона и это единственный безопасный путь внутрь
+
+### Внутри вагона
+
+**Двуствольные ловушки.** Флаконы алхимического огня были убраны из внутреннего пространства повозки. Вместо этого, если игрок откроет дверь после взлома или подбора замка, срабатывают два тяжёлых арбалета, установленные на противоположной стороне кабины, нацеленные на игрока прямо перед дверью:
+
+- _**Серебряная Колючая Сеть**_: _Атака дальнобойным оружием:_ **+8** к попаданию. _Попадание:_ **5 (2к4) колющего урона**, и цель оказывается [[ДМовские заметки#Опутанный|связаной]] до момента освобождения. Цель может действием попытаться преуспеть в **проверке Силы Сл 15**, освободив себя или другое существо в пределах досягаемости при успехе. Существо, которое пытается это сделать, также должно преуспеть в **спасброске Ловкости Сл 15** или получить **5 (2к4) колющего урона** в процессе. Нанесение **15 рубящего урона** сети (**КД 15**) также освобождает существо без вреда для него, прекращая эффект и разрушая сеть
+- _**Флакон Концентрированного Алхимического Огня**_. _Атака дальнобойным оружием:_ **+8** к попаданию. _Попадание:_ **21 (6к6) урона огнём**. При попадании цель также **воспламеняется** и получает этот урон снова **в начале каждого своего хода**, пока огонь не будет потушен. Существо в пределах досягаемости пламени может **действием** попытаться затушить пламя с помощью одеяла или ковра, уменьшая урон огнём на 2к6. Для полного тушения огня требуется 3 таких действия
+
+**Вещи Эсмеральды.** В вагоне можно найти следующее:
+
+- Деревянный сундук, покрытый следами когтей, в котором находятся [[боевой топор]], [[цеп]], [[моргенштерн]], [[лёгкий арбалет]] и **10 посеребрённых болтов** к нему
+- Узкий шкаф с 3 комплектами качественной одежды, 2 наборами одежды путешественника, несколькими парами обуви, маской арлекина и 3 париками
+- [[Инструменты#Музыкальные инструменты|Лира]] с золотыми струнами (стоимостью 50 зм)
+- Фигурная деревянная клетка с курицей и серебряный кувшин (стоимостью 100 зм) с 5 куриными яйцами
+- Набор медных кастрюль и сковород (стоимостью 50 зм)
+- Лопата
+
+В ложном дне деревянного сундука содержатся следующие предметы, которые можно обнаружить преуспев в **проверке Расследования Сл 15**:
+
+- [[Снаряжение#Комплект для лазания|Комплект для лазания]], [[Инструменты#Набор для грима|набор для грима]], [[Снаряжение#Комплект целителя|комплект целителя]] и [[Инструменты#Инструменты отравителя|инструменты отравителя]]
+- Небольшая деревянная коробка, завёрнутая в шёлк, в которой лежит колода карт тарокка
+- Трое кандалов
+- Деревянный сундук, в котором лежат золотой [[Снаряжение#Священный символ|священный символ]] Утреннего Бога (стоимостью 100 зм), 3 [[Снаряжение#Святая вода|фляги святой воды]], 3 флакона духов, [[Снаряжение#Противоядие|2 флакона противоядия]], [[Снаряжение#Верёвка|50 футов пеньковой верёвки]], [[Снаряжение#Трутница|трутница]], стальное зеркало, заостренный деревянный кол и [[Снаряжение#Подзорная труба|подзорная труба]]
+- 2 свитка заклинаний ([[Образ]] и [[Снятие проклятия]])
+
+Если игроки входят в повозку через дверь вместо люка, курица Эсмеральды сердито кудахчет на них, пока они не уйдут
+
+> [!abstract]+ **Курмеральда**
+> Если с ней говорить с помощью заклинания **Разговор с животными**, курица с гордостью представляется как Курмеральда, питомец «легендарной охотницы на монстров» Эсмеральды д'Авенир, которая, по словам Курмеральды, отомстит игрокам за вторжение в её повозку
+> 
+> Если с ней обращаться с добротой и предоставить надлежащие извинения, Курмеральда может сообщить, что не знает, где сейчас Эсмеральда, и что Эсмеральда в данный момент «ищет кое-что» в лесу, хотя она надеется, что Эсмеральда скоро вернётся. (Курмеральда, у которой в клетке есть удобный и обильный доступ к мешку с семенами и миске с водой, не рискует голодать или испытывать жажду, пока Эсмеральда отсутствует)
+
+## E6b. Башня
+### 1. Дверь Башни
+
+_Эта сцена происходит в Главе 11: Область V2_
+
+>[!read]
+> Дверь башни сделана из железа, без видимых ручек или петель. В центре двери находится большая тиснённая, пустая красная печать. На перемычке над дверью вырезано слово: Хазан
+
+Печать кажется пустой. Однако если персонаж подходит на расстояние 5 футов от двери, из её восковой поверхности вырастают 8 кнопок размером с кулак. Если персонаж затем отходит от двери, кнопки снова исчезают. Кнопки появляются в разных местах каждый раз, но порядок их движения по печати всегда остаётся одинаковым
+
 ![[Tower Door.png]]
-Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
-A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
+Каждая из 8 кнопок изображает разную аркейн руну. Игрок, **владеющий навыком Магия**, или преуспевший в **проверке Магия Сл 10**, опознаёт руны как символы 8 школ магии. Порядок символов против часовой стрелки всегда следующий: Иллюзия, Ограждение, Некромантия, Вызов, Прорицание, Очарование, Преобразование, Воплощение
 
-The two possible proper sequences are:
+Игрок, который сравнивает платиновое перстневое кольцо с символами, замечает, что руны Воплощения и Некромантии точно соответствуют положению их на двери. Чтобы открыть дверь, игроки должны нажать кнопки в порядке, указанном схемой пересекающихся линий на перстне, начиная либо с символа Воплощения, либо с символа Некромантии и следуя по линиям в правильной последовательности
 
-* evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
-* necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation
+Две возможные правильные последовательности следующие
 
-Each time a button is pressed, its symbol glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
+- Воплощение, Прорицание, Иллюзия, Преобразование, Вызов, Ограждение, Очарование, Некромантия
+- Некромантия, Очарование, Ограждение, Вызов, Преобразование, Иллюзия, Прорицание, Воплощение
 
-A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
+Каждый раз, когда кнопка нажимается, её символ светится цветом соответствующей школы магии: Воплощение (красный), Прорицание (серебряный), Иллюзия (фиолетовый), Преобразование (зелёный), Вызов (коричневый), Ограждение (жёлтый), Очарование (розовый) и Некромантия (синий)
 
-If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
+Существо, которое касается любой части двери, кроме кнопок, не открыв её предварительно, получает лёгкий, но болезненный электрический удар. Существо, пытающееся выбить дверь, должно преуспеть в **проверке Силы Сл 25**; при **провале** из двери вырывается разряд молнии прямой **линией длиной 100 футов** и **шириной 5 футов**. Каждое существо на линии должно совершить **спасбросок Ловкости Сл 15**, получая **8к6 урона электричеством** при **провале** или **половину урона** при **успехе**
 
-> [!combat]- **Balancing the Gargoyles**
-> This combat encounter is a **oppressive** combat encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovich), and will consume approximately 85% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+Если 8 разных символов нажаты в неправильной последовательности, их огни кратковременно мерцают, а затем снова гаснут. В первый раз, когда это происходит, статуи грифонов на крыше башни — 3 замаскированных **гаргульи** — оживают и атакуют (4-я повреждена и не оживает). Гаргульи сражаются до смерти
+
+> [!combat]- **Combat - The Gargoyles**  
+> **Combat Level**: Oppressive **Expected Character Level**: 4 **Allies:** Szoldar Szoldarovich (CR 1/2) **Expected HP Consumption:** 85%
+
+### 2. Строительные леса
+
+_Эта сцена происходит в Главе 11: Область V3_
+
+>[!read]
+> Гнилые деревянные балки поддерживают леса, трещащие и скрипящие при легчайшем дуновении ветра. Несколько лестниц и платформ ведут к дыре в северо-западной стене на третьем этаже
+
+Леса не могут выдержать более, чем **100 кг** веса. Если они упадут, любой, кто стоит на них падает с **20 футов** на землю, получая **1к6 дробящего урона** за каждые **10 футов** падения **+ 2к6 колющего урона** от падения на обломки. Существо под лесами должно преуспеть в **спасброске Ловкости Сл 13** или получит **дробящий урон 14 (4к6)** от падающих на него обломков
+
+Если существо поднимается по лесам на второй этаж, четыре **гаргульи** на крыше оживают и атакуют. (Помните, что леса ведут к отверстию в стене на 3-ем этаже)
+
+#### Гаргулья
+
+_Средний Элементаль, Хаотично Злой_
+
+---
+
+**КД** 15 (естественная броня)  
+**Хиты** 37 (5к8 + 15)  
+**Скорость** 15 футов, летая 30 футов
+
+---
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|8 (-1)|16 (+3)|6 (-2)|11 (+0)|7 (-2)|
+
+---
+
+**Сопротивление урону** колющему и режущему от немагических атак и не адамантиновых орудий
+**Уязвимости** звуком
+**Иммунитеты к урону** ядом
+**Иммунитеты к состояниям** Истощение, окаменение, отравление
+**Чувства** тёмное зрение 60 футов, пассивное Восприятие 10  
+**Языки** Терран
+**ПО** 2  
+**БМ** +2  
+
+---
+
+**_Ложный облик._** Пока гаргулья остаётся неподвижной, она неотличима от неодушевлённой статуи
+
+**_Жаркий Сдвиг._** Если гаргулья получает **урон огнём**, она светится жаром **до конца своего следующего хода**. В этом состоянии её **_когти_** наносят **дополнительно 1к4 урона огнём** при попадании, а гаргулья становится **уязвимой к урону холодом** и немедленно перестаёт светиться, если получает **урон холодом**
+
+**_Холодный Сдвиг._** Если гаргулья получает **урон холодом**, она покрывается инеем **до конца своего следующего хода**. Пока покрыта льдом, её **_когти_** наносят **дополнительно 1к4 урона холодом** при попадании, а гаргулья становится **уязвимой к урону огнём**, и лёд исчезает, если она получает **урон огнём**
+
+**_Каменное Тело._** Если гаргулья получает **урон холодом**, пока **светится**, **урон огнём**, пока **покрыта льдом**, **дробящий урон от критического попадания** или урон от заклинания **Дребезги** или подобной магии, её крылья обламываются, из-за чего она **теряет скорость полёта**
+
+**_Борец._** Гаргулья имеет **преимущество на броски атаки** против существа, которое она схватила
+
+##### Действия
+
+**_Мультиатака._** Гаргулья совершает 2 атаки: 1 **укусом** и 1 **_когтями_**
+
+_**Укус.**_ _Атака рукопашным оружием:_ **+5** к попаданию, досягаемость **5 футов**, 1 цель. _Попадание:_ 6 (1к6 + 3) колющего урона
+
+**_Когти._** _Атака рукопашным оружием:_ **+5** к попаданию, досягаемость **5 футов**, 1 цель. _Попадание:_ 6 (1к6 + 3) рубящего урона. Вместо нанесения урона гаргулья может [[ДМовские заметки#Захват|схватить]] цель (**Сл освобождения 13**)
+
+Если возможно, гаргулья, схватившая игрока, поднимается на **15 футов** в свой ход и **действием** кусает схваченную цель
+
+### 3. Внутри Башни
+
+_Эта сцена происходит в Главе 11: Области V4, V5, V6, V7 и V8_
+
+>[!Первый этаж]-
+> Пол, выложенный каменными плитами, устилают обломки. У восточной стены стоят несколько старых ящиков. Дырявая занавесь в южной части частично скрывает вестибюль башни
 > 
-> * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
-> * ***Four Players.*** One of the gargoyles is damaged and cannot animate or fight.
-> * ***Six Players.*** Add a fifth gargoyle.
-### 2. The Scaffolding
-<span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
-
-The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
-
-<div class="statblock">
-<h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
-<br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">8 (-1)</td>
-      <td data-label="CON">16 (+3)</td>
-      <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">7 (-2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +2<br>
-<hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
-</div>
-
-If able, a gargoyle that has grappled a player flies 15 feet up on its turn and uses its action to ***bite*** the grappled player.
-### 3. Inside the Tower
-<span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
-
-The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
-
-**The Third Floor.** The third floor also contains an old, rotted crib.
-
-> [!lore]+ **The Crib**
-> The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
-
-**The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
-
-A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
-
-* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
-* Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
-![[Carnival Poster.png]]
-<span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-As the players search the room, any character who looks out one of the windows toward Lake Baratok notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
-
-> [!abstract]+ **The Lily Pads**
+> В **5-футовой** квадратной выемке в центре пола установлены четыре шкива, к которым прикреплены натянутые железные цепи, уходящие в соответствующие отверстия в гнилом деревянном потолке. Рядом с цепями стоят 4 глиняных статуи
 >
-> A player who investigates the stained patch of lily pads can find a trio of ceramic pots sunk ten feet below the surface of the water. The pots are each half-filled with rocks; two bear traces of dried yellow paint along their rims and interior, while the third bears traces of dried white paint along its rim and interior.
+> Статуи – это глиняные големы, которые будут защищаться если на них напасть. В противном случае, их назначение – оперировать лифтом по средству цепей перед ними. Цепи прикреплены к квадратной 5-футовой платформе, которая обычно находится на 4 этаже
 >
-> If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
+> Если похоже на то, что существо хочет воспользоваться подъёмником, големы опускают платформу, чтобы после этого поднять её на тот уровень, на который заявит существо. Они также подчиняются командам сверху. Они повинуются лишь командам, касающимся подъёма или спуска подъёмника
+>
+> Подъёмник работает не так гладко, как хотелось бы. Платформа поднимается или опускается по 5 футов в раунд и двигается она рывками
+>
+> Если хотя бы один глиняный голем будет уничтожен, остальные големы не смогут более оперировать подъёмником и остаются недвижимыми пока на них кто-нибудь не нападёт
 
-If read, the burned journal page now reads only as follows:
+>[!Второй этаж]-
+> Пыль и паутина заполняют эту пустую комнату, деревянный пол которой прогнил насквозь и частично обвалился
+>
+> Каждая пятифутовая секция пола в 5 футах от лифта может выдержать не более 75 кг веса; больший вес приведёт к тому, что секция обвалится и любое существо, стоящее на ней упадёт, пролетев **20 футов**, на этаж ниже
 
-<div class="description">
-<p>For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.</p>
-<p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
-</div>
+>[!Третий этаж]-
+> Время и погода не пощадили эту комнату, оставив лишь разлом в северо-западной стене и маслянистую плесень на стенах. Деревянный пол здесь полностью прогнил и начал распадаться по частям. У стены стоит старая деревянная колыбель
+>
+> Каждая пятифутовая секция пола в 5 футах от лифта может выдержать не более 25 кг веса; больший вес приведёт к тому, что секция обвалится и любое существо, стоящее на ней упадёт, пролетев **40 футов**, на первый этаж
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Act I - Into the Mists/Arc B - Welcome to Barovia#Rooms at the Mansion|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
-# E7. The Road Back
-The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
+Старая колыбель — последнее напоминание о младенце Хазана, который умер вместе со своей матерью во время родов спустя 2 года после того, как Баровия оказалась заточена в Туманах
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in <span class="citation">Werewolves (p. 32)</span>, but revise the descriptive text as follows: 
+>[!Четвёртый этаж]-
+> В отличие от нижних этажей, в этой комнате кажется кто-то обитает, и хотя в ней пахнет сыростью и плесенью, здесь также есть множество удобств, таких как уютная кровать, стол и стул, яркие гобелены и большая железная печка с целой горой дров для неё. Свет проникает сюда через лучные бойницы и грязные окна с разбитыми ставнями. Среди прочего в комнате также стоит комплект доспехов и деревянный сундук. Старые деревянные балки прогибаются под весом крыши башни, которая каким-то образом оказалась целой. К балкам подвешены шкивы, к которым прикреплены железные цепи, поддерживающие платформу подъёмника башни
 
-<div class="description">
-<p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>
-<p>Just behind him, barely visible in the gloom, stands a grim-faced woman, her long, dark hair loosely braided. She holds a spear of her own, the tip glinting in the scarce light, and wears a cloak wrapped tightly around her chest.</p>
-</div> 
+Преуспев в **проверке Расследования Сл 15** или потратив **10 минут** на обыск четвёртого этажа, можно обнаружить 2 зацепки:
 
-The two **werewolves** introduce themselves as Zsolt and Mathilda, trappers from Krezk. (If Szoldar is with the players, he whispers warily that he recognizes neither "trapper's" name.) Zsolt is warm and friendly, while Mathilda is sullen and quiet. 
+- Разноцветный браслет из бусин с несколькими деревянными подвесками, рассчитанный на ребёнка, обёрнутый вокруг **посеребрённого кинжала** и карты Тарокка (**Сокрытый**). (Игрок, преуспевший в **проверке Истории** или **Магии Сл 13**, вспоминает, что Сокрытый олицетворяет тайны, чужаков и скрытые личности)
+- 2 обгоревших клочка пергамента среди кучи обугленного пепла в печи, включая сожжённую страницу из журнала Ван Рихтена и подпалённый набросок вывески с надписью _Карнавал чудес Риктавио_. (Набросок, по-видимому, был сделан значительно позже, чем запись в журнале.)
 
-Zsolt warns the players that the road has become dangerous for travelers, and suggests traveling together. Whether the players accept or reject his offer, Zsolt then shares the following story:
+![[Carnival Poster rus.png]] 
 
-<div class="description">
-<p>A light glints in Zsolt’s amber eyes. "There's been a tale echoing through these woods of late. A tale of a Vistana woman, a kind of phantom, who stalks the paths under the moon's gaze. They say she's not of this world, but from the realms of death itself.”</p>
-<p>He licks his lips. "She's said to be a frightful sight, with eyes that burn like embers in the darkness, and an iron leg that shrieks in the night. They say she's clad in a patchwork of cloaks, like a wandering vagabond, but don't let that fool you. For in her hand, she carries a wicked blade—a weapon that thirsts for the blood of innocents.”</p>
-<p>He chuckles lightly. "And oh, does her blade drink well! She's been butchering good folk in the woods, they say. Men, women—it matters not. Whip! goes her blade, and off come their heads, trophies for her dark desires.”</p>
-<p>He pauses, and his lips spread into a wolfish grin,  "But I'm sure we'll have naught to worry about with fine, strong folks like you on the roads. And besides—how deadly can a tale truly be?"</p>
-</div>
+Пока игроки обыскивают комнату, любой персонаж, выглянувший из одного из окон в сторону озера Бараток, замечает нечто странное: участок кувшинок примерно в 15 футах от берега окрашен в яркий, броский жёлтый цвет, явно контрастирующий с приглушённой зеленью соседних кувшинок.
 
-When his story is complete, Zsolt playfully asks the players whether they have good steel to defend themselves, should the murderess find them upon the road. 
-
-If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
-
-Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
-
-> [!combat]- **Balancing the Werewolves**
-> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 38% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!abstract]+ **Кувшинки**
+> Игрок, исследующий окрашенный участок кувшинок, может обнаружить 3 керамических горшка, затопленных на глубине **10 футов** под поверхностью воды. Каждый из горшков наполовину заполнен камнями; на двух по краям и внутри видны следы засохшей жёлтой краски, тогда как на третьем — следы засохшей белой краски по краю и внутри
 > 
-> * ***Three Players.*** Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Four Players.*** Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> Если игрок ранее видел повозку Риктавио на Оптовом складе Арасек, он узнаёт краску как того же ярко-жёлтого оттенка, что и вывеска на повозке
 
-Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
+Сожжённая страница журнала теперь содержит только следующее
 
-<div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
-      <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision, passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus</strong> +2<br>
-<hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-</div>
+>[!read]
+> На протяжении более трёх десятилетий я стремлюсь исследовать и разоблачать существа тьмы светом истины и знания. «Герой» меня называют в одних кругах; «мудрец» и «мастер охотник» — в других. То, что я пережил бесчисленные сверхъестественные нападения, считается чудом среди моих коллег; моё имя произносится с страхом и отвращением среди моих врагов
+>
+> В действительности это «добродетельное» призвание началось как навязчивая попытка уничтожить вампира, убившего моего ребёнка, и превратилось для меня в утомительную и мрачную карьеру. Даже когда началась моя жизнь охотника на монстров, я ощущал тяжесть времени на своих усталых плечах. Сегодня я человек, который просто жил слишком долго. Как раскаивающийся лич, я оказываюсь неизбежно связанным с существованием, к которому меня привело безумие, и которое, по-видимому, мне теперь предстоит терпеть вечно. Конечно, я умру, но будет ли мне когда-либо покой в могиле — этот вопрос преследует мои праздные мысли и мучает меня во сне
 
-In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.
+Почерк совпадает с почерком фрагмента из _Руководства Ван Рихтена по вампирам_, найденного в [[Арка B - Добро пожаловать в Баровию#Комнаты в особняке|Арка B - Добро пожаловать в Баровию]], и с рукописью о оборотнях, полученной в [[Арка C - В Долину#C4d. Танцующий огонь|Арка C - В долину]]. Остальная часть текста нечитаема — обуглена от жара или сожжена до пепла
 
-The players experience no other encounters on their journey to Vallaki.
+# E7. Обратная дорога
 
-> [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]] for more information about the curse.
-# E8. Return to Vallaki
-The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
+Действия игроков на озере Бараток привлекают внимание пары **оборотней**, которые скрываются в лесу к востоку от озера, молча ожидая, когда игроки вернутся на дорогу
 
-When the players return to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
+Когда игроки начинают путь обратно в Валлаки — по северной тропе или по Старой Сваличской дороге на юг — оборотни следуют за ними. Через 15 минут после того, как игроки покидают озеро, они встречают 2 оборотней в человеческой форме
 
-As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
+>[!read]
+> Глубокий голос взывает: ***«Эй, кто там?»***. Сквозь холодный туман вы видите высокого мужчину в тусклой одежде, в изорванном сером плаще. У него лохматые чёрные волосы и густые бакенбарды. Он сильно опирается на копьё, а через плечо у него перекинута небольшая связка звериных шкур
+>
+> Прямо за ним, едва различимая в сумраке, стоит женщина с суровым выражением лица, с длинными тёмными волосами, свободно заплетёнными в косу. В руках у неё собственное копьё, наконечник которого блестит при редком свете, а плащ плотно обёрнут вокруг груди
 
-> [!profile]+ **Profile: Dr. Rudolph van Richten**
-> **Roleplaying Information**
-> ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
+Двое **оборотней** представляются как Золт и Матильда, охотники из Крезка. (Если Шольдар находится с игроками, он с опаской шепчет, что не узнаёт ни одного из имён «охотников».) Золт тёплый и дружелюбный, а Матильда — угрюмая и молчаливая
+
+Золт предупреждает игроков, что дорога стала опасной для путников, и предлагает путешествовать вместе. Независимо от того, примут игроки его предложение или откажутся, Золт затем рассказывает следующую историю
+
+>[!read]
+> Его янтарные глаза блестят. ***«В последнее время по этим лесам ходит одна история. История о женщине Вистани, вроде призрака, которая бродит по тропам под взором луны. Говорят, что она не из этого мира, а из самих царств смерти»***
+>
+> Он облизывает губы. ***«Говорят, что она ужасна на вид, с глазами, горящими как угли в темноте, и железной ногой, скрипящей в ночи. Говорят, что она одета в лоскутный плащ, словно бродяга, но не позволяйте этому вас обмануть. В её руке она держит зловещий клинок — оружие, жаждущее крови невинных»***
+>
+> Он слегка смеётся. ***«Ох, как же много пьёт её клинок! Говорят, она вырезает добрых людей в лесу. Мужчин, женщин — это не имеет значения. Ха! — и головы с плеч, трофеи для её тёмных желаний»***
+>
+> Он делает паузу, и его губы растягиваются в волчью усмешку, ***«Но я уверен, что нам не о чем волноваться, когда на дорогах такой сильный народ, как вы. Да и насколько опасной может быть всего лишь история?»***
+
+Когда его рассказ заканчивается, Золт игриво спрашивает игроков, есть ли у них хорошая сталь для защиты, если убийца встретит их на дороге
+
+Если как минимум 2 персонажа показывают, что у них есть посеребрённое оружие или боеприпасы, игривый блеск в глазах Золта исчезает, заменяясь мгновенным отблеском настороженности. Он сильнее сжимает копьё, и его взгляд на мгновение встречается с взглядом Матильды, почти незаметно. Он поздравляет игроков с тем, что они хорошо подготовились к пути через лес, но весёлость в его голосе становится пустой. Если его не остановить и не дать подходящего оправдания, Золт и Матильда сопровождают игроков молча до перекрёстка реки Луна, а затем уходят на юг в сторону Береза
+
+В противном случае, если ни один из персонажей не показывает посеребрённое оружие или боеприпасы, на лице Золта появляется насмешливая усмешка, и он говорит: ***«Вы, кажется, действительно могучие воины! Но, похоже, вы забыли кое-что важное»***. Если игроки спрашивают, что они забыли, глаза Золта вспыхивают жадностью, и он шипит: ***«Серебро»***. Затем он и Матильда принимают свои гибридные формы и нападают
+
+> [!combat]- **Combat - The Werewolves**  
+> **Combat Level**: Bruising **Expected Character Level**: 4 **Allies:** Szoldar Szoldarovich (CR 1/2) **Expected HP Consumption:** 38%
+> |4|Reduce the werewolves’ hit points to 63. Reduce their _**bite**_ damage to 6 (1d8+2) piercing damage and their _**claws**_ damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.|
+
+## Оборотень
+
+_Средний гуманоид (человек, перевёртыш), Хаотично-злой_
+
+---
+
+**КД** 11 в гуманоидной форме, 12 (естественная броня) в волчьей и гибридной формах
+**Хиты** 63
+**Скорость** 30 футов (40 футов в волчьей форме)
+
+---
+
+|     |     | мод | спас |     |     | мод | спас |
+| :-: | :-: | :-: | :--: | :-: | :-: | :-: | :--: |
+| Сил | 16  | +3  |  +5  | Инт | 10  | +0  |  +0  |
+| Лов | 13  | +1  |  +1  | Мдр | 11  | +0  |  +0  |
+| Тел | 14  | +2  |  +2  | Хар | 10  | +0  |  +0  |
+
+---
+
+**Навыки** Восприятие +4, Скрытность +3  
+**Чувства** тёмное зрение, пассивное Восприятие 14  
+**Языки** Общий (не может говорить в вольчей форме)  
+**ПО** 3 или 2 без регенерации
+**БМ** +2  
+
+---
+
+**_Острые слух и обоняние._** Оборотень имеет **преимущество на проверки Восприятия**, основанные на **слухе** или **обонянии**
+
+**_Тактика стаи._** Оборотень имеет **преимущество на броски атаки** по существу, если как минимум 1 союзник оборотня находится в пределах **5 футов** от существа и не недееспособен
+
+**_Регенерация._** Оборотень **восстанавливает 10 хитов в начале своего хода**. Если оборотень получает **некротический урон** или **рубящий**, **колющий** или **дробящий урон** от **посеребрённого оружия**, эта черта не действует в начале следующего хода оборотня. Оборотень умирает только если **начинает свой ход с 0 хитов** и **не восстанавливается**
+
+### Действия
+
+**_Мультиатака._** Оборотень совершает **2 атаки**: **2 копьём** (гуманоидная форма) или **1 укусом** и **1 когтями** (волчья или гибридная форма)
+
+**_Укус (только волчья или гибридная форма)._** Рукопашная атака: **+5** к атаке, дистанция **5 футов**, 1 цель. Попадание: **7 (1к8 + 3) колющего урона**. Вместо того чтобы наносить урон, оборотень может **схватить** цель (**Сл спасения 11**). Кроме того, если цель является гуманоидом, она должна преуспеть в **Сл 13 спасброске Телосложения** или быть проклятой [[ДМовские заметки#Ликантропия|ликантропией оборотня]]
+
+**_Когти (только волчья или гибридная форма)._** Рукопашная атака: **+5** к атаке, дистанция **5 футов**, 1 существо. Попадание: **8 (2к4 + 3) рубящего урона**. Если цель является существом, оно должно преуспеть в **спасброске Силы Сл 13** или будет **сбито с ног**
+
+**_Копьё (только гуманоидная форма)._** Рукопашная или дальнобойная атака: **+5** к атаке, дистанция **5 футов** или дальность **20/60 футов**, 1 существо. Попадание: **6 (1к6 + 3) колющего урона**, или **6 (1к8 + 3) колющего урона**, если используется **двумя руками** для **рукопашной атаки**
+
+### Бонусные действия
+
+**_Изменение формы._** Оборотень превращается в гибрид волка и человека или в волка, либо возвращается в свою истинную форму, которая является гуманоидной. Его характеристики, кроме **КД**, остаются одинаковыми в каждой форме. Любое снаряжение, которое он носит или переносит, сливается с новой формой. Он возвращается в свою истинную форму, если умирает
+
+В бою оборотни в первую очередь атакуют игроков, вооружённых **посеребрённым оружием**, если таковые есть. Если **1 оборотень убит** или **оба окровавлены**, они убегают в Сваличский лес
+
+Игроки не сталкиваются с больше ни с кем в пути к Валлаки
+
+> [!info]- **Ликантропия в Баровии**
+> В Баровии заражённый игрок или другое существо автоматически не получает изменений своих **характеристик** или **КД**, а также не получает автоматически преимуществ блока характеристик **ликантропа** (например, **иммунитетов** или **регенерации**)
+>  
+> Вместо этого заражённое существо получает преимущества [[ДМовские заметки#Ликантропия|ликантропии]] только при превращении в **гибридную форму в ночь полнолуния**. В это время существо становится NPC под контролем **ДМа** до рассвета, после чего **теряет преимущества ликантропии**
 > 
-> ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
+> Заражённое существо может **принять проклятие ликантропии** — и таким образом получить все его преимущества — выполнив определённое задание, в зависимости от природы своего проклятия
 > 
-> ***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus' death and his slaughter of the Radanaviches.
+> - Заражённый вервольф должен добровольно убить невинного гуманоида, без страха или ненависти, и съесть его плоть
+> - Заражённый верворон должен [[ДМовские заметки#Бессознательность|потерять сознание]], пока добровольно пытается защитить другого гуманоида от (по его мнению) почти неминуемой смерти
 > 
-> ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
+> Заражённого ликантропа можно распознать по шраму от раны, через которую изначально было передано проклятие. Эта рана никогда полностью не заживает и остаётся сырой и кровавой, пока проклятие не будет снято
 > 
-> **Character Information**
-> ***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
+> Ребёнок двух ликантропов с рождения обладает всеми преимуществами ликантропии и может научиться контролировать своё проклятие по мере взросления. Ребёнка, рождённого с ликантропией таким образом, невозможно излечить иначе как с помощью заклинания [[Желание]]
 > 
-> ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
-> 
-> ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
-## E8a. Confronting Rictavio
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+> Наконец, пока туманы остаются, лунный цикл в Баровии ускорен: полнолуние наступает раз в 2 недели, а не раз в четыре. **Первое полнолуние, которое переживут игроки, происходит 8-го Ноября — в 6 ночь после их первого прибытия в Валлаки**
 
-If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
+# E8. Возвращение в Валлаки
 
-If the players indicate an interest in following Rictavio to the stockyard, Danika jokingly warns them to be on the lookout for dangerous beasts—local rumors suggest that the ringmaster is keeping something big and deadly in his wagon.
+Возвращение игроков в Валлаки от озера Бараток составляет **5,2 км** и занимает примерно **1 час**
 
-If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
+Когда игроки возвращаются в Валлаки, они могут следовать своим зацепкам либо, разыскивая Риктавио в таверне Синяя Вода, либо напрямую расследуя его повозку на Оптовом складе Арасек
 
-Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
+Когда игроки возвращаются к закатным воротам Валлаки, игрок с **пассивным Восприятием Сл 19** или выше замечает ту же самую фигуру, что наблюдала за ними ранее — на этот раз из северо-западного леса. Фигура исчезает среди деревьев, если на неё посмотреть, обратиться к ней, подойти или каким-либо образом взаимодействовать с ней. (Это снова Арригал, который проследил за игроками обратно в Валлаки. Если игроки входят в Валлаки, Арригал использует свои 2 кинжала в качестве импровизированных крюков, чтобы перелезть через стены Валлаки и прокрасться мимо патрулирующих стражей. Затем он продолжает преследовать игроков по улицам в надежде, что они приведут его к Арабелль)
+
+> [!profile]+ **Профиль: Доктор Рудольф ван Рихтен**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Ван Рихтен должен вызывать благодарность за свои знания (которыми он охотно делится), чувство уверенности благодаря его опыту и спокойствию, а также лёгкое раздражение из-за его паранойи и прямолинейности
+> 
+> _**Эмоции.**_ Ван Рихтен чаще всего испытывает подозрение, настороженность, задумчивость, озабоченность, тоску, удовлетворение, любопытство, чувство вины и стыда
+> 
+> _**Мотивы.**_ Ван Рихтен хочет защитить Арабелль, избежать обнаружения Страдом, помочь врагам Страда и искупить свою вину за смерть Эрасмуса и уничтожение Раданавичей
+> 
+> _**Вдохновение.**_ При игре за Ван Рихтена ориентируйтесь на Аластора «Грозного Глаза» Грюма (_Гарри Поттер_), Геральта из Ривии (_Ведьмак_) и Майка Эрмантраута (_Во все тяжкие_)
+> 
+> **Информация о персонаже**
+> _**Персона.**_ Для мира Ван Рихтен — безжалостный, закалённый в боях охотник на чудовищ. Для тех, кому он доверяет, Ван Рихтен — сострадательный наставник с чрезвычайно высокими стандартами, сильной параноидальной чертой и периодической вспыльчивостью. Только Ван Рихтен знает глубину вины, стыда и самоненависти, которые он испытывает за смерть своего сына и жены, а также за уничтожение каравана Вистани Раданавичей
+> 
+> _**Мораль.**_ В бою Ван Рихтен пытается перехитрить или обойти противника, при необходимости отступая, чтобы занять наиболее выгодную позицию
+> 
+> _**Отношения.**_ Ван Рихтен является наставником Вистаны-охотницы на чудовищ Эсмеральды д’Авенир, отцом покойного Эрасмуса ван Рихтена, находящегося на Эфирном плане (с которым он не может ни общаться, ни воспринимать его), бывшим владельцем обезьяны Пикколо, которая теперь принадлежит валлакийскому игрушечнику Гадофу Блинскому, убийцей семьи Артури Раданавича и бывшим союзником восстания Дору против замка Рэйвенлофт
+
+## E8a. Столкновение с Риктавио
+
+_Эта сцена происходит в Главе 5: Область N2_
+
+Если игроки сначала посетят таверну Синяя Вода, они могут узнать от [[Неигровые персонажи#Даника Доракова|Даники]], что Риктавио недавно покинул таверну и упомянул, что ***«осматривает свою повозку для необходимых ремонтов»***. Если игроки спросят, где Риктавио хранил свою повозку, Даника вспоминает, что слышала, как он говорил о хранении её на Оптовом складе Арасек
+
+Если игроки выражают намерение последовать за Риктавио на склад, Даника в шутку предупреждает их быть начеку из-за опасных зверей — местные слухи гласят, что укротитель держит в своей повозке нечто большое и опасное
+
+Если игроки решат подождать возвращения Риктавио, прежде чем столкнуться с ним, [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] тепло приветствует их и притворяется неосведомлённым об их обвинениях и утверждениях. Однако он приглашает их в свою гостевую комнату, чтобы обсудить это наедине, если игроки настаивают, что хотят помочь Арабелль, показывают ему сожжённую страницу журнала или иным образом угрожают раскрыть его прикрытие
+
+Оказавшись наедине с игроками в своих гостевых покоях, Риктавио обнажает свою трость-меч и требует доказательств того, что игроки не являются слугами Страда вон Заровича. Если игроки представят достаточные доказательства или преуспеют в **проверке Убеждения Сл 15**, Риктавио неохотно убирает клинок, проверяет окно и коридор на наличие шпионов Страда и плотно закрывает ставни. Затем он снимает свою _Шляпу маскировки_ и признаётся, что на самом деле он доктор Рудольф ван Рихтен
 
 ![[RVR_Transparent.png]]
 
-<span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+## Рудольф ван Рихтен
 
-<div class="statblock">
-<h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
-<hr>
-<strong>Armor Class</strong> 13 (leather armor)
-<br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9 (–1)</td>
-      <td>14 (+2)</td>
-      <td>13 (+1)</td>
-      <td>19 (+4)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
-<hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong>Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong>Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong>Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
-</div>
+_Средний гуманоид (человек), законно-добрый_
 
-Van Richten can share the following information:
+---
 
-* Until recently, he had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
-* Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
-* The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
-* Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
-* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
+**КД** 13 (кожаная броня)  
+**Хиты** 77 (14к8 + 14)  
+**Скорость** 30 футов
 
-If the players ask Van Richten about his arrival in Barovia or the revolt against Strahd, he can also share the following information:
+---
 
-* When Van Richten first arrived in Barovia, he hoped to face Strahd alone, taking advantage of the vampire’s hibernation to destroy him in his coffin. 
-* His plans were foiled when an undead dire wolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
-* Doru blackmailed Van Richten into leading a full-scale revolt on the castle, threatening to bring an untrained mob to Ravenloft’s doors if Van Richten didn’t lead them there. Van Richten, fearful that such a mob could awaken Strahd and destroy his own plans, reluctantly agreed.
-* Shortly after entering the castle, however, they were betrayed. Escher, Doru’s “lieutenant,” vanished from the group as they explored the catacombs. Not long thereafter, the mob found Strahd’s coffin empty—and Strahd himself attacked shortly thereafter. Van Richten fled, knowing from his long studies of Strahd that victory was impossible. 
-* Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be borne by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
-* Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
+|     |     | мод | спас |     |     | мод | спас |
+| :-: | :-: | :-: | :--: | :-: | :-: | :-: | :--: |
+| Сил |  9  | -1  |  -1  | Инт | 19  | +4  |  +4  |
+| Лов | 14  | +2  |  +2  | Мдр | 18  | +4  |  +7  |
+| Тел | 13  | +1  |  +4  | Хар | 16  | +3  |  +3  |
 
-If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
+---
+
+**Навыки** Магия +10, Проницательность +7, Медицина +10, Восприятие +7, Религия +7, Ловкость рук +5  
+**Чувства** пассивное Восприятие 17  
+**Языки** Бездны, Общий, Эльфийский, Инфернальный
+**ПО** 5 (1,800 XP)  
+**БМ** +3
+
+---
+
+**_Особое снаряжение._** Ван Рихтен носит _Шляпу маскировки_ и _Кольцо защиты разума_
+
+**_Скрытая атака._** **1 раз за ход** Ван Рихтен может нанести **дополнительно 17 (5к6)** 1 существу, по которому он попал атакой, если у него есть **преимущество на бросок атаки**. Ему не требуется преимущество при броске атаки, если цель — **Нежить**; или если по крайней мере 1 из его союзников находится в пределах **5 футов** от цели, союзник **не является недееспособным**, и у него **нет помехи** на бросок атаки
+
+### Действия
+
+**_Мультиатака._** Ван Рихтен совершает 2 атаки своей посеребрённой тростью-мечом или посеребрённым арбалетом
+
+**_Посеребрённая трость-меч._** Рукопашная атака: **+5** к атаке, дистанция **5 футов**, 1 цель. Попадание: 5 (1к6 + 2) колющего урона
+
+**_Посеребрённый арбалет._** Дальнобойная атака: +5 к атаке, дальность 80/320 футов, одна цель. Попадание: 6 (1к8 + 2) колющего урона
+
+**_Браслет чар._** Ван Рихтен использует свой браслет чар, чтобы произнести 1 из следующих заклинаний, используя **Мудрость** в качестве заклинательной характеристики (**Сл  заклинания  15**): **1/день каждое**: Слепота/глухота, Защита от смерти, Свобода передвижения
+
+**_Шляпа маскировки._** Ван Рихтен использует свою _Шляпу маскировки_, чтобы произнести заклинание _Маскировка_
+
+**_Линза ясности._** Ван Рихтен использует свою _Линзу ясности_, чтобы произнести заклинание _Обнаружение магии_ или _Обнаружение добра и зла_ (1/день каждое)
+
+### Бонусные действия
+
+**_Ловкое действие._** Ван Рихтен выполняет действие Рывок, Отход или Скрытность
+
+**_Мастер тактики (Помощь)._** Ван Рихтен использует действие Помощь, чтобы помочь атаке союзника против существа в пределах **30 футов** от него, которое может видеть или слышать его
+
+**_Проницательная борьба._** Ван Рихтен совершает **проверку Проницательности** против **проверки Обмана** существа, которое он видит и которое **не является недееспособным**. При **успехе** он получает **преимущество на атаки** по этому существу, а это существо имеет **помеху при атаке по нему** в течение **1 минуты**. Этот эффект длится 1 минуту или до тех пор, пока он успешно не использует эту черту против другой цели
+
+### Реакции
+
+**_Браслет чар._** _Триггер:_ Враждебное существо атакует Ван Рихтена или заканчивает свой ход. _Эффект:_ Ван Рихтен произносит заклинание, используя свой _браслет чар_
+
+**_Необычное уклонение._** _Триггер:_ Атакующий попадает по Ван Рихтену броском атаки. _Эффект:_ Ван Рихтен сокращает урон от атаки наполовину (округляя вниз)
+
+## Остальное 
+
+Ван Рихтен может поделиться следующей информацией:
+
+- До недавнего времени он скрывался в башне на озере Бараток. Однако это изменилось, когда он увидел Вистанца, несущего шевелящийся мешок к порождению вампира с золотыми волосами на берегу реки Луна. (Ван Рихтен узнал вампира как человека по имени Эшер, барда из Баровии, который присоединился к восстанию баровцев)
+- Ван Рихтен напал на них, убив Вистанца и оставив вампиру шрамы, после чего тот убежал. Открыв мешок, он обнаружил внутри молодую девочку Вистани
+- Девочка, представившаяся как Арабелль, не понимала, зачем её похитили. Ван Рихтен использовал свой _Талисман эха_, чтобы допросить отрубленную голову мёртвого Вистанца, и узнал, что Страд объявил награду за девочек, соответствующих точному и уникальному описанию Арабелль: тёмные волосы и оливковая кожа, фиолетовые радужки. Ван Рихтен и Арабелль согласились, что возвращение её в лагерь Вистани подвергло бы её опасности от Страда и поэтому было слишком рискованным
+- Они вернулись в башню на озере Бараток, где Ван Рихтен ранее спрятал свою лошадь Друзиллу и накрытую повозку Вистани, которую он использовал при первом входе в Баровию. Используя свою _шляпу маскировки_, Ван Рихтен принял облик мёртвого Вистани и прокрался в лагерь Вистани у Валлаки, чтобы украсть 3 горшка с краской, которыми он замаскировал свою повозку как «Карнавал чудес Риктавио»
+- Ван Рихтен и Арабелль затем отправились в Валлаки, при этом Ван Рихтен принял личность Риктавио, чтобы скрываться на виду у всех. Арабелль с тех пор остаётся скрытой в его повозке
+- Хотя башня на озере Бараток содержит постоянное _поле антимагии_, которое блокировало бы ясновидение Страда, Ван Рихтен полагал, что Страд хорошо осведомлён об этом факте и что башня, следовательно, будет одним из первых мест, где он будет искать. Поэтому Ван Рихтен, который уже носил один такой амулет, дал Арабелль запасной _Амулет защиты от обнаружения и определения местоположения_, который он когда-то подарил — а затем получил обратно — от одного из своих учеников. (Если его настоять, Ван Рихтен признаёт, что амулет когда-то принадлежал Эсмеральде д’Авенир, но не обсуждает это дальше)
+
+Если игроки спросят Ван Рихтена о его прибытии в Баровию или о восстании против Страда, он также может поделиться следующей информацией:
+
+- Когда Ван Рихтен впервые прибыл в Баровию, он надеялся сразиться со Страдом в одиночку, воспользовавшись спячкой вампира, чтобы уничтожить его в его гробу
+- Его планы были сорваны, когда неживой лютоволк напал на троих детей Баровии, и последовавшая битва раскрыла его личность наблюдавшему за этим Дору
+- Дору шантажом вынудил Ван Рихтена возглавить полномасштабное нападение на замок, угрожая привести необученную толпу к воротам Рэйвенлофта, если Ван Рихтен не поведёт их туда. Ван Рихтен, опасаясь, что такая толпа может разбудить Страда и разрушить его собственные планы, неохотно согласился
+- Однако вскоре после проникновения в замок их предали. Эшер, «лейтенант» Дору, исчез из группы, пока они исследовали катакомбы. Вскоре после этого толпа обнаружила, что гроб Страда пуст — а сам Страд вскоре напал. Ван Рихтен бежал, зная из своих долгих исследований Страда, что победа невозможна
+- Покинув замок Рэйвенлофт и вернув свою лошадь, Ван Рихтен отправился в путь, чтобы предупредить баровцев о пробуждении вампира. Однако его остановила провидица Вистани мадам Ева, которая предупредила его: ***«Послание, которое вы несёте, будет передано другим. Если вы вернётесь в деревню, пока свет ещё задерживается в долине, вы непременно встретите свою могилу»***
+- Хорошо зная о репутации Евы, Ван Рихтен неохотно направился вместо этого к озеру Бараток, горько оплакивая сыновей и дочерей Баровии
+
+Если игроки настаивают, Ван Рихтен соглашается отвести их к своей повозке на Оптовом складе Арасек, чтобы они сами увидели Арабелль. Перейдите к [[Арка E - Пропавшая Вистана#E8b. Следуя за Риктавио|E8b. Следуя за Риктавио]] ниже
 
 ## E8b. Следуя за Риктавио
 
-_Эта сцена происходит в главе 5: область N5_
+_Эта сцена происходит в Главе 5: Область N5_
 
-Если игроки следуют за [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] к оптовому складу Арасек вместо того, чтобы ждать его в таверне «Синяя Вода», они находят его стоящим на коленях у фургона — он, по всей видимости, регулирует спицы заднего левого деревянного колеса. Игрок с **пассивным Восприятием 16** или выше замечает, что Риктавио снова и снова регулирует одну и ту же спицу, а его губы при этом шевелятся, словно он с кем-то разговаривает. Если игроки продолжают наблюдать, он занимается этим делом целых 5 минут — гораздо дольше, чем обычно занимает такая работа, — после чего встаёт и собирается уходить
+Если игроки последуют за [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] на Оптовой склад Арасек вместо того, чтобы ждать его в таверне Синяя Вода, они найдут его стоящим на коленях у повозки, где он, по-видимому, регулирует спицы заднего левого деревянного колеса повозки. Игрок с **пассивной Проницательностью 16** или выше замечает, что Риктавио многократно регулирует и перерегулирует одну и ту же спицу, а его губы двигаются, как будто он разговаривает с кем-то. Если игроки наблюдают за ним, он продолжает свою работу целых 5 минут — гораздо дольше, чем обычно занимает такая задача — прежде чем встать и отправиться прочь
 
-Если игроки сталкиваются с ним лицом к лицу, Риктавио тепло их приветствует, но делает вид, что не понимает сути их обвинений и утверждений. Если же игроки настаивают, что хотят помочь Арабелль, показывают ему обгоревшую страницу дневника или иным образом угрожают раскрыть его прикрытие, взгляд Риктавио мрачнеет, пальцы сжимаются на трости, а голос понижается почти до шёпота. Он требует ответить, не являются ли они шпионами Страда, и спокойно угрожает «разобраться» с ними, если они служат воле Дьявола
+Если игроки сталкиваются с ним, Риктавио тепло приветствует их, но притворяется неосведомлённым об их обвинениях и утверждениях. Если игроки настаивают, что хотят помочь Арабелль, показывают ему сожжённую страницу журнала или иным образом угрожают раскрыть его прикрытие, взгляд Риктавио становится жёстким, кулак сжимается вокруг трости, а голос опускается почти до шёпота. Он требует знать, являются ли они шпионами Страда, и спокойно угрожает «ликвидировать» их, если они служат воле Дьявола
 
-Если игроки представляют достаточные доказательства своей доброй воли или преуспевают в **проверке Убеждения Сл 15**, Риктавио вздыхает и приказывает игрокам образовать защитную стену у задней части фургона. Если же игроки, напротив, настраивают Риктавио против себя или иным образом не убеждают его, из фургона тихо раздаётся голос юной девочки: ***«Они не желают мне зла. Пожалуйста, открой дверь»***
+Если игроки предоставляют достаточно доказательств своей доброй воли или преуспевают в **проверке Убеждения Сл 15**, Риктавио вздыхает и приказывает игрокам выстроить защитный заслон позади повозки. Если же игроки провоцируют Риктавио или иначе не убеждают его, тихий голос молодой девочки раздаётся из повозки: ***«Они не хотят мне зла. Пожалуйста, откройте дверь»***
 
-## E8c. Rictavio’s Wagon
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
+## E8c. Вагон Риктавио
 
-Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
+_Эта сцена происходит в Главе 5: Область N5_
+
+Как только игроки или Арабелль убедят его сделать это, [[Неигровые персонажи#Замаскированный (как Риктавио)|Риктавио]] достаёт ключ из рукава и открывает дверь. Когда он это делает, игроки видят, что в повозке находится мягкая подстилка из соломы, удобное шерстяное одеяло, несколько книг и молодая Вистанка — Арабелль — которая прижимает к груди плюшевого саблезубого тигра и носит ожерелье с резным медным амулетом
 
 ![[Arabelle.png]]
-<span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Meeting Arabelle
-Unless diverted by the players, the conversation unfolds as follows:
+### Встреча с Арабелль
 
-* Arabelle greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
-* Van Richten is surprised to learn that Arabelle was expecting them, and Arabelle admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
-* Arabelle thanks Van Richten for his efforts to keep her safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
+Если игроки не вмешиваются, разговор разворачивается следующим образом:
 
-During this conversation, Van Richten can also reveal the following information if he hasn't already:
+- Арабелль тепло приветствует игроков, благодарит их за усилия по её поиску и выражает сожаление о полученных ими по пути ранах
+- Ван Рихтен удивлён, узнав, что Арабелль ожидала их, а Арабелль признаёт, что у неё было предчувствие, что кто-то последует по их следам, и что она оставила несколько подсказок — карту Тарокка, браслет, платок и кольцо — чтобы направлять игроков по их пути
+- Арабелль благодарит Ван Рихтена за его усилия по её защите, но мягко напоминает ему, что они оба знали: их план не мог длиться вечно — и что, с присутствием игроков, долгосрочное решение теперь более реально достижимо
 
-* Until recently, Van Richten had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
-* Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
-* The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
-* Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
-* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
-* As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
-### Arrigal's Arrival
-As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
+Во время этого разговора Ван Рихтен также может раскрыть следующую информацию, если он ещё не сделал этого:
 
-* Arrigal thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
-* Van Richten immediately accuses Arrigal of being a spy for Strahd, noting that, while stealing the pots of paint, he saw Arrigal whispering to a bat in the woods nearby. He demands that Arabelle remain in the wagon, and asks the players to defend her from Arrigal. 
-* Arrigal’s hands go to the shortsword and daggers on his belt, while Van Richten prepares to draw his sword-cane for battle. Arabelle quietly asks the players to help them see reason.
+- До недавнего времени Ван Рихтен скрывался в башне на озере Бараток. Однако это изменилось, когда он увидел Вистани, несущего шевелящийся мешок к порождению вампира с золотыми волосами на берегу реки Луна. (Ван Рихтен узнал вампира как человека по имени Эшер, барда из Баровии, который присоединился к восстанию баровцев)
+- Ван Рихтен напал на них, убив Вистани и оставив вампиру шрамы, после чего тот убежал. Открыв мешок, он обнаружил внутри молодую Вистанку
+- Девочка, представившаяся как Арабелль, не понимала, зачем её похитили. Ван Рихтен использовал свой _Талисман эха_, чтобы допросить отрубленную голову мёртвого Вистани, и узнал, что Страд объявил награду за девочек, соответствующих точному и уникальному описанию Арабелль: тёмные волосы и оливковая кожа, фиолетовые радужки. Ван Рихтен и Арабелль согласились, что возвращение её в лагерь Вистани подвергло бы её опасности от Страда и поэтому было слишком рискованным
+- Они вернулись в башню на озере Бараток, где Ван Рихтен ранее спрятал свою лошадь Друзиллу и накрытую повозку Вистани, которую он использовал при первом входе в Баровию. Используя свою _Шляпу маскировки_, Ван Рихтен принял облик мёртвого Вистани и прокрался в лагерь Вистани у Валлаки, чтобы украсть 3 горшка с краской, которыми он замаскировал свою повозку как «Карнавал чудес Риктавио»
+- Ван Рихтен и Арабелль затем отправились в Валлаки, при этом Ван Рихтен принял личность Риктавио, чтобы скрываться на виду у всех. Арабелль с тех пор остаётся скрытой в его повозке
+- Хотя башня на озере Бараток содержит постоянное _поле антимагии_, которое блокировало бы ясновидение Страда, Ван Рихтен полагал, что Страд хорошо осведомлён об этом факте и что башня, следовательно, будет одним из первых мест, где он будет искать
+- Поэтому Ван Рихтен, который уже носил один такой амулет, дал Арабелль запасной _Амулет, защиты от обнаружения и определения местоположения_, который он когда-то подарил — а затем получил обратно — от одного из своих учеников. (Если его настоять, Ван Рихтен признаёт, что амулет когда-то принадлежал Эсмеральде д’Авенир, но не обсуждает это дальше)
 
-Arrigal is ignorant of Strahd’s bounty on Arabelle and truthfully shares this if asked, finding the notion preposterous. If asked whether he would give Arabelle up to Strahd if commanded, he fiercely and truthfully rejects that he would ever do such a thing.
+### Прибытие Арригала
 
-As the conversation unfolds, Arrigal makes clear his belief that Van Richten has kidnapped Arabelle for nefarious purposes. Although Arabelle protests Arrigal's accusations, Arrigal replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
+Когда разговор подходит к концу, [[Неигровые персонажи#Арригал|Арригал]] выходит из теней соседнего переулка. Если игроки не вмешиваются, разговор разворачивается следующим образом:
 
-If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span>V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
+- Арригал благодарит Ван Рихтена за «увлекательную историю», благодарит игроков за их «помощь и руководство» и приказывает Арабелль выйти из повозки и пойти с ним
+- Ван Рихтен немедленно обвиняет Арригала в том, что он шпион Страда, отмечая, что во время кражи горшков с краской он видел, как Арригал шептал летучей мыши в соседнем лесу. Он требует, чтобы Арабелль осталась в повозке, и просит игроков защитить её от Арригала
+- Руки Арригала тянутся к короткому мечу и кинжалам на поясе, в то время как Ван Рихтен готовится достать свою трость-меч для боя. Арабелль тихо просит игроков помочь им разумно разрешить ситуацию
 
-> [!item]+ **Talisman of Echoes**
->
-> _Wondrous item, rare_
->
-> This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell. (The spell *speak with dead* isn't affected by the spell's ordinary ten-day limit when cast in this way.)
->
-> The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
+Арригал не знает о награде Страда за Арабелль и честно сообщает об этом, если его спрашивают, считая саму идею абсурдной. Если его спрашивают, выдал бы ли он Арабелль Страду по приказу, он решительно и честно отрицает, что когда-либо сделал бы такое
+
+По мере развития разговора Арригал ясно даёт понять, что считает Ван Рихтена похитившим Арабелль с недобрыми намерениями. Хотя Арабелль возражает против обвинений Арригала, Арригал отвечает: ***«Тихо, девочка — ясно, что этот человек обманул тебя. Я не знаю, что он задумал, но он явно воспользовался твоей наивностью. Ты немедленно пойдёшь со мной в лагерь»***
+
+Если игроки просят Ван Рихтена доказать, что Страд пытался похитить Арабелль, Ван Рихтен достаёт деревянную шкатулку с отрубленной головой Яна из скрытого отделения своей повозки. Аромат лаванды доносится из него, в нём находится отрубленная голова Яна. Кожа его напоминает воск и она покрыта магическими маслами. Затем он предлагает одному из игроков использовать его _Талисман эха_, чтобы допросить голову Яна и получить искомые доказательства
+
+> [!item]+ **Талисман Эха**
+> _Чудесный предмет, редкий_
+> 
+> Талисман имеет **4 заряда**. Пока вы держите его, вы можете **действием** потратить **1 заряд**, чтобы наложить [[Нетленные останки]], или **2 заряда**, чтобы наложить [[Разговор с мёртвыми]]. (**Разговор с мёртвыми** не ограничено обычным 10-дневным лимитом, если его наложить таким образом)
+> 
+> Талисман **восстанавливает 1к4 заряда** ежедневно на рассвете. Если вы расходуете **последний заряд**, бросьте **к20**. При выпадении **1** талисман рассыпается в пепел и уничтожается
 
 ![[SpeakWithDead.png]]
 
-<span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Ниже приведены 5 примерных ответов, которые могут получить игроки:
 
-Five sample answers a players might receive are given below:
+- Как тебя зовут? Ян
+- Кому ты служил при жизни? Вампиру, Страду вон Заровичу
+- Твой хозяин приказал тебе похитить девочку Арабелль? Да, через своего слугу, Эшера
+- Что он сказал с ней сделать? Он приказал мне доставить её к реке Луна, откуда она будет доставлена в замок Рэйвенлофт
+- Как ты умер? Клинок отсёк мою голову с плеч
 
-* What is your name? *Yan.*
-* What lord did you serve in life? *The vampire, Strahd von Zarovich.*
-* Did that lord command you to kidnap the girl Arabelle? *He did, through his servant, the vampire Escher.*
-* What did he ask you to do with her? *He bade me to take her to the Luna River, where she would be brought to Castle Ravenloft.*
-* How did you die? *A blade sliced my head from my shoulders from behind.*
+Ян также может раскрыть следующую информацию, если его спросить, используя 1 из 5 вопросов игроков:
 
-Yan might also reveal the following information if asked using one of the players' five questions:
+- Ян служил Страду верно, потому что ему пообещали богатство и власть в обмен на службу
+- Ян не знал, что Эшер или Страд планировали сделать с Арабелль
+- Ян получил свои приказы в сумерках накануне того дня, когда игроки впервые прибыли в Валлаки (т.е. в тот же день, когда игроки получили своё предсказание по Тарокке и впервые столкнулись со Страдом) (2 ноября)
 
-* Yan served Strahd loyally because he was promised riches and power in exchange for his service.
-* Yan didn't know what Escher or Strahd planned to do with Arabelle.
-* Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
+Если Ян раскрывает свою верность Страду и свои приказы похитить Арабелль, Арригал потрясён, но не полностью убеждён — до тех пор, пока Арабелль не вмешается, чтобы подтвердить историю Ван Рихтена, спокойно сообщив, что Ян похитил её, Ван Рихтен спас её, и она подслушала, как Ян спрашивал другого человека, выплатит ли «господин» его долги в обмен на «доставку щенка», после чего услышала обмен монет вскоре после этого
 
-If Yan reveals his loyalty to Strahd and his instructions to kidnap Arabelle, Arrigal is shaken, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, Van Richten rescued her, and she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
-### Brokering an Agreement
-Van Richten is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in Vallaki, away from her family. It is up to the players to broker an agreement between them.
+### Помощь в соглашении
 
-As they do, keep the following interests in mind:
+Ван Рихтен не желает позволять Арригалу забрать Арабелль обратно в лагерь Вистани. Однако Арригал не готов допустить, чтобы Ван Рихтен скрывал Арабелль в Валлаки, вдали от её семьи. Игрокам предстоит достичь соглашения между ними
 
-* Van Richten wants to prevent Strahd’s spies from finding Arabelle.
-* Arrigal wants to keep Arabelle with her family—and especially her father, Luvash.
-* Both Van Richten and Arrigal want to keep Arabelle comforted and safe.
+При этом учитывайте следующие интересы:
 
-Because neither Van Richten nor Arrigal will concede any of these priorities; the players will need to find a solution that satisfies all of then simultaneously. Van Richten and Arrigal will reluctantly accept any reasonable proposal that does so. (For example, the players might propose that “Rictavio” relocate his wagon to the woods near the Vistani camp, where Luvash can visit her daily, while Arrigal feeds Strahd false information about Arabelle’s whereabouts.)
+- Ван Рихтен хочет помешать шпионам Страда найти Арабелль
+- Арригал хочет, чтобы Арабелль была с семьёй — и особенно с её отцом, Лувашем
+- И Ван Рихтен, и Арригал хотят, чтобы Арабелль чувствовала себя в безопасности и была под защитой
 
-When a final agreement is reached, Arabelle places a small hand on one of the players’ arms and softly thanks them for their efforts. If the players do not intervene, she then steps forward and takes Van Richten’s hand in hers. The following sequence then unfolds:
+Поскольку ни Ван Рихтен, ни Арригал не уступят ни по одному из этих пунктов, игрокам придётся найти решение, которое одновременно удовлетворит их всех. Ван Рихтен и Арригал с неохотой примут любое разумное предложение, которое это обеспечит. (Например, игроки могут предложить, чтобы «Риктавио» переместил свою повозку в лес рядом с лагерем Вистани, где Луваш сможет навещать её ежедневно, в то время как Арригал будет давать Страду ложную информацию о местонахождении Арабелль)
 
-* Arabelle thanks Dr. Van Richten for helping her, and informs him that he’s a good man—a sentiment that his son agrees with.
-* The blood drains from Van Richten’s face, and he sways on his feet, as though he’s about to faint. “My son?” he croaks.
-* Arabelle pats the back of Van Richten’s hand, and tells him that his son has been keeping her safe in the wagon. She promises him that his son loves him very much, and shares her belief that he has been keeping Van Richten safe as well. (Van Richten quietly thanks her, now resembling a weary old man far more than a veteran monster hunter.)
-### Arabelle's Prophecy
-A few moments later, Arabelle staggers, her eyes rolling back into her head as the whites of her eyes become the color of storm clouds. When she speaks, her voice seems to echo with the sound of a second, far older woman’s voice as she delivers the following prophecy:
+Когда достигается окончательное соглашение, Арабелль кладёт маленькую руку на руку одного из игроков и тихо благодарит их за усилия. Если игроки не вмешиваются, она затем делает шаг вперёд и берёт Ван Рихтена за руку. Затем разворачивается следующая последовательность:
 
-<div class="description" style="text-align: center;">
-<p>In darkest night, the light shall flee,</p>
-<p>No dawn to break, with no reprieve.</p>
-<p>From the grave, the dead shall climb,</p>
-<p>Their restless march a baleful sign.</p>
-<p>At castle’s peak, a heart beats red,</p>
-<p>Its hunger deep and ever-fed.</p>
-<p>Should silence fall, the skies shall crack,</p>
-<p>A thousand souls in torment black.</p>
-</div>
+- Арабелль благодарит доктора Ван Рихтена за помощь и сообщает ему, что он хороший человек — и его сын с этим согласен
+- Кровь покидает лицо Ван Рихтена, и он качается на ногах, как будто вот-вот потеряет сознание. ***«Мой сын?»*** — хрипло произносит он
+- Арабелль похлопывает Ван Рихтена по тыльной стороне руки и сообщает ему, что его сын заботился о её безопасности в повозке. Она обещает ему, что его сын очень любит его, и делится своим убеждением, что он также оберегал Ван Рихтена. (Ван Рихтен тихо благодарит её, теперь больше похожий на усталого старика, чем на закалённого охотника на монстров)
 
-Arabelle then falls over unconscious. Any character that makes a successful DC 10 Wisdom (Medicine) check can easily discern that she is unharmed—merely asleep. Upon waking, Arabelle retains no memory of the prophecy she spoke.
+### Пророчество Арабелль
 
-Neither Arabelle, Van Richten, nor Arrigal know it, but Arabelle's prophecy refers to Strahd's ultimate plot to use the Heart of Sorrow to plunge the valley into eternal night, summoning a horde of undead across the land and using the souls of the Barovians to escape the Mists.
+Спустя несколько мгновений Арабелль пошатывается, её глаза закатываются назад, а белки становятся цвета грозовых облаков. Когда она говорит, её голос, кажется, эхом отражает голос другой, гораздо более пожилой женщины, произносящей следующее пророчество:
 
-Van Richten is troubled by Arabelle’s prophecy, and the resemblance it bears to Madam Eva’s warning on the Svalich Road. Nonetheless, in gratitude for the players’ aid, he bequeaths to them his *talisman of echoes.*
+>[!read]
+> Во тьме ночной исчезнет свет,
+> Зари не будет, пощады нет.
+> Из могил мертвецы восстанут вновь,
+> Их мрачный марш несёт лишь кровь.
+> На замке бьётся сердце ало,
+> Его голод велик, ему вечно мало.
+> Падёт тишина, и разобьёт небо на части
+> Тысяча истерзанных душ чернейшей масти
 
-Arrigal is similarly grateful for the players’ assistance in recovering his niece. He is glad to promise that, notwithstanding his oath of loyalty to Strahd, he will refrain from reporting Arabelle or Van Richten’s true locations to Castle Ravenloft, and will avoid reporting the players’ movements for as long as he can. 
+После этого Арабелль падает без сознания. Любой персонаж, успешно прошедший **проверку Медицины Сл 10**, легко определит, что она не пострадала — она всего лишь спит. Проснувшись, Арабелль не сохраняет никаких воспоминаний о произнесённом ею пророчестве.
 
-In addition, though he won’t take up arms against Strahd or cease his work as a spy, Arrigal offers to deliver false information to Castle Ravenloft once when the players request it—but no more than that. He won’t deliver any information that is obviously false, however, and he provides no guarantees as to how long or whether Strahd will believe his information.
+Ни Арабелль, ни Ван Рихтен, ни Арригал не знают этого, но пророчество Арабелль относится к окончательному замыслу Страда — использовать Сердце Скорби, чтобы погрузить долину в вечную ночь, призвать орду нежити по всей земле и, используя души баровийцев, вырваться из Туманов
 
-***Milestone.*** Finding Arabelle completes a story milestone. When Arabelle delivers her prophecy, award each player 1,250 XP.
+Ван Рихтен обеспокоен пророчеством Арабелль и сходством его с предупреждением Мадам Евы на Сваличской дороге. Тем не менее, в знак благодарности за помощь игроков, он передаёт им свой [[Талисман эха]]
 
-> [!abstract]+ **The Werewolf’s Curse**
->
-> If one of the players was infected by a werewolf’s bite on the Old Svalich Road, Van Richten shares that he is capable of brewing an elixir capable of suppressing the curse of lycanthropy for a single night, rendering the player a docile wolf during a full moon, rather than a raging werewolf.
->
-> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
+Арригал так же благодарен игрокам за помощь в возвращении его племянницы. Он рад пообещать, что, несмотря на свой клятву верности Страду, воздержится от сообщения о настоящем местонахождении Арабелль или Ван Рихтена в Замок Рэйвенлофт и будет избегать сообщения о передвижениях игроков столько, сколько сможет
 
-> [!abstract]+ **Inspecting Ireena**
-> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+Кроме того, хотя он не будет вооружённо выступать против Страда и не прекратит работу шпиона, Арригал предлагает 1 раз передать в Замок Рэйвенлофт ложную информацию по просьбе игроков — но не больше. Он, однако, не будет передавать информацию, которая очевидно ложна, и не даёт никаких гарантий относительно того, как долго или поверит ли Страд его сведения
 
-> [!abstract]+ **Recruiting Van Richten**
-> If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)
+_**Этап истории.**_ Нахождение Арабелль завершает этап истории. Когда Арабелль произносит своё пророчество, присуждайте каждому игроку 1 250 XP
+
+> [!abstract]+ **Проклятие оборотня**
+> Если один из игроков был укушен оборотнем на Старой Сваличской дороге, Ван Рихтен сообщает, что способен приготовить эликсир, подавляющий проклятие ликантропии на одну ночь, превращая игрока в послушного волка во время полнолуния, а не в свирепого оборотня
 > 
-> A player who succeeds on a DC 15 Wisdom (Insight) check notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
-# Design Notes: The Missing Vistana
-The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
+> Для этого, однако, ему требуется запасы аконита, цветущего растения, которое, как говорят, растёт вдоль берегов священного пруда в Крезке. (См. [[Арка I - Стены Крезка]] для получения дополнительной информации о попытках игроков проникнуть в Крезк.) Ван Рихтен с радостью приготовит 1 порцию эликсира за каждый цветок аконита, который игроки принесут ему, процесс приготовления которого занимает 6 часов и требует ряда дополнительных ингредиентов
 
-This arc aims to remedy both issues simultaneously, providing Van Richten with a reason to remain hidden in or around Vallaki for the duration of the campaign (i.e., to keep Arabelle safe) while providing the players with a more comprehensive and engaging storyline for Arabelle's kidnapping. It also brings closure to Van Richten's troubled relationship with the Vistani, providing him with a symbolic opportunity to protect a child of the people that effectively killed his own.
+> [!abstract]+ **Осмотр Ирины**
+> Если игроки попросят Ван Рихтена осмотреть вампирский укус Ирины, он может сообщить, что она получила не обычный вампирский укус, а была помечена вампиром. (***«Владелец замка Рэйвенлофт, полагаю»***, — добавляет он, если игроки не сообщили ему о происхождении укуса.) Ван Рихтен не уверен, зачем вампир мог это сделать, но отмечает, что любой слуга или существо вампира может распознать запах этой метки, и что она может служить для того, чтобы удерживать их от причинения вреда её носителю
 
-In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
+> [!abstract]+ **Рекрутинг Ван Рихтена**
+> Если игроки попытаются пригласить Ван Рихтена в свою группу, он вежливо, но решительно откажется. Если игроки спросят его причину, он настаивает на том, что должен оставаться рядом с Арабелль, чтобы защищать её от прислужников Страда. ***«Я однажды не смог защитить ребёнка»***, — говорит он сдержанно. ***«Я не допущу этой ошибки снова.»*** (Ван Рихтен не будет давать дальнейших объяснений)
+> 
+> Игрок, преуспев в **проверке Проницательности Сл 15**, замечает, что Ван Рихтен что-то скрывает. Если его прямо спросить, Ван Рихтен похвалит игрока за проницательность, но откажется давать дальнейшие объяснения. ***«Я работаю в одиночку — и на то есть веская причина»***, — твёрдо заявляет он. ***«Эти причины личные»***
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Арка D - Пир Святого Андрала]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Арка G - Брат и сестра Стражни]].
+# Дизайнерские заметки: Пропавшая Вистана
 
-***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
+Оригинальная миссия по спасению Арабелль не даёт игрокам чёткого мотива для её похищения, реальной причины искать её и явных подсказок, по которым можно это сделать. Оригинальный модуль также не даёт доктору Рудольфу ван Рихтену ясной цели пребывания в Валлаки, представляя его скорее как убийственного псевдоантагониста, желающего совершить массовое убийство Вистани из близлежащего лагеря с неопределённым (хотя и неразвитым) интересом к расследованию Хранителей Пера
 
-The plotline involving the signet ring has been added to provide Luvash with a real reason to recruit unqualified strangers in the search for his daughter (because they are uniquely capable of entering Vallaki) and to provide the players with a clear sense of direction as they work to uncover the mystery of Arabelle's disappearance.
+Эта сюжетная арка направлена на то, чтобы одновременно исправить обе проблемы, предоставив Ван Рихтену причину оставаться скрытным в Валлаки или вокруг него на протяжении всей кампании (то есть, чтобы защищать Арабелль), а игрокам — более полную и увлекательную сюжетную линию похищения Арабелль. Она также закрывает вопрос сложных отношений Ван Рихтена с Вистани, предоставляя ему символическую возможность защитить ребёнка народа, который фактически убил его собственного
 
-***Strahd's Bounty.*** Strahd's interest in Arabelle has been added to provide an altruistic motivation for Van Richten to "kidnap her first." Yan has been changed from an ordinary Vistana thief to Escher's agent in order to paint Van Richten's actions in a better light (he was triggered by his traumatic memories of Erasmus and was working to protect an innocent), to explain why Arabelle was not immediately taken to Castle Ravenloft (Yan had to first deliver to Escher at an isolated, pre-determined spot), and to explain why Arrigal was ignorant of Strahd's plot (thereby providing the players with a proper diplomatic moral dilemma at the climax of the arc).
+В процессе эта арка предоставляет игрокам возможность отправиться на запад за пределы стен Валлаки, снимая ощущение удушающей клаустрофобии, о котором многие группы сообщают после нескольких последовательных сессий в городе
 
-***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
+_**Игрушки Блинского.**_ Магазин игрушек был введён как первая остановка в этой арке, чтобы отговорить игроков полностью пройти её в первый день пребывания в Валлаки (в пользу того, чтобы они завершили [[Арка D - Пир Святого Андрала]]), а также для дальнейшего развития отношений Изека Стражни с Ириной Коляной, которые исследуются подробнее в [[Арка G - Брат и сестра Стражни]]
 
-Kasimir will later lead the players to the Amber Temple in [[Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
+_**Лагерь Вистани.**_ Луваш, Арригал и всё племя Вистани были сделаны более симпатичными, чтобы побудить игроков построить с ними долгосрочные отношения, дальше развивать темы приключения о единстве и искуплении вместо эгоизма и недоверия, а также дополнительно мотивировать игроков найти Арабелль и решить задачу, чтобы воссоединить её с семьёй
 
-The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
+Сюжетная линия, связанная с перстнем-печаткой, была добавлена, чтобы дать Лувашу реальную причину привлекать неподготовленных чужаков к поискам своей дочери (так как они уникально способны проникнуть в Валлаки), а игрокам — ясное направление действий в процессе раскрытия тайны исчезновения Арабелль
 
-Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
+_**Награда Страда.**_ Интерес Страда к Арабелль был добавлен, чтобы дать Ван Рихтену альтруистическую мотивацию «похитить её первым». Ян был изменён с обычного Вистана вора на агента Эшера, чтобы показать действия Ван Рихтена в лучшем свете (он был спровоцирован травматическими воспоминаниями об Эрасмусе и действовал, чтобы защитить невинного), объяснить, почему Арабелль сразу не отвезли в замок Рэйвенлофт (Ян сначала должен был доставить её Эшеру в изолированное, заранее определённое место), и объяснить, почему Арригал не знал о заговоре Страда (тем самым предоставляя игрокам настоящую дипломатическую моральную дилемму в кульминации арки)
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Арка H - Потерянная душа]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
+_**Хижины сумеречных эльфов.**_ Чтобы отговорить игроков от слишком раннего исследования Янтарного Храма (и потому что игроки — чужаки, с которыми он только что познакомился, без очевидных навыков, которые помогут ему достичь своих целей), Казимир Великов больше не делится с ними снами Патрины или своим интересом к Янтарному Храму при первой встрече
 
-The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Арка G - Брат и сестра Стражни]].
+Позже Казимир приведёт игроков в Янтарный Храм в [[Арка S - Солнечный Меч]] после того, как игроки узнают о его интересе к храму в конце [[Арка Q - Сияющий Маяк]]. На данный момент, однако, травмы Казимира от его последнего похода на гору Гхакис показаны как предвестник его участия в этой будущей арке
 
-*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Арка H - Потерянная душа]] for more information about Stella's fate.)
+Символы на перстне-печатке были добавлены, чтобы дать игрокам решение головоломки двери у входа в Башню Ван Рихтена
 
-Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[Arc P - Ravenloft Heist]].
+Отношения Рахадина с принцем Эреваном (рассказанные в истории Касимира) были добавлены, чтобы подчеркнуть его решение выбрать короля Барова в качестве своей семьи вместо собственного народа и создать более личные антагонистические отношения между Рахадином и обладателем _сломанного клинка_ в зацепке приключения _**Баровские реликвии**_
 
-***Lake Zarovich.*** This brief detour to Szoldar and Yevgeni's dressing shack has been added to make sure that the Barovian wilderness remains strange and foreboding (because only experienced hunters know how to navigate it), to explicitly introduce the players to a pair of individuals able to point out important paths and landmarks, and to inform the players of the werewolves' heavy presence along the western half of the valley.
+_**Особняк бургомистра.**_ Сюжетная линия «зачарованный особняк» была добавлена, чтобы дать игрокам зацепку для [[Арка H - Потерянная душа]], а также в качестве резервного дипломатического варианта, если игроки решат оставить Ирину в безопасности церкви Святого Андрала
 
-***The Svalich Road.*** Van Richten's handkerchief has been left in the Luna River to foreshadow his involvement in Arabelle's disappearance. The **twig blights** and **scarecrows** have been placed here to foreshadow the druids of Yester Hill and their alliance with the witch of Berez, Baba Lysaga.
+Генеалогия семьи Стражни была добавлена, чтобы явно показать связь Ирины с Изеком, уточняя и подчёркивая ставки в [[Арка G - Брат и сестра Стражни]]
 
-***Lake Baratok.*** The additional clues around Ezmerelda's wagon (the signs, scent of sulfur, and wolf tracks) have been added to discourage players from attempting to open it and thereby activate the alchemist's fire trap. The additional set of wagon tracks and the paint in the woods have been added to provide additional clues connecting Rictavio to the tower.
+_Эфирные сущности_ были добавлены, чтобы предоставить дополнительную информацию, помогающую игрокам восстановить душу Стеллы, а также дать Виктору Валлаковичу повод посетить библиотеку своего отца в присутствии игроков. (См. [[Арка H - Потерянная душа]] для получения дополнительной информации о судьбе Стеллы)
 
-The puzzle on the tower door has been changed to befit a more dignified archmage like Khazan, and has been integrated with the signet ring to provide the players with an easy "Eureka!" moment that nonetheless provides a sense of satisfaction for deciphering the puzzle. 
+Виктору была дана потерянная книга заклинаний Хазана, чтобы дать ему причину знать о башне на озере Бараток (и интересоваться ею), а также объяснить его ранние навыки мага. Интерес Виктора к посоху Хазана был добавлен, чтобы предвосхитить способ, которым игроки смогут получить этот посох в катакомбах Рэйвенлофта в [[Арка P - Ограбление Рэйвенлофта]]
 
-The gargoyles on the rooftop have been turned into **gargoyles** to replace the **young blue dragon** as a more fitting enemy for the genre. The gargoyles attack players who climb the scaffolding in order to ensure that there is no "challenge-free" entrance into the tower.
+_**Озеро Зарович.**_ Эта короткая остановка у разделочной Шольдара и Евгения была добавлена, чтобы убедиться, что баровская дикая местность остаётся странной и угрожающей (потому что только опытные охотники знают, как по ней ориентироваться), чтобы явно познакомить игроков с парой людей, способных указать важные тропы и ориентиры, и чтобы сообщить игрокам о сильном присутствии оборотней на западной половине долины
 
-The lightning sheath from the original module has been intentionally removed and replaced with a fairer lightning trap that foreseeably punishes players who attempt to evade the puzzle.
+_**Сваличская дорога.**_ Платок Ван Рихтена оставлен в реке Луна, чтобы предвосхитить его участие в исчезновении Арабелль. **Ветвистые заразы** и **пугала** размещены здесь, чтобы предвосхитить друидов с Холма Былого и их союз с ведьмой Береза, Бабой Лисягой
 
-The paint-stained lily pads have been added to provide additional clues regarding Rictavio's connection to the tower, as has the burned sign for *Rictavio's Carnival of Wonders*. The beaded bracelet and Tarokka card have been added to confirm Arabelle's presence in the tower, and to suggest that Rictavio is not all that he seems.
+_**Озеро Бараток.**_ Дополнительные подсказки вокруг повозки Эсмеральды (знаки, запах серы и волчьи следы) были добавлены, чтобы отговорить игроков пытаться открыть её и тем самым активировать ловушку с алхимическим огнём. Дополнительный набор следов повозки и краска в лесу были добавлены, чтобы предоставить дополнительные подсказки, связывающие Риктавио с башней
 
-Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[Арка H - Потерянная душа]].
+Головоломка на двери башни была изменена, чтобы соответствовать более достойному архимагу, такому как Хазан, и интегрирована с перстнем-печаткой, чтобы дать игрокам лёгкий момент «Эврика!», который при этом приносит удовлетворение от разгадывания головоломки
 
-***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Арка H - Потерянная душа]].
+Гаргульи на крыше были превращены в **гаргулий**, чтобы заменить **молодого синего дракона** как более подходящие противники для жанра. Гаргульи атакуют игроков, которые поднимаются по строительным лесам, чтобы гарантировать, что вход в башню не будет «безопасным»
 
-***Return to Vallaki.*** Van Richten's **saber-toothed tiger** has been removed from his wagon because it no longer serves a purpose in the absence of his homicidal plan to kill the Vistani, because he would have had no place to store it during his time as "Alanik" in the village of Barovia before Strahd awoke, and because it is far more overt and uncontrollable a weapon than his cautious and prudent characterization would reasonably allow.
+Оболочка молнии из оригинального модуля была намеренно удалена и заменена более справедливой ловушкой молнии, которая предсказуемо наказывает игроков, пытающихся обойти головоломку
 
-Van Richten's confrontation with Arrigal has been added to provide a suitable climax for the arc—a social encounter, rather than a combat one. Van Richten's *talisman of echoes* has been added to provide the players with a means of proving their case to Arrigal (and thereby winning his loyalties) and to provide the players with a material reward for completing the quest.
+Листья кувшинок, испачканные краской, были добавлены, чтобы предоставить дополнительные подсказки о связи Риктавио с башней, как и сожжённый знак _Карнавал Чудес Риктавио_. Браслет с бусинами и карта Тарокка были добавлены, чтобы подтвердить присутствие Арабелль в башне и намекнуть, что Риктавио не таков, каким кажется
 
-Arabelle's prophecy has been provided to accentuate the importance of deciphering the *Tome of Strahd* (and, therefore, of locating the Amber Temple) and to foreshadow Strahd's final plan, building dramatic tension.
+Страница из журнала Ван Рихтена вводит персонажа Эрасмуса ван Рихтена, который сыграет более значительную роль в [[Арка H - Потерянная душа]]
+
+_**Обратная дорога.**_ Встреча с Золтом и Матильдой более формально знакомит игроков с стаей оборотней, предвосхищая [[Арка L - Логово Волков]] и обеспечивая понимание игроками важности приобретения серебряного оружия перед встречей с шабашем Старой Костедробилки в [[Арка H - Потерянная душа]]
+
+_**Возвращение в Валлаки.**_ **Саблезубый тигр** Ван Рихтена был удалён из его повозки, так как он больше не нужен без его убийственного плана по уничтожению Вистани, потому что ему не было бы места для его содержания во время пребывания под именем «Аланик» в деревне Баровия до пробуждения Страда, и потому что это гораздо более явное и неконтролируемое оружие, чем позволяла бы его осторожная и рассудительная характеристика
+
+Столкновение Ван Рихтена с Арригалом было добавлено, чтобы обеспечить подходящую кульминацию арки — социальную встречу, а не боевое столкновение. _**Талисман эха**_ Ван Рихтена был добавлен, чтобы дать игрокам способ доказать свою правоту Арригалу (и тем самым завоевать его лояльность), а также предоставить игрокам материальное вознаграждение за выполнение квеста
+
+Пророчество Арабелль было предоставлено, чтобы подчеркнуть важность расшифровки _Тома Страда_ (и, следовательно, поиска Янтарного Храма) и предвосхитить окончательный план Страда, создавая драматическое напряжение

@@ -1,715 +1,686 @@
-_An adventure for five 4th-level characters._
+---
+dg-publish: true
+---
+_Приключение для пяти персонажей 4-го уровня_
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+В этой арке игроки сопровождают Ирину Коляну в церковь Святого Андрала в Валлаки, исполняя своё обещание её брату, Исмарку. Однако отец Люциан, священник церкви, сообщает им, что кости Святого Андрала — источник защитной магии церкви — были недавно украдены, подвергая опасности её охрану и прихожан
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+У игроков есть время до ночи 5-го дня после прибытия в Валлаки, чтобы выявить вора (служителя церкви Миливоя), найти кости в их укрытии (мастерская гробовщика Валлаки) и вернуть их на законное место в церкви. Их задание приведёт их к прямому столкновению с Волентой Попофски, самой садистской вампирской невестой Страда, и её вампирскими приспешниками
 
-Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+Сумеют ли игроки сорвать план Воленты и восстановить защиту церкви? Или церковь будет утрачена во тьме и крови, её мерцающий свет погаснет в тенях?
 
-> [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> [!abstract]+ **Ранний старт**
+> Если игроки приводят Ирину Коляну в церковь Святого Андрала в свою первую ночь в Валлаки (т.е. «0 день» в Валлаки), они приходят и видят, как отец Люциан завершает службу для своей паствы. После того как он успокаивает Виллемину Рикалову (подробности о Виллемине см. в [[Арка C - В долину]]), отец Люциан приветствует игроков и Ирину Коляну в церкви и предлагает им свою помощь
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
+> Если сообщить ему, что Ирина надеется найти убежище в церкви, отец Люциан с радостью предлагает ей место для сна в часовне. После того как Ирина предлагает вознаградить его за доброту, отец Люциан обдумывает её просьбу, а затем приглашает её помогать с обязанностями и обучением Йески на время её пребывания — просьба, которую Ирина любезно принимает
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
-# D1. St. Andral's Church
-<span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
+> На следующее утро, после того как кости Святого Андрала были украдены, как описано ниже, Ирина навещает игроков в таверне «Синяя Вода» до их разговора с Урвином Мартиковым, описанного в [[Арка C - В долину]], и просит их посетить церковь, чтобы поговорить с отцом Люцианом об «инциденте». (Отец Люциан попросил её не упоминать инцидент за пределами церкви, чтобы не вызвать панику.) Остальная часть этой арки проходит как обычно
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+# Подготовка
 
-The church's occupants follow the following schedule unless interrupted:
+- [x] Отец Люциан Петрович
+- [x] Карта
+- [x] Карта Валлаки
+- [x] Волента Попофски
+- [x] порождение вампира
+- [x] Рахадин
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
-* In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
-* In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
+# D1. Церковь Святого Андрала
 
-> [!profile]+ **Profile: Father Lucian Petrovich**
+_Эта сцена происходит в главе 5: район N1_
+
+>[!read]
+> Эта согбенная, вековая каменная церковь имеет выпуклый шпиль в задней части, а вдоль стен расположены треснутые, грязные окна, на которых изображены набожные святые. Ограда из кованного железа окружает сад надгробных камней рядом с церковью. Тонкая вуаль тумана стелется среди них
+
+Жители церкви следуют следующему расписанию, если им не мешают:
+
+- На рассвете Йеска присоединяется к отцу Люциану на молитвах в часовне и помогает ему готовить завтрак
+- Утром Йеска выполняет поручения по Валлаки, пока отец Люциан подметает часовню, вытирает пыль с скамеек, полирует алтарь и убирает кухню
+- Днём отец Люциан обучает Йеску чтению и знакомит его с основами истории и теологии
+- Вечером, с помощью Йески, отец Люциан ведёт службу для прихожан и произносит проповедь, обещая убежище и утешение
+
+> [!profile]+ **Профиль: Отец Люциан Петрович**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Отец Люциан должен вызывать чувство благодарности своей гостеприимностью, расположения — готовностью выслушать и проявить сочувствие, утешения — своей теплотой, спокойствием и мудростью, а также сочувствия к его тревоге по поводу пропавших костей и безопасности прихожан
+> 
+> _**Эмоции.**_ Наиболее частыми эмоциями отца Люциана являются задумчивость, надежда, тревога и сострадание
 >
-> **Roleplaying Information**
-> ***Resonance.*** Father Lucian should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+> _**Мотивации.**_ Отец Люциан стремится поддерживать дух жителей Валлаки, сохранять церковь как место убежища и утешения и воспитывать Йеску как можно лучше
 >
-> ***Emotions.*** Father Lucian’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+> _**Вдохновения.**_ При игре за отца Люциана ориентируйтесь на дядю Айро (_Аватар: Легенда об Аанге_), Майкла Карпентера и отца Фортхилла (_Досье Дрездена_), а также мистера Роджерса (_Соседство мистера Роджерса_)
 >
-> ***Motivations.*** Father Lucian wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best he can.
+> **Информация о персонаже**
+> _**Персона.**_ Для незнакомцев отец Люциан — спокойный, скромный и сострадательный священник, который всегда рад поделиться словом похвалы или несколькими жемчужинами мудрости. Для тех, кому он доверяет, отец Люциан — преданный и стойкий защитник своей общины, который тем не менее беспокоится о своей способности обезопасить прихожан. В глубине души отец Люциан испытывает нотку сомнения в промысле и силе Утреннего Господа, задаваясь вопросом, является ли пробуждение Страда испытанием веры баровийцев или знаком того, что земля навсегда оставлена
+> 
+> _**Мораль.**_ В бою отец Люциан предпочёл бы отговорить своих нападающих, при необходимости мирно сдавшись, чтобы избежать ненужного кровопролития. Однако если была бы угроза жизни невинного или членам его общины, он сражался бы до смерти с молитвой на устах и миром в сердце
 >
-> ***Inspirations.*** When playing Father Lucian, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
+> _**Отношения.**_ Отец Люциан является наставником и отцовской фигурой для сироты и алтарника Йески, работодателем смотрителя Миливоя, братом баронессы Лидии Петровны и дальним потомком Таши Петровны, древнего жреца Утреннего Господа, останки которой хранятся в катакомбах замка Рэйвенлофт
+
+> [!lore]+ **Украденные кости**
+> Хотя он помог дому вон Зарович подняться к власти, Святой Андрал, иронично, оставался яростным и могущественным врагом нежити всю свою жизнь. Будучи Верховным Жрецом церкви Хозяина Утра, Андрал возглавлял яростные крестовые походы против нежити, скрывавшейся в тёмных уголках королевства короля Барова, и уничтожал её, где бы она ни встречалась
+> 
+> Столь велика была его ненависть к нежизни, что в последние часы своей жизни Святой Андрал поклялся, что место его упокоения навеки станет убежищем от сил тьмы. С тех пор его кости покоятся в крипте под церковью Валлаки, а её жрецы ежегодно на рассвете в его святой день проводят особый ритуал — в день Пира Святого Андрала. Пока этот обряд совершается, церковь остаётся освящённой землёй ещё на 1 год
 >
-> **Character Information**
+> Когда Страд пробудился от своей недавней спячки, его вампирская невеста Волента Попофски решила впечатлить его единственным известным ей способом — безудержной демонстрацией страданий, резни и ужаса. И где, как не в жуткой бойне в церкви Святого Андрала в ночь её самого святого праздника, подумала она
+> 
+> Это была тёмная и ветреная ночь, когда Волента нанесла визит Хенрику ван дер Вурту, гробовщику Валлаки. Найдя в обстановке мрачное удовольствие, а в одиноком Хенрике — идеальную жертву для своих замыслов, Волента вежливо пригрозила сжечь его мастерскую дотла, если он не позволит ей использовать её в качестве базы для своих махинаций
+> 
+> Испуганный Хенрик ван дер Вурт вскоре капитулировал, и Волента установила связь с телепортационной жаровней в подземельях замка Рэйвенлофт. Используя эту связь, она призвала двух одичавших **вампирских отродий** — бывших участников восстания Дору, обезумевших от жажды крови, — и три ящика, наполненных могильной землёй, чтобы в ней отдыхать
+> 
+> Пережиток более древней эпохи, Волента знала, что останки Святого Андрала обеспечивают церковь её благословенной защитой. Она приказала Хенрику ван дер Вурту найти и похитить эти кости до ночи Пира Святого Андрала — любыми необходимыми средствами
+> 
+> Учитывая свою профессию, Хенрик ван дер Вурт сталкивался с Миливоем — смотрителем церкви — не один раз. Он знал, что Миливой хорошо знаком с обитателями и планировкой церкви, что Миливой не особенно почитал веру Хозяина Утра, и — что самое важное — что у Миливоя было множество младших братьев и сестер, которых он отчаянно пытался прокормить
+> 
+> Копаясь в собственных сбережениях в поисках средств, Хенрик ван дер Вурт подошёл к Миливою с историей и предложением. Святой Андрал, утверждал Хенрик, был предком его собственной семьи — и Хенрик стремился заполучить его останки. ***«В эти тёмные времена, — мрачно сказал Хенрик, — мы все хотим держать наши семьи рядом с собой»***
+> 
+> Хенрик ван дер Вурт рассказал Миливою, что его семья веками искала останки Святого Андрала — но только недавно он узнал, что они находятся где-то в церкви. Несомненно, утверждал он, добрый отец Люциан будет неохотно отдавать такую реликвию, хотя её истинная ценность заключалась лишь в сентиментальном значении
+> 
+> Вот тут Миливой и вступил в дело. В обмен на плату в **15 электрумовых монет** Миливой должен был найти и добыть останки Андрала. Старые легенды, отметил Хенрик, указывали, что эти останки несут благословение Святого Андрала, освящая церковь от зла — хотя он лично сомневался в их правдивости. Он предложил Миливою использовать эти легенды как предлог, чтобы выяснить местоположение останков, либо у отца Люциана, либо у Ески, алтарника. (***«Разумеется***, — отметил Хенрик с сухим смешком, — ***я довольно уверен, что видел Изека Стражни, входящего в церковь, так что, возможно, эти легенды потеряли своё сияние добра, а?»***)
+> 
+> Миливой, стремившийся заработать, чтобы заботиться о своих младших братьях и сёстрах, был легко убеждён украсть эти «затхлые старые реликвии» и вскоре согласился на предложение Хенрика. Он знал, что Еска, недавний сирота, был робким и боязливым ребёнком, который искал у отца Люциана безопасности и утешения. Хотя он не мог избавиться от чувства вины за то, что воспользовался страхом мальчика, Миливой решил, что несколько ночей кошмаров Ески — достойная цена за то, чтобы его собственная семья имела еду
+> 
+> 6 дней спустя, незадолго до уроков Ески с отцом Люцианом, Миливой вслух, перед мальчиком, задумался, не нападёт ли Страд на церковь с армией вампиров и демонов. ***«Я слышал, что вампиры ненавидят солнце»***, — мрачно сказал Миливой, пока лицо Ески побледнело. ***«А если Дьявол придёт сюда, что мы вообще сможем сделать, чтобы его остановить?»***
+> 
+> Когда вскоре после этого начался урок Ески, Миливой подслушивал за дверью — и молча радовался, когда отец Люциан раскрыл местоположение костей под алтарём. Той же ночью Миливой в плаще с капюшоном вернулся в церковь с лопатой в руках, крадучись по затемнённой часовне и взламывая склеп, скрывавшийся внизу
+> 
+> Но скрипучая доска выдала его — и когда Миливой вышел из склепа, отец Люциан появился, чтобы перегородить выход. Не узнав его, отец Люциан потребовал, чтобы нарушитель показал лицо и вернул то, что украл. Миливой впал в панику и вырвался через одно из стеклянных окон церкви, разбив его. Затем Миливой передал кости Хенрику, который заплатил ему
+> 
+> Еска ещё не знает, что кости были украдены. Вместо этого отец Люциан сказал ему только, что сломанная ветка дерева влетела в окно, разбив стекло и повредив пол. На рассвете отец Люциан отправил Еску в мастерскую Хенрика, чтобы получить доски и гвозди для ремонта, которые Хенрик доставил лично, чтобы проверить, подозревает ли Люциан его причастность
+> 
+> Отец Люциан не знает, кто украл кости и зачем. Хотя он мягко расспрашивал Еску, говорил ли он кому-либо о костях, Еска честно ответил, что не говорил. Отец Люциан не смог выяснить больше при собственном кратком осмотре места преступления. Однако с приближением даты повторного освящения он опасается худшего
+
+## D1a. Входя в Церковь
+
+Когда игроки впервые пытаются войти в церковь после того, как кости были украдены, Хенрик ван дер Вурт выходит одновременно с ними, вынуждая одного из игроков совершить **спасбросок Ловкости Сл 10**, иначе он врежется в него
+
+Независимо от того, удаётся ли игроку или нет, почти произошедшее столкновение заставляет Хенрика споткнуться, и он падает на землю. При этом он теряет хватку над связкой гвоздей и досок, которые держал в руках, и они разлетаются по ступеням и земле внизу. Дальнозоркий Хенрик также теряет свою пару наполовину треснувших очков, которые при падении оказываются на ступенях немного ниже его
+
+Игроки могут помочь Хенрику собрать его очки, гвозди и доски, пока он беспомощно суетится, пытаясь их найти. Если они это сделают, он осыпает их благодарностями, промакивая лицо и руки слегка испачканным носовым платком. Он готов поделиться следующей информацией, если его прямо об этом спросят:
+
+- Его зовут Хенрик ван дер Вурт, и он является гробовщиком Валлаки и время от времени плотником
+- Отец Люциан попросил его зайти, чтобы доставить некоторые инструменты и припасы для починки повреждений пола, вызванных упавшей веткой дерева прошлой ночью
+- Его лавка находится на южной окраине складов Арасек. ***«Хотя***, — неловко шутит Хенрик, — ***я надеюсь, вам не понадобятся мои услуги слишком скоро»***
+
+Хенрик затем откланивается и возвращается в свой магазин
+
+## D1b. Часовня
+
+Когда игроки заходят, прочитайте:
+
+>[!read]
+> Дюжина богато украшенных канделябров заливает ряды ухоженных скамей светом свечей, разливая мягкое сияние, касающееся каждого уголка этой часовни. В дальнем конце зала гордо возвышается деревянный алтарь, украшенный резным солнечным диском с лучами, устремлёнными вперёд в жизнерадостном вызове. 6 высоких окон обрамляют алтарь, однако одно из них, похоже, разбито: осколки стекла выстилают его тёмную железную раму, словно зазубренные зубы
 >
-> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
->
-> ***Morale.*** In a fight, Father Lucian would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
->
-> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> Широкоплечий, черноволосый молодой человек стоит на небольшой стремянке перед разбитым окном, прибивая брезент, чтобы закрыть его, в то время как неподалёку молодой мальчик подметает пол часовни. Средних лет жрец с седеющими волосами и опрятными чистыми одеяниями наблюдает за ними скамейках, держа собственную метлу и погружённый в размышления
 
-> [!lore]+ **The Stolen Bones**
-> Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
- >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-> 
-> When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
-> 
-> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
-> 
-> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
-> 
-> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
-> 
-> Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
-> 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
-> 
-> Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
-> 
-> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
-> 
-> Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
-> 
-> Six days later, shortly before Yeska's lessons with Father Lucian, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
-> 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Lucian revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
-> 
-> But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Lucian emerged to block the exit. Without recognizing him, Father Lucian demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
-> 
-> Yeska doesn't yet know that the bones were stolen. Instead, Father Lucian told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Lucian sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
-> 
-> Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
-## D1a. Entering the Church
-When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
-
-Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.
-
-The players can help Henrik collect his glasses, nails, and planks as he scrambles helplessly to find them. If they do, he thanks them profusely, dabbing at his face and hands with a slightly soiled handkerchief. He is willing to share the following information if directly asked:
-
-* His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
-* Father Lucian asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
-* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
-
-Henrik then excuses himself and departs to return to his shop.
-## D1b. The Chapel
-When the players first enter this area, read:
-
-<div class="description">
-<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
-<p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
-</div>
-
-The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
+Молодой человек — Миливой, жрец — отец Люциан Петрович, мальчик — Еска
 
 ![[Father Lucian Petrovich.png]]
-<span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+Когда игроки впервые встречают [[Неигровые персонажи#Отец Люциан Петрович|отца Люциана]], он тепло их приветствует, узнавая их как новичков в Валлаки, приветствуя в церкви Святого Андрала и спрашивая, пришли ли они искать общение или молиться Хозяину Утра
 
-After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
+После того как игроки обменялись любезностями, Миливой слезает с стремянки и возвращает её отцу Люциану. Затем происходит следующий обмен репликами, предоставляя игрокам достаточно времени и возможности вмешаться и ответить:
 
-* Upon noticing the players, Milivoj immediately scowls, and asks, "Father, are these outsiders bothering you? I can ask them to leave."
-* If the players say nothing, Father Lucian chides Milivoj, noting that, "In these dark times, it's never been more important to be hospitable to others."
-* If rebuffed, Milivoj retorts: "You can't be too sure about strangers. I thought the town gates were supposed to be closed. They could be vampires, or worse." He then glowers at the players, and asks, "Unless you have some way of proving that you're not?"
+>[!read]
+> - Заметив игроков, Миливой сразу хмурится и спрашивает: ***«Отец, эти чужаки вас беспокоят? Я могу попросить их уйти»***
+> - Если игроки молчат, отец Люциан делает Миливою выговор, отмечая: ***«В эти тёмные времена никогда не было так важно быть гостеприимным к другим»***
+> - Если ему ответят, Миливой возражает: ***«Нельзя быть слишком уверенным в незнакомцах. Я думал, что городские ворота должны быть закрыты. Они могут быть вампирами или хуже»***. Затем он сердито смотрит на игроков и спрашивает: ***«Если только у вас нет способа доказать, что вы не такие?»***
 
-Milivoj is eager to prevent further investigation of the church, and hopes to persuade Father Lucian to drive the players away. However, he's not willing to look suspicious, and drops the issue if the players or Father Lucian push back. "You can't be too careful," he mumbles. "Be safe, Father." He then departs.
+Миливой стремится предотвратить дальнейшее расследование церкви и надеется убедить отца Люциана прогнать игроков. Однако он не хочет выглядеть подозрительно и отходит от этой темы, если игроки или отец Люциан оказывают сопротивление. ***«Нельзя быть слишком осторожным***, — бормочет он. — ***Будьте осторожны, отец»***. Затем он уходит
 
-Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
+Как только Миливой уходит, если отцу Люциану сообщают, что Ирина ищет убежище в церкви от Страда или других монстров, он сначала убеждается, что другие прихожане отсутствуют — отгоняя Еску, если он рядом — и заставляет игроков хранить это в тайне
 
-If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
+Если игроки соглашаются не распространять его слова за пределы церкви, отец Люциан с печалью сообщает им, что, хотя ему ничего не хотелось бы больше, чем предложить Ирине постоянное убежище, недавние события оставили защиту церкви в шатком состоянии. Он также может поделиться следующей дополнительной информацией по просьбе игроков:
 
-* The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
-* The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-* To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
-* If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
-* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
-* Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
+- Церковь обычно является освящённой землёй, словно здание защищено заклинанием [[Святилище]]. Эта магическая защита препятствует проникновению в церковь Исчадий и Нежити, а также не позволяет им магически [[ДМовские заметки#Очарование|очаровывать]], [[ДМовские заметки#Испуг|пугать]] или вселяться в находящихся внутри
+- Источник этой защиты — склеп Святого Андрала, который исторически хранил благословенные кости самого Андрала, основателя церкви Валлаки и великого жреца Хозяина Утра
+- Изначально о существовании костей знал только отец Люциан. Однако после того как несколько дней назад в Валлаки дошли известия о осаде Баровии, он поделился знанием о костях с Еской
+- Чтобы сохранить защиту церкви, отец Люциан должен совершать особый обряд защиты над костями Святого Андрала раз в год, на рассвете в день Праздника Святого Андрала — святого дня, посвящённого памяти жизни Андрала
+- Если обряд не может быть совершён в это время, защита исчезает до тех пор, пока обряд не будет выполнен на следующем рассвете
+- Прошлой ночью кто-то проник в склеп церкви и украл кости Святого Андрала, повредив половые доски за алтарём и скрывшись через окно. Без костей отец Люциан не может совершить обряд защиты, и охранная магия ослабнет на рассвете в день Праздника Святого Андрала
+- Отец Люциан опасается, что какое-то злое существо или порочная душа создали этот кризис, чтобы причинить вред его пастве; хотя барон уверен, что никакие монстры не смогут прорваться через стены Валлаки, отец Люциан опасается, что город не так безопасен, как кажется
 
-Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Отец Люциан также может сообщить дату Праздника Святого Андрала, который состоится на 5 день после прибытия игроков в Валлаки (7 ноября). Он не сообщил о краже костей, чтобы не сеять панику. Он также не подозревает Миливоя в краже костей, не имея для этого оснований
 
-If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
+Если игроки проявляют желание, отец Люциан с радостью позволяет им осмотреть место преступления — сам он так и не разобрался в нём — и опросить Еску, при условии, что они пообещают быть терпеливыми и внимательными к мальчику
 
-If the players ask for the identities of other possible witnesses, Father Lucian notes that the only other employee of the church is the groundskeeper, Milivoj. Father Lucian can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
+Если игроки спрашивают, кто ещё мог быть свидетелем, отец Люциан отмечает, что единственный другой сотрудник церкви — смотритель Миливой. Отец Люциан может дать игрокам указания к дому Миливоя, который находится в северо-западной части Валлаки
 
-Father Lucian accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
+Отец Люциан сопровождает игроков во время их расследования, отвечая на дополнительные вопросы по мере их появления. Если расследование игроков выводит их за пределы церкви, он настаивает на том, чтобы идти с ними, и просит Еску присматривать за часовней в его отсутствие. (Он берёт на себя личную ответственность за исчезновение костей и — учитывая его связи по всему городу и служение Хозяину Утра — желает помочь игрокам в их возвращении)
 
-While accompanying the party, Father Lucian fights alongside them, but allows the players to take the lead in social encounters and exploration.
+Во время сопровождения группы отец Люциан сражается вместе с ними, но позволяет игрокам вести в социальных взаимодействиях и исследованиях
 
-> [!warning]+ **Father Lucian's Aid**
-> Without Father Lucian's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
-## D1c. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
+> [!warning]+ **Помощь Отца Люциана**
+> Без помощи отца Люциана — а именно без урона и урона излучением, обеспечиваемого его заклинанием [[Духовные стражи]] и чертой _**божественное величие**_ — битва в мастерской гробовщика в [[Арка D - Пир Святого Андрала#D4c. Ловушка Воленты|D4c. Ловушка Воленты]] практически невозможна. Чтобы избежать полного поражения группы, убедитесь, что он сопровождает игроков при их выходе из церкви
 
-<div class="description">
-<p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
-</div>
+## D1c. Сцена Преступления
 
-The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
+[[Неигровые персонажи#Отец Люциан Петрович|Отец Люциан]] с радостью поведёт игроков к месту склепа, если его об этом попросят. Читайте:
 
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+>[!read]
+> Небольшая кучка свежих деревянных досок прислонена к алтарю, а на их поверхности лежит маленький мешочек с гвоздями. Недалеко от них старые деревянные половые доски за склепом были поддеты и сломаны, с торчащими под странными углами обломками. Между ними небольшое тёмное отверстие ведёт в тёмное, пыльное пространство
 
-<div class="description">
-<p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
-</div>
+Свежие доски и гвозди доставил Хенрик. Отверстие едва достаточно широкое, чтобы в него мог войти 1 человек, и оно ведёт в склеп
 
-The slab held the bones until Milivoj stole them.
+Склеп - это квадратное 10-футовое помещение с 5-футовыми потолками под церковью, располагается в основном под алтарём часовни. Если игрок входит в склеп, прочтите:
 
-The players can find the following information by investigating the area around the crypt:
+>[!read]
+> Вы спускаетесь в небольшую тёмную влажную камеру, стены которой сложены из грубо обработанных каменных блоков, потемневших от времени и влаги. В центре стоит одинокая каменная плита с аккуратно вырезанным пустым круглым углублением на её поверхности
 
-* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
+Плита хранила кости до того, как их украл Миливой
 
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
+Игроки могут найти следующую информацию, исследуя окрестности склепа:
 
-The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
+- Во время исследования половых досок игроки могут обнаружить оборванный кусок серой шерстяной ткани, зацепившийся за гвоздь, при успешной **проверке Расследования Сл 15**, и полоску ржавой земли, размазанной по половице, при успешной **проверке Восприятия Сл 20**
 
-The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
+- Во время исследования внутренней части склепа игроки могут найти несколько комьев земли при успешной **проверке Восприятия Сл 10**. Каждый комок имеет форму большого отпечатка ботинка и содержит несколько стеблей бледно-зелёной травы и белые лепестки цветов
 
-The hair is Milivoj's.
-## D1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
+* Во время исследования алтаря или каменной плиты в склепе игроки могут найти несколько прядей тёмных чёрных волос при успешной **проверке Восприятия Сл 15**
 
-If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
+Ткань была сорвана с рубашки Миливоя, когда он спускался вниз, а ржавчина осталась, когда он использовал лопату, чтобы поддеть половые доски
+
+Комки земли остались, когда сапоги Миливоя ударились о пол склепа. Отец Люциан может сообщить игрокам, что лепестки относятся к растению чеснок дикорастущий, которое растёт в нескольких участках кладбища при церкви
+
+Волосы принадлежат Миливою
+
+## D1d. Допрос Йески
+
+Если игроки решают опросить Йеску, [[Неигровые персонажи#Отец Люциан Петрович|отец Люциан]] просит их не давить на него слишком сильно в поисках информации. Мальчик всё ещё эмоционально уязвим после смерти родителей 3 месяца назад, и отец Люциан не желает вредить его психическому благополучию из-за одного лишь подозрения опасности. (Йеска не знает, что кости были украдены; отец Люциан тщательно следил за тем, чтобы держать его подальше от отверстия за алтарём)
+
+Если один из игроков спрашивает Йеску, рассказывал ли он кому-нибудь ещё о костях, тот правдиво отрицает это. Однако если игроки спрашивают, мог ли кто-нибудь подслушать его разговор с отцом Люцианом, Йеска делится тем, что в то время в церкви также находился Миливой. (Йеска, хотя и встревожен направлением разговора, также может быть убеждён рассказать, что именно рассказы Миливоя о том, что Страд может напасть на церковь, побудили его изначально расспросить отца Люциана о защите церкви)
 
 ![[Yeska.png]]
-<span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-# D2. Milivoj’s House
-Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
 
-<div class="description">
-<p>The muddy road that leads into the town’s northwest quarter is rough and uneven, chilled by a persistent fog that seems to cling to the soaked earth beneath your feet. As you move further from the town’s center, the streets narrow and the houses grow grimier and more dilapidated, the smell of damp wood and mildew filling your nostrils.</p>
-<p>Your path leads you to a leaning, decrepit structure that seems to sag beneath its own weight. Its timbers are rotting, the windows cracked and filthy. At its front, a ramshackle wooden door stands slightly askew in its frame atop a small, mud-spattered porch.</p>
-</div>
+# D2. Дом Миливоя
 
-If the players knock on the door, it’s answered a few moments thereafter by Jarzinka, Milivoj’s mother. Read:
+Дом Миливоя находится в бедном северо-западном квартале Валлаки, в нескольких минутах ходьбы от церкви Святого Андрала
 
-<div class="description">
-<p>The door groans open, revealing a gaunt, glassy-eyed woman standing on the other side. Her hair is matted with grease and hangs in knots across her shoulders, and a painted beaded necklace hangs around her neck, its colors faded and chipped with age.</p>
-<p>Behind her, a trio of young children wrestle and shout as they roll across a cramped living space stuffed with old, threadbare furniture and an old, stained rug. Two other children—a near-adolescent boy with long, shaggy hair, and a freckled girl of similar age wearing cracked, oversized glasses—peer curiously around a pair of overstuffed, patchwork armchairs at the sight of you.</p>
-<p>The woman at the door grunts, her hollow gaze scanning you expectantly.</p>
-</div>
-
-The children in the armchairs are a twelve-year-old boy named Bogan and a ten-year-old girl named Zondra. The three children wrestling on the ground are named Lazlo (eight years old), Grilsha (seven years old), and Dargos (five years old).
-
-Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
-
-* Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
-
-A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
-
-> [!profile]+ **Profile: Milivoj**
+>[!read]
+> Грязная дорога, ведущая в северо-западный квартал города, неровная и ухабистая, охлаждённая настойчивым туманом, который словно цепляется за пропитанную влагой землю под ногами. По мере того как вы удаляетесь от центра города, улицы сужаются, а дома становятся всё более закопчёнными и обветшалыми, наполняя ноздри запахом сырого дерева и плесени
 >
-> **Roleplaying Information**
-> ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
+> Ваш путь приводит вас к покосившемуся, ветхому строению, которое, кажется, проседает под собственной тяжестью. Его балки гниют, окна треснутые и грязные. Спереди перекошенная деревянная дверь стоит слегка наискось в своей раме, выходя на маленькое, забрызганное грязью крыльцо
+
+Если игроки стучат в дверь, спустя несколько мгновений им открывает Ярзинка, мать Миливоя. Прочтите:
+
+>[!read]
+> Дверь со стоном распахивается, открывая истощённую женщину со стеклянным взглядом, стоящую по ту сторону. Её волосы слиплись от жира и свисают узлами на плечи, а на шее висит раскрашенное ожерелье из бусин, цвета которого выцвели и облупились от времени
 >
-> ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
+> За ней трое маленьких детей борются и кричат, катаясь по тесному жилому помещению, забитому старой, изношенной мебелью и старым, испачканным ковром. Двое других детей — почти подросток с длинными, лохматыми волосами и веснушчатая девочка того же возраста в треснувших, слишком больших очках — с любопытством выглядывают из-за пары перетянутых, лоскутных кресел при виде вас
 >
-> ***Motivations.*** Milivoj wants to provide for himself and his siblings.
->
-> ***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
->
-> **Character Information**
-> ***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
->
-> ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
->
-> ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
-## D2a. Confronting Milivoj
-Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
+> Женщина у двери издаёт ворчливый звук, её пустой взгляд оценивающе скользит по вам
 
-As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
+Дети в креслах — 12-летний мальчик по имени Боган и 10-летняя девочка по имени Зондра. Трое детей, борющихся на полу, зовут Лазло (8 лет), Грилша (7 лет) и Даргос (5 лет)
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+Ярзинка — немногословная женщина, и её раздражает то, что она только что доела последние свои сонные пирожные. Если игроки просят поговорить с Миливоем, она оборачивается к Богану и Зондре, а затем ворчит на них. Разговор затем продолжается следующим образом:
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
+- Боган радостно сообщает игрокам, что Миливой болен и сегодня не хочет ни с кем разговаривать
+- Если игроки преуспевают в **проверке Убеждения Сл 10** или настаивают, что дело срочное, Зондра оборачивается и кричит: ***«Мило! Кто-то хочет с тобой поговорить»***
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+Спустя несколько мгновений 19-летний [[Неигровые персонажи#Миливой|Миливой]] выходит через разбухшую деревянную дверь в задней части комнаты, а его 3-летний брат Джирко с восторгом хихикает, сидя на плечах Миливоя, а 4-летние сёстры-близнецы Виктория и Ваша держатся за его бицепсы
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
-
-If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
-
-> [!abstract]+ **Milivoj’s Revelation**
->
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
-## D2b. Departing the House
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
-
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
-
-> [!abstract]+ **Reporting the Theft**
->
-> If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
->
-> One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
-
-# D3. Arasek Stockyard
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
-
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
-
-If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
-
-If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
-
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Арка E - Пропавшая Вистана]].)
-# D4. Coffin Maker's Shop
-<span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
-
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
-
-> [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
-
-Henrik van der Voort, the coffin maker, follows the following schedule:
-
-* In the morning, he sleeps in, remaining in bed in **N6e. Henrik's Bedroom**.
-* In the late morning, he anxiously checks that the wardrobe containing St. Andral's bones hasn't been disturbed, and then prepares breakfast in **N6d. Kitchen**.
-* In the afternoon, he builds coffins in **N6c. Workshop**.
-* In the evening, he prepares an evening meal in **N6d. Kitchen**.
-* At night, he sleeps in **N6e. Henrik's Bedroom.**
-## D4a. Entering the Shop
-The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
-
-Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
-
-* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
-* They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting Henrik, who remains in his current location.
-
-In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
-
-Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
-
-> [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
-## D4b. Recovering the Bones
-The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
-
-* a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
-
-The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
-
-> [!warning]+ **Which Needle?**
-> There are two official poison needle traps in *Dungeons & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *Xanathar's Guide to Everything*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
-
-The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
-
-Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
-
-> [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
-
-> [!abstract]+ **Disabling the Noisemaker**
-> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
-## D4c. Volenta's Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
-![[Volenta Popofsky.png]]
-<span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!profile]+ **Profile: Volenta Popofsky**
->
-> **Roleplaying Information**
-> ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
->
-> ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
->
-> ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
->
-> ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
->
-> **Character Information**
->
-> ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
->
-> ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
->
-> ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
-
-Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
-
-* Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
-* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to Escher.)
-* She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
-* She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
-
-> [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!profile]+ **Профиль: Миливой**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Миливой должен вызывать презрение своим грубым, циничным и упрямым характером, сочувствие к его раздражению из-за зависимости родителей от сонных пирожных и умиление его полной самоотдачей в заботе о своих братьях и сёстрах, несмотря на любую цену для себя
 > 
-> * ***Three Players.*** Remove the vampire spawn.
-> * ***Four Players.*** Decrease the number of vampire spawn to one. 
-> * ***Six Players.*** Increase the number of vampire spawn to three.
-
-> [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
-
-> [!warning]+ **Vampires Aren't Humanoid**
-> Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
-
-<div class="statblock">
-<h2>Volenta, First Form</h2>
-<em>Medium undead, chaotic evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
-</div>
-<br>
-<div class="statblock">
-<h2>Volenta, Second Form</h2>
-<em>Medium undead, chaotic evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
-<br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
-<hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
-</div>
-
-### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
-
-When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
-
-Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* reaction to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
-
-When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
-### 2. Father Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
-
-* ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
-
-In combat, Father Lucian directs the players to form a defensive line around the door, hoping to funnel the vampires one-by-one into a choke point in order to dispatch them individually. Father Lucian himself attempts to end his turns behind full cover on each round of combat, ducking out only briefly to target vampires with his offensive spells.
-
-On his first turn, Father Lucian uses his action to cast *spirit guardians*, filling the air with a galaxy of swirling, fiery suns that burn with fierce golden light. He stands as near to the front lines as possible while remaining behind full cover, seeking to ensure that any attacking vampire spawn will inevitably be drawn into range of his spell.
-
-On his second turn, Father Lucian casts *spiritual weapon*, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle. He then casts *sacred flame*, targeting any vampire that is currently attacking the players.
-
-On his third and subsequent turns, Father Lucian uses his action to cast *guiding bolt* and his bonus action to attack with *spiritual weapon* once again.
-
-If any of the players are reduced to 0 hit points, Father Lucian spends his action casting *cure wounds* on them. If his concentration is ever disrupted, he spends his action to renew *spirit guardians* instead.
-
-> [!info]+ **Dying NPCs**
+> _**Эмоции.**_ Наиболее частые эмоции Миливоя — раздражение, беспокойство, разочарование, скука, горечь и цинизм, а (в присутствии братьев и сёстр) — сострадание, веселье и радость
 >
-> Because Volenta and her **vampire spawn** prefer to target the players instead of Father Lucian, it's unlikely that Father Lucian will be reduced to 0 hit points in this battle.
+> _**Мотивации.**_ Миливой хочет обеспечить себя и своих братьев и сёстр
 >
-> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
-### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
-# D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
+> _**Вдохновения.**_ При игре за Миливоя ориентируйтесь на Китнисс Эвердин (_Голодные игры_), Арью Старк (_Игра престолов_) и Карла Фредриксена (_Вверх_)
+>
+> **Информация о персонаже**
+> _**Персона.**_ Для посторонних Миливой — тихий, грубый и трудолюбивый смотритель. Для тех, кому он доверяет, Миливой — любящий и преданный старший брат, разочарованный и горький сын, а также отчаянный и растерянный молодой человек
+> 
+> _**Мораль.**_ В бою Миливой будет размахивать лопатой, пытаясь заставить нападающего отступить, но быстро сдастся, если будет серьёзно ранен. (Если же он защищает своих братьев и сёстр, Миливой будет яростно и с радостью сражаться до смерти)
+>
+> _**Отношения.**_ Миливой работает на отца Люциана Петровича, тайно помогает гробовщику Хенрику ван дер Вурту и является старшим из 9 детей Олега и Ярзинки, двух жителей Валлаки, зависимых от сонных пирожных
 
-**_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
-# D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Арка F - Желание леди Вахтер]] or following [[Арка G - Брат и сестра Стражни]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
-## D6a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
+## D2a. Разговор с Миливоем
 
-Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
-## D6b. The Trial
-When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
+Заметив игроков, лицо Миливоя заметно омрачается, и он осторожно спускает Викторию и Вашу с рук и садит Джирко на колени Богана. При успешной **проверке Проницательности Сл 10** становится ясно, что его язык тела напряжён и он испытывает явный дискомфорт
 
-On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#D2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
+Когда Миливой подходит к двери, он коротко обращается к Ярзинке: ***«Мама»*** и нехотя кивает ей. Ярзинка ворчит и уходит от двери, скрываясь в комнате, из которой вышел Миливой
 
-Father Lucian and Milivoj's siblings are grateful to see the players upon their arrival. Father Lucian asks the players to help "stop this madness," noting quietly that Milivoj may have made mistakes, but hardly ones deserving of death.
+Если игроки сообщают Миливою, что хотят поговорить с ним о костях Святого Андрала, он хмурится, настаивает, что ничего не знает по этому поводу, и пытается закрыть дверь. Игрок может помешать ему сделать это при **успешной проверке Силы** или **Ловкости Сл 10**. Если Миливой успешно закроет дверь, игроки могут заставить его открыть её снова, создавая достаточно неприятностей, при успешной **проверке Запугивания** или **Убеждения Сл 10** или взломав дверь при успешной **проверке Силы Сл 10**
 
-If confronted, Rahadin can coldly share that Milivoj and Henrik have been found guilty of crimes against Vallaki and its people.
+Миливой отрицает любое знание о костях или их краже, если его спрашивают прямо об этом. Однако он утверждает, что 2 дня назад видел в переулке фигуру в плаще, наблюдавшую за церковью. (Описание фигуры в плаще случайно совпадает с внешностью Эрнста Ларнака, шпиона Фионы, хотя Миливой не знает Эрнста и не знает о характере его работы.) При успешной **проверке Проницательности Сл 10** становится ясно, что он говорит немного слишком быстро
 
-If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as Lady Fiona Wachter arrives, flanked by four **guards** and two **cultists**. Lady Wachter then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
+Если игроки обвиняют Миливоя в краже костей и преуспевают в **проверке Запугивания Сл 15**, Миливой признаётся в краже
 
-Rahadin then reads aloud the following proclamation:
+>[!read]
+> Миливой признает, что Йеска рассказал ему о костях. Он также признается, что выкрал кости для Хендрика ван дер Вурта, местного гробовщика, в обмен на деньги, чтобы помочь своим младшим братьям и сёстрам
 
-<div class="description">
-<p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
-<p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
-<p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
-</div>
+Игроки, которые предъявляют Миливою доказательства из склепа, автоматически добиваются успеха. Миливой сам не может проводить игроков в мастерскую гробовщика, но отмечает, что отец Люциан может провести их туда
 
-The proclamation is signed and sealed by Strahd.
+Если его спрашивают о мотиве кражи костей, Миливой делится причинами. Он также может сообщить, что после того как его отец — бывший страж Валлаки — был ранен в недавней атаке волков, оба его родителя начали регулярно покупать сонные пирожные у торговки Морганты за городскими воротами. С учётом того, что оба родителя зависимы от товаров Морганты, Миливой видит себя единственным средством своих братьев и сёстр избежать полной нищеты. (Если спросить, Миливой может дать базовое описание эффектов сонных пирожных)
 
-As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions. (Lady Wachter will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
+>[!read]
+> Пока существо находится в трансе, оно видит сны о некоем наполненном радостью месте, далёком от зла этого мира. Места и существа во сне живые и ощущаются вполне реальными, а когда сон завершается, испытавшее его существо желает возвратиться туда вновь.
 
-Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
+Если Миливоя информируют о том, что кости могли быть украдены, чтобы устроить нападение на церковь, он отмахивается от этой идеи, настаивая, что кости — всего лишь **«заплесневелая старинная реликвия»** и что **«у него нет времени верить в сказки»**. Он также может сообщить, что Хенрик сказал ему, что кости — бессильная семейная реликвия, и что Хенрик пытался вернуть их, чтобы почтить память своего предка
 
-* **Henrik:** Henrik committed his crimes subject to coercion and duress by Volenta, an ostensible agent of Strahd himself. Henrik is also unlikely to commit his crime again, has no criminal history, and committed no violent act against any person. Additionally, Henrik cooperated with the players when confronted at the coffin-maker's shop.
-* **Milivoj:** Milivoj's actions were driven by the necessity of his family's poverty, rather than by malice. He was also ignorant of the implications of stealing the bones, and was manipulated by Henrik into doing so. Like Henrik, he has no criminal history and committed no violent act against any person.
+> [!abstract]+ **Откровение Миливоя**
+> Если ему позже сообщают, что действия Хенрика были направлены одним из прислужников-вампиров Страда, и что кража костей могла позволить устроить резню в церкви, [[Неигровые персонажи#Миливой|Миливоя]] охватывают тревога, ужас и вина. Он падает ниц перед отцом Люцианом и просит прощения, предлагая сослаться в Сваличские леса, если это сможет компенсировать причинённый им вред. (Отец Люциан, разумеется, отказывается, прослезившись, обнимает и прощает Миливоя)
 
-The players can also argue that either character has shown sincere remorse for their actions.
+## D2b. Покидая Дом
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check—to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+Как только Миливой признаётся в краже костей, [[Неигровые персонажи#Отец Люциан Петрович|Отец Люциан]] может провести игроков к мастерской гробовщика. (Он хорошо знает её владельца, Хенрика, и надеется, что сможет образумить его.) Если игроки проявляют скептицизм, отец Люциан — обладающий характеристиками **жреца** — показывает, что носит священный символ Таши Петровны — своей прародительницы и могущественной последовательницы Святой Марковии — и обещает им, что более чем способен защитить себя
 
-The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
+Если игроки предлагают сообщить о краже костей бургомистру, отец Люциан неохотно относится к этой идее, опасаясь возможной паники. Однако при успешной **проверке Убеждения Сл 15** игроки могут убедить отца Люциана присоединиться к ним и сообщить о краже барону Валлаковичу, который отправляет **4 стражников** арестовать Хенрика и вернуть кости. (Если отца Люциана нет с ними, бургомистр отказывается верить, что кости отвечают за божественную защиту церкви, и не помогает игрокам в их возвращении)
 
-* DC 5: Rahadin agrees to a heavy sentence.
-* DC 10: Rahadin agrees to a moderate sentence.
-* DC 15: Rahadin agrees to a light sentence.
-* DC 20: Rahadin agrees to free Henrik without punishment.
+> [!abstract]+ **Сообщение о Краже**
+> Если игроки сообщают о краже барону Валлаковичу и не сопровождают его стражников, 4 стражников получают доступ к мастерской гробовщика, как описано в N6. Мастерская гробовщика, но оказываются перебиты, когда случайно приводят в действие ловушку Воленты и выдают своё присутствие вампирам
+>
+> Спустя 1 день барон Валлакович отправляет Изекa вызвать игроков в N3. Особняк бургомистра, где он обвиняет их в исчезновении своих верных стражников и угрожает изгнать их из Валлаки. (Игроки могут вернуть его расположение, пообещав самостоятельно вернуть кости)
 
-The difficulty of convincing Rahadin to decrease Milivoj's sentence is as follows:
+# D3. Оптовый склад Арасек
 
-* DC 5: Rahadin agrees to an extreme sentence.
-* DC 10: Rahadin agrees to a severe sentence.
-* DC 15: Rahadin agrees to a heavy sentence.
-* DC 20: Rahadin agrees to a moderate sentence.
+Эта сцена происходит в главе 5: область N5
 
-Once the players have convinced Rahadin to decrease a prisoner's sentence, he then invites the players to suggest a suitable sentence. If the sentence they suggest is too light, he informs them and counters with an alternative suggestion of his own.
+>[!read]
+> Этот большой склад разделён на несколько запертых отделов, вдоль фронтона, и находится рядом с объёмистым складским помещением. Деревянный знак на передних воротах гласит «Оптовый склад Арасек»
+>
+> У южного конца склада припаркован крепкий карнавальный фургон. Хотя он в основном покрыт старой и выцветшей краской, вывеска «Карнавал Чудес Риктавио» на его боку совершенно новая и свежевыкрашенная. Тяжёлый навесной замок запирает заднюю дверь
 
-Suitable punishments for each sentence include:
+Если один из игроков выражает желание взломать фургон, [[Неигровые персонажи#Отец Люциан Петрович|Отец Люциан]] отговаривает их от этого, если он присутствует
 
-* **Extreme.** Life imprisonment in Castle Ravenloft. (Rahadin takes the prisoner to the castle dungeons.)
-* **Severe.** Mutilation. (Rahadin removes the prisoner's dominant hand.)
-* **Heavy.** Branding. (Rahadin commands a guard to retrieve and light a torch, which he uses to heat an iron signet ring that bears the image of Castle Ravenloft—the symbol of his office. He then uses the hot ring to brand the prisoner on the neck.)
-* **Moderate.** Flogging. (Rahadin commands a guard to fetch a whip, then delivers the agreed-upon number of lashes himself.)
-* **Light.** A fine. (Rahadin directs the prisoner to pay a fine of the agreed-upon sum, to be paid to the town coffers. If the prisoner cannot afford to pay it, Rahadin also sentences him to forced labor in the town's service until he has paid off his debt.)
+Если игрок всё же пытается отпереть или взломать дверь фургона, весь фургон внезапно начинает яростно раскачиваться из стороны в сторону. Игроки также слышат звук чего-то с большими тяжёлыми когтями, скребущими по внутренней части фургона. (Раскачивание и царапанье создаёт призрак Эрасмуса ван Рихтена, **полтергейст**, стремящийся защитить Арабель, отпугивая посетителей)
 
-Rahadin does not deliver any sentence until all have been agreed upon. If the players prove intransigent or appear to be stalling, Rahadin warns them that his patience is not infinite, and that he will choose and proceed with a suitable sentence unless the players can provide new evidence—not new arguments—mitigating the severity of the prisoners' crimes. "If any person interferes," he warns, "I will not hesitate to incapacitate them. I answer to none but the master of Castle Ravenloft, and you will not obstruct the exactment of justice this night."
+Если игроки успешно ломают дверь фургона или вскрывают его навесной замок, они обнаруживают, что внутри находится мягкая подстилка из соломы, тёплое шерстяное одеяло, несколько книг и юная девочка-вистани — Арабель, — которая прижимает к груди плюшевого саблезубого тигра и носит ожерелье из бусин с вырезанным медным амулетом. (Дополнительную информацию об Арабель см. в [[Арка E - Пропавшая Вистана]])
 
-If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
+# D4. Магазин Гробовщика
 
-If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
+_Эта сцена происходит в главе 5: область N6_
 
-If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+![[image-6.png]]
 
-If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+>[!Описание магазина]-
+> Этот неприветливый магазин представляет собой двухэтажное здание с вывеской в виде гроба над входной дверью. Все ставни на окнах плотно закрыты и гробовая тишина окружает это заведение
+>
+> **А. Склад гробов**
+> В этой Г-образной, затхлой комнате хаотично расположены тринадцать деревянных гробов
+>
+> **B. Комната с хламом**
+> Стол с четырьмя стульями стоит в углу этой комнаты, с фонарём, висящим на цепи прямо над ним. Два добротных шкафа стоят у восточной стены
+>
+> **C. Мастерская**
+> В этой мастерской находятся все необходимые инструменты и верстаки, которые могут понадобиться при изготовлении гробов. Три крепких верстака располагаются вдоль западной стены
+>
+> **D. Кухня**
+> На этой кухне находится квадратный стол, окружённый стульями и полками с провизией
+>
+> **E. Спальня**
+> В этой скромной спальне находится койка и несколько добротно сделанных предметов мебели, среди которых стол, мягкий стул, книжная полка и гардероб
+>
+> **F. Гнездо вампиров**
+> Эта большая, длинная комната, затянутая в паутину и занимает большую часть верхнего этажа. Штабеля досок лежат рядом с 3 гробами, наполненными землёй с кладбища замка Рэйвенлофт, в которых находятся **порождение вампира** и **Волента Попофски**, одна из вампирских невест Страда. Кроме того, игроки, исследующие N6f. Гнездо вампиров, находят выцветшую зелёноватую пентаграмму диаметром 5 футов, выжженную на полу у края комнаты, прямо за гробами вампиров
 
-Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
+> [!lore]+ **Выжженная пентаграмма**
+> Зелёная пентаграмма — остаток использования Волентой телепортационной жаровни в K78. Комната с жаровней (с. 81). Если его спросить, Хенрик не знает, что она означает. Однако он может сообщить игрокам, что однажды ночью, вскоре после его первой встречи с Волентой, в мастерской вспыхнул болезненно-зелёный свет, и вскоре после этого из N6f. Гнезда вампиров вышли двое её спутников — **порождения вампира**
 
-<div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
-<hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
-</div>
-<br>
+Хенрик ван дер Воорт, гробовщик, придерживается следующего распорядка:
 
-<div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
-<hr>
-<strong>Armor Class</strong> 18 (studded leather)
-<br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
-<br>
-<strong>Speed</strong> 35 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-</div>
+- Утром он отсыпается, оставаясь в постели в **N6e. Спальня Хенрика**
+- Поздним утром он тревожно проверяет, не был ли потревожен шкаф, в котором хранятся кости святого Андрала, а затем готовит завтрак в **N6d. Кухня**
+- Днём он изготавливает гробы в **N6c. Мастерская**
+- Вечером он готовит ужин в **N6d. Кухня**
+- Ночью он спит в **N6e. Спальня Хенрика**
 
-# Design Notes: St. Andral's Feast
-***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
+## D4a. Входя в магазин
 
-Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for Ireena to stay while the arc unfolds.
+Игроки не могут получить доступ в мастерскую с помощью **убеждения**, **обмана** или **запугивания**; в каждом случае Хенрик реагирует так, как описано в **N6. Мастерская гробовщика**
 
-The date of the bones' theft has been moved to the night of the players' arrival in Vallaki to ensure that the scene of the crime is sufficiently undisturbed for the players to do substantive detective work while investigating. An assortment of clues has been added to clearly point the finger at Milivoj.
+>[!read]
+> Каждое окно магазина Хенрика представляет собой железные решётки c матовыми квадратиками стёкол, запертые изнутри. Внешние двери магазина заперты на засов изнутри. Если персонажи постучатся в одну из них, Хенрик прокричит, ***«Мы закрыты! Уходите!»*** не открывая дверь. Если персонажи обвинят Хенрика в краже костей Св.Андрала, он вновь кричит, ***«Уходите! Оставьте меня в покое!»***
 
-Milivoj himself has been relocated to his family home—both to show (not tell) his motivation for stealing the bones, to provide dramatic distance between the players' investigation and their confrontation with its prime witness, and to accentuate the appearance of Milivoj's guilty conscience.
+Игроки не могут открыть окно или дверь с помощью [[Инструменты#Воровские инструменты|воровских инструментов]]. Вместо этого игроки могут попасть в мастерскую одним из следующих способов:
 
-***Return to the Church.*** Father Lucian asks to accompany the players to the coffin maker's shop in order to ensure that the party has the benefits of his *spirit guardians* spell during the fight with Volenta's **vampire spawn** (i.e., to counteract their regeneration).
+- Они могут выбить одну или обе запертые на засов двери при успешной **проверке Атлетики Сл 20**. Это привлекает внимание Хенрика, который выходит к ним. (Это не привлекает внимания Воленты или **порождения вампира**, которые лишь предполагают, что Хенрик уронил гроб или другой деревянный предмет)
+- Они могут использовать магию (например, [[Волшебная рука]] или [[Туманный шаг]]), чтобы открыть окна или двери изнутри. Это позволяет не привлекать внимание Хенрика, который остаётся на своём месте
 
-***Arasek Stockyard.*** Erasmus' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
+В любом случае Хенрик не оказывает сопротивления, как только видит, что игроки вошли в мастерскую. Вместо этого он правильно догадывается, что они пришли вернуть кости, и сообщает им о местонахождении костей (в спальне E) и опасности гнезда вампиров (F). В обмен он умоляет их защитить его от вампиров, которых он справедливо боится, так как они могут убить его за предательство. Он не пойдёт за костями один, но, если потребуют, сопроводит игроков наверх
 
-The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Арка E - Пропавшая Вистана]]) is not all that he seems.
+Хенрик не знает, что Волента тайно установила в секретном отсеке шкафа, где хранятся кости, ловушку с ядовитой иглой и колокольчик-проволоку. Он предполагает, что игроки смогут спокойно вернуть кости, покинуть мастерскую и сопроводить его в безопасное место
 
-***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
+> [!abstract]+ **Засада на вампиров**
+> Игроки, которые пытаются устроить засаду на вампиров в N6f. Гнездо вампиров до возвращения костей, должны преуспеть в **проверке Скрытности Сл 14**, чтобы подойти к ящику, не разбудив находящихся рядом вампиров, и в проверке **Скрытности Сл 14 с помехой**, чтобы открыть его. Разбуженный вампир атакует нарушителей сразу же при обнаружении
 
-Volenta has been placed as the mastermind of this scheme in order to provide the players with a low-level boss that they can reasonably defeat—but who will recur as an antagonist throughout the adventure.
+## D4b. Возвращение Костей
 
-Volenta's statblock has been designed to provide the players with a dynamic, tactical experience while ensuring that she is not the first of her minions to die. 
+>[!Сокровищница]
+> В основании гардероба в юго-восточном углу находится потайное отделение, которое можно обнаружить при успешной **проверке Восприятия Сл 15**. Внутри находятся 2 мешка – в большем находятся **кости Св.Андрала**, а в меньшем – **30 см** и **12 эм**. На всех монетах отчеканен профиль Страда вон Заровича
 
-Meanwhile, Father Lucian's ***divine eminence*** feature has been modified to allow the players to reap its benefits and ensure that the encounter is not too deadly, as well as to ensure that martial characters without access to magical weapons can deal substantive damage despite the vampires' resistances to nonmagical weapon damage.
+Однако Волента Попофски добавила к тайнику 2 дополнительных средства защиты:
+
+- [[ДМовские заметки#Отравленная игла|отравленную иглу]], которая срабатывает, если перед открытием тайника не нажать на определённую деревянную панель
+- скрытая леска, прикреплённая к крышке тайника, которая соединена с источником шума у основания тайника, выполненным приблизительно в виде головы игрушечника Гадоффа Блински, включая его шапку-шута и колокольчики. Леска может быть обнаружена **проверкой Расследования Сл 20** и обезврежена [[Инструменты#Воровские инструменты|воровскими инструментами]] **проверкой Ловкости рук Сл 20**
+
+Открытие тайника без обезвреживания проволоки или неудачная попытка обезвредить её вызывает громкий крик кричалки: ***«Нет веселья без Блинского!»*** повторяющийся в течение **1 минуты**, привлекая внимание вампиров в **N6f. Гнезде вампиров**
+
+> [!lore]+ **Кричалка**
+> Волента купила кричалку у Гадоффа Блинского из **Игрушек Блинского**, подробнее описанного в N7. Игрушки Блинского, несколько ночей назад. Хотя её соблазняло убить его или отобрать игрушку силой, склонность Блинского к мрачному заставила Воленту рассматривать его как родственную душу, и она по прихоти решила пощадить его жизнь
+
+> [!abstract]+ **Отключение кричалки**
+> Если игроки успешно возвращают кости, не привлекая внимания вампиров, Волента обнаруживает их пропажу вскоре после того, как просыпается на закате той ночью. Если Хенрик всё ещё находится в мастерской, она потрошит и обезглавливает его, затем оставляет его голову на копье, прислонённом к статуе в центре **N8. Рыночная площадь**. В любом случае Волента затем покидает Валлаки и направляется в замок Рэйвенлофт, тихо возвращаясь в крепость с чувством стыда
+
+## D4c. Ловушка Воленты
+
+Если игроки позволяют источнику шума сработать, [[Неигровые персонажи#Волента Попофски|Волента]] и её двое верных **порождений вампира** появляются через один раунд, чтобы противостоять им, либо пробиваясь в **N6d. Кухня**, либо (если игроки уже вышли из **N6e. Спальня Хенрика**) преграждая им путь вниз по лестнице. Когда вампиры появляются, они используют своё _**паучье лазание**_, чтобы взобраться по стенам перед тем, как спрыгнуть на уровень игроков, а Волента при этом сидит вниз головой на потолке за ними
+
+![[Volenta Popofsky.png]] 
+
+> [!profile]+ **Профиль: Волента Попофски**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Волента должна вызывать отвращение своей одержимостью болью и кровавыми зрелищами, дискомфорт своим садистским и психопатическим характером и странного рода польщение своим кокетливым — пусть и эксцентричным — поведением
+> 
+> _**Эмоции.**_ Чаще всего Волента испытывает веселье, любопытство, раздражение, скуку, очарование, ярость и злорадную радость
+> 
+> _**Мотивации.**_ Волента стремится впечатлить Страда и занять место первой среди его невест, удовлетворять свои частые садистские порывы и находить новые способы причинять страдания и боль с помощью изобретательства и экспериментов
+> 
+> _**Вдохновения.**_ При игре за Воленту ориентируйтесь на Джинкс (_Arcane_), Тай Ли (_Аватар: Легенда об Аанге_) и Харли Квинн (_Бэтмен_)
+> 
+> **Информация о персонаже**
+> _**Персона.**_ Для незнакомцев Волента — маниакальная, импульсивная и склонная к насилию садистка с тягой к изобретательству и новаторству
+> 
+> _**Мораль.**_ В бою Волента с восторгом воспользуется возможностью испытать своё оружие собственного изготовления на враждебных целях — а если её довести, разорвёт эти цели на части голыми руками и зубами
+> 
+> _**Отношения.**_ Волента фанатично предана Страду фон Заровичу и относится к его другим невестам и фаворитам — особенно к Анастрасии, Людмиле и Эшеру — с глубокой неприязнью, ревностью и подозрением
+
+Волента использует 1 находящееся с ней **порождение вампира** как прикрытие, располагая их между собой и игроками. Затем она приветствует их следующим образом, предоставляя им возможность ответить каждый раз:
+
+- Волента с насмешкой и недоверием называет игроков ***«новыми игрушками своего Господина»***
+- Она заявляет, что они ***«менее впечатляющие»***, чем она ожидала, и хвастается, что ни они, ни ***«Людмила, Анастрасия или новая тощая игрушка её Господина не могут сравниться с её замыслом»***. («Новая тощая игрушка» — это Эшер)
+- Она настаивает, что игроки не смогут помешать её замыслу, даже если попытаются. ***«Как только я залью кровью скамьи вашей маленькой церкви»***, — бредит она, — ***«мой возлюбленный увидит настоящую жемчужину своих земель — меня!»***
+- Она замечает, что им повезло оказаться в магазине гробов, добавляя: ***«В конце концов, им понадобится место, чтобы положить ваши части, когда я с вами покончу»***. Затем она приказывает другим вампирам атаковать
+
+> [!combat]- **Битва - Первая Невеста**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 4 **Allies:** Father Lucian (CR 3)
+> **Expected HP Consumption:** 24% (first phase), and 24% (second phase) for a total of 48%
+
+> [!warning]+ **Порождения вампира и захват**
+> Чтобы порождения вампира не застревали на месте из-за способностей игроков, замедляющих движение, все порождения вампира в Баровии обладают следующей способностью: **Быстрый захват**. Порождению вампира не нужно тратить дополнительное движение, чтобы перемещать существо, захваченное им, если захваченное существо того же размера или меньше
+
+> [!warning]+ **Солнечный свет в Баровии**
+> Помните, что вампиры и другие существа в Баровии не подвержены влиянию баровийского солнечного света
+
+> [!warning]+ **Вампиры не Гуманиоды**
+> Помните, что **порождения вампира**, включая Воленту, имеют тип **нежить**, а не **гуманоид**. Соответственно, заклинания и эффекты, действующие только на гуманоидов, такие как *Удержание личности*, или не способные воздействовать на нежить, такие как *Приказ*, не имеют никакого эффекта на Воленту и сопровождающих её вампиров
+
+### Волента, Первая Форма
+
+Средняя нежить, хаотично-злая
+
+---
+
+**КД** 15 (естественная броня)
+**Хиты** 82 (11к8 + 33)
+**Скорость** 30 футов., лазая 30 футов
+
+---
+
+|     |     | мод | спас |     |     | мод | спас |
+| :-: | :-: | :-: | :--: | :-: | :-: | :-: | :--: |
+| Сил | 16  | +3  |  +3  | Инт | 16  | +3  |  +3  |
+| Лов | 18  | +4  |  +7  | Мдр | 14  | +2  |  +5  |
+| Тел | 16  | +3  |  +3  | Хар | 14  | +2  |  +2  |
+
+---
+
+**Навыки** Акробатика +10, Восприятие +5, Скрытность +10
+**Сопротивление урону** некротический; дробящий, колющий и рубящий от немагических атак
+**Чувства** тёмное зрение 60 футов, пассивное Восприятие 15
+**Языки** Общий
+**ПО** 5
+**БМ** +3
+
+---
+
+**_Боец в узком пространстве._** Волента **не получает помеху** к **дальнобойным атакам**, находясь в пределах **5 футов** от враждебного существа
+
+**Регенерация**. Волента **восстанавливает 10 хитов в начале своего хода**, если у неё есть хотя бы **1 хит** и она не находится под солнечным светом или в проточной воде. Если Волента получает **урон излучением** или **урон святой водой**, эта способность не действует в начале её следующего хода
+
+**_Паучье лазание._** Волента может карабкаться по труднопроходимым поверхностям, включая потолки вниз головой, без необходимости совершать проверку навыков
+
+**_Чувствительность к солнечному свету._** Находясь под солнечным светом, Волента получает **20 урона излучением** в начале своего хода и имеет **помеху к броскам атаки** и **проверкам способностей**
+
+**_Быстрый захват._** Волента не тратит дополнительное движение, чтобы перемещать существо, захваченное ею, если захваченное существо того же размера или меньше
+
+**_Ловкий побег._** Волента может использовать **действие Отступления** или **Засада бонусным действием** в каждом своём ходу
+
+**_Пробуждённая кровожадность._** Когда Волента падает до **0 хитов**, её ноздри расширяются, как у летучей мыши, когти удлиняются, а глаза начинают тускло светиться красным. Её характеристики мгновенно заменяются характеристиками второй формы. Порядок инициативы не меняется. Избыточный урон не переносится на новую форму, но она сохраняет все состояния, имевшиеся у неё в предыдущей форме
+
+#### Действия
+
+**_Мультиатака._** Волента использует **_Ливень кинжалов_** дважды, **_Кинжал_** дважды или **_Ливень кинжалов_** один раз и одну из атак **_Скользкий клубок_** или **_Громокамень_**
+
+**_Ливень кинжалов._** _Атака дальнобойным оружием:_ **+7** к атаке, дальность **15 футов**, одна цель. _Попадание:_ 9 (2к4 + 4) колющего урона
+
+**_Кинжал._** _Атака рукопашным оружием:_ **+7** к атаке, **5 футов**, одна цель. _Попадание:_ 6 (1к4 + 4) колющего урона
+
+**_Скользкий клубок (1/день)._** Волента бросает мешок с извивающейся липкой чёрной смолой в точку на земле в пределах **30 футов**. Мешок разрывается при столкновении, покрывая липкой смолой до **2 существ** в пределах **5 футов** друг от друга, и заставляет каждую цель совершить **спасбросок Телосложения Сл 14** или стать [[ДМовские заметки#Опутанный|опутанной]]. Цель может **повторять спасбросок** в конце каждого своего хода, прекращая эффект при успехе
+
+**_Громокамень (1/день)._** Волента бросает кристаллический осколок в существо, предмет или поверхность в пределах **30 футов**. Осколок разлетается при столкновении с взрывом контузирующей энергии. Каждое существо в пределах **10 футов** от точки удара должно совершить **спасбросок Телосложения Сл 14** или будет [[ДМовские заметки#Опрокинутый|сбито с ног]] и **оттолкнуто** на **10 футов** от этой точки. Существо, **провалившее спасбросок**, также [[ДМовские заметки#Глухота|глохнет]] **до начала следующего хода Воленты**
+
+**_Огненная бомба алхимика (1/день)._** Волента бросает колбу с концентрированным алхимическим огнём в точку в пределах **30 футов**. Колба разбивается при ударе и взрывается в радиусе **10 футов**. Любое существо в этой области должно совершить **спасбросок Ловкости Сл 14** или получить **2к6 урона огнём** и **загореться**. Существо, **загоревшееся** таким образом, получает **1к4 урона огнём в начале каждого своего хода** и может совершить дополнительный **спасбросок Ловкости Сл 14 в конце каждого своего хода**, чтобы потушить пламя
+
+#### Реакции
+
+**_Дымовая палочка (1/день)._** Когда Волента падает до **0 хитов**, если она не [[ДМовские заметки#Захват|захвачена]], не [[ДМовские заметки#Опутанный|опутана]] или не [[ДМовские заметки#Недееспособность|недееспособна]], она может сломать обугленную чёрную деревянную палочку, выпуская облако густого, непрозрачного дыма, создающее [[ДМовские заметки#Заслонённая область|сильно заслонённую]] область **радиусом 20 футов**. Затем она может передвинуться на скорость своего передвижения, **не провоцируя атак**. Умеренный ветер (не менее 10 миль в час) рассеивает дым за 4 раунда; сильный ветер (20 миль в час или больше) рассеивает его за 1 раунд
+
+### Волента, Вторая Форма
+
+Средняя нежить, хаотично-злая
+
+---
+
+**КД** 15 (естественная броня)  
+**Хиты** 82 (11к8 + 33)  
+**Скорость** 30 футов, лазая 30 футов
+
+---
+
+|     |     | мод | спас |     |     | мод | спас |
+| :-: | :-: | :-: | :--: | :-: | :-: | :-: | :--: |
+| Сил | 16  | +3  |  +3  | Инт | 16  | +3  |  +3  |
+| Лов | 18  | +4  |  +7  | Мдр | 14  | +2  |  +5  |
+| Тел | 16  | +3  |  +3  | Хар | 14  | +2  |  +2  |
+
+---
+
+
+**Навыки** Акробатика +10, Восприятие +5, Скрытность +10
+**Сопротивление урону** некротический; дробящий, колющий и рубящий от немагических атак
+**Чувства** тёмное зрение 60 футов, пассивное Восприятие 15
+**Языки** Общий
+**ПО** 6
+**БМ** +3
+
+---
+
+**Регенерация**. Волента **восстанавливает 10 хитов в начале своего хода**, если у неё есть хотя бы **1 хит** и она не находится под солнечным светом или в проточной воде. Если Волента получает **урон излучением** или **урон святой водой**, эта способность не действует в начале её следующего хода
+
+**_Паучье лазание._** Волента может карабкаться по труднопроходимым поверхностям, включая потолки вниз головой, без необходимости совершать проверку навыков
+
+**_Чувствительность к солнечному свету._** Находясь под солнечным светом, Волента получает **20 урона излучением** в начале своего хода и имеет **помеху к броскам атаки** и **проверкам способностей**
+
+**_Быстрый захват._** Волента не тратит дополнительное движение, чтобы перемещать существо, захваченное ею, если захваченное существо того же размера или меньше
+
+**_Кровавое безумие._** Волента имеет **преимущество** на **броски рукопашной атаки** против любого существа, у которого **не все хиты**
+
+#### Действия
+
+**Мультиатака**. Волента совершает 2 атаки, из которых только 1 может быть **Укусом**
+
+**_Укус._** _Атака рукопашным оружием:_ **+6** к атаке, досягаемость **5 футов**, 1 добровольное существо или существо, [[ДМовские заметки#Захват|захваченное]] Волентой, [[ДМовские заметки#Недееспособность|недееспособное]] или [[ДМовские заметки#Опутанный|опутанное]]. _Попадание:_ 6 (1к6 + 3) колющего урона + 7 (2к6) некротического урона. **Максимум хитов** цели уменьшается на величину полученного **некротического урона**, и Волента **восстанавливает хиты** в равной величине. Цель умирает, если этот эффект уменьшает её **максимум хитов** до **0**. Если цель не была укушена в последние 24 часа, по окончании **продолжительного отдыха** она может бросить **1** из своих **костей хитов** и добавить **модификатор Телосложения**. **Максимум хитов** цели **увеличивается** на величину результата. (Это увеличение не может повысить хиты цели выше её первоначального максимума)
+
+**_Когти._** _Атака рукопашным оружием:_ **+6** к атаке, досягаемость **5 футов**, 1 существо. _Попадание:_ 8 (2к4 + 3) рубящего урона. Вместо нанесения урона Волента может [[ДМовские заметки#Захват|захватить]] цель (Сл освобождения 13)
+
+#### Бонусные действия
+
+**_Прыжок._** Волента передвигается на скорость своего передвижения, **не провоцируя атак**. При этом она может заменить **10 футов** своего передвижения на **прыжок вверх на 10 футов**
+
+**_Вывих._** Волента вывихивает свои суставы, **автоматически освобождаясь** от любых немагических оков, таких как кандалы или существо, удерживающее её в [[ДМовские заметки#Захват|захвате]]
+
+#### Реакции
+
+Волента может совершать до **3 реакций за раунд**, но только 1 за ход. Если Волента должна потерять свои **реакции**, она теряет только **1 реакцию** вместо всех
+
+**_Плевок кровью._** В ответ на **получение урона от рукопашной атаки** Волента плюёт комком крови в глаза атакующего существа, заставляя его совершить **спасбросок Ловкости Сл 15**. При **провале** существо [[ДМовские заметки#Ослепление|ослеплено]] **до конца своего следующего хода**
+
+**_Агрессия._** В ответ на **получение урона от атаки** или **заклинания** Волента передвигается на скорость своего передвижения к видимому враждебному существу, **не провоцируя атак**
+
+**_Скрыться._** В ответ на **освобождение** из [[ДМовские заметки#Захват|захвата]] Волента использует свою способность **_Прыжок_**
+
+### 1. Волента
+
+[[Неигровые персонажи#Волента Попофски|Волента]] начинает бой в своей **первой форме**, предпочитая начать с броска своей _**огненной бомбы алхимика.**_ После этого она чередует использование своей _**мультиатаки**_, чтобы применять _**скользкий клубок**_ и _**громокамень**_
+
+При использовании _**ливня кинжалов**_ Волента предпочитает атаковать игроков, а не Отца Люциана. В бою с ними она радостно дразнит Отца Люциана, говоря: ***«Я собиралась вырвать твоё горло на глазах у твоей милой маленькой паствы, но, думаю, украсить церковные ступени головами и внутренностями твоих друзей — неплохой второй вариант!»***
+
+Волента убегает из боя, если её первая форма снижена до 0 хитов, используя свою реакцию _**дымовая палочка**_ для побега, если это возможно. (**Порождение вампира** не сопровождает её и сражается до смерти)
+
+Когда Волента убегает, она разбивает ближайшее окно и мчится по крышам, как четырёхногая зверюга. В бегстве она рычит: ***«Думаете, ваша драгоценная маленькая церковь может вас защитить? Он сожжёт  Валлаки, чтобы добраться до вас, и убьёт остальных вонючих паразитов, чтобы вывести вас наружу!»*** Затем она насмешливо смотрит на игроков и обещает вскоре снова их увидеть, прежде чем исчезнуть из виду за трубой
+
+### 2. Отец Люциан
+
+[[Неигровые персонажи#Отец Люциан Петрович|Отец Люциан]] сохраняет характеристики **Священника**. Однако его способность _**божественная слава**_ теперь выглядит следующим образом
+
+- _**Божественная слава.**_ Реакцией, когда он видит, что другое существо в пределах **30 футов** получает **попадание рукопашной** или **дальнобойной атакой**, Отец Люциан может потратить ячейку заклинания, чтобы заставить эту атаку наносить дополнительный магический **урон излучением** 10 (3к6) цели при попадании. Если Отец Люциан потратит ячейку заклинания 2-го уровня или выше, дополнительный урон увеличивается на **1к6 за уровень**
+
+В бою Отец Люциан направляет игроков выстроиться в оборонительную линию вокруг двери, надеясь протолкнуть вампиров по одному в узкое место, чтобы уничтожать их по отдельности. Сам Отец Люциан старается завершать свои ходы за полной укрытием на каждом раунде боя, высовываясь лишь кратко, чтобы атаковать вампиров своими боевыми заклинаниями
+
+В свой первый ход Отец Люциан **действием** сотворяет _**духовных стражей**_, наполняя воздух галактикой вращающихся, огненных солнц, пылающих ярким золотым светом. Он стоит как можно ближе к передовой, оставаясь за полной укрытием, стремясь гарантировать, что любое атакующее порождение вампира неизбежно окажется в радиусе действия его заклинания
+
+В свой второй ход Отец Люциан сотворяет _**духовное оружие**_, призывая и атакуя золотой эфирной булавой, навершие которой напоминает солнечный луч — подобие булавы, которой когда-то сражалась его предок Таша Петровна. Затем он сотворяет _**священное пламя**_, выбирая целью любого вампира, который в данный момент атакует игроков
+
+В свой третий и последующие ходы Отец Люциан **действием** сотворяет _**направляющий снаряд**_, и **бонусным действием** снова атакует с помощью _**духовного оружия**_
+
+Если кто-либо из игроков снижен до **0 хитов**, Отец Люциан **действием** сотворяет на нём _**лечение ран**_. Если его **концентрация** когда-либо будет нарушена, он действием вновь сотворяет _**духовных стражей**_
+
+> [!info]+ **Умирающие NPC**
+> Поскольку Волента и её **порождения вампира** предпочитают атаковать игроков, а не Отца Люциана, маловероятно, что в этом бою Отец Люциан будет снижен до 0 хитов
+> 
+> Однако союзные неигровые персонажи — такие как Отец Люциан, Ирина Колянa и любые другие NPC, сражающиеся вместе с игроками, — должны падать без сознания при снижении до **0 хитов**. В этом случае они следуют тем же правилам спасбросков от смерти, что и персонажи игроков
+
+### 3. Порождения вампира
+
+1 **порождение вампира** сражается, используя свои _**когти**_, чтобы схватить врагов, которых затем утаскивают прочь, чтобы пировать в уединении — предпочтительно вытаскивая захваченную добычу через окна на крышу лавки. Оно сражается до смерти
+
+# D5. Возвращение Костей
+
+Если игроки и Отец Люциан успешно возвращают украденные кости в церковь Святого Андрала к рассвету 7 Ноября, Отец Люциан благодарит игроков и приглашает Ирину оставаться под их защитой столько, сколько она пожелает. После этого Ирина спит в церкви Святого Андрала каждую ночь, пока отряд не покинет Валлаки в [[Арка J - Украденный самоцвет]]
+
+**Веха**. Возвращение костей Святого Андрала завершает сюжетную веху. После их возвращения в церковь выдайте каждому игроку 1 250 XP
+
+# D6. Визит Рахадина
+
+В сумерках в первую ночь после того, как кости были возвращены и леди Фиона Вахтер пришла к власти в [[Арка F - Желание леди Вахтер]] или после [[Арка G - Брат и сестра Стражни]], Рахадин, камергер Страда, прибывает в Валлаки верхом на своём _**призрачном скакуне**_. Затем он приказывает городской страже арестовать Миливоя и Хенрика и привести их на городскую площадь для суда. (Из-за постоянного приказа леди Вахтер подчиняться законам замка Рэйвенлофт — пока они не причиняют вреда невинным жителям Валлаки — стражники у ворот не ослушиваются)
+
+## D6a. Приглашение
+
+Затем Рахадин едет в Таверну Синяя Вода или в другое место, где находятся игроки. Там он вручает игрокам приглашение отужинать в замке Рэйвенлофт, как описано в [[Арка O - Ужин с Дьяволом]], после чего уезжает
+
+Вскоре после того, как Рахадин уезжает, к игрокам подходит краснолицый, всхлипывающий Йеска и умоляет их срочно отправиться на городскую площадь. Он сообщает, что Миливой был взят в плен городской стражей и готовится к казни. (Отец Люциан, который уже отправился на городскую площадь, чтобы просить о помиловании, послал Йеску найти и вызвать игроков, когда Миливой был уведён с территории церкви)
+
+## D6b. Суд
+
+>[!read]
+> Лавки и дома, окружающие городскую площадь, украшены порванными и провисшими гирляндами и расписными деревянными ящиками с крошечными, мёртвыми цветами. В северной части площади расположились ряды колодок, в которых закованы несколько мужчин, женщин и детей, на головах у которых надеты грубые маски ослов
+>
+> В центре площади, несколько крестьян в заплатанных одеждах подозрительно зыркают на вас, пока набирают в кубки и вазы воду из полуразрушенного каменного фонтана. В центре фонтана расположилась высокая статуя статного мужчины, смотрящего на запад. Вся площадь обклеена плакатами
+>
+> ***Приходите! Приходите все, на величайшее празднование года: Пирушку Волчьей Головы! Присутствие ваше и ваших детей обязательно. Пики будут предоставлены. Всё будет хорошо! — Барон —***
+>
+> ***Приходите! Приходите все, на величайшее празднование года: Фестиваль Пылающего Солнца! Присутствие ваше и ваших детей обязательно. Не зависимо от погоды. Всё будет хорошо! — Барон —***
+
+Когда игроки прибывают на Городскую площадь, они видят, что небольшая толпа собравшихся окружила помост с пустыми кандалами. На помосте стоит Рахадин, по бокам от него — двое бледнолицых валлакийских **стражников**. Один из стражников наклоняется и спорит с Отцом Люцианом, который стоит у подножия помоста
+
+По обе стороны от Рахадина на коленях стоят Миливой и Хенрик ван дер Вурт, их ноги и ступни связаны верёвкой. Хенрик рыдает от страха, а Миливой пусто смотрит в землю. Недалеко от них его семеро младших плачущих братьев и сестер, о которых подробнее рассказано в [[Арка D - Пир Святого Андрала#D2. Дом Миливоя|D2. Дом Миливоя]], пытаются подняться по лестнице помоста к нему, но третий **стражник** преграждает им путь
+
+Отец Люциан и братья и сёстры Миливоя рады видеть игроков по их прибытии. Отец Люциан просит игроков помочь ***«положить конец этому безумию»***, тихо отмечая, что Миливой, возможно, и совершал ошибки, но едва ли такие, за которые заслуживала бы смерть
+
+Если его заставят дать ответ, Рахадин хладнокровно сообщает, что Миливой и Хенрик признаны виновными в преступлениях против Валлаки и её жителей
+
+Если игроки требуют узнать, в чём именно обвиняются Миливой и Хенрик, или в другой подходящий момент во время разбирательства, толпа расступается, и появляется леди Фиона Вахтер, окружённая **4 стражниками** и **2 культистами**. Леди Вахтер требует, чтобы Рахадин сообщил ей о преступлениях Миливоя и Хенрика. ***«Если слуги замка Рэйвенлофт посмели распоряжаться моими стражниками без моего ведома или разрешения***, — бушует она, — ***у меня есть на это право, по крайней мере»***
+
+Затем Рахадин зачитывает вслух следующее объявление:
+
+>[!read]
+> ***Я, Страд вон Зарович, владыка Баровии, настоящим признаю Хенрика ван дер Вурта из Валлаки ВИНОВНЫМ по следующим обвинениям: сговор с целью совершения взлома с проникновением; сговор с целью совершения кражи; соучастие в краже; и получение краденого имущества***
+>
+> ***Кроме того, я признаю Миливоя из Валлаки ВИНОВНЫМ по следующим обвинениям: незаконное проникновение, уничтожение имущества, сговор с целью совершения взлома с проникновением, взлом и кража***
+>
+> ***Посему постановляется, чтобы каждый из них понёс надлежащее наказание, соответствующее обстоятельствам и характеру их преступлений, которое будет определено и приведено в исполнение камергером замка Рэйвенлофт со всей разумной поспешностью***
+>
+> ***-Страд вон Зарович-***
+
+Как камергер замка Рэйвенлофт, сообщает игрокам Рахадин, он постановил, что приговор за эти преступления — смерть, если только кто-либо не пожелает выступить в защиту осуждённых, представив смягчающие обстоятельства, уменьшающие тяжесть их проступков. (Леди Вахтер не станет препятствовать правосудию Страда, но поддержит игроков в их усилиях, если настроена к ним дружелюбно)
+
+Если игроки сделают это, Рахадин играет роль враждебного и бессердечного судьи, возражая на их доводы и выискивая изъяны в их рассуждениях. Игроки могут привести следующие смягчающие обстоятельства:
+
+- **Хенрик:** Хенрик совершил свои преступления под принуждением и давлением со стороны Воленты, якобы действовавшей как агент самого Страда. Также маловероятно, что Хенрик снова совершит подобное преступление, у него нет криминального прошлого, и он не совершал насильственных действий против кого-либо. Кроме того, Хенрик сотрудничал с игроками, когда они столкнулись с ним в лавке гробовщика
+- **Миливой:** Действия Миливоя были продиктованы необходимостью из-за бедности его семьи, а не злым умыслом. Он также не осознавал последствий кражи костей и был втянут в это Хенриком. Как и Хенрик, он не имеет криминального прошлого и не совершал насильственных действий против кого-либо
+
+Игроки также могут утверждать, что любой из обвиняемых проявил искреннее раскаяние в своих поступках
+
+Когда игроки завершают свои доводы за каждого заключённого, они делают **проверку Убеждения**, чтобы попытаться убедить Рахадина смягчить приговор Миливоя и Хенрика, если их аргументы хотя бы относительно убедительны
+
+Сложность убедить Рахадина смягчить приговор Хенрика следующая:
+
+- Сл 5: Рахадин соглашается на суровый приговор
+- Сл 10: Рахадин соглашается на умеренный приговор
+- Сл 15: Рахадин соглашается на лёгкий приговор
+- Сл 20: Рахадин соглашается освободить Хенрика без наказания
+
+Сложность убедить Рахадина смягчить приговор Миливоя следующая:
+
+- Сл 5: Рахадин соглашается на крайнюю меру наказания
+- Сл 10: Рахадин соглашается на суровое наказание
+- Сл 15: Рахадин соглашается на тяжёлое наказание
+- Сл 20: Рахадин соглашается на умеренное наказание
+
+После того как игроки убеждают Рахадина смягчить приговор заключённого, он предлагает игрокам предложить подходящий приговор. Если предложенный ими приговор слишком мягкий, он сообщает им об этом и предлагает собственный альтернативный вариант
+
+Подходящие наказания для каждого приговора включают:
+
+- **Крайнее.** Пожизненное заключение в замке Рэйвенлофт. (Рахадин уводит заключённого в подземелья замка)
+- **Суровое.** Изувечивание. (Рахадин отсекает заключённому ведущую руку)
+- **Тяжёлое.** Клеймение. (Рахадин приказывает стражнику принести и зажечь факел, которым он разогревает железное кольцо с изображением замка Рэйвенлофт — символа его власти. Затем он использует раскалённое кольцо, чтобы клеймить заключённого на шее)
+- **Умеренное.** Плеть. (Рахадин приказывает стражнику принести кнут, затем сам наносит согласованное количество ударов)
+- **Лёгкое.** Штраф. (Рахадин приказывает заключённому выплатить согласованную сумму, которая поступает в городскую казну. Если заключённый не может оплатить штраф, Рахадин также приговаривает его к принудительным работам на благо города до полного погашения долга)
+
+Рахадин не исполняет приговор, пока все не будут согласны. Если игроки проявляют упорство или, по его мнению, тянут время, Рахадин предупреждает их, что его терпение не безгранично, и он выберет и приведёт в исполнение подходящий приговор, если игроки не смогут предоставить новые доказательства — а не новые аргументы — смягчающие тяжесть преступлений заключённых. ***«Если кто-либо вмешается***, — предупреждает он, — ***я не колеблясь разберусь с ним. Я подчиняюсь только владыке замка Рэйвенлофт, и вы не помешаете приведению правосудия в исполнение этой ночью»***
+
+Если игроки кажутся потрясёнными выбранным Рахадином приговором, он хладнокровно напоминает им, что заключённые признаны виновными в сговоре с целью кражи из святой церкви. ***«Подданные моего господина часто утверждают, что он не ценит святое***, — говорит он. — ***Похоже, что, возможно, он единственный, кто вообще это ценит»***
+
+Если игроки кажутся непреклонными, Миливой хрипло говорит им: ***«Пожалуйста, не делайте ничего глупого за меня. Я поступил неправильно и приму любое наказание. Лишь бы мои братья и сёстры не пострадали»***. (Если его наказывают клеймением, поркой или изувечиванием, Миливой сжимает зубы и сдерживает крик боли, но отказывается вскрикнуть и доставить Рахадину удовольствие)
+
+Если какие-либо игроки, по её мнению, собираются помешать Рахадину привести приговор в исполнение, леди Вахтер тихо умоляет их не быть глупыми. ***«Он — камергер замка Рэйвенлофт и правая рука Вон Заровича»***, — настаивает она. Если игрокам удалось убедить Рахадина отказаться от казни, она добавляет: ***«Сегодня вы уже спасли жизни. Не разменивайте свои на безнадёжное предприятие. Вы нужны Валлаки»***
+
+Если игроки действительно пытаются помешать [[Неигровые персонажи#Рахадин|Рахадину]] привести приговор в исполнение, он атакует, останавливаясь только после того, как эти игроки будут снижены до **0 хитов**. Непосредственно перед нанесением решающего удара он произносит: ***«Я признаю вас виновным в препятствовании правосудию — и приговариваю вас соответственно»***. Пока игрок без сознания, он использует своё железное кольцо с печатью, чтобы клеймить его на шее изображением замка Рэйвенлофт. Затем он приводит в исполнение приговоры Хенрика и Миливоя
+
+Как только Рахадин убеждается, что правосудие свершилось, он вновь призывает своего _**призрачного скакуна**_ и отправляется из Валлаки в замок Рэйвенлофт
+
+# Дизайнерские заметки: Пир Святого Андрала
+
+_**Церковь Святого Андрала.**_ Требование оригинального модуля, чтобы один из игроков был жрецом или паладином для получения этого задания, было снято, чтобы сделать его более доступным
+
+Хотя в оригинальном приключении этого нет, был добавлен святой день Праздника Святого Андрала, чтобы установить чёткий срок для усилий игроков по возвращению костей и обеспечить безопасное место для пребывания Ирины на протяжении развития сюжета
+
+Дата кражи костей перенесена на ночь прибытия игроков в Валлаки, чтобы обеспечить достаточную сохранность места преступления для проведения игроками полноценного детективного расследования. Был добавлен ряд улик, явно указывающих на Миливоя
+
+Сам Миливой был перемещён в дом своей семьи — чтобы показать (а не рассказывать) его мотивацию к краже костей, создать драматическое расстояние между расследованием игроков и их столкновением с главным свидетелем, а также подчеркнуть проявление у Миливоя чувства вины
+
+_**Возвращение в церковь.**_ Отец Люциан просит сопровождать игроков в лавку гробовщика, чтобы партия могла пользоваться преимуществами его заклинания _**духовных стражей**_ во время боя с **порождениями вампира** Воленты (то есть, чтобы нейтрализовать их регенерацию)
+
+_**Оптовый склад Арасек.**_ Призрак Эрасмуса был добавлен, чтобы отговорить игроков от исследования повозки, при этом осторожно избегая побуждения их делать это из злости
+
+Свежая краска на вывеске Карнавала Чудес была добавлена намеренно, чтобы заранее намекнуть, что Риктавио (с которым игроки столкнутся в [[Арка E - Пропавшая Вистана]]) не такой, каким кажется
+
+_**Лавка гробовщика.**_ Две ловушки Воленты были добавлены, чтобы повысить вероятность того, что игроки вступят в бой с вампирами, тем самым напрямую познакомив их с приспешниками Страда и угрозой со стороны вампиров. Количество **порождений вампира** уменьшено с 6 до 3, включая Воленту, чтобы столкновение было сбалансировано для партии 4-го уровня
+
+Волента была назначена организатором этой схемы, чтобы предоставить игрокам босса низкого уровня, которого они могут разумно победить, но который будет появляться как антагонист на протяжении всего приключения
+
+Статблок Воленты был разработан так, чтобы предоставить игрокам динамичный тактический опыт, при этом гарантируя, что она не станет первой из своих приспешников, кто погибнет
+
+Между тем, способность Отца Люциана _**божественная слава**_ была изменена, чтобы игроки могли пользоваться её преимуществами и чтобы столкновение не было слишком смертоносным, а также чтобы боевые персонажи без доступа к магическому оружию могли наносить существенный урон, несмотря на сопротивления вампиров урону от немагического оружия

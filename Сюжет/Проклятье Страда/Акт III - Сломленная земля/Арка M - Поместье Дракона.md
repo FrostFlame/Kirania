@@ -133,7 +133,7 @@ If asked why he has summoned the players to Argynvostholt, Godfrey can share the
 Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
 
 * A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
+* A player in Stage One or Two of an amber shard’s corruption (see the [[Янтарные осколки]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
 * A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
 
 If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
@@ -242,7 +242,7 @@ If the players allow the figure to approach, read:
 <p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Арка I - Стены Крезка]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
@@ -257,7 +257,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
 
-If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+If the players previously encountered her in [[Арка I - Стены Крезка]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
 * She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
 * She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
@@ -826,7 +826,7 @@ Brother Marek is glad to share his belief that the Order’s fate is damnation f
 
 If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Арка D - Пир Святого Андрала]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Арка D - Пир Святого Андрала]] or Ludmilla Vilisevic in [[Арка J - Украденный самоцвет]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
 
 > [!abstract]+ **Legacy of the Sunsword**
 > If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
@@ -1131,4 +1131,4 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
-> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].
+> The players can return Argynvost's skull to his crypt in [[Арка Q - Сияющий Маяк]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].

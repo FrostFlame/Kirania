@@ -54,7 +54,7 @@ The road to Krezk is as described in <span class="citation">S1. Road Junction (p
 # I2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
+The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Арка J - Украденный самоцвет]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
 > [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
@@ -164,7 +164,7 @@ Upon arriving at the base of the stump on which the hut is perched, if Wensencia
 
 If the players enter the hut, they find Baba Lysaga humming a lullaby above the illusory child and crib. Otherwise, the lullaby ends one minute after the players arrive; if Baba Lysaga was alerted to the players’ arrival by the **greater strix**, she then emerges to greet them.
 
-Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
+Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Арка J - Украденный самоцвет]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
 > [!abstract]+ **Lysaga's Wrath**
 > If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awaken 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.

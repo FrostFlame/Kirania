@@ -87,110 +87,148 @@ dg-publish: true
 
 ## 8 Ноября
 
-If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Арка D - Пир Святого Андрала]], an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
+Если игроки не смогли предотвратить нападение Воленты или иным образом защитить церковь Святого Андрала в [[Арка D - Пир Святого Андрала]], снаружи особняка барона Валлаковича собирается разъярённая толпа. Охотник Шолдар Шолдарович также находит Миливоя, смотрителя церковного двора, висящим на дереве за пределами Валлаки — мёртвым, по всей видимости покончившим с собой, — и возвращает его тело семье
 
-Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Арка D - Пир Святого Андрала]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in <span class="citation">Q9. Servants' Quarters (p. 133)</span> in Argynvostholt.
+Вскоре после заката, если игроки не смогли предотвратить нападение Воленты или иным образом защитить церковь Святого Андрала в [[Арка D - Пир Святого Андрала]], разъярённая толпа штурмует особняк, захватывает барона и линчует его на городской площади. Виктор Валлакович сбегает, укрывшись в одном из заброшенных домов у западных стен Валлаки. Если он всё ещё жив, Изек Стражни также сбегает, находя убежище в Q9. Служебные покои (стр. 133) в Аргинвостхольте
 
-At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
-## Neyavr 9
-If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an *amber shard* buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
-## Quest Timeline
-The quests of Act II become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable. The players arrive in Vallaki on Neyavr 2. See [[#Timeline]] above for more information about arc beginnings, events, and endings.)
+На закате над Валлаки восходит **полнолуние**. (Из-за странной космологии Баровии следующее полнолуние наступит всего через 2 недели)
 
-| Arc \ Day of Neyavr    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| :--------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C: Into the Valley     | 🟥  | —   | —   | —   | —   | —   | —   | —   |
-| D: St. Andral's Feast  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
-| E: The Missing Vistana | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| F: Lady Wachter's Wish | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| G The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
-| H: The Lost Soul       | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
-| I: The Walls of Krezk  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
+## 9 Ноября
 
-The most common path through Act II is as follows:
+Если игроки ещё не вернули душу Стеллы Вахтер в её тело, на рассвете её дух исчезает в Эфирный План и перерождается в новорождённого младенца в деревне Крезк. Если Виктор Валлакович всё ещё жив, убитый горем, он слышит зов ***янтарного осколка***, зарытого на кладбище церкви Святого Андрала. Выкопав его, он отправляется в Янтарный Храм в поисках способа вернуть Стеллу к жизни
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
-* **Neyavr 3.** The players complete [[Арка D - Пир Святого Андрала]] and receive an invitation from Lady Fiona Wachter in [[Арка F - Желание леди Вахтер]] (🔶).
-* **Neyavr 4.** The players complete [[Арка E - Пропавшая Вистана]] and dine with Lady Fiona Wachter in [[Арка F - Желание леди Вахтер]] (🔶). Izek Strazni attacks the Blue Water Inn in [[Арка G - Брат и сестра Стражни]] (🔶).
-* **Neyavr 5.** The players assassinate Izek Strazni in [[Арка F - Желание леди Вахтер]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Арка H - Потерянная душа]] (🔶).
-* **Neyavr 6.** The players speak with Victor Vallakovich and the Barovian refugees in [[Арка H - Потерянная душа]] and attend Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]].
-* **Neyavr 7.** The players defeat the hags of Old Bonegrinder in [[Арка H - Потерянная душа]], then travel to Krezk in [[Arc I - The Walls of Krezk]] before returning to Vallaki.
-* **Neyavr 8.** The players travel to Berez then return to Krezk in [[Arc I - The Walls of Krezk]], then return to Vallaki and defeat the spirit of Leo Dilisnya in [[Арка H - Потерянная душа]] on the night of the full moon.
+## Таймлайн квестов
 
-Alternately, particularly swift players might take the following path through Act II instead:
+Задания Акта II становятся доступными и разрешаются так, как указано в таблице ниже. (🟢 обозначает день, когда задание остаётся доступным, 🔶 — день, в который происходит значимое событие, 🟥 — крайний срок задания, а ❌ — день, когда задание недоступно. Игроки прибывают в Валлаки 2-го Ноября. См. [[Акт II Кратко#Таймлайн]] выше для получения дополнительной информации о начале, событиях и завершении арок)
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
-* **Neyavr 3.** The players complete [[Арка D - Пир Святого Андрала]] and [[Арка E - Пропавшая Вистана]] and receive an invitation from Lady Fiona Wachter in [[Арка F - Желание леди Вахтер]] (🔶).
-* **Neyavr 4.** The players travel to Krezk and Berez in [[Arc I - The Walls of Krezk]], then return to Vallaki to dine with Lady Fiona Wachter in [[Арка F - Желание леди Вахтер]]. Izek Strazni attacks the Blue Water Inn in [[Арка G - Брат и сестра Стражни]] (🔶).
-* **Neyavr 5.** The players assassinate Izek Strazni in [[Арка F - Желание леди Вахтер]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Арка H - Потерянная душа]] (🔶).
-* **Neyavr 6.** The players speak with Victor Vallakovich and the Barovian refugees in [[Арка H - Потерянная душа]] and attend Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]]. The players, Victor, and Lady Wachter defeat the hags of Old Bonegrinder in [[Арка H - Потерянная душа]].
-* **Neyavr 7.** The players return to Krezk in [[Arc I - The Walls of Krezk]], then visit Argynvostholt in [[Arc M - The Dragon's Manor]] (Act III) before returning to Vallaki.
-* **Neyavr 8.** The players take a day of downtime in Vallaki before defeating the spirit of Leo Dilisnya in [[Арка H - Потерянная душа]] on the night of the full moon.
-## Diverging Paths
-The town of Vallaki can be a tangled web of assorted paths in the original module. While this guide aims to present it in a more streamlined and predictable manner, DMs may still find the number of possible events, characters, and outcomes to feel overwhelming. To help you digest this act, two of many potential paths have been provided below to guide you in understanding how your players' choices might drive the narrative forward.
-## The Zealous Crusaders
-In this potential narrative, the players are passionate, quick-moving characters with a penchant for action over thought.
-### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players befriend Karl and Nikolai Wachter and learn of the Wachter family's hatred of the Vallakoviches. 
-### Neyavr 3
-Upon encountering Izek Strazni and Baron Vargas Vallakovich for the first time, the players leap to Willemina Rikalova's defense, nearly inciting an all-out brawl until Father Lucian Petrovich steps in to calm the tension. Their decision to act draws the attention of Lady Fiona Wachter in [[Арка F - Желание леди Вахтер]]
+| Арка \ День Ноября       | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C: В Долину              | 🟥  | —   | —   | —   | —   | —   | —   | —   |
+| D: Пир Святого Андрала   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
+| E: Пропавшая Вистана     | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| F: Желание Леди Вахтер   | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| G: Брат и Сестра Стражни | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
+| H: Потерянная Душа       | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
+| I: Стены Крезка          | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
 
-The players and Ireena accompany Father Petrovich to St. Andral's Church, where they receive the hook for [[Арка D - Пир Святого Андрала]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
+Наиболее распространённый путь прохождения Акта II выглядит следующим образом:
 
-Later that same afternoon, the players visit Blinsky Toys to purchase a toy for Arabelle, followed by the Vistani encampment. There, they learn of [[Арка E - Пропавшая Вистана]], and accept the signet ring from Kasimir Velikov.
+- **2 Ноября.** Игроки прибывают в Валлаки и снимают комнаты в гостинице «Синяя Вода»
+- **3 Ноября.** Игроки завершают [[Арка D - Пир Святого Андрала]] и получают приглашение от леди Фионы Вахтер в [[Арка F - Желание леди Вахтер]] (🔶)
+- **4 Ноября.** Игроки завершают [[Арка E - Пропавшая Вистана]] и ужинают с леди Фионой Вахтер в [[Арка F - Желание леди Вахтер]] (🔶). Изек Стражни нападает на таверну «Синяя Вода» в [[Арка G - Брат и сестра Стражни]] (🔶)
+- **5 Ноября.** Игроки убивают Изека Стражни в [[Арка F - Желание леди Вахтер]]. Ночью игрокам является призрак Эрасмуса ван Рихтена в [[Арка H - Потерянная душа]] (🔶)
+- **6 Ноября.** Игроки разговаривают с Виктором Валлаковичем и баровийскими беженцами в [[Арка H - Потерянная душа]] и присутствуют на инаугурации леди Вахтер в [[Арка F - Желание леди Вахтер]]
+- **7 Ноября.** Игроки побеждают ведьм Старой Костедробилки в [[Арка H - Потерянная душа]], затем отправляются в Крезк в [[Арка I - Стены Крезка]] перед возвращением в Валлаки
+- **8 Ноября.** Игроки отправляются в Берез, затем возвращаются в Крезк в [[Арка I - Стены Крезка]], после чего возвращаются в Валлаки и побеждают духа Лео Дилисния в [[Арка H - Потерянная душа]] в ночь полнолуния
 
-That night, the players break into the Baron's Mansion, hoping to investigate the ring's history—only to be caught by Victor Vallakovich, who leads them to his workroom and informs them of Khazan's tower at Lake Baratok. A chance sighting of Stella Wachter's silhouette in Victor's *spirit mirror* sparks a conversation, and the players begin [[Арка H - Потерянная душа]].
-### Neyavr 4
-The players receive a dinner invitation from Lady Fiona Wachter at the Blue Water Inn, thereby beginning [[Арка F - Желание леди Вахтер]]. While waiting for Szoldar and Yevgeni to return, the players visit the Barovian refugee camp outside of Vallaki's walls, meeting the refugee Franz and learning of Morgantha's true **night hag** nature in [[Арка H - Потерянная душа]].
+Альтернативно, особенно быстрые игроки могут пройти Акт II следующим образом
 
-After contriving an excuse to speak with Victor again, the players travel north to Szoldar and Yevgeni's dressing shack to obtain directions to Lake Baratok in [[Арка E - Пропавшая Вистана]]. The players venture forth on their own, and quickly discover Rictavio's true identity. The players return to Vallaki by evening, confronting Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear Arabelle's prophecy.
+- **2 Ноября.** Игроки прибывают в Валлаки и снимают комнаты в гостинице «Синяя Вода»
+- **3 Ноября.** Игроки завершают [[Арка D - Пир Святого Андрала]] и [[Арка E - Пропавшая Вистана]] и получают приглашение от леди Фионы Вахтер в [[Арка F - Желание леди Вахтер]] (🔶)
+- **4 Ноября.** Игроки отправляются в Крезк и Берез в [[Арка I - Стены Крезка]], затем возвращаются в Валлаки, чтобы пообедать с леди Фионой Вахтер в [[Арка F - Желание леди Вахтер]]. Изек Стражни нападает на таверну «Синяя Вода» в [[Арка G - Брат и сестра Стражни]] (🔶)
+- **5 Ноября.** Игроки убивают Изека Стражни в [[Арка F - Желание леди Вахтер]]. Ночью игрокам является призрак Эрасмуса ван Рихтена в [[Арка H - Потерянная душа]] (🔶)
+- **6 Ноября.** Игроки разговаривают с Виктором Валлаковичем и баровийскими беженцами в [[Арка H - Потерянная душа]] и присутствуют на инаугурации леди Вахтер в [[Арка F - Желание леди Вахтер]]. Игроки, Виктор и леди Вахтер побеждают ведьм Старой Костедробилки в [[Арка H - Потерянная душа]]
+- **7 Ноября.** Игроки возвращаются в Крезк в [[Арка I - Стены Крезка]], затем посещают Аргинвостхольт в [[Арка M - Поместье Дракона]] (Акт III) перед возвращением в Валлаки
+- **8 Ноября.** Игроки проводят день отдыха в Валлаки перед тем, как победить духа Лео Дилисния в [[Арка H - Потерянная душа]] в ночь полнолуния
 
-That night, the players dine with Lady Wachter at Wachterhaus, continuing Arc G - Lady Wachter's Wish. Though receptive to her hostility to the Baron, they're suspicious of her loyalty to Strahd, and decline her assassination mission. 
+## Развилки
 
-Upon returning to the Blue Water Inn, however, the players find it ransacked by Izek himself—thereby beginning [[Арка G - Брат и сестра Стражни]]. Enraged, the players return to Wachterhaus and accept Lady Wachter's offer of aid in killing Izek once and for all. Ireena, upon learning of Izek's attack, demands the right to assist them.
-### Neyavr 5
-The players continue [[Арка F - Желание леди Вахтер]] when they meet Ernst Larnak in the taproom of the Blue Water Inn, where they receive the poisoned wine for Izek. The players sneak into the Baron's Mansion and persuade Tereska, the Baron's cook, to include the poisoned wine as a "gift" to Izek. The players stalk Izek for the rest of the day, eventually killing him on the shores of Lake Zarovich and delivering his severed head to Lady Wachter. That night, Lady Wachter intimidates Baron Vallakovich into surrendering power.
-### Neyavr 6
-The players learn of the **night hag** binding ritual from Victor in [[Арка H - Потерянная душа]]. Following Lady Wachter's speech in the town square at the end of Arc G - Lady Wachter's Wish, the players convince her to lower the protective circle around Wachterhaus, allowing Stella Wachter's spirit to manifest there and recruiting Lady Wachter as an ally.
+Город Валлаки в оригинальном модуле может представлять собой запутанную сеть различных путей. Хотя это руководство стремится представить его более упорядоченно и предсказуемо, **ДМы** всё равно могут почувствовать, что количество возможных событий, персонажей и исходов оказывается чрезмерным. Чтобы помочь вам освоить этот акт, ниже приведены два из множества возможных путей, которые помогут понять, как выбор игроков может продвигать сюжет вперёд
 
-Together with Lady Wachter and her **cult fanatics**, the players set off for Old Bonegrinder. There, they steal the **night hag** coven's contract, allowing Lady Wachter to bind the hags to the Material Plane. The players vanquish the hags and take their heartstones for use in Victor's *etherealness* ritual.
-### Neyavr 7
-With the full moon—and, in [[Арка H - Потерянная душа]], Victor's *etherealness* ritual—just over twenty-four hours away, the players take a daytrip to the village of Krezk in [[Arc I - The Walls of Krezk]], hoping to pick wolfsbane that Dr. Rudolph van Richten can use to quell the curse of lycanthropy for one among them. 
+## Рьяные крестоносцы
 
-After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in ***Arc M: Strahd's Enemy***.
-### Neyavr 8
-The players return to Vallaki and spend a day of downtime exploring the town and acquiring gear. That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane in [[Арка H - Потерянная душа]], where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
-## The Cautious Explorers
-In this potential narrative, the players are cautious, soft-spoken characters with a preference for passivity over boldness.
-### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players watch the half-elf Rictavio carefully, viewing him with suspicion.
-### Neyavr 3
-Upon encountering Izek Strazni and Baron Vargas Vallakovich for the first time, the players remain quiet along the sidelines, unwilling to risk their necks for a stranger. 
+В этом возможном повествовании игроки — страстные, энергичные персонажи, склонные к действиям больше, чем к размышлениям
 
-The players bring Ireena to St. Andral's Church, where Father Petrovich delivers them the hook for [[Арка D - Пир Святого Андрала]]. Agreeing that the night of the feast is far in the future, the players, leave Ireena at the church and depart for Blinsky Toys, followed by the Vistani encampment outside of Vallaki, where they begin [[Арка E - Пропавшая Вистана]].
+### 2 Ноября
 
-After accepting the signet ring from Kasimir Velikov, the players visit the Baron's mansion to research its origins. There, Baron Vallakovich agrees to allow them access to his library in exchange for their investigation into a series of paranormal events that have lately plagued the mansion. 
+После того как игроки снимают комнаты в таверне «Синяя Вода» в своё первое пребывание в Валлаки, они заводят дружбу с Карлом и Николаем Вахтер и узнают о ненависти семьи Вахтер к Валлаковичам
 
-As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning [[Арка H - Потерянная душа]]. The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
+### 3 Ноября
 
-Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Арка E - Пропавшая Вистана]]. When they return to the Blue Water Inn, they find that Izek Strazni has ransacked it in search for Ireena.
-### Neyavr 4
-The players and Szoldar travel west to Lake Baratok, where they uncover Rictavio's true identity. They return to Vallaki and confront Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear Arabelle's prophecy.
+При первой встрече с Изеком Стражни и бароном Варгасом Валлаковичем игроки встают на защиту Виллемины Рикаловой, почти вызывая полноценную драку, пока отец Люциан Петрович не вмешивается, чтобы успокоить напряжение. Их решение действовать привлекает внимание леди Фионы Вахтер в [[Арка F - Желание леди Вахтер]]
 
-That afternoon, the players return to St. Andral's Church in [[Арка D - Пир Святого Андрала]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
-### Neyavr 5
-The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Арка H - Потерянная душа]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with cackle fever.
+Игроки и Ирина сопровождают отца Петровича в церковь Святого Андрала, где получают зацепку для [[Арка D - Пир Святого Андрала]]. После расследования и допроса Миливоя игроки заручаются поддержкой отца Петровича и отправляются в мастерскую гробовщика, где сражаются с Волентой Попофски и возвращают украденные кости
 
-That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their cackle fever.
-### Neyavr 6
-The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
+Позже в тот же день игроки посещают магазин Blinsky Toys, чтобы купить игрушку для Арабелль, а затем отправляются в лагерь Вистани. Там они узнают о [[Арка E - Пропавшая Вистана]] и принимают печатный перстень от Казимира Великова
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
-### Neyavr 7
-The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Арка G - Брат и сестра Стражни]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
+В ту ночь игроки проникают в особняк барона, надеясь исследовать историю перстня — но их ловит Виктор Валлакович, который ведёт их в свою мастерскую и сообщает о башне Хазана на озере Бараток. Случайное отражение силуэта Стеллы Вахтер в _зеркале духа_ Виктора вызывает разговор, и игроки начинают [[Арка H - Потерянная душа]]
 
-With Ireena freed, the players and Victor discuss the prospect of defeating the **night hag** coven through a binding ritual in [[Арка H - Потерянная душа]]. The players visit Wachterhaus and convince Lady Wachter to lower the protective circle around Wachterhaus, allowing Stella Wachter's spirit to manifest there and recruiting Lady Wachter as an ally.
-### Neyavr 8
-Together with Lady Wachter and her **cult fanatics**, the players set off for Old Bonegrinder. There, they steal the night hag coven's contract, allowing Lady Wachter to bind the hags to the Material Plane. The players vanquish the hags and take their heartstones for use in Victor's *etherealness* ritual.
+### 4 Ноября
 
-That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane, where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
+Игроки получают приглашение на ужин от леди Фионы Вахтер в таверне «Синяя Вода», тем самым начиная [[Арка F - Желание леди Вахтер]]. Ожидая возвращения Шолдара и Евгения, игроки посещают баровийский лагерь беженцев за стенами Валлаки, встречаются с беженцем Францем и узнают о настоящей сущности Морганты как **ночной ведьмы** в [[Арка H - Потерянная душа]]
+
+После того как игроки находят предлог снова поговорить с Виктором, они отправляются на север в переодевальную избу Шолдара и Евгения, чтобы получить указания к озеру Бараток в [[Арка E - Пропавшая Вистана]]. Игроки отправляются в путь самостоятельно и быстро раскрывают истинную личность Риктавио. К вечеру игроки возвращаются в Валлаки и сталкиваются с доктором Рудольфом ван Рихтеном и Арригалом на оптовом складе Арасек, где слышат пророчество Арабелль
+
+В ту ночь игроки ужинают с леди Вахтер в Вахтерхаусе, продолжая [[Арка F - Желание леди Вахтер]]. Хотя они понимают её враждебность к барону, игроки подозревают её лояльность к Страду и отказываются выполнять её задание на убийство
+
+Однако, вернувшись в таверну «Синяя Вода», игроки обнаруживают её разграбленной самим Изеком — тем самым начиная [[Арка G - Брат и сестра Стражни]]. Взбешённые, игроки возвращаются в Вахтерхаус и принимают предложение леди Вахтер помочь им убить Изека раз и навсегда. Ирина, узнав о нападении Изека, требует права присоединиться к ним
+
+### 5 Ноября
+
+Игроки продолжают [[Арка F - Желание леди Вахтер]], когда встречают Эрнста Ларнака в трактирной комнате таверны «Синяя Вода», где получают отравленное вино для Изека. Игроки проникают в особняк барона и убеждают Тереску, повара барона, включить отравленное вино в качестве «подарка» для Изека. Игроки следят за Изеком в течение всего дня, в конечном итоге убивают его на берегу озера Зарович и доставляют его отрубленную голову леди Вахтер. В ту ночь леди Вахтер запугивает барона Валлаковича, вынуждая его уступить власть
+
+### 6 Ноября
+
+Игроки узнают о ритуале связывания **ночной ведьмы** от Виктора в [[Арка H - Потерянная душа]]. После речи леди Вахтер на городской площади в конце [[Арка F - Желание леди Вахтер]] игроки убеждают её ослабить защитный круг вокруг Вахтерхауса, что позволяет духу Стеллы Вахтер проявиться там и привлекает леди Вахтер в качестве союзника
+
+Вместе с леди Вахтер и её **фанатиками культа** игроки отправляются в Старую Костедробилку. Там они похищают контракт шабаша **ночной ведьмы**, что позволяет леди Вахтер привязать ведьм к материальному плану. Игроки побеждают ведьм и забирают их _сердечные камни_ для использования в ритуале _эфирности_ Виктора
+
+### 7 Ноября
+
+С полнолунием — и, в [[Арка H - Потерянная душа]], ритуалом _эфирности_ Виктора — всего через 24 часа, игроки отправляются в деревню Крезк в [[Арка I - Стены Крезка]], надеясь собрать аконит, который доктор Рудольф ван Рихтен сможет использовать, чтобы снять проклятие ликантропии с одного из них
+
+Получив задание от барона Крезкова, игроки отправляются на юг к руинам Береза, где ведьма Баба Лисяга ведёт наблюдение за Ильей Крезковым в обмен на дар барона Крезкова. Затем игроки возвращаются в Крезк, чтобы собрать аконит. Учитывая близость Аббатства Святой Марковии, игроки также поднимаются к воротам аббатства, где встречают аббата и получают указание вернуться через 2 дня для встречи с Эсмеральдой д’Авенир, их предсказанным союзником в _**Арка M: Враг Страда**_
+
+### 8 Ноября
+
+Игроки возвращаются в Валлаки и проводят день отдыха, исследуя город и приобретая снаряжение. В ту ночь игроки отправляются вместе с Виктором и леди Вахтер на Эфирный План в [[Арка H - Потерянная душа]], где сражаются с духом Лео Дилисния, пока Виктор возвращает душу Стеллы в её тело
+
+## Осторожные исследователи
+
+В этом возможном повествовании игроки — осторожные, сдержанные персонажи, предпочитающие пассивность смелым действиям
+
+### 2 Ноября
+
+После того как игроки снимают комнаты в таверне «Синяя Вода» в своё первое пребывание в Валлаки, они внимательно наблюдают за полуэльфом Риктавио, относясь к нему с подозрением
+
+### 3 Ноября
+
+При первой встрече с Изеком Стражни и бароном Варгасом Валлаковичем игроки остаются в стороне и молчат, не желая рисковать своими шеями ради незнакомца
+
+Игроки приводят Ирину в церковь Святого Андрала, где отец Петрович даёт им зацепку для [[Арка D - Пир Святого Андрала]]. Согласившись с тем, что ночь праздника ещё далеко, игроки оставляют Ирину в церкви и отправляются в магазин «Игрушки Блинского», а затем в лагерь Вистани за пределами Валлаки, где начинают [[Арка E - Пропавшая Вистана]]
+
+Приняв печатный перстень от Казимира Великова, игроки посещают особняк барона, чтобы изучить его происхождение. Там барон Валлакович соглашается предоставить им доступ к своей библиотеке в обмен на расследование серии паранормальных событий, которые в последнее время преследуют особняк
+
+Исследуя чердак, игроки встречают Виктора Валлаковича и дух Стеллы Вахтер, начиная [[Арка H - Потерянная душа]]. Игроки решают договориться с шабашем **ночных ведьм**, а не сражаться с ними, и соглашаются отправиться к Старой Костедробилке после спасения Арабелль и возвращения костей Святого Андрала
+
+Поздним днём игроки отправляются в переодевальную избу Шолдара и Евгения, где нанимают Шолдара в качестве проводника к озеру Бараток в [[Арка E - Пропавшая Вистана]]. Вернувшись в таверну «Синяя Вода», они обнаруживают, что Изек Стражни разгромил её в поисках Ирины
+
+### 4 Ноября
+
+Игроки и Шолдар отправляются на запад к озеру Бараток, где раскрывают истинную личность Риктавио. Они возвращаются в Валлаки и сталкиваются с доктором Рудольфом ван Рихтеном и Арригалом на оптовом складе Арасек, где слышат пророчество Арабелль
+
+В тот же день игроки возвращаются в церковь Святого Андрала в [[Арка D - Пир Святого Андрала]]. После расследования и допроса Миливоя игроки заручаются поддержкой отца Петровича и отправляются в мастерскую гробовщика, где сражаются с Волентой Попофски и возвращают украденные кости
+
+### 5 Ноября
+
+Игроки отправляются в Старую Костедробилку в одиночку, где пытаются договориться с **ночной ведьмой** Моргантой о предоставлении её сердечного камня в [[Арка H - Потерянная душа]]. Поскольку игроки не соглашаются заплатить её цену, Морганта отпускает их без сделки. Игроки пытаются забрать её сердечный камень силой, но легко побеждаются шабашем, который запирает их на чердаке и заражает лихорадкой смеха
+
+В ту ночь игроки сбегают из Старой Костедробилки и возвращаются в Валлаки, где узнают, что аббат Аббатства Святой Марковии в Крезке может излечить их от [[ДМовские заметки#Хохочущей лихорадкой|хохочущей лихорадки]]
+
+### 6 Ноября
+
+Игроки отправляются в деревню Крезк в [[Арка I - Стены Крезка]]. Получив задание от барона Крезкова, игроки отправляются на юг к руинам Береза, где ведьма Баба Лисяга ведёт наблюдение за Ильей Крезковым в обмен на дар барона Крезкова
+
+Затем игроки возвращаются в Крезк и поднимаются в Аббатство Святой Марковии, где встречают аббата. Аббат излечивает их от [[ДМовские заметки#Хохочущей лихорадкой|хохочущей лихорадки]] в обмен на обещание выполнить _**Арка N: Что-то занятое.**_ Игрокам сообщают, что их предсказанный союзник в _**Арка M: Враг Страда**_, Эсмеральда д’Авенир, вернётся в аббатство через 2 дня
+
+### 7 Ноября
+
+Игроки возвращаются в Валлаки и обнаруживают, что Ирина была похищена Изеком Стражни в [[Арка G - Брат и сестра Стражни]]. С помощью Виктора игроки проникают в особняк барона и сражаются с Изеком в коридорах особняка
+
+После освобождения Ирины игроки и Виктор обсуждают возможность победы над шабашем **ночных ведьм** с помощью ритуала связывания в [[Арка H - Потерянная душа]]. Игроки посещают Вахтерхаус и убеждают леди Вахтер ослабить защитный круг вокруг Вахтерхауса, что позволяет духу Стеллы Вахтер проявиться там и привлекает леди Вахтер в качестве союзника
+
+### 8 Ноября
+
+Вместе с леди Вахтер и её **фанатиками культа** игроки отправляются в Старую Костедробилку. Там они похищают контракт шабаша ночных ведьм, что позволяет леди Вахтер привязать ведьм к материальному плану. Игроки побеждают ведьм и забирают их сердечные камни для использования в ритуале _эфирности_ Виктора
+
+В ту ночь игроки отправляются вместе с Виктором и леди Вахтер на Эфирный План, где сражаются с духом Лео Дилисния, пока Виктор возвращает душу Стеллы в её тело

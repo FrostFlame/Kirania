@@ -4,7 +4,7 @@ In this arc, following either a ghostly visitation at the Blue Water Inn or a wa
 
 Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly 3 months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
 
 Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
 
@@ -46,40 +46,49 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
 
-# H1. Erasmus' Plea
-Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+# H1. Мольба Эрасмуса
 
-The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+Незадолго до рассвета в первую ночь после того, как игроки достигли **5-го уровня**, партия просыпается от звука хлопнувшего окна и ощущения холодного сквозняка в комнате. При более тщательном осмотре оказывается, что одно из окон распахнулось само собой. (Окно было открыто **полтергейстом** Эрасмуса ван Рихтена)
 
-If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
+Игроки могут заметить, что стёкла окон, выходящих в комнату, покрылись инеем, а их дыхание превращается в пар в холодном воздухе. Вскоре после этого несколько предметов в комнате начинают подниматься в воздух, а ставни на окнах принимаются дрожать. Пока это происходит, невидимый палец начинает выводить послание на инее на одном из окон: ***Помогите Виктору***. Спустя мгновение к нему добавляется — почти нерешительно — ***Пожалуйста***
 
-While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+Если игроки спрашивают имя духа, он выводит на инее своё имя: ***Эрасмус***. Если игроки соглашаются выполнить его просьбу, предметы падают на пол, ставни перестают дрожать, а иней медленно тает. После этого дух Эрасмуса исчезает
+
+Пока дух Эрасмуса присутствует, игрок, преуспевший в **проверке Проницательности** или **Восприятия Сл 10**, ощущает в комнате призрачное присутствие — присутствие, излучающее невинность и чувство яростной решимости
 
 The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
-# H2. Burgomaster’s Mansion
+
+# H2. Особняк бургомистра
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
+Если игроки получили [[Арка H - Потерянная душа#H1. Мольба Эрасмуса|H1. Мольба Эрасмуса]] и просят поговорить с Виктором, барон Валлакович позволяет им это при успешной **проверке Убеждения** или **Обмана Сл 12**, либо автоматически, если они достаточно польстят ему или если леди Вахтер уже захватила власть
 
-If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+Если игроки описывают Виктору визит Erasmus, Виктор бросает взгляд на _зеркало духов_ в своей мастерской и, с обидой в голосе, говорит: ***«Я же сказал тебе, что держу всё под контролем!»***
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
-### What Victor Knows
-If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+
+### Что известно Виктору
+
+Если игроки выражают желание помочь ему, [[Неигровые персонажи#Виктор Валлакович|Виктор]] сначала знакомит их с духом Стеллы через её отражение в _зеркале духов_. Стелла робко машет им рукой, но её не слышно. (Виктор объясняет, что её душа заключена в Эфирном плане, и хотя зеркало отражает образы с другого плана, звук оно не передаёт)
+
 ![[Stella Wachter.png]]
-<span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Victor then shares the following information:
 
-* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
-* Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
-* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
-* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
-* Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
-* Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
-* To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
-* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
+- 3 месяца назад Виктор и его подруга, Стелла Вахтер, узнали, что Дьявол Страд вернулся в эти земли, и согласились, что побег жизненно необходим. Используя знания, которые Виктор почерпнул из старого гримуара, они начали создание _круга телепортации_, который позволил бы им покинуть долину
+- 10 недель назад они, наконец, завершили прототип круга. После 2 экспериментов с кроликами-нежитью, которых Виктор оживлял с помощью костей, купленных у Шольдара и Евгения, Стелла настояла на том, чтобы стать добровольцем для живого, человеческого испытания. Однако тест прошёл ужасно — круг не смог телепортировать тело Стеллы никуда, а отдача подвергла её душу воздействию Эфирного Плана
+- В те короткие моменты, когда её дух находился в Эфирном плане, Стеллу атаковала тёмная тень, чьи когти оторвали её душу от тела. Она бы погибла, если бы Эрасмус не унес её в безопасное место
+- После 2 недель беспокойства о том, что он случайно каким-то образом разрушил разум своей подруги, Виктор узнал, что один из слуг его родителей видел призрак молодой женщины, отражённый в зеркале в гостиной его матери. Виктор выяснил, что это _зеркало духов_, отражающее как Материальный, так и Эфирный планы. С его помощью он смог увидеть и общаться с блуждающим духом Стеллы — сначала через жесты и грубое чтение по губам, а затем с помощью языка жестов, изученного по книге из библиотеки его отца
+- С тех пор Виктор и Стелла усердно работают над тем, чтобы вернуть её душу в тело, но ничего не сработало. Тем временем Стелле приходится скрываться от множества блуждающих духов, которые населяют Пограничный Эфирный план, многие из которых причинили бы ей вред, если бы могли
+- Стелла ощущает, что постепенно теряет воспоминания о своей жизни, пока её форма в Эфирном плане медленно становится всё более эфемерной. Иногда она не может понять, является ли она самой собой или кем-то другим; в такие моменты ей кажется, что часть её свернулась в тёплом и влажном месте, и успокаивающий ритм сердца отзывается эхом в темноте
+- Чтобы усугубить ситуацию, связь между лопатками Стеллы, которая когда-то соединяла её душу с телом, постепенно укорачивается, что заставляет Виктора опасаться, что у неё остаётся чуть больше недели, прежде чем она исчезнет навсегда. (Чем короче эта связь, тем чаще становятся видения Стеллы и тем более туманными её воспоминания)
+- Ни Виктор, ни Стелла, ни Эрасмус не знают личности духа, который оторвал душу Стеллы от её тела. Тем не менее, Виктор может сообщить игрокам, что Эрасмус многократно видел его, бродящим по Эфирному плану вокруг Валлаки с момента его появления — похоже, что он ищет Стеллу — и определил его как _Предвестника гибели_. (Эрасмус, который узнал о существах, читая записи своего отца, предоставил Виктору всю информацию о Предвестниках гибели)
+- Если спросить, почему они не обращались за помощью к другим, Виктор упрямо настаивает, что он не доверяет леди Фионе Вахтер; что его собственный отец, барон, будет хуже, чем бесполезен; и что он и Стелла вполне способны решить её проблему самостоятельно
+
+>[!Предвестник гибели]
+> Предвестники гибели возникают на местах массовой гибели или на местах, где существа регулярно встречают смерть. Со временем измученные болью фантомы и задержавшиеся души объединяются в существо, которое знает смерть в мириадах её форм. Такие скопища духов терзаемы своей общей болью, бесконечно и бессвязно извергая последние мысли, когда они набрасываются на живых. Познав безграничье смерти, предвестники гибели могут предсказывать страдания, предвидеть приговор, вынесенный им, и подавлять разум своих врагов видениями бесчисленных насильственных смертей.
+>
+> Предвестники гибели редко говорят связно или общаются с живыми, они полностью одержимы своими воспоминаниями о смерти. Эта нежить бесконечно бормочет себе под нос, извергая последние проклятия, сожаления, мольбы и извинения. Те, кто задерживается и слушает предвестника гибели, могут получить представление о какой-нибудь из его многочисленных смертей.
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
 
@@ -140,7 +149,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
+> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Арка M - Поместье Дракона#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
 If it's been at least six hours since Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
@@ -511,7 +520,7 @@ Morgantha declines to explain her statement further, noting only that "darker po
 ![[The Bonegrinder Coven.png]]
 <span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Battle with the Hags
+### Битва с каргами
 The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
 
 > [!info]+ **Lair Actions**
@@ -824,7 +833,7 @@ The players can identify these remedies, as well as the symptoms of cackle fever
 
 Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
-If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
+If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Арка I - Стены Крезка]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
 ![[Heartstone.png]]
@@ -1214,7 +1223,7 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Арка O - Ужин с Дьяволом]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome
@@ -1234,7 +1243,7 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Арка S - Солнечный Меч]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
 Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
 
@@ -1242,7 +1251,7 @@ Players who read through these sections find numerous annotations referencing (i
 
 > [!abstract]+ **The Symbol**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Арка Q - Сияющий Маяк]]—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 
@@ -1295,7 +1304,7 @@ Lady Wachter's rejection of Frederich Wachter's request for aid serves to create
 
 Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, Beucephalus).
 
-***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
+***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Арка J - Украденный самоцвет]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
 
 ***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
 
