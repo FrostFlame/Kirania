@@ -4,7 +4,7 @@ In this arc, following either a ghostly visitation at the Blue Water Inn or a wa
 
 Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly 3 months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
 
 Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
 
@@ -46,40 +46,49 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
 
-# H1. Erasmus' Plea
-Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+# H1. Мольба Эрасмуса
 
-The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+Незадолго до рассвета в первую ночь после того, как игроки достигли **5-го уровня**, партия просыпается от звука хлопнувшего окна и ощущения холодного сквозняка в комнате. При более тщательном осмотре оказывается, что одно из окон распахнулось само собой. (Окно было открыто **полтергейстом** Эрасмуса ван Рихтена)
 
-If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
+Игроки могут заметить, что стёкла окон, выходящих в комнату, покрылись инеем, а их дыхание превращается в пар в холодном воздухе. Вскоре после этого несколько предметов в комнате начинают подниматься в воздух, а ставни на окнах принимаются дрожать. Пока это происходит, невидимый палец начинает выводить послание на инее на одном из окон: ***Помогите Виктору***. Спустя мгновение к нему добавляется — почти нерешительно — ***Пожалуйста***
 
-While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+Если игроки спрашивают имя духа, он выводит на инее своё имя: ***Эрасмус***. Если игроки соглашаются выполнить его просьбу, предметы падают на пол, ставни перестают дрожать, а иней медленно тает. После этого дух Эрасмуса исчезает
+
+Пока дух Эрасмуса присутствует, игрок, преуспевший в **проверке Проницательности** или **Восприятия Сл 10**, ощущает в комнате призрачное присутствие — присутствие, излучающее невинность и чувство яростной решимости
 
 The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
-# H2. Burgomaster’s Mansion
+
+# H2. Особняк бургомистра
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
+Если игроки получили [[Арка H - Потерянная душа#H1. Мольба Эрасмуса|H1. Мольба Эрасмуса]] и просят поговорить с Виктором, барон Валлакович позволяет им это при успешной **проверке Убеждения** или **Обмана Сл 12**, либо автоматически, если они достаточно польстят ему или если леди Вахтер уже захватила власть
 
-If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+Если игроки описывают Виктору визит Erasmus, Виктор бросает взгляд на _зеркало духов_ в своей мастерской и, с обидой в голосе, говорит: ***«Я же сказал тебе, что держу всё под контролем!»***
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
-### What Victor Knows
-If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+
+### Что известно Виктору
+
+Если игроки выражают желание помочь ему, [[Неигровые персонажи#Виктор Валлакович|Виктор]] сначала знакомит их с духом Стеллы через её отражение в _зеркале духов_. Стелла робко машет им рукой, но её не слышно. (Виктор объясняет, что её душа заключена в Эфирном плане, и хотя зеркало отражает образы с другого плана, звук оно не передаёт)
+
 ![[Stella Wachter.png]]
-<span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Victor then shares the following information:
 
-* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
-* Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
-* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
-* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
-* Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
-* Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
-* To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
-* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
+- 3 месяца назад Виктор и его подруга, Стелла Вахтер, узнали, что Дьявол Страд вернулся в эти земли, и согласились, что побег жизненно необходим. Используя знания, которые Виктор почерпнул из старого гримуара, они начали создание _круга телепортации_, который позволил бы им покинуть долину
+- 10 недель назад они, наконец, завершили прототип круга. После 2 экспериментов с кроликами-нежитью, которых Виктор оживлял с помощью костей, купленных у Шольдара и Евгения, Стелла настояла на том, чтобы стать добровольцем для живого, человеческого испытания. Однако тест прошёл ужасно — круг не смог телепортировать тело Стеллы никуда, а отдача подвергла её душу воздействию Эфирного Плана
+- В те короткие моменты, когда её дух находился в Эфирном плане, Стеллу атаковала тёмная тень, чьи когти оторвали её душу от тела. Она бы погибла, если бы Эрасмус не унес её в безопасное место
+- После 2 недель беспокойства о том, что он случайно каким-то образом разрушил разум своей подруги, Виктор узнал, что один из слуг его родителей видел призрак молодой женщины, отражённый в зеркале в гостиной его матери. Виктор выяснил, что это _зеркало духов_, отражающее как Материальный, так и Эфирный планы. С его помощью он смог увидеть и общаться с блуждающим духом Стеллы — сначала через жесты и грубое чтение по губам, а затем с помощью языка жестов, изученного по книге из библиотеки его отца
+- С тех пор Виктор и Стелла усердно работают над тем, чтобы вернуть её душу в тело, но ничего не сработало. Тем временем Стелле приходится скрываться от множества блуждающих духов, которые населяют Пограничный Эфирный план, многие из которых причинили бы ей вред, если бы могли
+- Стелла ощущает, что постепенно теряет воспоминания о своей жизни, пока её форма в Эфирном плане медленно становится всё более эфемерной. Иногда она не может понять, является ли она самой собой или кем-то другим; в такие моменты ей кажется, что часть её свернулась в тёплом и влажном месте, и успокаивающий ритм сердца отзывается эхом в темноте
+- Чтобы усугубить ситуацию, связь между лопатками Стеллы, которая когда-то соединяла её душу с телом, постепенно укорачивается, что заставляет Виктора опасаться, что у неё остаётся чуть больше недели, прежде чем она исчезнет навсегда. (Чем короче эта связь, тем чаще становятся видения Стеллы и тем более туманными её воспоминания)
+- Ни Виктор, ни Стелла, ни Эрасмус не знают личности духа, который оторвал душу Стеллы от её тела. Тем не менее, Виктор может сообщить игрокам, что Эрасмус многократно видел его, бродящим по Эфирному плану вокруг Валлаки с момента его появления — похоже, что он ищет Стеллу — и определил его как _Предвестника гибели_. (Эрасмус, который узнал о существах, читая записи своего отца, предоставил Виктору всю информацию о Предвестниках гибели)
+- Если спросить, почему они не обращались за помощью к другим, Виктор упрямо настаивает, что он не доверяет леди Фионе Вахтер; что его собственный отец, барон, будет хуже, чем бесполезен; и что он и Стелла вполне способны решить её проблему самостоятельно
+
+>[!Предвестник гибели]
+> Предвестники гибели возникают на местах массовой гибели или на местах, где существа регулярно встречают смерть. Со временем измученные болью фантомы и задержавшиеся души объединяются в существо, которое знает смерть в мириадах её форм. Такие скопища духов терзаемы своей общей болью, бесконечно и бессвязно извергая последние мысли, когда они набрасываются на живых. Познав безграничье смерти, предвестники гибели могут предсказывать страдания, предвидеть приговор, вынесенный им, и подавлять разум своих врагов видениями бесчисленных насильственных смертей.
+>
+> Предвестники гибели редко говорят связно или общаются с живыми, они полностью одержимы своими воспоминаниями о смерти. Эта нежить бесконечно бормочет себе под нос, извергая последние проклятия, сожаления, мольбы и извинения. Те, кто задерживается и слушает предвестника гибели, могут получить представление о какой-нибудь из его многочисленных смертей.
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
 

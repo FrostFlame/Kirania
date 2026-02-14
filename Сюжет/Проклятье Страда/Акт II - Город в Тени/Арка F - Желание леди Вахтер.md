@@ -18,9 +18,9 @@ If the players deliver Izek’s severed head to Lady Wachter, she visits Baron V
 
 # Заготовки
 
-- [ ] Приглашение
-- [ ] Изек
-- [ ] Свадьба
+- [x] Приглашение
+- [x] Изек
+- [x] Свадьба
 
 # F1. Таверна Синяя Вода
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
