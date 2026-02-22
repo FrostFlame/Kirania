@@ -7,7 +7,7 @@ If the players reject the Dark Powers’ choice, they awaken to find that Strahd
 With Vallaki saved, however, the players soon learn a grimmer truth: hordes of the dead have risen all across the valley, and an army of thousands more undead is headed toward Vallaki. To stop them, the players must journey to Castle Ravenloft and defeat Strahd—once and for all.
 # U1. The War Council
 ## U1a. The Invitation
-Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fanes]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
+Shortly after the players reconsecrate the final Fane in [[Арка T - Три Святилища]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
 
 * If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
 * If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
@@ -18,14 +18,14 @@ Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on
 
 Lady Wachter can share the following information:
 
-* After aiding the players in defying Strahd’s will (and killing his servants) in [[Arc T - The Three Fanes]], she is now a traitor to Castle Ravenloft. 
+* After aiding the players in defying Strahd’s will (and killing his servants) in [[Арка T - Три Святилища]], she is now a traitor to Castle Ravenloft. 
 * She is unsure what consequences the Fanes’ reconsecration will bring—and how and when Strahd will strike back. “However," she says grimly, “I don’t intend to wait to find out."
 
 The meeting’s attendees have thus far taken the following positions regarding Lady Wachter’s proposal:
 
 * **Lady Wachter.** Lady Wachter believes that Strahd’s counterattack will come swiftly, and that all of Vallaki is likely to suffer for her defiance. She believes that her people are ready to rise up against Castle Ravenloft, and that they must strike first, before Strahd rains destruction upon them.
 * **Father Lucian.** Father Lucian is disturbed by the prospect of Strahd’s wrath, but believes that Vallaki must not move hastily, lest they fall into one of Strahd’s traps. Although he fears the blood and death that may occur from a march on Castle Ravenloft, he reluctantly believes that a confrontation is now inevitable. As such, he believes that a march on Castle Ravenloft may be necessary, but that Vallaki must be given a week to prepare before doing so.
-* **Victor Vallakovich.** Victor believes that Strahd won’t attack Vallaki, and believes that—even if he does—he may be content to simply take Lady Wachter and be done with it. Should Vallaki strike first, he believes, they will seal their own fate and ensure a punishment that rivals the village of Barovia’s. (Though he hasn’t mentioned it, Victor is still angry at Lady Wachter for failing to protect Stella from Strahd’s emissary in [[Arc T - The Three Fanes]].)
+* **Victor Vallakovich.** Victor believes that Strahd won’t attack Vallaki, and believes that—even if he does—he may be content to simply take Lady Wachter and be done with it. Should Vallaki strike first, he believes, they will seal their own fate and ensure a punishment that rivals the village of Barovia’s. (Though he hasn’t mentioned it, Victor is still angry at Lady Wachter for failing to protect Stella from Strahd’s emissary in [[Арка T - Три Святилища]].)
 * **Urwin Martikov.** Urwin isn’t certain that Strahd might attack, but believes it to be a viable possibility. Accordingly, he’s thus far advocated a preparation of Vallaki to defend itself—and to march to Castle Ravenloft, if necessary—but making no overt moves unless Urwin’s spies reveal evidence that Strahd is planning to strike back against them. (“The Keepers of the Feather—too terrified of moving into the open—failed to warn the village of Barovia of what they faced," he says, his voice colored with guilt. “We will not make that mistake again.")
 
 Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
@@ -208,7 +208,7 @@ The woman resembles Stella from behind. If the players approach or interact with
 <p>"At long last," she says, smiling warmly. “I’ve truly looked forward to meeting you."</p>
 </div>
 
-The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
+The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[Арка T - Три Святилища]] or otherwise, immediately recognize it as bearing the same iconography.)
 
 Ezra notes that she is “sure the players have so many questions," and that she is glad to answer them. Before she does, however, she asks only that they “listen to a story"—a tale of how this time came to be. If the players agree, Ezra shares the following information:
 
@@ -268,7 +268,7 @@ The dream then ends, and the players awaken at the end of their long rest. When 
 >
 > Now, the dead have risen from every grave in Barovia—marked and unmarked alike—and march to destroy the living. Strahd’s torments of the Devourer’s vestige, as well as the corrupted energies of the Heart of Sorrows, have awoken the Whispering Wall—the Devourer’s divine corpse—and sent it crawling across Barovia toward Castle Ravenloft, mindlessly seeking to shelter and save its tortured spirit. As it does, however, its misted depths swallow up all in its path, imprisoning them in an endless loop of nightmares to fuel its eastward march.
 ### Into Darkness
-When the players awaken at the end of their first long rest after reconsecrating the Fanes in [[Arc T - The Three Fanes]], read:
+When the players awaken at the end of their first long rest after reconsecrating the Fanes in [[Арка T - Три Святилища]], read:
 
 <div class="description">
 <p>Your limbs and mind tell you that morning has come—but no light illuminates your resting place. Instead, the skies beyond are as dark as the blackest night, tinged with an eerie, crimson glow.</p>

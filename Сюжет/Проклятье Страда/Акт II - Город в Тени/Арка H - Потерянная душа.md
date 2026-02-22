@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 _An adventure for five 5th-level characters._
 
 In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
@@ -92,150 +95,158 @@ Victor then shares the following information:
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
 
-Victor is surprised to hear of the “hauntings” that his family has experienced in the mansion floors below. However, Stella’s spirit—looking bashful—uses handsigns to communicate that she never intended to scare anyone, but that after accidentally learning that she retained some small ability to interact with the Material Plane, she couldn’t resist playing an occasional practical joke on an unsuspecting victim. (If the players ask why she hasn’t used this ability to communicate with her mother, Lady Wachter, Stella confesses that some strange force prevents her from entering the grounds of the estate.)
+Виктор удивлён, услышав о «призрачных явлениях», которые его семья пережила на нижних этажах особняка. Однако дух Стеллы — смущённо — с помощью жестов объясняет, что никогда не намеревалась никого пугать, но, случайно обнаружив, что сохранила небольшую способность взаимодействовать с Материальным планом, не смогла удержаться от редких безобидных розыгрышей ничего не подозревающих жертв. (Если игроки спрашивают, почему она не использовала эту способность, чтобы связаться со своей матерью, леди Вахтер, Стелла признаётся, что некая странная сила не позволяет ей проникнуть на территорию поместья)
 
 If the players agree to help him and Stella, Victor shares with them the following plan:
 
-* To guide Stella’s soul back into her body, he needs to find a way to enter the Ethereal Plane in his own, mortal body and perform an altered version of the teleportation ritual from the other side of the veil.
-* There is a spell—*etherealness*—that would allow him to enter the Ethereal Plane using his own power, but despite his best efforts, he has been unable to master it thus far, and is unlikely to be able to cast it before Stella’s soul disappears into the Deep Ethereal.
-* In the book *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen, Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
+- Чтобы направить душу Стеллы обратно в её тело, ему нужно найти способ войти в Эфирный план в своём собственном, смертном теле и провести изменённую версию ритуала телепортации по ту сторону завесы
+- Существует заклинание — _Эфирность_ — которое позволило бы ему войти в Эфирный план собственной силой, но, несмотря на все усилия, он до сих пор не смог овладеть им и вряд ли успеет сотворить его прежде, чем душа Стеллы исчезнет в Глубинном Эфирном плане
+- В книге _«Эфирные сущности: Обитатели незримого царства»_, написанной архимагом Морденкайненом, Виктор узнал о ритуале, способном воспроизвести эффект заклинания _Эфирность_ для 9 существ. Ритуал должен быть проведён в ночь полнолуния и требует в качестве материального компонента камень сердца **ночной карги**
 
-> [!info]+ **When’s the Full Moon?**
->
-> The players’ first full moon in Barovia always takes place on the night of their sixth full day in Vallaki. (For example, if the players arrive in Vallaki on Sunday night, the full moon will take place on Saturday night.) Victor is aware of this date.
+> [!info]+ **Когда полнолуние?**
+> Первое полнолуние игроков в Баровии всегда приходится на ночь их 6 полного дня в Валлаки (8 ноября). Виктор знает об этой дате
 
-Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in Mordenkainen’s book.
+Виктор сообщает игрокам, что Стелла, исследуя Эфирный план, неоднократно видела исхудалую женскую фигуру с землисто-серо-голубой кожей, глубоко посаженными глазами, спутанными волосами, небольшими бараньими рогами и широкой пастью, полной острых пожелтевших зубов, бродящую по области Пограничного Эфирного плана, перекрывающейся с баровийским лагерем беженцев. Хотя ни Виктор, ни Стелла не знают, что ночной карге нужно от беженцев, Виктор уверен, что описание Стеллы в точности соответствует облику **ночной карги**, приведённому в книге Морденкайнена
 
-Victor asks the players to visit the refugee camp and investigate the night hag’s presence. While Stella has only seen the hag in the Ethereal Plane thus far, Victor strongly suspects that her interest in it extends into the Material Plane as well. While the players investigate, Victor will continue his research into the *etherealness* ritual and the ritual to return Stella’s soul to her body.
+Виктор просит игроков отправиться в лагерь беженцев и расследовать присутствие ночной карги. Хотя до сих пор Стелла видела каргу только в Эфирном плане, Виктор твёрдо подозревает, что её интерес распространяется и на Материальный план. Пока игроки ведут расследование, Виктор продолжит изучение ритуала _Эфирности_ и ритуала возвращения души Стеллы в её тело
 
 If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
 
-> [!lore]+ **Ethereal Entities**
->
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
->
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
->
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
->
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
->
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
->
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+> [!lore]+ **Эфирные сущности**
+> _Эфирные сущности: обитатели Незримого царства_ за авторством Морденкайнена — это тонкая книга в твёрдом переплёте с кожаной обложкой, окрашенной в глубокий, полуночный синий цвет. Название и имя автора выбиты серебряным шрифтом вдоль корешка и на передней обложке, а углы книги украшены мелкой серебряной филигранью, напоминающей эфирные завитки. Её страницы заполнены аккуратно написанным текстом и прекрасно детализированными иллюстрациями. Игроки, которые попросят Виктора разрешить им прочитать книгу или иным образом получат её, могут узнать следующее:
 > 
-> <hr>
->
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
->
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
->
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
->
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
->
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
->
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
->
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
->
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
->
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
->
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+> Книга представляет собой трактат об [[Эфирный план|Эфирном Плане]] и существах, которые обитают в нём или посещают его. Она содержит всю информацию об Эфирном плане, а также бестиарий, разделённый на следующие 3 раздела:
+> 
+> - _**Эфирные: обитатели Глубинного Эфира**_, содержащий информацию о существах, которые, как говорят, обитают исключительно в Глубинном Эфире, таких как мифологические туманники, эфирные тени и мерцающие создания
+> - _**Фантомы: Путешественники из Пограничного Эфира**_, содержащий информацию о нематериальных существах, которые обитают в Пограничном Эфире и часто пересекают Материальный План, таких как **призраки** и **фантомные воины**
+> - _**Скитальцы сквозь завесы: Посетители Эфира**_, содержащий информацию о физических существах, которые могут попадать на Эфирный План, таких как **ночные ведьмы**, **кошмары** и **фазовые пауки**
+> 
+> Подраздел, посвящённый **фазовым паукам**, содержит краткую заметку о том, что большинство нематериальной нежити имеет иммунитет к урону от стихий, естественного и немагического оружия, находясь на Материальном Плане, а также о природных способах, которые разработали фазовые пауки для преодоления этих иммунитетов с помощью своих клыков и яда. В ней отмечается, что заклинатель может нанести урон нематериальному духу обычным образом, используя клык фазового паука в качестве дополнительного материального компонента для произнесения заклинаний, тогда как боевой персонаж может нанести урон нематериальному духу, покрыв 1 оружие или до 3 боеприпасов ядом фазового паука или святой водой
+> 
+> Подраздел, посвящённый **ночным ведьмам**, содержит краткую заметку о ритуале, использующем _**сердечный камень**_ ночной ведьмы и энергии лей-линии для воспроизведения эффекта заклинания _Эфирность_ для до 10 человек на 1 час в ночь полнолуния
+> 
+> Глава, посвящённая **ночным ведьмам**, носит название «Ночные ведьмы: Матроны Злобности». Она гласит следующее:
+> 
+> ---
+> 
+> Хитрые и коварные, ночные ведьмы олицетворяют злодейство. Они представляют всё, что в мире зло и жестоко, и не желают ничего больше, чем увидеть, как добродетельные обращаются к злодеянию: любовь превращается в одержимость, доброта — в ненависть, преданность — в пренебрежение, а щедрость — в эгоизм
+> 
+> Когда-то ночные ведьмы были существами Страны Фей, царства чар и красоты. Однако их мерзость привела к изгнанию в мрачное царство Ада давным-давно, где они деградировали в исчадия. Гнусная порча Ада исказила их некогда фейскую природу, и с тех пор ночные ведьмы распространяют своё зло по Нижним Планам
+> 
+> Хотя ночные ведьмы похожи на иссохших старух, в них нет ничего смертного. Их иссохшие лица обрамлены длинными, лохматыми волосами и закрученными бараньими рогами; отвратительные родинки и бородавки покрывают их пятнистую бледно-голубую кожу; а длинные, худые пальцы оканчиваются когтями, способными разрезать плоть одним касанием
+> 
+> Все ведьмы обладают магическими способностями, включая умение изменять свои формы или проклинать врагов. Ведьма также имеет некоторую устойчивость к магии и смертным орудиям, хотя прикосновение серебра ранит её, как и любого другого
+> 
+> Высокомерные до крайности, ведьмы считают себя самыми хитрыми существами — и очень часто таковыми являются. Они открыты для сделок с смертными и всегда держат своё слово, но договор с ведьмой всегда опасен. Ведьмы получают удовольствие, наблюдая, как смертные через эти сделки приводят себя к гибели, часто поступаясь своими принципами или отдавая что-то дорогое
+> 
+> Высшей наградой ночной ведьмы, однако, является душа испорченного смертного. Пока её жертва спит, ночная ведьма проходит на Эфирный План с помощью своего извращённого ониксового сердечного камня — артефакта, позволяющего ей становиться Эфирной со скоростью мысли. Там она вторгается в сны своей жертвы, наполняя её голову сомнениями и страхами в надежде заставить совершать злые поступки в реальном мире
+> 
+> Ночь за ночью она продолжает свои посещения, пока жертва наконец не умрёт во сне — в этот момент она заточает её испорченную душу в своей сумке душ в качестве тёмного трофея своей победы. Чем темнее пятна на душе, тем больше награда ночной ведьмы
+> 
+> Как и все ведьмы, ночные ведьмы размножаются, похищая и поедая человеческих младенцев. Через неделю ведьма рождает дочь, которая выглядит как человек до своего 13 дня рождения — после чего ребёнок превращается в точную копию своей ведьмовской матери
+> 
+> Некоторые ведьмы ростят дочерей, которых они рождают, создавая шабаши, усиливающие их силу. Члены шабаша получают множество сверхъестественных способностей, включая умение управлять стихиями и — 1 раз в день — рассеивать чужую магию вблизи своих логов. Как и вся ведьминская магия, такая сила имеет свою цену — рана, полученная одной ведьмой в шабаше, нанесена всем
+> 
+> Чтобы сдерживать свои изначально эгоистичные натуры, ведьмы в шабаше должны заключить письменный контракт с другими, подписанный истинными именами каждой ведьмы. Ведьмы в шабаше ревниво охраняют свой контракт, часто запечатывая его в сердце своего логова и внимательно следя за тем, чтобы их имена не попали в руки врагов
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Арка M - Поместье Дракона#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
-# H3. The Refugee Camp
-If it's been at least six hours since Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
+> Позднее игроки столкнутся с **фазовыми пауками** в Аргинвостхольте и получат возможность добыть их клыки и яд, чтобы противостоять **призрачным воинам**, скрывающимся там. Подробнее о добыче и использовании частей фазовых пауков см. [[Арка M - Поместье Дракона#M4c. Бальный зал пауков|Арка M — Поместье Дракона]]
+
+# H3. Лагерь беженцев
+
+Если с момента инаугурации леди Вахтер в [[Арка F - Желание леди Вахтер]] прошло как минимум **6 часов**, лагерь беженцев был перемещён на Городскую площадь (стр. 119) (беженцы по-прежнему живут в палатках, пока леди Вахтер ищет для них подходящее жильё)
 
 If Lady Wachter hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
 
-<div class="description">
-<p>Past Vallaki's gates lies a cluster of ramshackle tents huddled against the wall, as though seeking shelter beneath the looming silhouette of the town's palisade walls. The tents themselves are laid out in a simple two-sided thoroughfare, with crude wooden barricades and muddy ditches beyond the far side facing out against the dark forest beyond.</p>
-<p>Through gaps in the threadbare canvas, you can see crude wooden pallets, makeshift bedrolls, and the occasional battered cooking pot. Small, low-burning cookfires dot the grimy narrow avenue, and piles of sticks and half-rotted logs rest haphazardly beside them.</p>
-<p>Dozens of people, their bodies gaunt and their faces drawn, move slowly about the camp. Their eyes are sunken and hollow, their clothes hanging loose on their thin frames. A few of them huddle about the campfires, bodies hunched against the chill air and hands outstretched for the meager warmth.</p>
-</div>
-
-## H3a. Inside the Camp
-If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
-
-Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
-
-Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
-
-* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
-
-If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
-
-Emeric and Magda are glad to take the players to see him, but warn them that Franz, a widower, has recently lost his children as well and is likely still grieving or disturbed. Magda further adds that Franz has suffered from a strange wasting disease ever since the nightmares first began, and offers her hope that the players may be able to treat him.
-## H3b. Franz’s Tent
-Emeric and Magda lead the players to a small, lonely tent set up at the end of the camp’s muddy avenue. When the players enter, read:
-
-<div class="description">
-<p>Within this sagging, cramped tent lie three stained pallets, two of which are child-sized. An old and patched stuffed rabbit lies across the closest pallet, its black button eyes staring sightlessly into the air.</p>
-<p>A young woman kneels in the mud beside the full-size pallet, clutching a bundle of wilted herbs in one fist and holding a damp rag over the forehead of a frail, gaunt-looking man lying across the pallet. The man's skin is pale and drenched in sweat, his clothes torn and ragged. Wispy, scraggled hair rises from his wrinkled scalp, while his face, illuminated beneath the dying light of a single, sputtering candle, is etched with exhaustion. A full moment passes before you realize that this ghost of a man is likely scarcely older than thirty.</p>
-</div>
-
-The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
-
-Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
-
-If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
-
-* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
-* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
-* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
-* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
-* As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
-* Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
-* In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
-* For the duration of the nightmare, Franz is paralyzed and unable to look away or even twitch a single muscle. Each time he awakens, his body wastes away before him. (Morgantha hasn't returned to the camp since the first nightmare.)
-
-With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
-
-If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
-
-Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
-
-> [!abstract]+ **Franz’s Fate**
+>[!read]
+> За воротами Валлаки располагается группа обветшалых палаток, прижатых к стене, словно ища укрытие под нависающим силуэтом палисадных стен города. Сами палатки выстроены вдоль простой двухсторонней дороги, за противоположной стороной которой расположены грубые деревянные баррикады и грязные рвы, защищающие от тёмного леса за ними
 >
-> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms. If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. 
-# H4. Victor’s Plan
+> Сквозь прорехи в потёртом холсте виднеются грубые деревянные поддоны, импровизированные постели и иногда потрёпанные кастрюли. Небольшие, слабо тлеющие костры разбросаны вдоль грязной узкой улицы, а кучи веток и наполовину сгнивших бревен лежат рядом с ними вперемешку
+>
+> Десятки людей, с изнурёнными телами и измождёнными лицами, медленно перемещаются по лагерю. Их глаза впалые и пустые, одежда болтается на худых телах. Некоторые собираются у костров, сгорбившись от холодного воздуха и протягивая руки к скудному теплу
+
+## H3a. В лагере
+
+Если игроки войдут в лагерь, их вскоре настороженно встречают Эмерик, меланхоличный пожилой мужчина с седеющими волосами, и Магда, опечаленная молодая женщина с тёмными кругами под глазами. (Хотя у лагеря нет официального руководства, Эмерик и Магда были частью первой волны беженцев из Баровии и возглавили усилия по встрече и организации новых жителей после осады Страда)
+
+Эмерик и Магда настороженно относятся к посторонним, но им любопытно узнать, зачем игроки пришли в их лагерь. (Магда на короткое время надеется, что игроки — слуги барона Валлаковича и пришли пригласить беженцев в Валлаки, — надежда, от которой Эмерик вскоре избавляет её, указывая на странный вид игроков)
+
+Эмерик и Магда могут поделиться следующей общей информацией о лагере (с изменениями в зависимости от текущих событий)
+
+- Первые беженцы из Баровии прибыли к воротам Валлаки 3 месяца назад, но им было запрещено войти. Когда они попытались прорваться через ворота силой, стража призвала человека, которого называли Изек, у которого была искривлённая дьявольская рука, и который вызывал огонь, чтобы отогнать беженцев назад
+- С тех пор беженцы устроили лагерь за стенами города, собираясь вместе ради защиты и тепла. Им удалось достать некоторые необходимые вещи, такие как палатки, подкупив стражу у ворот, но им не удалось убедить стражу впустить их в город или даже пригласить барона города для обсуждения их бедственного положения
+- С тех пор, как они прибыли, лагерь каждую ночь терзали стаи летучих мышей и волков. К счастью, пока никто не погиб, но несколько беженцев получили ранения
+- Из-за потерь, которые они понесли в пути, и угрозы со стороны Дьявола в замке Рэйвенлофт, беженцы не хотят рисковать возвращением домой, надеясь дождаться, пока барон одумается и позволит им войти за стены
+- Примерно четверть беженцев стали зависимыми от «пирожных сновидений», продукта, продаваемого торговкой Моргантой. Эти беженцы ищут способ уйти от страданий и отчаяния своей ситуации. Те, кто съедает пирожное сновидений, впадают в транс, как описано в Пирожные сновидений (с. 125). Эмерик и Магда могут добавить, что Морганта не навещала лагерь несколько дней
+
+Если игроки спросят о **ночной ведьме**, Эмерик и Магда обменяются взглядами и сообщат, что её описание совпадает с повторяющимся кошмаром, который Франц, ещё один беженец, испытывает уже последние две ночи
+
+Эмерик и Магда с радостью готовы отвести игроков к нему, но предупреждают, что Франц, вдовец, недавно потерял также своих детей и, вероятно, всё ещё скорбит или пребывает в состоянии тревоги. Магда добавляет, что с тех пор как начались кошмары, Франц страдает от странной истощающей болезни, и выражает надежду, что игроки смогут ему помочь
+
+## H3b. Палатка Франца
+
+Эмерик и Магда ведут игроков к небольшой, одинокой палатке, установленной в конце грязной аллеи лагеря. Когда игроки входят, зачитайте:
+
+>[!read]
+> Внутри этой провисшей, тесной палатки лежат 3 запятнанных матраса, 2 из которых детского размера. Старый заштопанный плюшевый кролик лежит на ближайшем матрасе, его чёрные пуговичные глаза безжизненно смотрят в воздух
+>
+> Молодая женщина стоит на коленях в грязи рядом с матрасом нормального размера, сжимая в одной руке пучок увядших трав и прижимая влажную тряпку ко лбу хрупкого, измождённого мужчины, лежащего на матрасе. Кожа мужчины бледная и покрыта потом, одежда порвана и обтрепана. Редкие, спутанные волосы торчат на морщинистой голове, а лицо, освещённое умирающим светом одной мерцающей свечи, изрезано усталостью. Проходит мгновение, прежде чем вы понимаете, что этот призрачный человек, вероятно, едва старше 30 лет
+
+Мужчина — Франц. Женщина — его сестра, по имени Ньянка. Ньянка ухаживает за Францем с самого утра, но не смогла определить его состояние и оказать лечение
+
+Увидев игроков, Франц задыхаясь от смеха спрашивает, не демоны ли они, посланные Матерью Ночи, чтобы утащить его душу в Туманы. Ньянка извиняется за его поведение и сообщает, что он пребывает в бреду с тех пор, как начались кошмары и болезнь
+
+Если игроки спросят Франца о **ночной ведьме**, он сначала требует, чтобы Ньянка, Эмерик и Магда вышли и оставили его наедине с игроками. (Никто из 3 других беженцев не возражает против этой просьбы.) Франц может затем поделиться с игроками следующей информацией:
+
+- 3 месяца назад, вскоре после того как его жена Алана умерла от болезни, Франц присоединился к первым 2 десяткам беженцев, покинувших деревню Баровия в направлении укреплённого города Валлаки на западе. Франц привёл с собой своих 2 детей — 7-летнего Фёдора и 5-летнюю Мирту — надеясь уберечь их от слуг Страда
+- Через несколько недель после прибытия в лагерь Франц начал покупать сонные пирожные у торговки Морганты. Видения, вызываемые этими пирожными, позволяли ему видеть Алану, возвращённую в его объятия, словно она никогда не умирала
+- Франц регулярно покупал пирожные сновидений у Морганты, проводя часы, а затем дни, погружённый в мирные сны. Однако в конце концов его сбережения иссякли, и Морганта отказалась продавать ему дополнительные пирожные — если только он не заплатит страшную цену
+- 3 ночи назад Франц повёл Фёдора и Мирту за линию деревьев на краю леса. Там Морганта погрузила детей в магический сон и засунула их в мешок, который несла через плечо. В обмен она пообещала Францу столько сонных пирожных, сколько он сможет съесть, каждый раз, когда она возвращается, на всю оставшуюся жизнь
+- Когда Морганта повернулась уходить, Франц услышал, как Мирта во сне зовёт его, и сразу же пожалел о содеянном. Он потребовал, чтобы Морганта немедленно вернула ему детей; когда она рассмеялась и сказала, что их сделка окончательна, он попытался забрать детей силой. Однако одним взмахом рук она погрузила его в сон — и когда он проснулся, её нигде не было видно
+- Франц искал в лесу часами, но не нашёл ни следа Морганты, ни своих детей. Когда он наконец рухнул от усталости обратно в свою палатку в лагере, его охватили ужасные кошмары, которые повторяются каждую ночь с тех пор
+- В кошмаре он привязан к жернову, его 4 рычага подняты над ним. На его груди сидит измождённая женская фигура с серо-голубой кожей, глубоко посаженными глазами, спутанными волосами, маленькими бараньими рогами и широкой пастью с острыми пожелтевшими зубами, прижимая к его лбу искривлённый ониксово-чёрный камень и шепча, что я обречён. На заднем плане он слышит, как Фёдор и Мирта всхлипывают за пределами его поля зрения, пару визгливых хохотов и звук лопастей ветряной мельницы, скрежещущих на ветру
+- На протяжении всего кошмара Франц парализован и не может отвести взгляд или пошевелить хоть одним мускулом. Каждый раз, когда он просыпается, его тело истощается на глазах. (Морганта не возвращалась в лагерь с момента первого кошмара)
+
+Хриплым голосом Франц умоляет игроков спасти Фёдора и Мирту из лап Морганты. Хотя он считает, что его нынешнее состояние — это проклятие, посланное богами в наказание за его грехи, и принимает муки смерти как покаяние, он верит, что его дети не заслуживают страданий, которые Морганта, вероятно, на них обрушивает. Он не может предложить игрокам ни золота, ни сокровищ за их усилия — только свою благодарность
+
+Если игроки спросят, Франц может рассказать, что его сестра Нянка, которая сейчас верит, что детей съели оборотни в Сваличском лесу, с радостью присмотрит за ними и позаботится о них, пока он будет восстанавливаться. ***«Я знаю, что не заслуживаю быть их отцом»***, — сипло говорит он, слёзы катятся по его лицу. ***«Всё, чего я хочу, — это видеть их в безопасности и счастливыми»***
+
+Перед тем как игроки покинут палатку Франца, он хватается за ближайшего и сипло говорит: ***«Я чувствовал это — сердце ветряной мельницы — 3 чёрных сердца бьются как 1 в жернове подо мной. Искривлённая рука держит ключ»***. После этого он падает, впадая в глубокий, беспокойный сон
+
+> [!abstract]+ **Судьба Франца**
+> Игроки могут определить природу нынешнего состояния Франца, обратившись к _Эфирным Сущностям_ или спросив доктора Рудольфа вон Рихтена о диагнозе его симптомов. Если обратиться к вон Рихтену, он сообщает игрокам, что единственный истинный способ положить конец _**кошмарному преследованию ночной ведьмы**_ — это убить саму ведьму или заключить с ней сделку
+
+# H4. План Виктора
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
+Когда игроки покидают лагерь беженцев, один из них получает следующее заклинание _Послание_ от [[Неигровые персонажи#Виктор Валлакович|Виктора]]: ***«Вы нашли её? Возвращайтесь на чердак. У меня есть план»***
 
-When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
+Когда игроки возвращаются в мастерскую Виктора в особняке бургомистра, он сообщает им следующую информацию:
 
-* There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
-* To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
-* To obtain the heartstone by force, the players will need to incapacitate or kill the hag. However, this is far more difficult for multiple reasons. First, hags tend to gather in covens of three, a practice that makes each hag stronger and provides easy access to allies. (Victor asks the players nervously whether the hag is known to have any “sisters” or “daughters.”) Second, **night hags** in particular can use their heartstones to flee into the Ethereal Plane as soon as they feel threatened—an escape mechanism that can’t be counteracted.
-* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
-### The Heart of the Windmill
-If the players tell Victor about Franz's words, he recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.* 
+- Существует 2 возможных способа получить сердечный камень у ночной ведьмы: добровольно или силой
+- Чтобы получить сердечный камень добровольно, игрокам, вероятно, придётся выменять нечто великой ценности в обмен на заём сердечного камня. Ведьмы — легендарные мастерицы заключать сделки и могут соблюдать букву своего слова — но _только_ букву
+- Чтобы получить сердечный камень силой, игрокам придётся сделать каргу недееспособной или убить её. Однако это гораздо сложнее по нескольким причинам. Во-первых, карги склонны собираться в шабаши по 3, что делает каждую каргу сильнее и обеспечивает лёгкий доступ к союзникам. (Виктор нервно спрашивает игроков, известно ли им, есть ли у ведьмы какие-нибудь «сёстры» или «дочери».) Во-вторых, **ночные ведьмы** в особенности могут использовать свои сердечные камни, чтобы сбежать в Эфирный план, как только почувствуют угрозу — способ побега, которому невозможно помешать
+- Чтобы не дать ведьме сбежать в Эфирный план посреди боя, игрокам придётся заключить её в связывающий круг до начала враждебных действий. Виктор также советует игрокам раздобыть посеребрённое оружие, которое понадобится, чтобы преодолеть сильную демоническую защиту ведьм
 
-Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
+### Сердце мельницы
 
-Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
+Если игроки расскажут Виктору о словах Франца, он узнаёт в «искривлённом ониксово-чёрном камне» описание сердечного камня ночной ведьмы, приведённое в _Эфирных Сущностях_
 
-Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
-### The Binding Ritual
-Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
+Виктор не уверен, что Франц имел в виду под «сердцем ветряной мельницы». (Он уверен, что это не сердечный камень, поскольку ночные ведьмы всегда носят свои сердечные камни при себе)
 
-Soon thereafter, Stella’s spirit can be seen excitedly gesturing from the *spirit mirror*. As he interprets her handsigns, Victor’s eyes widen and his face pales. “You can’t be serious,” he stammers. “Absolutely not!”
+Виктор вспоминает, что видел сведения о ветряной мельнице в старой книге записей в библиотеке своего отца. (Виктор с горечью вспоминает об этой книге, потому что Варгас заставил его написать доклад по истории Валлаки в наказание за то, что Виктор плохо отозвался об основателе города, Борисе Валлаковиче)
 
-If confronted by the players, Victor reluctantly reveals that Stella claims to have seen a similar binding circle while exploring the Ethereal Plane, but on a much larger scale: an enormous circle that surrounds the entirety of Wachterhaus and prevents her from entering the grounds. (Stella has been attempting to enter the estate in order to communicate with her mother, but has failed due to the circle’s presence.) Stella suspects that her mother, Lady Wachter, might know how to create one to bind the hags as well.
+Достав книгу, Виктор открывает её и показывает чертёж ветряной мельницы, размещённый рядом с оригинальным актом передачи земли от барона Бориса Валлаковича Густаву и Элизабет Дёрст. Он взволнованно указывает, что в конструкции жернова предусмотрен отсек, встроенный в его боковую часть — вероятно, для хранения. Если ведьмы прячут в мельнице что-то иное, кроме сердечного камня, то, скорее всего, это находится в этом отсеке
 
-Stella, through Victor, suggests that the players visit Wachterhaus to request Lady Wachter’s help in binding the night hags. Stella warns them that her mother is a cautious and skeptical woman, especially where the Vallakoviches are concerned; if Lady Wachter doesn’t believe the players’ story, they will likely need to ask her to disable Wachterhaus’s protective circle in order to allow Stella to show her presence.
+### Связывающий ритуал
+
+Виктор с тревогой сообщает игрокам, что не смог найти способа проведения ритуала связывания. Повернувшись к соответствующей странице в своей книге заклинаний, он показывает им иллюстрацию, изображающую связывающий круг, но жалуется, что сама книга не содержит информации о том, как его на самом деле создать
+
+Вскоре после этого дух Стеллы можно увидеть, радостно жестикулирующим из _Зеркала Духов_. Интерпретируя её жесты, глаза Виктора расширяются, а лицо бледнеет. ***«Ты не можешь быть серьёзна»***, — заикается он. ***«Совершенно нет!»***
+
+Если игроки настаивают, Виктор неохотно сообщает, что Стелла утверждает, что видела подобный связывающий круг, исследуя Эфирный план, но в гораздо больших масштабах: огромный круг, охватывающий весь Вахтерхаус и не позволяющий ей войти на территорию. (Стелла пыталась попасть на усадьбу, чтобы связаться с матерью, но не смогла из-за присутствия круга.) Стелла подозревает, что её мать, леди Вахтер, могла бы знать, как создать такой круг для связывания карг тоже
+
+Стелла через Виктора предлагает игрокам посетить Вахтерхаус, чтобы попросить леди Вахтер помочь в связывании ночных ведьм. Стелла предупреждает, что её мать — осторожная и скептичная женщина, особенно когда дело касается Валлаковичей; если леди Вахтер не поверит рассказу игроков, им, вероятно, придётся попросить её отключить защитный круг Вахтерхауса, чтобы Стелла смогла проявиться
 
 > [!lore]+ **Wachterhaus’s Protective Circle**
 >
@@ -1221,7 +1232,7 @@ The following morning, Victor also sends the players the following message with 
 > Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
-> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
+> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Арка T - Три Святилища]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Арка O - Ужин с Дьяволом]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 

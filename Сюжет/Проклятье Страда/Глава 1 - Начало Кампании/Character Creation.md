@@ -249,7 +249,7 @@ Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** 
 
 The player who possesses the *wolf's tooth* should have strong, vivid reasons to believe that the tooth is the key to curing a particular wound, malady, or curse that ails them.
 
-***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Арка J - Украденный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Arc T - The Three Fanes]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
+***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Арка J - Украденный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Арка T - Три Святилища]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
 
 ## Duty—The Raven's Feather
 ![[Raven's Feather.png]]
@@ -261,7 +261,7 @@ The player who possesses the *raven's feather* should have strong, vivid reasons
 
 ***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
 
-When the player first enters the circle of standing stones at the Mountain Fane in [[Arc T - The Three Fanes]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
+When the player first enters the circle of standing stones at the Mountain Fane in [[Арка T - Три Святилища]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
 ## Power—The Crumpled Page
 ![[Crumpled Page.png]]
 A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.

@@ -493,7 +493,7 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 > The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life. 
 > 
 > If shown the rings, Godfrey notes only, with mild interest, that the rings' engraving appears to be excerpted from the oath of the Order of the Silver Dragon, which is described further in [[#Knights of the Order]].
-## M4c. Spiders’ Ballroom
+## M4c. Бальный зал пауков
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
