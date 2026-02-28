@@ -1,50 +1,65 @@
-_An adventure for five 5th-level characters._
+---
+dg-publish: true
+---
+_Приключение для 5 персонажей 5-го уровня_
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
+# Подготовка
 
-Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
+- [ ] Талисман множественного героизма
+- [ ] 4 фанатика культа
+- [ ] Леди Вахтер
+- [ ] Виктор
+- [ ] Морганта
+- [ ] Морганта+
+- [ ] Офелия
+- [ ] Офелия+
+- [ ] Белла
+- [ ] Белла+
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly 3 months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+В этой арке, после призрачного визита в **Таверне Синяя Вода** или осторожной сделки в особняке барона, Виктор Валлакович просит игроков помочь ему вернуть душу Стеллы Вахтер в её тело, найдя способ попасть в Эфирное Плоскость, где её дух заточён. Для этого игрокам нужно помочь Виктору добыть сердечный камень **ночной ведьмы** к ночи полнолуния, которое наступит на 6 день после первого прибытия игроков в Валлаки (8 ноября)
 
-Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
+Если игроки согласятся выполнить просьбу Виктора, он сообщает им, что Стелла, находясь на Эфирном Плане, видела, как **ночная ведьма** охотится на сны нескольких членов лагеря беженцев из Баровии. Он советует игрокам посетить лагерь, чтобы выяснить местонахождение ведьмы, пока он готовит ритуалы, необходимые для переноса игроков в Эфирное Плоскость и возвращения души Стеллы в её тело
 
-When the players return the following day, Victor anxiously informs them that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of Wachterhaus, which Stella saw while exploring through the Ethereal Plane.
+В лагере беженцев игроки могут узнать о торговке Морганте, которая регулярно продавала сонные пирожные беженцам и нескольким жителям Валлаки с момента прибытия беженцев почти 3 месяца назад. Находясь там, игроки также могут встретить Франца, беженца-вдовца, который страдает от изнуряющей болезни последние 2 ночи. Франц признаётся игрокам, что 2 дня назад продал своих детей, Мирту и Фёдора, Морганте, чтобы заплатить за свои грёзы, и что теперь он несёт кару за свои грехи. Игроки могут узнать от беженцев, что Морганта не посещала город с тех пор, как Франц продал ей своих детей
 
-If the players request Lady Wachter’s help, she assists them only if they have already won her favor by killing Izek Strazni, or if they can persuade her to lower the binding circle around Wachterhaus to allow Stella to communicate her presence. Otherwise, Lady Wachter assumes that they and Victor are playing a cruel joke upon her and dismisses them with disgust. 
+Вскоре после разговора с Францем игроки получают заклинание _Послание_ от Виктора с приглашением вернуться на чердак особняка барона. Там Виктор предлагает им 2 пути, которыми они могут пойти, чтобы заполучить сердечный камень ночной ведьмы: они могут заключить с ней сделку, чтобы получить его, или попытаться запечатать её в круге связывания, а затем убить. Если игроки выбирают последний вариант, Виктор сообщает им, что ему потребуется ещё 1 день, чтобы изучить круг связывания, прежде чем они смогут отправиться в логово Морганты
 
-If the players successfully obtain Lady Wachter’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
+Когда игроки возвращаются на следующий день, Виктор тревожно сообщает им, что не смог найти способ провести ритуал связывания. Однако Стелла может сообщить группе, что подобный круг огромных размеров окружает весь Вахтерхаус, который она увидела, исследуя его через Эфирный план
 
-If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
+Если игроки попросят помощи у леди Вахтер, она помогает им только в том случае, если они уже завоевали её расположение, убив Изека Стражни, или если смогут убедить её ослабить круг связывания вокруг Вахтерхауса, чтобы позволить Стелле сообщить о своём присутствии. В противном случае леди Вахтер решит, что они и Виктор разыгрывают над ней жестокую шутку, и с отвращением прогонит их
 
-Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
+Если игроки успешно заручатся помощью леди Вахтер, она и 4 её **фанатиков культа** присоединяются к игрокам в путешествии к логову Морганты в Старой Костедробилке. Леди Вахтер предупреждает игроков, что им необходимо узнать имена всех ведьм в мельнице, чтобы связать их, иначе кто-либо из членов шабаша сможет сбежать и напасть на неё или её культистов. Когда игроки узнают имена дочерей Морганты (и, желательно, спасут детей, заточённых внутри мельницы), Белла Солнечное Проклятие и Оффалия Червиворот, леди Вахтер возглавляет своих культистов в создании огромного круга связывания, который привязывает **ночных ведьм** к Материальному плану, позволяя игрокам и Виктору уничтожить их
 
-> [!lore]+ **The Fate of Stella Wachter**
+Если игроки не смогут заручиться помощью леди Вахтер и вместо этого решат заключить сделку с Моргантой, чтобы одолжить её сердечный камень, Морганта соглашается дать его игрокам при условии, что они пообещают позднее доставить _пиявку душ_ к столу камердинера Страда, Рахадина, чью извращённую душу Морганта жаждет. В качестве залога Морганта забирает сны игроков, лишая их возможности получать преимущества продолжительного отдыха, если они не выполнят её требование в течение следующих 14 дней
+
+Если игроки успешно получат сердечный камень силой или посредством переговоров, Виктор отправляет группу — и леди Вахтер, если она присутствует — в Эфирный план, чтобы провести ритуал и защитить дух Стеллы от волны ненасытных духов, стремящихся завладеть её бездушным телом. Однако орда не одинока, и их предводитель — садистский **предвестник гибели**, управляемый духом Лео Дилиснии — питает древнюю вражду к дому Вахтер…
+
+> [!lore]+ **Судьба Стеллы Вахтер**
+> 3 года назад Виктор нашёл книгу заклинаний в библиотеке своего отца, как описано в **N3t. Мастерская Виктора** (стр. 109). Однако это была не просто книга заклинаний — это была утраченная книга заклинаний лича Хазана, долгое время считавшаяся уничтоженной в катастрофе, приведшей к смерти Хазана. Виктор усердно изучал её тайны, используя точные заметки Хазана и собственный выдающийся интеллект, чтобы овладеть многими содержащимися в ней заклинаниями
 >
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> 6 месяцев назад Виктор встретил Стеллу Вахтер, младшую дочь леди Фионы Вахтер, когда пускал камешки на озере Зарович. Стелла и Виктор с удивлением обнаружили, что разделяют взаимный интерес к магии, мифам и философии. Несмотря на явное неодобрение их родителей, они быстро стали близкими друзьями
 > 
-> Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
+> Заставив Стеллу пообещать хранить тайну, Виктор застенчиво показал ей свою книгу заклинаний и часть магии, которую он умел творить. Стелла была очарована и сразу же вызвалась стать его помощницей в исследованиях — предложение, которое ошеломило и польстило Виктору
 > 
-> After swearing Stella to secrecy, Victor shyly showed her his spellbook and some of the magic he could perform. Stella was fascinated, and immediately volunteered to serve as his research assistant, an offer that left Victor stunned and flattered.
+> Когда Страд пробудился от спячки, Виктор и Стелла пришли к выводу, что бегство от его тирании крайне необходимо. (Виктор также надеялся на возможность вырваться из-под власти своих родителей, а Стелла — вывести из Баровии свою семью.) Они вместе окунулись в новый исследовательский проект: создание круга телепортации, способного вывести их из Баровии
 > 
-> When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
+> 10 недель назад их прототип круга телепортации был завершён. После того как они провели несколько небольших экспериментов с использованием неживых кроликов, которых Виктор оживлял из костей животных, Стелла с восторгом настояла на испытании на живом человеке и вызвалась пойти первой. Виктор нехотя согласился — и произошла трагедия
 > 
-> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+> Ни Стелла, ни Виктор не могли знать этого, но Туманы Баровии образовали уникальный метафизический барьер против круга телепортации Виктора. Заклинание провалилось — и психическая отдача на короткое время подвергла душу Стеллы воздействию первозданной энергии Эфирного плана
 > 
-> Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
+> Там мстительный дух Лео Дилиснии, **предвестник гибели**, привлечённый магическим маяком заклинания Виктора, ощутил присутствие своего древнего врага и ударил, оторвав душу Стеллы от её тела
 > 
-> There, the vengeful spirit of Leo Dilisnya, a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
+> Прежде чем Лео успел её убить, призрак Эрасмуса ван Рихтена быстро унес её, скрыв от глаз
 > 
-> Before Leo could kill her, however, the ghost of Erasmus van Richten swiftly swept her away, concealing her from sight.
+> На Материальном плане, когда дым и свет рассеялись, Виктор увидел Стеллу, стоящую вялой в центре круга, с тусклыми и безжизненными глазами
 > 
-> Back on the Material Plane, when the smoke and light cleared, Victor saw Stella standing limply at the center of the circle, her eyes dull and unresponsive.
+> В ужасе от мысли, что его отец может узнать о магических способностях Виктора — или, что ещё хуже, обвинить Виктора в судьбе Стеллы — Виктор сказал ему, что она внезапно впала в кататонию без видимой причины. Варгас, с самого начала недовольный присутствием Стеллы, был более чем рад найти предлог, чтобы избавиться от «девчонки Вахтер», и приказал Изеку немедленно вернуть её в Вахтерхаус. Фиона была в ужасе от судьбы Стеллы и начала в тайне строить планы по уничтожению семьи Валлакович с тихой яростью
 > 
-> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. Fiona was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
+> Виктор провёл 2 недели, терзаемый виной и печалью, прежде чем, странным образом, один из слуг упомянул, что видел дух, похожий на Стеллу, в зеркале в гостиной его матери. Именно через **Зеркало Духов** Виктор узнал, что душа Стеллы всё ещё живёт на Эфирном Плане — и именно через это зеркало, общаясь с помощью жестов рук и чтения по губам, они — теперь при поддержке призрака Эрасмуса ван Рихтена — начали работу по возвращению души Стеллы в её тело
 > 
-> Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s parlor. It was through the *spirit mirror* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of Erasmus van Richten—began to work to restore Stella’s soul to her body.
+> С тех пор Виктор стремительно пытается усилить свои магические способности, чтобы либо каким-то образом перепрофилировать неисправный **круг телепортации** для возвращения души Стеллы, либо стать достаточно могущественным, чтобы сотворить высокоуровневое заклинание _Эфирность_ из книги заклинаний Хазана
 > 
-> Since then, Victor has been rapidly attempting to enhance his magical abilities, either to somehow repurpose the faulty *teleportation circle* to restore Stella’s soul or to become powerful enough to cast the high-level _etherealness_ spell in Khazan’s spellbook.
-> 
-> However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
+> Однако Виктор, Стелла и Эрасмус недавно осознали, что время уходит. Граничная **Эфирная Плоскость** полна других блуждающих духов, многие из которых гораздо менее дружелюбны, чем сама Стелла, и Эрасмус не сможет защищать её вечно. Ещё хуже то, что дух Стеллы, по-видимому, постепенно слабеет, всё сильнее и сильнее притягиваемый **Эфирной Плоскостью** с каждым днём. Если её душа скоро не вернётся в тело, Стелла может потерять себя — навсегда
 
 # H1. Мольба Эрасмуса
 
@@ -56,7 +71,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 
 Пока дух Эрасмуса присутствует, игрок, преуспевший в **проверке Проницательности** или **Восприятия Сл 10**, ощущает в комнате призрачное присутствие — присутствие, излучающее невинность и чувство яростной решимости
 
-The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
+Игроки могут узнать от Урвина Мартакова, Даники Дораковой, отца Люциана Петровича или леди Фионы Вахтер, что «Виктор» — это имя сына-подростка барона Валлаковича
 
 # H2. Особняк бургомистра
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
@@ -65,7 +80,7 @@ The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrov
 
 Если игроки описывают Виктору визит Erasmus, Виктор бросает взгляд на _зеркало духов_ в своей мастерской и, с обидой в голосе, говорит: ***«Я же сказал тебе, что держу всё под контролем!»***
 
-A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
+Мгновение спустя лицо Виктора смягчается, и он неохотно сообщает игрокам, что «Стелла» и «Эрасмус» решили, что ему нужна помощь, и что, возможно, они не совсем неправы. Затем он спрашивает игроков, готовы ли они помочь ему, «Стелле» и «Эрасмусу» — духу, с которым они столкнулись — в выполнении одной конкретной задачи
 
 ### Что известно Виктору
 
@@ -73,389 +88,404 @@ A moment later, Victor's face softens, and he reluctantly tells the players that
 
 ![[Stella Wachter.png]]
 
-Victor then shares the following information:
+Виктор затем делится следующей информацией:
 
-- 3 месяца назад Виктор и его подруга, Стелла Вахтер, узнали, что Дьявол Страд вернулся в эти земли, и согласились, что побег жизненно необходим. Используя знания, которые Виктор почерпнул из старого гримуара, они начали создание _круга телепортации_, который позволил бы им покинуть долину
-- 10 недель назад они, наконец, завершили прототип круга. После 2 экспериментов с кроликами-нежитью, которых Виктор оживлял с помощью костей, купленных у Шольдара и Евгения, Стелла настояла на том, чтобы стать добровольцем для живого, человеческого испытания. Однако тест прошёл ужасно — круг не смог телепортировать тело Стеллы никуда, а отдача подвергла её душу воздействию Эфирного Плана
-- В те короткие моменты, когда её дух находился в Эфирном плане, Стеллу атаковала тёмная тень, чьи когти оторвали её душу от тела. Она бы погибла, если бы Эрасмус не унес её в безопасное место
-- После 2 недель беспокойства о том, что он случайно каким-то образом разрушил разум своей подруги, Виктор узнал, что один из слуг его родителей видел призрак молодой женщины, отражённый в зеркале в гостиной его матери. Виктор выяснил, что это _зеркало духов_, отражающее как Материальный, так и Эфирный планы. С его помощью он смог увидеть и общаться с блуждающим духом Стеллы — сначала через жесты и грубое чтение по губам, а затем с помощью языка жестов, изученного по книге из библиотеки его отца
-- С тех пор Виктор и Стелла усердно работают над тем, чтобы вернуть её душу в тело, но ничего не сработало. Тем временем Стелле приходится скрываться от множества блуждающих духов, которые населяют Пограничный Эфирный план, многие из которых причинили бы ей вред, если бы могли
-- Стелла ощущает, что постепенно теряет воспоминания о своей жизни, пока её форма в Эфирном плане медленно становится всё более эфемерной. Иногда она не может понять, является ли она самой собой или кем-то другим; в такие моменты ей кажется, что часть её свернулась в тёплом и влажном месте, и успокаивающий ритм сердца отзывается эхом в темноте
-- Чтобы усугубить ситуацию, связь между лопатками Стеллы, которая когда-то соединяла её душу с телом, постепенно укорачивается, что заставляет Виктора опасаться, что у неё остаётся чуть больше недели, прежде чем она исчезнет навсегда. (Чем короче эта связь, тем чаще становятся видения Стеллы и тем более туманными её воспоминания)
-- Ни Виктор, ни Стелла, ни Эрасмус не знают личности духа, который оторвал душу Стеллы от её тела. Тем не менее, Виктор может сообщить игрокам, что Эрасмус многократно видел его, бродящим по Эфирному плану вокруг Валлаки с момента его появления — похоже, что он ищет Стеллу — и определил его как _Предвестника гибели_. (Эрасмус, который узнал о существах, читая записи своего отца, предоставил Виктору всю информацию о Предвестниках гибели)
-- Если спросить, почему они не обращались за помощью к другим, Виктор упрямо настаивает, что он не доверяет леди Фионе Вахтер; что его собственный отец, барон, будет хуже, чем бесполезен; и что он и Стелла вполне способны решить её проблему самостоятельно
+>[!инфо]
+> - 3 месяца назад Виктор и его подруга, Стелла Вахтер, узнали, что Дьявол Страд вернулся в эти земли, и согласились, что побег жизненно необходим. Используя знания, которые Виктор почерпнул из старого гримуара, они начали создание _круга телепортации_, который позволил бы им покинуть долину
+> - 10 недель назад они, наконец, завершили прототип круга. После 2 экспериментов с кроликами-нежитью, которых Виктор оживлял с помощью костей, купленных у Шольдара и Евгения, Стелла настояла на том, чтобы стать добровольцем для живого, человеческого испытания. Однако тест прошёл ужасно — круг не смог телепортировать тело Стеллы никуда, а отдача подвергла её душу воздействию Эфирного Плана
+> - В те короткие моменты, когда её дух находился в Эфирном плане, Стеллу атаковала тёмная тень, чьи когти оторвали её душу от тела. Она бы погибла, если бы Эрасмус не унес её в безопасное место
+> - После 2 недель беспокойства о том, что он случайно каким-то образом разрушил разум своей подруги, Виктор узнал, что один из слуг его родителей видел призрак молодой женщины, отражённый в зеркале в гостиной его матери. Виктор выяснил, что это _зеркало духов_, отражающее как Материальный, так и Эфирный планы. С его помощью он смог увидеть и общаться с блуждающим духом Стеллы — сначала через жесты и грубое чтение по губам, а затем с помощью языка жестов, изученного по книге из библиотеки его отца
+> - С тех пор Виктор и Стелла усердно работают над тем, чтобы вернуть её душу в тело, но ничего не сработало. Тем временем Стелле приходится скрываться от множества блуждающих духов, которые населяют Пограничный Эфирный план, многие из которых причинили бы ей вред, если бы могли
+> - Стелла ощущает, что постепенно теряет воспоминания о своей жизни, пока её форма в Эфирном плане медленно становится всё более эфемерной. Иногда она не может понять, является ли она самой собой или кем-то другим; в такие моменты ей кажется, что часть её свернулась в тёплом и влажном месте, и успокаивающий ритм сердца отзывается эхом в темноте
+> - Чтобы усугубить ситуацию, связь между лопатками Стеллы, которая когда-то соединяла её душу с телом, постепенно укорачивается, что заставляет Виктора опасаться, что у неё остаётся чуть больше недели, прежде чем она исчезнет навсегда. (Чем короче эта связь, тем чаще становятся видения Стеллы и тем более туманными её воспоминания)
+> - Ни Виктор, ни Стелла, ни Эрасмус не знают личности духа, который оторвал душу Стеллы от её тела. Тем не менее, Виктор может сообщить игрокам, что Эрасмус многократно видел его, бродящим по Эфирному плану вокруг Валлаки с момента его появления — похоже, что он ищет Стеллу — и определил его как _Предвестника гибели_. (Эрасмус, который узнал о существах, читая записи своего отца, предоставил Виктору всю информацию о Предвестниках гибели)
+> - Если спросить, почему они не обращались за помощью к другим, Виктор упрямо настаивает, что он не доверяет леди Фионе Вахтер; что его собственный отец, барон, будет хуже, чем бесполезен; и что он и Стелла вполне способны решить её проблему самостоятельно
 
 >[!Предвестник гибели]
 > Предвестники гибели возникают на местах массовой гибели или на местах, где существа регулярно встречают смерть. Со временем измученные болью фантомы и задержавшиеся души объединяются в существо, которое знает смерть в мириадах её форм. Такие скопища духов терзаемы своей общей болью, бесконечно и бессвязно извергая последние мысли, когда они набрасываются на живых. Познав безграничье смерти, предвестники гибели могут предсказывать страдания, предвидеть приговор, вынесенный им, и подавлять разум своих врагов видениями бесчисленных насильственных смертей.
 >
 > Предвестники гибели редко говорят связно или общаются с живыми, они полностью одержимы своими воспоминаниями о смерти. Эта нежить бесконечно бормочет себе под нос, извергая последние проклятия, сожаления, мольбы и извинения. Те, кто задерживается и слушает предвестника гибели, могут получить представление о какой-нибудь из его многочисленных смертей.
 
-If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
+Если его упрекнуть тем, что он и Стелла _не_ смогли решить её проблему самостоятельно, лицо Виктора искажается, и на мгновение он кажется готовым расплакаться, тщетно пытаясь найти ответ
 
-Victor is surprised to hear of the “hauntings” that his family has experienced in the mansion floors below. However, Stella’s spirit—looking bashful—uses handsigns to communicate that she never intended to scare anyone, but that after accidentally learning that she retained some small ability to interact with the Material Plane, she couldn’t resist playing an occasional practical joke on an unsuspecting victim. (If the players ask why she hasn’t used this ability to communicate with her mother, Lady Wachter, Stella confesses that some strange force prevents her from entering the grounds of the estate.)
+Виктор удивлён, услышав о «призрачных явлениях», которые его семья пережила на нижних этажах особняка. Однако дух Стеллы — смущённо — с помощью жестов объясняет, что никогда не намеревалась никого пугать, но, случайно обнаружив, что сохранила небольшую способность взаимодействовать с Материальным планом, не смогла удержаться от редких безобидных розыгрышей ничего не подозревающих жертв. (Если игроки спрашивают, почему она не использовала эту способность, чтобы связаться со своей матерью, леди Вахтер, Стелла признаётся, что некая странная сила не позволяет ей проникнуть на территорию поместья)
 
-If the players agree to help him and Stella, Victor shares with them the following plan:
+Если игроки соглашаются помочь ему и Стелле, Виктор делится с ними следующим планом
 
-* To guide Stella’s soul back into her body, he needs to find a way to enter the Ethereal Plane in his own, mortal body and perform an altered version of the teleportation ritual from the other side of the veil.
-* There is a spell—*etherealness*—that would allow him to enter the Ethereal Plane using his own power, but despite his best efforts, he has been unable to master it thus far, and is unlikely to be able to cast it before Stella’s soul disappears into the Deep Ethereal.
-* In the book *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen, Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
+- Чтобы направить душу Стеллы обратно в её тело, ему нужно найти способ войти в Эфирный план в своём собственном, смертном теле и провести изменённую версию ритуала телепортации по ту сторону завесы
+- Существует заклинание — _Эфирность_ — которое позволило бы ему войти в Эфирный план собственной силой, но, несмотря на все усилия, он до сих пор не смог овладеть им и вряд ли успеет сотворить его прежде, чем душа Стеллы исчезнет в Глубинном Эфирном плане
+- В книге _«Эфирные сущности: Обитатели незримого царства»_, написанной архимагом Морденкайненом, Виктор узнал о ритуале, способном воспроизвести эффект заклинания _Эфирность_ для 9 существ. Ритуал должен быть проведён в ночь полнолуния и требует в качестве материального компонента сердечного камня **ночной карги**
 
-> [!info]+ **When’s the Full Moon?**
->
-> The players’ first full moon in Barovia always takes place on the night of their sixth full day in Vallaki. (For example, if the players arrive in Vallaki on Sunday night, the full moon will take place on Saturday night.) Victor is aware of this date.
+> [!info]+ **Когда полнолуние?**
+> Первое полнолуние игроков в Баровии всегда приходится на ночь их 6 полного дня в Валлаки (8 ноября). Виктор знает об этой дате
 
-Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in Mordenkainen’s book.
+Виктор сообщает игрокам, что Стелла, исследуя Эфирный план, неоднократно видела исхудалую женскую фигуру с землисто-серо-голубой кожей, глубоко посаженными глазами, спутанными волосами, небольшими бараньими рогами и широкой пастью, полной острых пожелтевших зубов, бродящую по области Пограничного Эфирного плана, перекрывающейся с баровийским лагерем беженцев. Хотя ни Виктор, ни Стелла не знают, что ночной карге нужно от беженцев, Виктор уверен, что описание Стеллы в точности соответствует облику **ночной карги**, приведённому в книге Морденкайнена
 
-Victor asks the players to visit the refugee camp and investigate the night hag’s presence. While Stella has only seen the hag in the Ethereal Plane thus far, Victor strongly suspects that her interest in it extends into the Material Plane as well. While the players investigate, Victor will continue his research into the *etherealness* ritual and the ritual to return Stella’s soul to her body.
+Виктор просит игроков отправиться в лагерь беженцев и расследовать присутствие ночной карги. Хотя до сих пор Стелла видела каргу только в Эфирном плане, Виктор твёрдо подозревает, что её интерес распространяется и на Материальный план. Пока игроки ведут расследование, Виктор продолжит изучение ритуала _Эфирности_ и ритуала возвращения души Стеллы в её тело
 
-If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
+Если игроки проявят к этому интерес, Виктор с готовностью одолжит им свой экземпляр _Эфирных сущностей_ для чтения
 
-> [!lore]+ **Ethereal Entities**
->
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
->
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
->
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
->
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
->
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
->
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+> [!lore]+ **Эфирные сущности**
+> _Эфирные сущности: обитатели Незримого царства_ за авторством Морденкайнена — это тонкая книга в твёрдом переплёте с кожаной обложкой, окрашенной в глубокий, полуночный синий цвет. Название и имя автора выбиты серебряным шрифтом вдоль корешка и на передней обложке, а углы книги украшены мелкой серебряной филигранью, напоминающей эфирные завитки. Её страницы заполнены аккуратно написанным текстом и прекрасно детализированными иллюстрациями. Игроки, которые попросят Виктора разрешить им прочитать книгу или иным образом получат её, могут узнать следующее:
 > 
-> <hr>
+> Книга представляет собой трактат об [[Эфирный план|Эфирном Плане]] и существах, которые обитают в нём или посещают его. Она содержит всю информацию об Эфирном плане, а также бестиарий, разделённый на следующие 3 раздела:
+> 
+> - _**Эфирные: обитатели Глубинного Эфира**_, содержащий информацию о существах, которые, как говорят, обитают исключительно в Глубинном Эфире, таких как мифологические туманники, эфирные тени и мерцающие создания
+> - _**Фантомы: Путешественники из Пограничного Эфира**_, содержащий информацию о нематериальных существах, которые обитают в Пограничном Эфире и часто пересекают Материальный План, таких как **призраки** и **фантомные воины**
+> - _**Скитальцы сквозь завесы: Посетители Эфира**_, содержащий информацию о физических существах, которые могут попадать на Эфирный План, таких как **ночные ведьмы**, **кошмары** и **фазовые пауки**
+> 
+> Подраздел, посвящённый **фазовым паукам**, содержит краткую заметку о том, что большинство нематериальной нежити имеет иммунитет к урону от стихий, естественного и немагического оружия, находясь на Материальном Плане, а также о природных способах, которые разработали фазовые пауки для преодоления этих иммунитетов с помощью своих клыков и яда. В ней отмечается, что заклинатель может нанести урон нематериальному духу обычным образом, используя клык фазового паука в качестве дополнительного материального компонента для произнесения заклинаний, тогда как боевой персонаж может нанести урон нематериальному духу, покрыв 1 оружие или до 3 боеприпасов ядом фазового паука или святой водой
+> 
+> Подраздел, посвящённый **ночным ведьмам**, содержит краткую заметку о ритуале, использующем _**сердечный камень**_ ночной ведьмы и энергии лей-линии для воспроизведения эффекта заклинания _Эфирность_ для до 10 человек на 1 час в ночь полнолуния
+> 
+> Глава, посвящённая **ночным ведьмам**, носит название «Ночные ведьмы: Матроны Злобности». Она гласит следующее:
+> 
+> ---
+> 
+> Хитрые и коварные, ночные ведьмы олицетворяют злодейство. Они представляют всё, что в мире зло и жестоко, и не желают ничего больше, чем увидеть, как добродетельные обращаются к злодеянию: любовь превращается в одержимость, доброта — в ненависть, преданность — в пренебрежение, а щедрость — в эгоизм
+> 
+> Когда-то ночные ведьмы были существами Страны Фей, царства чар и красоты. Однако их мерзость привела к изгнанию в мрачное царство Ада давным-давно, где они деградировали в исчадия. Гнусная порча Ада исказила их некогда фейскую природу, и с тех пор ночные ведьмы распространяют своё зло по Нижним Планам
+> 
+> Хотя ночные ведьмы похожи на иссохших старух, в них нет ничего смертного. Их иссохшие лица обрамлены длинными, лохматыми волосами и закрученными бараньими рогами; отвратительные родинки и бородавки покрывают их пятнистую бледно-голубую кожу; а длинные, худые пальцы оканчиваются когтями, способными разрезать плоть одним касанием
+> 
+> Все ведьмы обладают магическими способностями, включая умение изменять свои формы или проклинать врагов. Ведьма также имеет некоторую устойчивость к магии и смертным орудиям, хотя прикосновение серебра ранит её, как и любого другого
+> 
+> Высокомерные до крайности, ведьмы считают себя самыми хитрыми существами — и очень часто таковыми являются. Они открыты для сделок с смертными и всегда держат своё слово, но договор с ведьмой всегда опасен. Ведьмы получают удовольствие, наблюдая, как смертные через эти сделки приводят себя к гибели, часто поступаясь своими принципами или отдавая что-то дорогое
+> 
+> Высшей наградой ночной ведьмы, однако, является душа испорченного смертного. Пока её жертва спит, ночная ведьма проходит на Эфирный План с помощью своего извращённого ониксового сердечного камня — артефакта, позволяющего ей становиться Эфирной со скоростью мысли. Там она вторгается в сны своей жертвы, наполняя её голову сомнениями и страхами в надежде заставить совершать злые поступки в реальном мире
+> 
+> Ночь за ночью она продолжает свои посещения, пока жертва наконец не умрёт во сне — в этот момент она заточает её испорченную душу в своей сумке душ в качестве тёмного трофея своей победы. Чем темнее пятна на душе, тем больше награда ночной ведьмы
+> 
+> Как и все ведьмы, ночные ведьмы размножаются, похищая и поедая человеческих младенцев. Через неделю ведьма рождает дочь, которая выглядит как человек до своего 13 дня рождения — после чего ребёнок превращается в точную копию своей ведьмовской матери
+> 
+> Некоторые ведьмы ростят дочерей, которых они рождают, создавая шабаши, усиливающие их силу. Члены шабаша получают множество сверхъестественных способностей, включая умение управлять стихиями и — 1 раз в день — рассеивать чужую магию вблизи своих логов. Как и вся ведьминская магия, такая сила имеет свою цену — рана, полученная одной ведьмой в шабаше, нанесена всем
+> 
+> Чтобы сдерживать свои изначально эгоистичные натуры, ведьмы в шабаше должны заключить письменный контракт с другими, подписанный истинными именами каждой ведьмы. Ведьмы в шабаше ревниво охраняют свой контракт, часто запечатывая его в сердце своего логова и внимательно следя за тем, чтобы их имена не попали в руки врагов
+
+> [!info]+ **Фарм Фазовых пауков**
+> Позднее игроки столкнутся с **фазовыми пауками** в Аргинвостхольте и получат возможность добыть их клыки и яд, чтобы противостоять **призрачным воинам**, скрывающимся там. Подробнее о добыче и использовании частей фазовых пауков см. [[Арка M - Поместье Дракона#M4c. Бальный зал пауков|Арка M — Поместье Дракона]]
+
+# H3. Лагерь беженцев
+
+Если с момента инаугурации леди Вахтер в [[Арка F - Желание леди Вахтер]] прошло как минимум **6 часов**, лагерь беженцев был перемещён на Городскую площадь (стр. 119) (беженцы по-прежнему живут в палатках, пока леди Вахтер ищет для них подходящее жильё)
+
+Если леди Вахтер ещё не переселила беженцев, когда игроки впервые входят в лагерь беженцев, прочитайте:
+
+>[!read]
+> За воротами Валлаки располагается группа обветшалых палаток, прижатых к стене, словно ища укрытие под нависающим силуэтом палисадных стен города. Сами палатки выстроены вдоль простой двухсторонней дороги, за противоположной стороной которой расположены грубые деревянные баррикады и грязные рвы, защищающие от тёмного леса за ними
 >
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
+> Сквозь прорехи в потёртом холсте виднеются грубые деревянные поддоны, импровизированные постели и иногда потрёпанные кастрюли. Небольшие, слабо тлеющие костры разбросаны вдоль грязной узкой улицы, а кучи веток и наполовину сгнивших бревен лежат рядом с ними вперемешку
 >
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
+> Десятки людей, с изнурёнными телами и измождёнными лицами, медленно перемещаются по лагерю. Их глаза впалые и пустые, одежда болтается на худых телах. Некоторые собираются у костров, сгорбившись от холодного воздуха и протягивая руки к скудному теплу
+
+## H3a. В лагере
+
+Если игроки войдут в лагерь, их вскоре настороженно встречают Эмерик, меланхоличный пожилой мужчина с седеющими волосами, и Магда, опечаленная молодая женщина с тёмными кругами под глазами. (Хотя у лагеря нет официального руководства, Эмерик и Магда были частью первой волны беженцев из Баровии и возглавили усилия по встрече и организации новых жителей после осады Страда)
+
+Эмерик и Магда настороженно относятся к посторонним, но им любопытно узнать, зачем игроки пришли в их лагерь. (Магда на короткое время надеется, что игроки — слуги барона Валлаковича и пришли пригласить беженцев в Валлаки, — надежда, от которой Эмерик вскоре избавляет её, указывая на странный вид игроков)
+
+Эмерик и Магда могут поделиться следующей общей информацией о лагере (с изменениями в зависимости от текущих событий)
+
+- Первые беженцы из Баровии прибыли к воротам Валлаки 3 месяца назад, но им было запрещено войти. Когда они попытались прорваться через ворота силой, стража призвала человека, которого называли Изек, у которого была искривлённая дьявольская рука, и который вызывал огонь, чтобы отогнать беженцев назад
+- С тех пор беженцы устроили лагерь за стенами города, собираясь вместе ради защиты и тепла. Им удалось достать некоторые необходимые вещи, такие как палатки, подкупив стражу у ворот, но им не удалось убедить стражу впустить их в город или даже пригласить барона города для обсуждения их бедственного положения
+- С тех пор, как они прибыли, лагерь каждую ночь терзали стаи летучих мышей и волков. К счастью, пока никто не погиб, но несколько беженцев получили ранения
+- Из-за потерь, которые они понесли в пути, и угрозы со стороны Дьявола в замке Рэйвенлофт, беженцы не хотят рисковать возвращением домой, надеясь дождаться, пока барон одумается и позволит им войти за стены
+- Примерно четверть беженцев стали зависимыми от «пирожных сновидений», продукта, продаваемого торговкой Моргантой. Эти беженцы ищут способ уйти от страданий и отчаяния своей ситуации. Те, кто съедает пирожное сновидений, впадают в транс, как описано в Пирожные сновидений (с. 125). Эмерик и Магда могут добавить, что Морганта не навещала лагерь несколько дней
+
+Если игроки спросят о **ночной ведьме**, Эмерик и Магда обменяются взглядами и сообщат, что её описание совпадает с повторяющимся кошмаром, который Франц, ещё один беженец, испытывает уже последние две ночи
+
+Эмерик и Магда с радостью готовы отвести игроков к нему, но предупреждают, что Франц, вдовец, недавно потерял также своих детей и, вероятно, всё ещё скорбит или пребывает в состоянии тревоги. Магда добавляет, что с тех пор как начались кошмары, Франц страдает от странной истощающей болезни, и выражает надежду, что игроки смогут ему помочь
+
+## H3b. Палатка Франца
+
+Эмерик и Магда ведут игроков к небольшой, одинокой палатке, установленной в конце грязной аллеи лагеря. Когда игроки входят, зачитайте:
+
+>[!read]
+> Внутри этой провисшей, тесной палатки лежат 3 запятнанных матраса, 2 из которых детского размера. Старый заштопанный плюшевый кролик лежит на ближайшем матрасе, его чёрные пуговичные глаза безжизненно смотрят в воздух
 >
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
->
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
->
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
->
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
->
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
->
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
->
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
->
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+> Молодая женщина стоит на коленях в грязи рядом с матрасом нормального размера, сжимая в одной руке пучок увядших трав и прижимая влажную тряпку ко лбу хрупкого, измождённого мужчины, лежащего на матрасе. Кожа мужчины бледная и покрыта потом, одежда порвана и обтрепана. Редкие, спутанные волосы торчат на морщинистой голове, а лицо, освещённое умирающим светом одной мерцающей свечи, изрезано усталостью. Проходит мгновение, прежде чем вы понимаете, что этот призрачный человек, вероятно, едва старше 30 лет
 
-> [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Арка M - Поместье Дракона#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
-# H3. The Refugee Camp
-If it's been at least six hours since Lady Wachter's inauguration in [[Арка F - Желание леди Вахтер]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
+Мужчина — Франц. Женщина — его сестра, по имени Ньянка. Ньянка ухаживает за Францем с самого утра, но не смогла определить его состояние и оказать лечение
 
-If Lady Wachter hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
+Увидев игроков, Франц задыхаясь от смеха спрашивает, не демоны ли они, посланные Матерью Ночи, чтобы утащить его душу в Туманы. Ньянка извиняется за его поведение и сообщает, что он пребывает в бреду с тех пор, как начались кошмары и болезнь
 
-<div class="description">
-<p>Past Vallaki's gates lies a cluster of ramshackle tents huddled against the wall, as though seeking shelter beneath the looming silhouette of the town's palisade walls. The tents themselves are laid out in a simple two-sided thoroughfare, with crude wooden barricades and muddy ditches beyond the far side facing out against the dark forest beyond.</p>
-<p>Through gaps in the threadbare canvas, you can see crude wooden pallets, makeshift bedrolls, and the occasional battered cooking pot. Small, low-burning cookfires dot the grimy narrow avenue, and piles of sticks and half-rotted logs rest haphazardly beside them.</p>
-<p>Dozens of people, their bodies gaunt and their faces drawn, move slowly about the camp. Their eyes are sunken and hollow, their clothes hanging loose on their thin frames. A few of them huddle about the campfires, bodies hunched against the chill air and hands outstretched for the meager warmth.</p>
-</div>
+Если игроки спросят Франца о **ночной ведьме**, он сначала требует, чтобы Ньянка, Эмерик и Магда вышли и оставили его наедине с игроками. (Никто из 3 других беженцев не возражает против этой просьбы.) Франц может затем поделиться с игроками следующей информацией:
 
-## H3a. Inside the Camp
-If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
+>[!инфо]
+> - 3 месяца назад, вскоре после того как его жена Алана умерла от болезни, Франц присоединился к первым 2 десяткам беженцев, покинувших деревню Баровия в направлении укреплённого города Валлаки на западе. Франц привёл с собой своих 2 детей — 7-летнего Фёдора и 5-летнюю Мирту — надеясь уберечь их от слуг Страда
+> - Через несколько недель после прибытия в лагерь Франц начал покупать сонные пирожные у торговки Морганты. Видения, вызываемые этими пирожными, позволяли ему видеть Алану, возвращённую в его объятия, словно она никогда не умирала
+> - Франц регулярно покупал пирожные сновидений у Морганты, проводя часы, а затем дни, погружённый в мирные сны. Однако в конце концов его сбережения иссякли, и Морганта отказалась продавать ему дополнительные пирожные — если только он не заплатит страшную цену
+> - 3 ночи назад Франц повёл Фёдора и Мирту за линию деревьев на краю леса. Там Морганта погрузила детей в магический сон и засунула их в мешок, который несла через плечо. В обмен она пообещала Францу столько сонных пирожных, сколько он сможет съесть, каждый раз, когда она возвращается, на всю оставшуюся жизнь
+> - Когда Морганта повернулась уходить, Франц услышал, как Мирта во сне зовёт его, и сразу же пожалел о содеянном. Он потребовал, чтобы Морганта немедленно вернула ему детей; когда она рассмеялась и сказала, что их сделка окончательна, он попытался забрать детей силой. Однако одним взмахом рук она погрузила его в сон — и когда он проснулся, её нигде не было видно
+> - Франц искал в лесу часами, но не нашёл ни следа Морганты, ни своих детей. Когда он наконец рухнул от усталости обратно в свою палатку в лагере, его охватили ужасные кошмары, которые повторяются каждую ночь с тех пор
+> - В кошмаре он привязан к жернову, его 4 рычага подняты над ним. На его груди сидит измождённая женская фигура с серо-голубой кожей, глубоко посаженными глазами, спутанными волосами, маленькими бараньими рогами и широкой пастью с острыми пожелтевшими зубами, прижимая к его лбу искривлённый ониксово-чёрный камень и шепча, что я обречён. На заднем плане он слышит, как Фёдор и Мирта всхлипывают за пределами его поля зрения, пару визгливых хохотов и звук лопастей ветряной мельницы, скрежещущих на ветру
+> - На протяжении всего кошмара Франц парализован и не может отвести взгляд или пошевелить хоть одним мускулом. Каждый раз, когда он просыпается, его тело истощается на глазах. (Морганта не возвращалась в лагерь с момента первого кошмара)
 
-Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
+Хриплым голосом Франц умоляет игроков спасти Фёдора и Мирту из лап Морганты. Хотя он считает, что его нынешнее состояние — это проклятие, посланное богами в наказание за его грехи, и принимает муки смерти как покаяние, он верит, что его дети не заслуживают страданий, которые Морганта, вероятно, на них обрушивает. Он не может предложить игрокам ни золота, ни сокровищ за их усилия — только свою благодарность
 
-Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
+Если игроки спросят, Франц может рассказать, что его сестра Нянка, которая сейчас верит, что детей съели оборотни в Сваличском лесу, с радостью присмотрит за ними и позаботится о них, пока он будет восстанавливаться. ***«Я знаю, что не заслуживаю быть их отцом»***, — сипло говорит он, слёзы катятся по его лицу. ***«Всё, чего я хочу, — это видеть их здоровыми и счастливыми»***
 
-* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
+Перед тем как игроки покинут палатку Франца, он хватается за ближайшего и сипло говорит: ***«Я чувствовал это — сердце ветряной мельницы — 3 чёрных сердца бьются как 1 в жернове подо мной. Искривлённая рука держит ключ»***. После этого он падает, впадая в глубокий, беспокойный сон
 
-If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
+> [!abstract]+ **Судьба Франца**
+> Игроки могут определить природу нынешнего состояния Франца, обратившись к _Эфирным Сущностям_ или спросив доктора Рудольфа вон Рихтена о диагнозе его симптомов. Если обратиться к вон Рихтену, он сообщает игрокам, что единственный истинный способ положить конец _**кошмарному преследованию ночной ведьмы**_ — это убить саму ведьму или заключить с ней сделку
 
-Emeric and Magda are glad to take the players to see him, but warn them that Franz, a widower, has recently lost his children as well and is likely still grieving or disturbed. Magda further adds that Franz has suffered from a strange wasting disease ever since the nightmares first began, and offers her hope that the players may be able to treat him.
-## H3b. Franz’s Tent
-Emeric and Magda lead the players to a small, lonely tent set up at the end of the camp’s muddy avenue. When the players enter, read:
-
-<div class="description">
-<p>Within this sagging, cramped tent lie three stained pallets, two of which are child-sized. An old and patched stuffed rabbit lies across the closest pallet, its black button eyes staring sightlessly into the air.</p>
-<p>A young woman kneels in the mud beside the full-size pallet, clutching a bundle of wilted herbs in one fist and holding a damp rag over the forehead of a frail, gaunt-looking man lying across the pallet. The man's skin is pale and drenched in sweat, his clothes torn and ragged. Wispy, scraggled hair rises from his wrinkled scalp, while his face, illuminated beneath the dying light of a single, sputtering candle, is etched with exhaustion. A full moment passes before you realize that this ghost of a man is likely scarcely older than thirty.</p>
-</div>
-
-The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
-
-Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
-
-If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
-
-* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
-* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
-* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
-* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
-* As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
-* Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
-* In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
-* For the duration of the nightmare, Franz is paralyzed and unable to look away or even twitch a single muscle. Each time he awakens, his body wastes away before him. (Morgantha hasn't returned to the camp since the first nightmare.)
-
-With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
-
-If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
-
-Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
-
-> [!abstract]+ **Franz’s Fate**
->
-> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms. If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. 
-# H4. Victor’s Plan
+# H4. План Виктора
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
+Когда игроки покидают лагерь беженцев, один из них получает следующее заклинание _Послание_ от [[Неигровые персонажи#Виктор Валлакович|Виктора]]: ***«Вы нашли её? Возвращайтесь на чердак. У меня есть план»***
 
-When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
+Когда игроки возвращаются в мастерскую Виктора в особняке бургомистра, он сообщает им следующую информацию:
 
-* There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
-* To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
-* To obtain the heartstone by force, the players will need to incapacitate or kill the hag. However, this is far more difficult for multiple reasons. First, hags tend to gather in covens of three, a practice that makes each hag stronger and provides easy access to allies. (Victor asks the players nervously whether the hag is known to have any “sisters” or “daughters.”) Second, **night hags** in particular can use their heartstones to flee into the Ethereal Plane as soon as they feel threatened—an escape mechanism that can’t be counteracted.
-* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
-### The Heart of the Windmill
-If the players tell Victor about Franz's words, he recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.* 
+>[!инфо]
+> - Существует 2 возможных способа получить сердечный камень у ночной ведьмы: добровольно или силой
+> - Чтобы получить сердечный камень добровольно, игрокам, вероятно, придётся выменять нечто великой ценности в обмен на заём сердечного камня. Ведьмы — легендарные мастерицы заключать сделки и могут соблюдать букву своего слова — но _только_ букву
+> - Чтобы получить сердечный камень силой, игрокам придётся сделать каргу недееспособной или убить её. Однако это гораздо сложнее по нескольким причинам. Во-первых, карги склонны собираться в шабаши по 3, что делает каждую каргу сильнее и обеспечивает лёгкий доступ к союзникам. (Виктор нервно спрашивает игроков, известно ли им, есть ли у ведьмы какие-нибудь «сёстры» или «дочери».) Во-вторых, **ночные ведьмы** в особенности могут использовать свои сердечные камни, чтобы сбежать в Эфирный план, как только почувствуют угрозу — способ побега, которому невозможно помешать
+> - Чтобы не дать ведьме сбежать в Эфирный план посреди боя, игрокам придётся заключить её в связывающий круг до начала враждебных действий. Виктор также советует игрокам раздобыть посеребрённое оружие, которое понадобится, чтобы преодолеть сильную демоническую защиту ведьм
 
-Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
+### Сердце мельницы
 
-Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
+Если игроки расскажут Виктору о словах Франца, он узнаёт в «искривлённом ониксово-чёрном камне» описание сердечного камня ночной ведьмы, приведённое в _Эфирных Сущностях_
 
-Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
-### The Binding Ritual
-Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
+Виктор не уверен, что Франц имел в виду под «сердцем ветряной мельницы». (Он уверен, что это не сердечный камень, поскольку ночные ведьмы всегда носят свои сердечные камни при себе)
 
-Soon thereafter, Stella’s spirit can be seen excitedly gesturing from the *spirit mirror*. As he interprets her handsigns, Victor’s eyes widen and his face pales. “You can’t be serious,” he stammers. “Absolutely not!”
+Виктор вспоминает, что видел сведения о ветряной мельнице в старой книге записей в библиотеке своего отца. (Виктор с горечью вспоминает об этой книге, потому что Варгас заставил его написать доклад по истории Валлаки в наказание за то, что Виктор плохо отозвался об основателе города, Борисе Валлаковиче)
 
-If confronted by the players, Victor reluctantly reveals that Stella claims to have seen a similar binding circle while exploring the Ethereal Plane, but on a much larger scale: an enormous circle that surrounds the entirety of Wachterhaus and prevents her from entering the grounds. (Stella has been attempting to enter the estate in order to communicate with her mother, but has failed due to the circle’s presence.) Stella suspects that her mother, Lady Wachter, might know how to create one to bind the hags as well.
+Достав книгу, Виктор открывает её и показывает чертёж ветряной мельницы, размещённый рядом с оригинальным актом передачи земли от барона Бориса Валлаковича Густаву и Элизабет Дёрст. Он взволнованно указывает, что в конструкции жернова предусмотрен отсек, встроенный в его боковую часть — вероятно, для хранения. Если ведьмы прячут в мельнице что-то иное, кроме сердечного камня, то, скорее всего, это находится в этом отсеке
 
-Stella, through Victor, suggests that the players visit Wachterhaus to request Lady Wachter’s help in binding the night hags. Stella warns them that her mother is a cautious and skeptical woman, especially where the Vallakoviches are concerned; if Lady Wachter doesn’t believe the players’ story, they will likely need to ask her to disable Wachterhaus’s protective circle in order to allow Stella to show her presence.
+### Связывающий ритуал
 
-> [!lore]+ **Wachterhaus’s Protective Circle**
->
-> **_The Betrayal of Leo Dilisnya._** Strahd von Zarovich made many enemies over the course of his many conquests. One of them was a man named Leo Dilisnya, who hated Strahd for the death of his brother, Reinhold Dilisnya, the captain of a platoon that Strahd had knowingly sent to die in order to win a battle against the Order of the Silver Dragon.
->
-> When Strahd settled in Castle Ravenloft, Leo—a member of the Ba’al Verzi, a mysterious guild of assassins—began to plot his revenge. Hoping to gain closer access to Strahd, Leo became a castle guard, wearing the Von Zarovich livery while preparing the right moment to strike.
->
-> That moment finally came on the morning of Sergei’s wedding. With all attention focused on the blushing bride-to-be, Leo disguised himself in assassin’s clothes and climbed the stonework to reach Strahd’s private chambers. Even taken by surprise, however, Strahd was more than a match for Leo, disarming him of his cursed Ba’al Verzi blade and sending him fleeing through the window.
->
-> **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
->
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. Kitchen (p. 78)</span>.
->
-> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
->
-> **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
->
-> Strahd transformed Leo into a vampire spawn and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachters’ manor where he would suffer for his crimes for all eternity. As a safeguard in the chance that Leo somehow escaped, Strahd crafted for Lovina a magical ruby amulet that, when broken, would kill Leo instantly.
+Виктор с тревогой сообщает игрокам, что не смог найти способа проведения ритуала связывания. Повернувшись к соответствующей странице в своей книге заклинаний, он показывает им иллюстрацию, изображающую связывающий круг, но жалуется, что сама книга не содержит информации о том, как его на самом деле создать
+
+Вскоре после этого дух Стеллы можно увидеть, радостно жестикулирующим из _Зеркала Духов_. Интерпретируя её жесты, глаза Виктора расширяются, а лицо бледнеет. ***«Ты не можешь быть серьёзна»***, — заикается он. ***«Совершенно нет!»***
+
+Если игроки настаивают, Виктор неохотно сообщает, что Стелла утверждает, что видела подобный связывающий круг, исследуя Эфирный план, но в гораздо больших масштабах: огромный круг, охватывающий весь Вахтерхаус и не позволяющий ей войти на территорию. (Стелла пыталась попасть на усадьбу, чтобы связаться с матерью, но не смогла из-за присутствия круга.) Стелла подозревает, что её мать, леди Вахтер, могла бы знать, как создать такой круг для связывания карг тоже
+
+Стелла через Виктора предлагает игрокам посетить Вахтерхаус, чтобы попросить леди Вахтер помочь в связывании ночных ведьм. Стелла предупреждает, что её мать — осторожная и скептичная женщина, особенно когда дело касается Валлаковичей; если леди Вахтер не поверит рассказу игроков, им, вероятно, придётся попросить её отключить защитный круг Вахтерхауса, чтобы Стелла смогла проявиться
+
+> [!lore]+ **Защитный круг Вахтерхауса**
+> **_Предательство Лео Дилиснии._** Страд вон Зарович нажил множество врагов за время своих многочисленных завоеваний. Одним из них был человек по имени Лео Дилисния, который ненавидел Страда за смерть своего брата, Рейнхольда Дилиснии, капитана взвода, которого Страд сознательно отправил на гибель, чтобы одержать победу в битве против Ордена Серебряного Дракона
 > 
-> **_Enter Fiona Wachter._** Centuries passed, and Fiona Wachter was born, the daughter of Balthazar and Lavinia Wachter and the younger sister of Frederich Wachter. Although Fiona’s parents never told her the true nature of the vampire sealed below their estate, they often told her of the “monster in the basement” that fed on disobedient children and forbade her from ever entering the cellar.
+> Когда Страд обосновался в замке Рэйвенлофт, Лео — член Ба’ал Верзи, таинственной гильдии убийц — начал замышлять свою месть. Надеясь получить более близкий доступ к Страду, Лео стал стражником замка, нося ливрею вон Заровичей и выжидая подходящий момент для удара
 >
-> When she was sixteen years old, the teenage Fiona had an explosive argument with her parents and brother. In her anger, Fiona toppled a shelf of fine porcelain and jewelry—including, among them, the magical amulet that Strahd had once forged for Lovina Wachter. Though Fiona had no knowledge of Leo’s existence or the amulet’s true nature, Leo died the moment that it shattered, his soul finally freed from the prison of his body.
+> Этот момент наконец настал утром в день свадьбы Сергея. Пока всё внимание было приковано к смущённой невесте, Лео переоделся в одежду убийцы и взобрался по каменной кладке, чтобы добраться до личных покоев Страда. Однако даже застигнутый врасплох, Страд оказался более чем достойным противником для Лео, обезоружив его, лишив проклятого клинка Ба’ал Верзи и заставив бежать через окно
 >
-> **_The Haunted Estate._** Soon after Fiona fled from Wachterhaus, Leo’s spirit—now a part of the **gallows speaker** that had arisen from his compatriots’ gruesome deaths centuries before—returned to haunt and terrorize the estate. Objects were found in strange places, and food mysteriously spoiled. Portraits were found damaged or defaced, and the family was often awoken by chilling howls or loud knocks on their doors and windows.
+> **_Новая возможность._** Озлобленный и охваченный яростью, Лео укрылся в своих покоях, зализывая раны, — пока не узнал, что Сергея нашли убитым в его покоях, а Страд преследовал Татьяну в садах, поклявшись взять её в жёны. Увидев немедленную возможность, Лео собрал отряд стражи замка и направил их атаковать Страда в отместку за смерть любимого принца Сергея
 >
-> Fiona’s father, Balthazar Wachter, sought the advice of an amateur occultist that dwelled in Vallaki. The family stripped the flesh from Leo’s bones and sealed them in a chest under lock and key. That, however, only enraged Leo further. That same night, the **gallows speaker** began appearing to the Wachters as an apparition in reflections in mirrors and windows. Within days, it had escalated its activities to physical violence, throwing items across rooms, shattering glass windows, and even starting spontaneous fires.
+> Однако заговор Лео не остался без сопротивления. Старшая сестра Лео, Ловина Вахтер, урождённая Дилисния — ныне жена Владислава Вахтера — возглавила личную стражу своей семьи в защите Страда. Предательские стражники Лео загнали Вахтеров в **K62. Зал слуг**, убив мужа Ловины и растерзав многих её родственников. Там Ловина и её семья укрылись вместе с Катариной, служанкой замка и (неизвестной Страду) его тайной сводной сестрой, в K65. Кухня (стр. 78)
 >
-> Desperate for a solution, Frederich Wachter, Fiona’s elder brother, learned that a powerful witch named Baba Lysaga dwelled in the swamps of Berez nearby. Alone, and without his parents’ knowledge, Frederich traveled to Berez in search of answers. When a **will-’o-wisp** lured Frederich into a hidden bog, however, he was rescued by Fiona herself, who had since become a student and disciple of Baba Lysaga.
+> Когда Страд восстал как вампир, Лео бежал в K23. Вход для слуг (стр. 59), через **K62. Зал слуг** и K67. Зал костей (стр. 78) в K68. Коридор стражи (стр. 79). Страд, преследуя его, истребил стражников, терроризировавших Вахтеров, и — в момент редкой ясности — поблагодарил Вахтеров за их верность и позволил Ловине и Катарине уйти спокойно. Когда Страд орошал камень замка Рэйвенлофт кровью стражников замка — как невинных, так и предателей, — их духи соединились в смерти, чтобы образовать ужасного **предвестника гибели**, который будет преследовать замок Рэйвенлофт многие годы
 >
-> Frederich begged her to return to Wachterhaus to help them, but Fiona—wary of her brothers’ intentions and still harboring resentment from her fight with their parents—lied and told him harshly that Baba Lysaga had no magic with which to help him. (In truth, Baba Lysaga taught all of her students the means to create a protective circle soon after they arrived in Berez, as a means of defense against the **phase spiders** that haunted the swamps.)
+> **_Наказание Лео._** Лео успешно сбежал из замка Рэйвенлофт вместе с полдюжиной предательских стражников. Однако годы спустя, с помощью Ловины, Страд выследил Лео в тёмных коридорах ныне заброшенного Аббатства Святой Марковии
 >
-> **_Leo's Revenge._** Despondent, Frederich returned to Vallaki empty-handed. Bereft of a better solution, Balthazar Wachter obtained candles, incense, and holy invocations from the occultist and led the family in a seance to exorcise the spirit from Wachterhaus.
+> Страд превратил Лео в порождение вампира и с одобрения Ловины захоронил его в мавзолее под особняком Вахтеров, где он должен был страдать за свои преступления вечно. В качестве меры предосторожности на случай, если Лео каким-то образом сбежит, Страд создал для Ловины магический рубиновый амулет, который при разрушении мгновенно убьёт Лео
 >
-> The seance, however, proved unsuccessful. Rather than banishing Leo’s spirit, it provided him an opening into the Material Plane that allowed him to fulfill his murderous vengeance. Two weeks later, the Baron’s guards found the three Wachters dead—though by all signs untouched—on the floor of Wachterhaus’s master bedroom. Leo had killed them before returning to haunt Castle Ravenloft, satisfied with his revenge at last.
+> **_Появление Фионы Вахтер._** Прошли века, и родилась Фиона Вахтер, дочь Бальтазара и Лавинии Вахтер и младшая сестра Фредериха Вахтера. Хотя её родители никогда не рассказывали ей о истинной природе вампира, запечатанного под их поместьем, они часто упоминали о «монстре в подвале», питающемся непослушными детьми, и запрещали ей когда-либо входить в подвал
+> 
+> Когда Фионе исполнилось 16 лет, подросток Фиона вступила в взрывной спор с родителями и братом. В гневе Фиона опрокинула полку с изысканным фарфором и украшениями — среди которых находился магический амулет, который Страд когда-то создал для Ловины Вахтер. Хотя Фиона не знала о существовании Лео и истинной природе амулета, Лео умер в момент его разрушения, и его душа наконец освободилась из тюрьмы тела
 >
-> **_Fiona's Return._** Two weeks later, one of Baba Lysaga’s other disciples, following a routine trip to Vallaki to obtain supplies, told Fiona that her family had been found dead in their house in the midst of a seance. Realizing the depths of her mistake and overcome with guilt, Fiona confronted Baba Lysaga and told her that she intended to return to her family home. Baba Lysaga banished Fiona for her decision, and Fiona departed Berez for good.
+> **_Заколдованное поместье._** Вскоре после того, как Фиона сбежала из Вахтерхауса, дух Лео — теперь часть **предвестника смерти**, возникшего из ужасной смерти его соратников столетия назад — вернулся, чтобы преследовать и терроризировать поместье. Предметы находили в странных местах, а еда таинственно портилась. Портреты оказывались повреждёнными или осквернёнными, а семью часто будили леденящие кровь вопли или громкие стуки в двери и окна
 >
-> Soon after her return to Wachterhaus, Fiona—now bearing the title of “Lady Wachter” following her parents’ death—determined that a spirit had been responsible for the death of her family. Although the spirit appeared to have departed, she feared that it might choose to one day return. With the magic that Baba Lysaga had taught her, she established a protective circle around the entirety of the Wachterhaus estate, barring any ethereal creature that may wish to cross its boundaries. The **gallows speaker** hasn’t returned in all the years since then, but Lady Wachter renews the protective circle once each year, both out of habit and from a wariness that her parents’ killer might one day return.
-# H5. Wachterhaus
+> Отец Фионы, Бальтазар Вахтер, обратился за советом к любителю-оккультисту, жившему в Валлаки. Семья сняла плоть с костей Лео и запечатала их в сундуке под замком. Однако это лишь ещё больше разозлило Лео. В ту же ночь **предвестник гибели** начал появляться Вахтерам как привидение в отражениях зеркал и окон. Через несколько дней его действия обострились до физического насилия: он бросал предметы по комнатам, разбивал стеклянные окна и даже вызывал самопроизвольные пожары
+>
+> Отчаявшись найти решение, Фредерих Вахтер, старший брат Фионы, узнал, что могущественная ведьма по имени Баба Лисяга обитает в болотах рядом с Березом. В одиночку, без ведома родителей, Фредерих отправился в Берез в поисках ответов. Однако когда **блуждающий огонёк** заманил Фредериха в скрытое болото, его спасла сама Фиона, которая к тому времени стала ученицей и последователем Бабы Лисяги
+>
+> Фредерих умолял её вернуться в Вахтерхаус, чтобы помочь им, но Фиона — осторожная по поводу намерений брата и всё ещё затаившая обиду за ссору с родителями — солгала и сурово сказала ему, что у **Бабы Лисяги** нет магии, чтобы помочь ему. (На самом деле, Баба Лисяга обучала всех своих учеников созданию защитного круга вскоре после их прибытия в Берез, как средство защиты от **фазовых пауков**, обитающих в болотах)
+>
+> **_Месть Лео._** В отчаянии Фредерих вернулся в Валлаки с пустыми руками. Лишённый лучшего решения, Бальтазар Вахтер приобрёл свечи, благовония и святые заклинания у оккультиста и возглавил семью в сеансе, чтобы изгнать дух из Вахтерхауса
+>
+> Однако сеанс оказался безуспешным. Вместо того чтобы изгнать дух Лео, он предоставил ему проход на Материальный план, что позволило ему осуществить свою кровавую месть. Две недели спустя стража барона обнаружила трёх Вахтеров мёртвыми — хотя по всем признакам нетронутыми — на полу в спальне хозяев Вахтерхауса. Лео убил их, прежде чем вернуться, чтобы преследовать замок Рэйвенлофт, наконец удовлетворённый своей местью
+>
+> **_Возвращение Фионы._** Две недели спустя один из других учеников Бабы Лисяги, вернувшись из обычной поездки в Валлаки за припасами, сообщил Фионе, что её семья была найдена мёртвой в их доме посреди сеанса. Осознав глубину своей ошибки и охваченная чувством вины, Фиона обратилась к Бабе Лисяге и сказала, что намерена вернуться в семейный дом. Баба Лысага изгнала Фиону за её решение, и Фиона навсегда покинула Берез
+>
+> Вскоре после возвращения в Вахтерхаус Фиона — теперь носившая титул «леди Вахтер» после смерти родителей — пришла к выводу, что дух был ответственен за смерть её семьи. Хотя дух, казалось, ушёл, она опасалась, что он может однажды вернуться. С помощью магии, которой её обучила Баба Лисяга, она создала защитный круг вокруг всего поместья Вахтерхаус, запрещающий любому эфирному существу пересекать его границы. **Предвестник гибели** не появлялся все эти годы, но леди Вахтер обновляет защитный круг раз в год, как по привычке, так и из-за опасения, что убийца её родителей может однажды вернуться
+
+# H5. Вахтерхаус
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[Арка F - Желание леди Вахтер]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Вахтерхаус описан в [[Арка F - Желание леди Вахтер#F2. Вахтерхаус|Арка F - Желание леди Вахтер]]. Посетителей поместья принимают, как описано в N4a. Входная дверь и вестибюль (стр. 110)
 
-Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
+Игроки, которые ранее обедали с леди Вахтер, приветствуются и быстро пропускаются внутрь, в то время как игрокам, которые этого не делали, предлагают записаться на приём на следующий день. Игроки, настаивающие, что пришли помочь Стелле, дочери леди Вахтер, и преуспевшие в **проверке Убеждения Сл 10**, могут обойти необходимость записи и быть допущены сразу
 
-Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
+При входе в особняк игроки проводятся в N4i. Приёмную (стр. 112), где вскоре после этого их приветствует [[Неигровые персонажи#Леди Фиона Вахтер|леди Вахтер]]. Халик, камердинер леди Вахтер, через несколько мгновений подаёт чай ей и гостям
 
-Lady Wachter then asks the players what brings them to her manor. If Victor Vallakovich is accompanying the players, her eyes visibly narrow, and her voice is polite, but cold. If Victor is not with the players, her demeanor is far warmer and more comfortable.
+Затем леди Вахтер спрашивает у игроков, что привело их в её особняк. Если с игроками идёт Виктор Вахакович, её глаза заметно сужаются, а голос остаётся вежливым, но холодным. Если Виктора нет рядом, её поведение гораздо более тёплое и непринуждённое
 
-If the players reveal Stella’s fate, Lady Wachter’s eyes tighten, and she asks them for a full explanation of how Stella came to inhabit her current state. 
+Если игроки рассказывают о судьбе Стеллы, глаза леди Вахтер сужаются, и она требует полного объяснения того, как Стелла оказалась в своём нынешнем состоянии
 
-When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims.
+Когда игроки заканчивают свой рассказ, леди Вахтер заявляет, что считает их жестокой шуткой над ней и её семьёй, и спрашивает, есть ли у них какие-либо доказательства своих слов
 
-The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 10 Charisma (Persuasion) check. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
+Игроки могут убедить леди Вахтер деактивировать защитный круг вокруг Вахтерхауса и позволить Стелле проявиться там (и таким образом подтвердить рассказ игроков) преуспев в **проверке Убеждения Сл 10**. Игроки **автоматически преуспевают в проверке**, если ранее завоевали расположение леди Вахтер (например, убив Изека)
 
-Lady Wachter is shocked by and wary of the players’ knowledge of the protective circle and demands to know how the players learned of it. If asked, she is willing to share the following information about it:
+Леди Вахтер поражена и насторожена знаниями игроков о защитном круге и требует, чтобы они рассказали, как узнали о нём. Если её спросить, она готова поделиться следующей информацией о нём:
 
-* When Lady Wachter was a young woman, her parents and brother were killed in a mysterious incident that left their bodies apparently unharmed. Lady Wachter was the sole survivor, having been away from Wachterhaus at the time of the killing.
-* When she returned to Wachterhaus, she determined that a malevolent spirit had been responsible for her family’s death. Though the spirit appeared to have departed by the time Lady Wachter returned, she was wary of the prospect that it might one day return.
-* Using magic that she had learned from her mentor, Lysa, Lady Wachter erected a protective barrier around Wachterhaus that would prevent any creature within the Ethereal Plane from crossing over the boundary of the property.
+- Когда леди Вахтер была молодой девушкой, её родители и брат погибли в таинственном происшествии, в результате которого их тела, казалось, остались невредимыми. Леди Вахтер была единственной выжившей, так как в момент убийства находилась вне Вахтерхауса
+- Когда она вернулась в Вахтерхаус, она установила, что за смертью её семьи стоял злонамеренный дух. Хотя к моменту возвращения леди Вахтер дух, казалось, ушёл, она опасалась, что он может однажды вернуться
+- С помощью магии, которой она научилась у своей наставницы, Лисы, леди Вахтер создала защитный барьер вокруг Вахтерхауса, который предотвращал бы проникновение любых существ с Эфирного плана через границы поместья
 
-Upon agreeing to deactivate the protective circle, Lady Wachter retreats to <span class="citation">N4o. Master Bedroom (p. 113)</span> and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
+Согласившись деактивировать защитный круг, леди Вахтер уходит в N4o. Главную спальню (стр. 113) и достаёт с высокой полки рядом с железным сундуком макет Вахтерхауса. Затем она возвращается в гостиную и ставит макет на центральный стол
 
-With her eyes closed, Lady Wachter murmurs an incantation, causing a circle of ethereal grey light to briefly manifest around the scale model before vanishing again. She then informs the players that the circle has been lowered and sits back expectantly on the sofa while sipping her tea.
+С закрытыми глазами леди Вахтер тихо произносит заклинание, из-за чего вокруг макета на короткое время появляется круг эфирного серого света, а затем снова исчезает. После этого она сообщает игрокам, что круг опущен, и с ожиданием откидывается на диван, потягивая чай
 
-Assuming the players do not otherwise intervene, the scene then unfolds as follows:
+Если игроки не вмешиваются иным образом, сцена разворачивается следующим образом:
 
-* A few moments later, Stella—unseen, but present in the Ethereal Plane—levitates a peony from a flower vase on a nearby side table and deposits it in Lady Wachter’s lap. 
-* In disbelief, Lady Wachter drops her teacup on the parlor floor, where it shatters. She picks up the peony, her hands trembling with emotion. She notes, with a quavering voice, that peonies have always been Stella’s favorite flower. “If this is some kind of trick—” she warns.
-* Before Lady Wachter can finish her warning, Stella moves the teacup shards across the floor, forming the shape of a crescent. Lady Wachter’s eyes fill with tears, and she calls out Stella’s name, looking around the room almost as if she expects to see her daughter there. (The crescent resembles the crescent-shaped birthmark on the fur of a cat that Stella kept as a child, which was named Luna.)
-* Haliq, Lady Wachter’s valet, opens the door to the room and asks if Lady Wachter was calling for someone. Lady Wachter wipes her eyes, shakes her head, and dismisses him.
+- Через несколько мгновений Стелла — невидимая, но присутствующая на Эфирном плане — поднимает пион из вазы на соседнем столике и кладёт его на колени леди Вахтер
+- Не веря своим глазам, леди Вахтер роняет чашку с чаем на пол гостиной, где она разбивается. Она поднимает пион, её руки дрожат от эмоций. Голос её дрожит, когда она отмечает, что пионы всегда были любимыми цветами Стеллы. ***«Если это какая-то уловка...»*** — предупреждает она
+- Прежде чем леди Вахтер успевает закончить предупреждение, Стелла передвигает осколки чашки по полу, формируя фигуру полумесяца. Глаза леди Вахтер наполняются слезами, и она взывает к Стелле по имени, оглядываясь по комнате, словно ожидая увидеть там дочь. (Полумесяц напоминает отметину в форме полумесяца на шерсти кошки, которую Стелла содержала в детстве, и которую назвала Луна)
+- Халик, камердинер леди Вахтер, открывает дверь в комнату и спрашивает, кого леди Вахтер вызывала. Леди Вахтер вытирает глаза, качает головой и отсылает его
 
-After a moment, she wipes her eyes and says, “Let us assume that I believe you. What need have you of me?”
+Через мгновение она вытирает глаза и говорит: ***«Предположим, что я вам верю. В чём мне нужно помочь вам?»***
 
-If the players successfully persuade Lady Wachter to assist them and ask her for aid in creating a binding circle to entrap the hags within the Material Plane, she reluctantly and cautiously reveals the following information:
+Если игроки успешно убеждают леди Вахтер помочь им и просят её содействия в создании связывающего круга для заключения ведьм на Материальном плане, она неохотно и осторожно раскрывает следующую информацию:
 
-* She is indeed capable of crafting such things, though she is long out of practice. To create a circle large enough to entrap an entire windmill from a distance would require the aid of several of Lady Wachter’s “associates,” whose aid it may take some time to secure. (Lady Wachter can direct Ernst and Haliq to recruit her associates—four **cult fanatics**—and gather them within as little as four hours if necessary.)
+- Она действительно способна создавать подобные вещи, хотя давно не практиковалась. Для того чтобы создать круг достаточно большой, чтобы заключить целую ветряную мельницу с расстояния, потребуется помощь нескольких «соратников» леди Вахтер, чью помощь может потребоваться некоторое время заручиться. (Леди Вахтер может поручить Эрнсту и Халику собрать её соратников — 4 **культистов-фанатиков** — и собрать их в течение всего 4 часов, если необходимо)
 
-* There are two ways for such a circle to work: it can keep things out, or it can keep things in. To keep the hags from escaping the circle, the players will first need to secure the true names of any hags within the windmill, including those that are not the players’ primary target. Should even a single hag remain free to escape, it could attack Lady Wachter and her associates and bring the entire circle crashing down.
+* Существует 2 способа работы такого круга: он может не пускать внутрь или не выпускать наружу. Чтобы не дать ведьмам покинуть круг, игрокам сначала потребуется узнать истинные имена всех ведьм внутри мельницы, включая тех, кто не является основной целью игроков. Если хотя бы одна ведьма останется свободной, она сможет атаковать леди Вахтер и её соратников и разрушить весь круг
 
-If Victor is present, or if he is informed of the need to obtain the hags' true names, he recalls the relevant section from *Ethereal Entities* (see **Matrons of Malevolence** above) and shares it with the players, pointing out the section that discusses coven contracts and wondering aloud where Morgantha's coven might have hidden their contract.
+Если Виктор присутствует или если ему сообщают о необходимости узнать истинные имена ведьм, он вспоминает соответствующий раздел из _Эфирные сущности_ (см. **Матроны злобы** выше) и делится им с игроками, указывая на часть, где обсуждаются контракты шабашей, и вслух размышляет, где же мог спрятать свой контракт шабаш Морганты
 
-If Lady Wachter is informed of the possible presence of children within the windmill, she insists that the players rescue them before making any assault. (Fortunately, she notes, the players’ efforts to obtain the hags’ names may prove a useful distraction that allows others within their group to raid the other rooms of the windmill in the meantime.)
+Если леди Вахтер информируют о возможном присутствии детей внутри мельницы, она настаивает, чтобы игроки сначала спасли их, прежде чем предпринимать любое нападение. (К счастью, отмечает она, усилия игроков по получению имён ведьм могут послужить полезным отвлекающим манёвром, позволяя другим членам группы тем временем обойти остальные комнаты мельницы)
 
-If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
-# H6. The Old Svalich Road
-## H6a. The Morning Gate
-If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+Если игроки и леди Вахтер приходят к соглашению, она обещает встретиться с ними — вместе со своими соратниками — у восточных Врат Утра в Валлаки в назначенное время, как только подготовится к путешествию
 
-The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
-## H6b. The Druid
-The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
+# H6. Старая Сваличская дорога
+## H6a. Утренние врата
 
-Midway through the trip, the players are disturbed by a rustling in the trees above. Read:
+Если игроки привлекают [[Неигровые персонажи#Леди Фиона Вахтер|леди Вахтер]] к своему делу, она и её 4 соратника культиста фанатика встречают их у Врат Утра в назначенное время. Леди Вахтер сменила платье на практичные штаны, плоские кожаные ботинки и кольчужную рубаху, заправленную под тёмно-зелёную тунику, с круглой булавой на поясе и чёрным плащом с капюшоном, покрывающим весь наряд. Маэсто, её **бесовский фамильяр**, сопровождает её в форме **вороны**
 
-<div class="description">
-<p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
-</div>
+Фанатики описаны в N4t. Штаб-квартира культа (стр. 114) и носят имена Анджей, Борис, Мируна и Руксандра соответственно. Ни один из фанатиков не отличается разговорчивостью
 
-The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
+## H6b. Друид
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
+Путешествие от города Валлаки до Старой Костедробилки составляет **9,25 км** и занимает **2 часа**
 
-* Lady Wachter steps forward and says, “I am no songbird, child of Yester Hill. You know me, and my sign. Do the Forest Folk demand tolls to travel the Svalich Wood?”
-* The druid’s eyes linger on Majesto, and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of Mother Night.”
-* Lady Wachter replies curtly, “My company is no concern of yours. Trouble us no more, and tell your master that the House of Wachter remembers its debts.”
-* “Debts indeed!” the druid rasps. “But to whom, this one wonders?” With a mud-stained grin and a cackle, they vanish into the trees and disappear from sight.
+На середине пути игроков тревожит шорох в деревьях над головой. Читайте:
 
-If the players ask about her conversation with the druid, Lady Wachter is willing to provide the following information:
+>[!прочитайте]
+> На толстой, искривлённой ветке над вашими головами сидит на корточках фигура с растрёпанными волосами, торчащими из под грязной тряпки, и босыми ногами, одетая в рваную куртку, сшитую из шкур животных. Нижняя часть её лица скрыта красной повязкой, но красные полосы видны под её глазами (ещё две клыковидные полосы пачкают кожу под губами). Она останавливается, принюхивается к воздуху и смеётся, словно безумец. ***«Маленькие птички, заблудились в тёмном лесу?»*** — спрашивает она, насмешливо глядя вниз на вас
 
-* The individual was a druid of the Forest Folk, a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
-* Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of Ezra soon after returning to Vallaki.
-* Lysa did not take Lady Wachter’s departure lightly. A prideful woman, she considered her students her children, and took Lady Wachter’s decision to return to Vallaki as a personal betrayal. Lady Wachter has been banished from Berez ever since.
-* Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
-# H7. Old Bonegrinder
+Фигура — **друид** Холма Былого и шпион Страда. Она не намерена причинять игрокам вреда, но стремится вызвать их любопытство необычными способами
+
+Если [[Неигровые персонажи#Леди Фиона Вахтер|леди Вахтер]] находится с игроками, разговор проходит следующим образом, если игроки не вмешиваются:
+
+- Леди Вахтер делает шаг вперёд и говорит: ***«Я не птичка, дитя Холма Былого. Ты знаешь меня и мой знак. Лесной народ требует плату за проход через Сваличский лес?»***
+- Глаза друида задерживаются на Маэсто, и он отвечает: ***«Никакой платы, дорогие. Лишь… любопытство. Ты водишь странное общество, дочь Матери Ночи»***
+- Леди Вахтер резко отвечает: ***«Моё общество — не твоё дело. Не досаждай нам больше и скажи своему хозяину, что Дом Вахтер помнит свои долги»***
+- ***«Долги, говоришь!»*** — сипло произносит друид. ***«Но кому же, интересно?»*** С грязной ухмылкой и злым смехом он исчезает в деревьях и пропадает из виду
+
+Если игроки спрашивают о её разговоре с друидом, леди Вахтер готова предоставить следующую информацию:
+
+- Этот человек — друид Лесного народа, разрозненного сообщества отшельников, обитающих среди Сваличских лесов и в целом сторонящихся цивилизованных поселений. Друиды почитают Холм Былого, расположенный на юго-западной окраине баровийской долины, как священное место и поклоняются Страду как божеству за его власть над землёй и погодой
+- Леди Вахтер впервые столкнулась с друидами и узнала о них, когда была ученицей своей наставницы, Лисы. Лиса, лесная ведьма, обитавшая в болотах Береза, поклонялась Матери Ночи — божеству тьмы, обмана и оккультных тайн. Однако леди Вахтер так и не смогла услышать «голос» Матери Ночи (как называла его Лиса) и вскоре после возвращения в Валлаки приняла веру в Эзру
+- Лиса восприняла уход леди Вахтер тяжело. Гордая женщина, она считала своих учениц своими детьми и приняла решение леди Вахтер вернуться в Валлаки как личное предательство. С тех пор леди Вахтер изгнана из Береза
+- «Долг» леди Вахтер перед Страдом берёт начало с его усилий спасти её предка, леди Ловину Вахтер, от гибели от рук предателя Лео Дилиснии много веков назад. Когда предатель и убийца по имени Лео Дилисня убил мужа Ловины и попытался расправиться с ней самой, Страд встал на её защиту, а затем выследил Дилисню, чтобы покарать его за измену. С тех пор Дом Вахтер хранит верность Страду
+
+# H7. Старая Костедробилка
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Старая Костедробилка описана в [[Арка C - В Долину#C9. Старая Костедробилка|Старая Костедробилка]]. Но Фрик здесь носит имя Фёдор, и он, как и Миртл, являются детьми баровийского беженца Франца. Наконец, жёрнов в O2. Костяная мельница (стр. 127) имеет с одной стороны каменное замочное отверстие и содержит скрытый отсек, в котором хранится контракт ведьм
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+Если [[Неигровые персонажи#Леди Фиона Вахтер|леди Вахтер]] присутствует, когда игроки приближаются к мельнице, она сначала собирает игроков, [[Неигровые персонажи#Виктор Валлакович|Виктора]] и 4 **культистов-фанатиков** в тёмной рощице у Старой Сваличской дороги, чтобы разработать план нападения
 
-Lady Wachter then attempts to confirm the following details:
+Затем леди Вахтер пытается уточнить следующие детали:
 
-* how many hags reside in the windmill, and how the players intend to obtain their names
-* whether there are children within the windmill, and how the players intend to rescue them
-* how the players intend to combat the hags once the binding circle is raised
+- сколько ведьм обитает в мельнице и каким образом игроки намерены получить их имена
+- есть ли внутри мельницы дети и каким образом игроки собираются их спасти
+- каким образом игроки намерены сражаться с ведьмами после того, как связывающий круг будет воздвигнут
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+Леди Вахтер рада предложить игрокам помощь своего **бесовского фамильяра** Маэсто в качестве разведчика. (Маэсто может использовать свои формы **вороны**, **паука** и **крысы** для наблюдения за внешней и внутренней частью мельницы, оставаясь при этом невидимым с помощью своей способности _**невидимость**_). Тем временем Виктор предлагает помочь игрокам извлечь детей Франца из мельницы, используя свои заклинания _Туманный шаг_, _Полёт_ и _Высшая невидимость_ по мере необходимости для содействия в спасательной миссии
 
-> [!info]+ **Layout of the Windmill**
-> The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
+> [!info]+ **Внутреннее устройство личности**
+> Мельница стоит на небольшом, голом, травянистом холме диаметром примерно 1000 футов (300 м), с вершиной диаметром около 400 футов (120 м). Её северная и западная стороны окружены деревьями Сваличского леса, которые плотно подходят к подножию холма
 
-> [!info]+ **Victor's Spellbook**
-> Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+> [!info]+ **Книга заклинаний Виктора**
+> Викторова книга заклинаний в основном содержит заклинания, описанные в N3t. Рабочая комната Виктора (стр. 109), за исключением того, что в ней также есть заклинания _Послание_ и _Ужас_, а _Снятие проклятия_ отсутствует. В день, когда он отправляется к Старой Костедробилке, он в основном подготовил заклинания, описанные в статблоке **mage**, но подготовил _Усыхание_ вместо _Конуса холода_
 
-> [!Warning]+ Counterspell 2024
-> 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Арка H - Потерянная душа#Battle with the Hags|Battle with the Hags]].
+> [!Warning]+ Контрзаклинание 2024
+> Это руководство было написано для использования заклинаний 2014 года. Если используются заклинания 2024 года, добавьте заклинание _Контрзаклинание лайт_ в книгу заклинаний Виктора. Заклинание действует как заклинание 5-го уровня _Контрзаклинание_ по правилам 2014 года (Основные правила, стр. 228) для боя в [[Арка H - Потерянная душа#Битва с каргами|Битве с каргами]]
 
-However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
+Однако Виктор предупреждает игроков, что, согласно _Эфирным сущностям_, шабаши ведьм часто обладают способностью рассеивать чары, находясь в непосредственной близости от своего логова. После того как связывающий круг леди Вахтер будет воздвигнут, ему придётся держаться рядом с мельницей, чтобы защищать его с помощью _Контрзаклинания_
 
-As such, he'll need to conserve his strength—and, specifically, his 5th- and 4th-level spell slots—until then. (**Under no circumstances does Victor spend his 5th-level spell slot before the end of the battle with the hags.**)
+Поэтому ему придётся беречь силы — и, в особенности, ячейки заклинаний 5-го и 4-го уровней — до этого момента. (**Ни при каких обстоятельствах Виктор не тратит ячейку заклинания 5-го уровня до окончания боя с каргами**)
 
-> [!abstract]+ **Bargaining with the Hags**
+> [!abstract]+ **Торг с каргами**
+> Если игроки посещают Старую Костедробилку, не заручившись предварительно помощью леди Вахтер, они могут попытаться договориться с ведьмами, чтобы получить _сердечный камень_. Игрокам не нужно предварительно маскироваться под зависимых от сонных пирожных — Моргента всегда рада вести дела с добровольными клиентами
 >
-> If the players visit Old Bonegrinder without first obtaining Lady Wachter’s help, they can attempt to bargain with the hags in order to obtain a *heartstone.* The players do not need to first disguise themselves as dream pastry addicts to do so—Morgantha is always happy to do business with willing customers.
+> Чтобы одолжить сердечный камень Морганты на срок в 3 дня, игроки должны пообещать выполнить для неё определённое поручение. В качестве гарантии их послушания Морганта забирает их сны в залог после того, как игроки принимают её предложение, запечатывая их в стеклянный флакон, который носит на шнурке на шее
 >
-> To borrow Morgantha's heartstone for a period of three days, the players must promise to undertake a particular task for her. As a form of insurance to ensure their compliance, Morgantha takes their dreams as collateral once the players accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
+> Морганта предупреждает игроков, что если они не выполнят её поручение в течение 14 дней, не вернут сердечный камень в течение 3 дней или предадут её, она немедленно поглотит их сны, лишив их возможности получать преимущества долгого отдыха навсегда. (Морганта может поглотить сны игроков **действием**, пока флакон находится в её распоряжении)
 >
-> Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
+> Если игроки выполнят поручение Морганты в отведённое время, она освободит их сны и позволит им вернуться к их владельцам. В любом случае игроки могут совершать долгие отдыха обычным образом до истечения 14 дней
 >
-> If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
+> Поручение Морганты просто. Игроки должны доставить **пиявку души** — Крошечное **исчадие**, напоминающее пиявку с призрачно-белой, полупрозрачной плотью и фиолетово-синими венами, котороt Морганта заключила в пробковый стеклянный флакон — в кабинет камергера Страда, Рахадина. По прибытии в кабинет Рахадина игроки должны вынуть пробку из флакона и позволить пиявке прикрепиться к нижней стороне его стола, где она станет невидимой и практически необнаружимой
 >
-> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
-> 
->![[Soul Leech.png]]
-><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> ![[Soul Leech.png]]
 >
->The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+> Игроки могут убедить Морганту раскрыть свои планы относительно пиявки **проверкой Убеждения Сл 10**: когда Рахадин вернётся, пиявка тайно прикрепится к его плоти, гарантируя, что — когда Рахадин в конце концов умрёт — его злая душа будет поймана и заключена в _мешок душ_ Морганты, где она превратится в **личинку души**, которую Морганта сможет использовать в своих злых целях
 >
-> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+> Морганта может рассказать игрокам, что кабинет Рахадина находится в подвале Замка Рэйвенлофт, недалеко от кухни. Однако Морганта не раскроет, откуда получила эту информацию. (Её источник — конечно же, **полукровка** Сайрус Белвью, невольный носитель _глаза ведьмы_ шабаша)
 
-> [!info]+ **The Megaliths**
+> [!info]+ **Мегалиты**
+> Мегалиты за Старой Костедробилкой обозначают границы Горного святилища: святилища Искательницы из Леди Трёх. Поднявшись на холм мельницы, игроки могут увидеть мегалиты в долине внизу. Читать:
 >
-> The megaliths beyond Old Bonegrinder demarcate the boundaries of the Mountain Fane: the shrine to the Seeker of the Ladies Three. Once atop the windmill's hill, the players can see the megaliths in the valley below. Read:
->
-><hr>
->
-> A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.
-> 
 > <hr>
 >
-> The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
-## H7a. Raiding the Windmill
-The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
+> Круг высоких, стройных мегалитов стоит, окутанный густыми облаками тумана на краю леса внизу, и лишь острые вершины камней виднеются, пробиваясь сквозь мглу
+>
+> <hr>
+>
+> Область внутри тумана сильно затемнена. Если игроки войдут в туман, через минуту их присутствие привлечёт внимание **4 вампирических туманов** (Mordenkainen Presents: Monsters of the Multiverse, p. 250). Туманы лениво кружат вокруг игроков в течение **3 раундов**, после чего 1 туман пытается использовать 1 атаку _**похищение жизни**_ на ближайшего игрока, подобно любопытно щиплющей жертву акуле. Если игроки останутся в тумане, все вампирические туманы атакуют в следующем раунде
 
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
+## H7a. Захват Мельницы
 
-The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
+Игроки могут получить истинные имена ведьм, забрав контракт из запертого каменного отделения в жернове в O2. Мельница костей (p. 127)
 
-> [!info]+ **Damaging the Contract**
-> The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Intelligence (Arcana) check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
+Одна из рукоятей жернова в мельнице костей более искривлена, чем остальные, и на конце заметно сегментирована. Поворот конца искривлённой рукояти отсоединяет её, раскрывая спрятанный внутри железный ключ. Игроки могут открыть отделение жернова, используя железный ключ, или преуспев в **проверке Ловкости Сл 15** (инструменты вора). В отделении находится контракт карг, а также 6 дешёвых ювелирных изделий (по 25 зм каждое)
 
-The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
+Контракт карг написан на **языке бездны** на куске человеческой кожи и подписан их истинными именами внизу: Морганта Разрушающий Шторм, Белладонна Солнечное Проклятие и Оффалия Червиворот. (Если ни один из игроков не умеет читать язык бездны, Леди Вахтер сможет прочитать имена ведьм, так как изучила алфавит этого языка в качестве ученицы Бабы Лисяги)
 
-> [!item]+ **Charm of Mass Heroism**
-> As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
+> [!info]+ **Причинение урона контракту**
+> Контракт карг, с **КД 20** и **1 хитом**, невосприимчив ко всем видам урона, кроме урона, наносимого собственной атакой _**когтей**_ карги, что игрок может вспомнить, преуспев в **проверке Магии Сл 20**. Если контракт будет уничтожен, шабаш распадается, и все 3 его участницы используют статистику обычной **ночной ведьмы**
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Отделение в жернове также содержит _Талисман множественного героизма_, представляющий собой золотую медаль с 3 переплетёнными кольцами, выгравированными в её центре
+
+> [!item]+ **Талисман множественного героизма**
+> **Действием** носящий этот талисман может дать любому количеству существ в пределах **30 футов** на **1 час** эффект [[Зелье героизма|зелья героизма]]. (**10 временных хитов** и **+1к4** ко всем **спасброскам**). После использования талисман исчезает
+
+Фёдор и Мирта заключены на 3-ем этаже мельницы и охраняются **ночными каргами** Белладонной «Беллой» Солнечным Проклятием и Оффалией Червиворот
+
+>[!дети]
+> Двое пленных детей (ЗД мальчик и девочка, не бойцы) в обмен на сонное печенье. Мальчика зовут Фёдор и ему 7 лет. Девочку зовут Мирта и ей едва исполнилось 5
 
 ![[The Three Hags.png]]
-<span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-### Distracting Morgantha
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
-If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
+### Отвлечение Морганты
+_Эта сцена происходит в Главе 5: Область O1._
 
-> [!info]+ **The Hag Coven**
+Если один или несколько игроков постучат в дверь O1. Первый этаж (p. 126), Морганта спустится из O2. Костедробилка (p. 127) и откроет им дверь. Она с радостью пригласит игроков внутрь и спросит, пришли ли они приобрести её товары
+
+> [!info]+ **Шабаш карг**
+> Пока Морганта и её две дочери находятся в пределах 1 километра друг от друга, они используют характеристики **Шабаш Старой Костедробилки** и **Кошмарная Троица**, вместо своих индивидуальных блоков характеристик **ночной карги**
+> 
+> Пока шабаш существует, урон, нанесённый каждой отдельной карге, вместо этого вычитается из хитов шабаша, вызывая появление схожих ран или повреждений на телах всех трёх карг. (Если урон наносится нескольким каргам одновременно, этот урон вычитается из хитов шабаша соответствующее число раз)
 >
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
->
-> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
->
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
+> Карги не получают доступ к особенности **_Общее колдовство_**, обычно доступной шабашам карг. Однако каждая карга в составе шабаша сохраняет использование своих особенностей **_Врожденное колдовство_** и **_Предметы ночной карги_**, а также свои действия **_Когти_**, **_Изменение облика_**, **_Эфирность_** и **_Преследование кошмаров_**
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+Игроки могут убедить Морганту, что пришли купить дополнительные сонные пирожные, при успешной **проверке Обмана Сл 10**
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+Альтернативно, если игроки используют другую убедительную легенду, они могут убедить Морганту, что не представляют угрозы, при успешной **проверке Обмана Сл 16**
 
-If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
+Если игроки успешно убеждают Морганту, что они зависимы от сонных пирожных или иным образом безвредны, Морганта сообщает им, что её текущая партия сонных пирожных всё ещё выпекается, и приглашает их остаться, пока они не будут готовы. До тех пор она охотно поддерживает светскую беседу
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+Игроки также могут убедить Морганту позвать своих дочерей вниз на кухню (чтобы выманить их подальше от детей наверху) при успешной **проверке Убеждения** или **Обмана Сл 16**. Если им это удаётся, Белла и Оффалия представляются, неловко присев в реверансе
 
-On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
+При **провале** осторожная Морганта утверждает, что её дочери, к сожалению, слишком заняты, чтобы говорить с посетителями, но она с радостью передаст им любые комплименты или другие замечания, если игроки пожелают. Затем она спрашивает у игроков, как им понравились её сонные пирожные и какие сны они видели после того, как их съели
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+Игрок может ослабить паранойю Морганты, рассказав историю о красивом сне, который он увидел после того, как съел сонное пирожное, и преуспев в **проверке Обмана Сл 16**, которая **автоматически преуспевает**, если игрок говорит правду. В случае неудачи Морганта становится подозрительной. (См. раздел **Морганта становится подозрительной** ниже)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
+В отличие от своей матери, Белла и Оффалия легко отвлекаются. Их можно заманить в O2. Костяная мельница (стр. 127) или O4. Куполообразный чердак (стр. 127) при успешной **проверке Выступления Сл 13** и любом разумно подходящем способе (например, заклинанием **_Малая иллюзия_**)
 
-### Морганта начинает подозревать
+### Морганта становится подозрительной
 
 _Эта сцена происходит в Главе 5: Область O1_
 
@@ -465,7 +495,7 @@ _Эта сцена происходит в Главе 5: Область O1_
 
 Если игроки не уходят, через короткое время (в течение которого она не раскрывает игрокам ничего важного) Морганта ненадолго отлучается, чтобы достать из печи поднос с сонными пирожными, затем зовёт наверх: ***«Девочки, пора попробовать свежую партию!»*** (Пирожные явно почти сырые. Слова Морганты служат сигналом для двух других **ночных ведьм**, что в мельницу пришли нежеланные гости и с ними нужно разобраться)
 
-Пока Белла и Офалия спускаются из O3. Спальни, Морганта приветливо улыбается игрокам и сообщает, что её дочери — её самые ценные дегустаторы, и она всегда благодарна за их мнения. (***«Люди предупреждают о старости, и это правда»***, — говорит она приветливо. ***«Так сложно вести такой бизнес в одиночку»***)
+Пока Белла и Офалия спускаются из O3. Спальни, Морганта приветливо улыбается игрокам и сообщает, что её дочери — её самые ценные дегустаторы, и она всегда благодарна за их мнения. (***«Люди предупреждают о старости, и это правда»***, — говорит она приветливо. ***«Так сложно вести дела в одиночку»***)
 
 Когда Белла и Офалия приходят, они приветствуют игроков неловкими, чрезмерно драматичными реверансами. Затем Белла хмурится и восклицает: ***«Мама! Я думала, ты сказала, что починишь входную дверь!»***
 
@@ -477,82 +507,87 @@ _Эта сцена происходит в Главе 5: Область O1_
 
 Игроки затем пробуждаются через **1к4 + 1 часов** на чердаке Старой Костедробилки. См. раздел [[Арка H - Потерянная душа#H7c. Побег из Старой Костедробилки|H7c. Побег из Старой Костедробилки]] ниже для получения дополнительной информации о побеге игроков
 
-## H7b. Claiming the Heartstone
-### The Binding Circle
-If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
+## H7b. Получение Сердечного камня
+### Связывающий круг
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+Если игрокам удаётся узнать имена дочерей Морганты и спасти детей, заключённых в ветряной мельнице, [[Неигровые персонажи#Леди Фиона Вахтер|Леди Вахтер]] приказывает своим **4 фанатикам культа** построить пятиконечное построение вокруг подножия холма, на котором стоит Старая Костедробилка
 
-Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
+[[Неигровые персонажи#Виктор Валлакович|Виктор]] предупреждает игроков, что карги, вероятно, представляют собой опасных врагов, и советует активировать амулет немедленно, прежде чем вспыхнет бой
 
-When the players direct her to do so, Lady Wachter begins the ritual. Read:
+Затем Леди Вахтер предупреждает игроков, что, как только круг связывания будет возведён, он продержится всего **10 минут**. Она также сообщает, что если она или любой из **4 фанатиков культа** потеряет сознание, ритуал немедленно провалится, и карги смогут убежать. (Из-за высоты холма маловероятно, что ночные карги смогут атаковать культистов во время сражения)
 
-<div class="description">
-<p>Lady Wachter raises her hands toward the darkened sky. Her voice, firm and resonant, booms through the stillness of the air as words of power roll off her tongue.</p>
-<p>Lady Wachter’s four followers soon join the chant, raising their arms as their voices swell in harmony with hers. The air around the hill begins to crackle and hum, the atmosphere tinged with the scent of ozone.</p>
-<p>Small clouds of mist begin to rise from the ground beneath the ritualists, extruding long tendrils of wisping fog that bathe the earth in pale, ethereal light.</p>
-<p>As the chant continues, the billowing clouds of mist grow brighter, casting long, dancing shadows across the sides of the hill. The fog seems to undulate in rhythm with their words, the very air seeming to thrum with arcane resonance. From deep within the seas of roiling grey, you think you can almost hear a woman’s distant, murmuring voice, joined by the echo of a thousand whispers.</p>
-<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
-</div>
+Когда игроки приказывают ей это сделать, Леди Вахтер начинает ритуал. Читайте:
 
-The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
-### Confronting the Hags
-<span class="citation"><em>This scene takes place in Chapter 5: Area O.</em></span>
+>[!read]
+> Леди Вахтер поднимает руки к тёмному небу. Её голос, твёрдый и резонансный, гремит сквозь неподвижный воздух, когда с её губ срываются слова силы
+>
+> Четверо последователей Леди Вахтер вскоре присоединяются к заклинанию, поднимая руки, а их голоса сливаются в гармонии с её. Воздух вокруг холма начинает потрескивать и гудеть, а атмосфера наполняется запахом озона
+>
+> Малые облака тумана начинают подниматься с земли под ритуалистами, вытягивая длинные нити клубящегося дыма, которые омывают землю бледным, эфирным светом
+>
+> По мере продолжения заклинания клубящиеся облака тумана становятся ярче, отбрасывая длинные, пляшущие тени по склонам холма. Туман, кажется, колышется в ритме их слов, сам воздух, кажется, вибрирует от арканного резонанса. Из глубин бурлящих серых морей вам кажется, что вы почти слышите далёкий, шепчущий женский голос, сопровождаемый эхом тысячи шёпотов
+>
+> Нити тумана переплетаются — и сплетаются соединяются, образуя круг: плотное кольцо мерцающего, закручивающегося тумана. Руки Леди Вахтер сжимаются в кулаки, и она сводит обе руки через грудь. Низким, мелодичным голосом она вновь и вновь произносит трио имен: **«Морганта Разрушающий Шторм, Белладонна Солнечное Проклятие и Оффалия Червиворот»**. Её взгляд встречается с вашим, и она делает едва заметный кивок
 
-As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
+Круг, который простирается на **500 футов** в высоту, сохраняется следующие **10 минут**. В это время любые ночные карги, названные Леди Вахтер, находящиеся внутри круга, не могут использовать свою способность _**Эфирность**_, чтобы попасть на Эфирный план
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+### Столкновение с каргами
+_Эта сцена происходит в Главе 5: Область O_
 
-Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
+Когда игроки поднимаются на холм, ворон Леди Вахтер, Маджесто, издаёт надменный, вызывающий кар и присоединяется к ним с небес, принимая свою истинную форму **импа**, прежде чем стать невидимым
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+Тем временем [[Неигровые персонажи#Виктор Валлакович|Виктор]] накладывает заклинание **_Доспехи мага_** на любых игроков, которые просят об этом. Он также использует 1 ячейку заклинания четвёртого уровня, чтобы наложить на себя _**Высшую невидимость**_
 
-If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
+Виктор напоминает игрокам, что согласно _Эфирным сущностям_, ему нужно оставаться близко к ветряной мельнице — в пределах **60 футов** — чтобы использовать своё _**Контрзаклинание**_ для защиты круга от способности шабаша развеять его. Он просит игроков защищать его соответствующим образом
 
-Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
+Когда игроки приближаются к ветряной мельнице, если ночные карги заметили исчезновение детей, вершина холма вокруг мельницы теперь редеет сотней **жаб**, ранее хранившихся в деревянном сундуке Морганты в O1. Первый этаж (стр. 126). (Морганта выпустила их, чтобы использовать особое действие логова шабаша _**Амфибийный какофонический хор**_ и заманить детей обратно к мельнице)
 
-If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the "livestock" that they "stole." (Unless the players were detected doing so, Morgantha hasn't yet realized that the players stole the contract.)
+Если игроки не невидимы, Морганта выводит своих дочерей из ветряной мельницы, чтобы встретить их по мере приближения, располагаясь вместе с дочерьми прямо перед дверью мельницы и приветствуя игроков, когда те подходят на расстояние **30 футов**. Далее разворачивается следующий разговор, если его не прервать, хотя карги при необходимости атакуют в целях самозащиты
 
-If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
-
-Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
+>[!разговор]
+> Морганта тепло приветствует игроков и поздравляет их с получением своего «выкупа». Затем она любезно спрашивает, за какими предметами или дарами они пришли торговаться
+>
+> Если Морганте сообщают, что игроки хотят одолжить сердечный камень, она с радостью позволит им сделать это на срок в 3 дня — если игроки вернут «скот», который они «украли». (Если игроков не заметили при этом, Морганта ещё не осознала, что они украли контракт)
+>
+> Если игроки осуждают Морганту за её охоту на Франца и детей, она насмешливо фыркает, замечая: *«Дитя, их души были обречены с того самого момента, как родились в этих Туманах — мешок душ больше любого, какой я могла бы создать, и наполненный куда более глубоким злом. Какая разница, кто их заберёт и когда?»*
+>
+> Морганта отказывается подробнее объяснять своё заявление, отмечая лишь, что *«более тёмные силы»*, чем Страд вон Зарович, повелевают Туманами, окружающими долину, — и что она, возможно, будет готова поделиться большей информацией, если игроки вернут детей. (Если игроки затем делают это, Морганта раскрывает 3 секрета, указанные ниже в разделе **Мольба Морганты**)
 
 ![[The Bonegrinder Coven.png]]
-<span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Битва с каргами
-The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
 
-> [!info]+ **Lair Actions**
+Карги сражаются в целях самозащиты или если игроки ясно дают понять, что иначе не вернут детей или контракт шабаша. Сражающиеся действуют следующим образом:
+
+> [!info]+ **Действия логова**
+> Пока шабаш находится в пределах **100 футов** от мельницы, он может совершать **действия логова**, пока не является **недееспособным**
 >
-> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
+> В обеих фазах, на **инициативе 20** (проигрывая при равенстве инициативы), шабаш может совершить 1 из следующих действий логова, сосредоточенных на мельнице или исходящих от неё, либо отказаться от их использования в этом раунде
 >
-> In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
->
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+> - **_Оберегающий ветер._** Шабаш накладывает [[Защитный ветер]]
+> - **_Порыв ветра._** Шабаш накладывает [[Порыв ветра]]
+> - **_Амфибийный какофонический хор._** Шабаш заставляет лягушек в траве вокруг ветряной мельницы квакать странно гипнотическую песню. Каждое существо в пределах **120 футов** от мельницы, которое может слышать лягушек, должно преуспеть в **спасброске Харизмы Сл 10** или **в начале своего следующего хода** использовать всё своё передвижение, чтобы приблизиться к мельнице настолько, насколько может
+> - **_Развеять магию (1/день)._** Шабаш накладывает [[Рассеивание магии]] 5-го уровня
 
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
+<h2>Шабаш Костемолки</h2>
+<em>Трио из трёх средних исчадий, нейтрально злые</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>КД</strong> 17 (естественный доспех)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Хиты</strong> 183 (8)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Скорость</strong> 30 футов
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>Сил</th>
+      <th>Лов</th>
+      <th>Тел</th>
+      <th>Инт</th>
+      <th>Мдр</th>
+      <th>Хар</th>
     </tr>
   </thead>
   <tbody>
@@ -567,69 +602,67 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Навыки</strong> Обман +8, Проницательность +7, Восприятие +7, Скрытность +7<br>
+<strong>Сопротивления урону</strong> холодом, огнём; дробящему, колющему и режущему от немагических непосеребрённых атак<br>
+<strong>Сопротивления состояниям</strong> очарованный<br>
+<strong>Чувства</strong> Тёмное зрение 120 футов, пассивное Восприятие 16<br>
+<strong>Языки</strong> Бездны, Общий, Инфернальный, Первичный<br>
+<strong>ПО</strong> 14 или 12 когда против посеребрённого оружия<br>
+<strong>БМ</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+<p><strong><em>Шабаш карг.</em></strong> Шабаш состоит из 3 карг: Морганты, Беллы и Оффалии. Каждая карга действует по своей инициативе, самостоятельно поддерживает концентрацию и переносит состояния, а также имеет собственное действие, бонусное действие, реакцию и передвижение. Любой урон, который получает карга, вычитается из хитов шабаша. (Если несколько карг получают урон от одного и того же источника, шабаш теряет хиты соответствующее число раз)</p>
+<p><strong><em>Боец в узком пространстве.</em></strong> Шабаш не имеет помехи на броски атаки дальнобойным оружием, находясь в пределах 5 футов от враждебного существа</p>
+<p><strong><em>Сопротивление магии.</em></strong> Шабаш имеет преимущество на спасброски против заклинаний и магических эффектов</p>
+<p><strong><em>Заклинательство.</em></strong> Заклинательной характеристикой шабаша является Интеллект (Сл 17, +9 к попаданию)</p>
+<p><strong><em>Сложное колдовство.</em></strong> Если карга накладывает заклинание в свой ход бонусным действием, она также может действием наложить заклинание, не являющееся заговором, в тот же ход</p>
+<p><strong><em>Вторая фаза.</em></strong> Если хиты шабаша опускаются до 0, его характеристики немедленно заменяются характеристиками Кошмарной Троицы. Его инициатива остаётся прежней. Избыточный урон не переносится на новую форму, однако он сохраняет все состояния, которые имел в предыдущей форме. Все заклинания, требующие концентрации, оканчиваются</p>
+<h3>Действия</h3>
+<p><strong><em>Слепота/Глухота (только Белла).</em></strong> Белла накладывает Слепоту/Глухоту. Цель получает дополнительно 6 (1к12) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Тлетворное Сияние (только Белла).</em></strong> <em>2-й уровень, Некромантия</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em>: Тусклый зеленоватый свет вспыхивает в сфере радиусом 10 футов с центром в точке в пределах дистанции. Каждое существо в сфере должно преуспеть в спасброске Телосложения Сл 17 или получить 1к12 урона излучением и быть отравленным до конца своего следующего хода</p>
+<p><strong><em>Луч Слабости (только Оффалия).</em></strong> Оффалия произносит <em>Луч слабости</em>. Цель дополнительно получает 7 (2к6) некротического урона при провале</p>
+<p><strong><em>Кислотная стрела (только Оффалия).</em></strong> Оффалия произносит <em>Мельфову кислотную стрелу</em> с уроном 9 (2к8) и 4 (1к8) на следующий ход</p>
+<p><strong><em>Луч болезни (только Морганта).</em></strong> Морганта произносит <em>Луч слабости</em> с уроном 7 (2к6)</p>
+<p><strong><em>Гниющее разложение (только Морганта).</em></strong> <em>1-ый уровень, Некромантия</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em> Некромантическая энергия омывает существо по выбору Морганты, которое должно совершить спасбросок Телосложения. Цель получает 10 (3к6) некротического урона при провале или половину урона при успехе</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Корона безумия (только Белла).</em></strong> Белла сотворяет <em>Корону безумия</em>. Цель получает дополнительно 4 (1к8) психического урона при провале или половину урона при успехе. (Белла может бонусным действием поддерживать контроль над целью вместо действия)</p>
+<p><strong><em>Воображаемая сила (только Белла).</em></strong> Белла сотворяет <em>Воображаемую силу</em>. Цель получает дополнительно 4 (1к8) психического урона при провале  или половину урона при успехе</p>
+<p><strong><em>Ужас (только Оффалия).</em></strong> Оффалия сотворяет <em>Ужас</em> 2-го уровня. Цель получает дополнительно 4 (1к8) психического урона при провале или половину урона при успехе</p>
+<p><strong><em>Наложение проклятия (только Оффалия).</em></strong> Оффалия накладывает <em>Наложение проклятия</em> с дистанцией 30 футов. Цель получает дополнительно 6 (2к12) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Удержание личности (только Морганта).</em></strong> Морганта накладывает <em>Удержание личности</em> 3-го уровня. Цель получает дополнительно 4 (1к8) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Молния (только Морганта, перезарядка 5-6).</em></strong> Морганта накладывает <em>Молнию</em> с уроном 25 (10к4)</p>
+<p><strong><em>Когти.</em></strong> <em>Рукопашная атака оружием:</em> +9, 5 футов. <em>Попадание:</em> 13 (2к8 + 4) режущего урона
+<h3>Реакции</h3>
+<p><strong><em>Спектральные тени (только Белла).</em></strong> <em>1-ый уровень, Иллюзия</em>, на себя, В С, мгновенно. <em>Эффект:</em> В ответ на атаку Белла может реакцией кратковременно создать 2 иллюзорные копии в своей области. Атакующий должен бросить 1к6: 5 или 6 поражает Беллу, в противном случае поражается копия</p>
+<p><strong><em>Безумный смех (только Оффалия).</em></strong> <em>1-ый уровень, Очарование</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em> В ответ на получение урона от существа, которого Оффалия видит в пределах дистанции, она может реакцией заставить это существо совершить спасбросок Мудрости Сл 17. При провале существо впадает в приступы смеха, падает ниц, становится недееспособным и не может подняться до конца своего следующего хода или до получения урона</p>
+<p><strong><em>Ведьмовская дуга (только Морганта).</em></strong> <em>1-ый уровень, Воплощение</em>, 30 футов, В С М, 1 раунд. <em>Эффект:</em> В ответ на получение урона от существа, которое Морганта видит в пределах дистанции, она может реакцией послать луч искрящейся синей энергии в сторону атакующего, заставляя его совершить спасбросок Телосложения Сл 17 или получить 6 (1к12) урона электричеством. При провале луч образует электрическую дугу, соединяющую Морганту с атакующим до начала его следующего хода. Пока дуга существует, Морганта имеет сопротивление ко всем видам урона, а каждый раз, когда она получает урон, соединённое существо получает такое же количество урона</p>
+<p><strong><em>Туманный шаг.</em></strong> В ответ на получение урона карга может реакцией наложить <em>Туманный шаг</em>.</p>
 </div>
-
 
 ![[Bella.png]]
 
 ![[Offalia.png]]
 
 ![[Morgantha.png]]
-<span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
+<h2>Кошмарная троица</h2>
+<em>Трио из среднего исчадия и 2-х огромных исчадий, нейтрально злые</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>КД</strong> 17 (естественный доспех)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Хиты</strong> 183
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Скорость</strong> 30 футов
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>Сил</th>
+      <th>Лов</th>
+      <th>Тел</th>
+      <th>Инт</th>
+      <th>Мдр</th>
+      <th>Хар</th>
     </tr>
   </thead>
   <tbody>
@@ -644,29 +677,29 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Навыки</strong> Обман +8, Проницательность +7, Восприятие +7, Скрытность +7<br>
+<strong>Сопротивления урону</strong> холодом, огнём; дробящим, колющим и режущим немагических непосеребрённых атак<br>
+<strong>Сопротивления состояниям</strong> очарованный<br>
+<strong>Чувства</strong> Тёмное зрение 120 футов, пассивное Восприятие 16<br>
+<strong>Языки</strong> Бездны, Общий, Инфернальный, Первичный<br>
+<strong>ПО</strong> 15 или 13, когда против посеребрённого оружия<br>
+<strong>БМ</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Шабаш карг.</em></strong> Шабаш состоит из трёх карг: Морганты, Беллы и Оффалии. Если хиты шабаша опускаются до 0, все карги погибают. До этого каждая карга действует на своей инициативе, переносит состояния самостоятельно и имеет собственное действие, бонусное действие, реакцию и передвижение. Любой урон, который получает карга, вычитается из хитов шабаша</p>
+<p><strong><em>Формы кошмара.</em></strong> В этой фазе Белла принимает форму Огромного крокодила, Оффалия — форму Огромного слона, а Морганта окутана плащом закручивающихся теней</p>
+<p><strong><em>Сопротивление магии.</em></strong> Шабаш имеет преимущество на спасброски против заклинаний и магических эффектов</p>
+<p><strong><em>Разгон (только Оффалия).</em></strong> Если Оффалия перемещается не менее чем на 20 футов по прямой к цели и затем поражает её атакой рогом в тот же ход, цель получает дополнительно 11 (2к10) колющего урона. Если целью является существо, оно должно преуспеть в спасброске Силы Сл 18 или быть оттолкнуто на расстояние до 10 футов и опрокинуто</p>
+<h3>Действия</h3>
+<p><strong><em>Укус (только Белла).</em></strong> <em>Рукопашная атака оружием:</em> +10, 5 футов. <em>Попадание:</em> 16 (2к10 + 5) колющего урона и цель схвачена (Сл побега 17). Пока захват не кончится, цель опутана, и Белла не может кусать другие цели</p>
+<p><strong><em>Хвост (только Белла).</em></strong> <em>Рукопашная атака оружием:</em> +10, 10 футов, 1 цель, не схваченная Беллой. <em>Попадание:</em> 14 (2к8 + 5) дробящего урона. Цель должна преуспеть в спасброске Силы Сл 17 или опрокинется</p>
+<p><strong><em>Пронзание (только Оффалия).</em></strong> <em>Рукопашная атака оружием:</em> +10, 5 футов. <em>Попадание:</em> 14 (2к8 +5) колющего урона</p>
+<p><strong><em>Разящее око (только Морганта).</em></strong> Морганта накладывает <em>Разящее око</em> (Сл 17). Цель, преуспевшая в спасброске, вместо этого потрясена до конца своего следующего хода</p>
 <br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Взмах хвостом (только Белла).</em></strong> Белла наносит взмах хвостом в 10-футовом конусе. Каждое существо в этой области должно совершить спасбросок Ловкости Сл 18, получая 9 (2к8) дробящего урона и опрокидываясь при провале. При успехе оно получает половину урона и не опрокидывается</p>
+<p><strong><em>Галлюциногенный туман (только Белла).</em></strong> Белла выпускает 30-футоый конус перламутрового тумана. Каждое существо в этом тумане должно совершить спасбросок Телосложения Сл 17 или станет потрясённым до начала следующего хода Беллы</p>
+<p><strong><em>Топот (только Оффалия).</em></strong> Оффалия топает по земле вокруг себя. Каждое существо в радиусе 5 футов должно совершить спасбросок Ловкости Сл 18, получая 11 (2к10) дробящего урона при провале и половину урона при успехе</p>
+<p><strong><em>Труба исчадия (только Оффалия).</em></strong> Оффалия издаёт звучный низкий рёв из хобота. Все гуманоиды в радиусе 60 футов должны совершить спасбросок Мудрости Сл 17 или вычесть 1к4 из своего следующего броска атаки, проверки способности или спасброска</p>
 <p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
 <p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
@@ -679,10 +712,9 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 > [!combat]- **Balancing the Hags**
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+>
+> - _**4 игрока.**_ Снизьте хиты карг до 183 в каждой фазе. Для первой фазы уменьшите: их действия _**Слепота/глухота**_ и _**Тлетворное сияние**_, а также бонусное действие _**Наложить проклятие**_ до 6 (1к12) урона; их действия _**Луч слабости**_ и _**Луч болезни**_ до 7 (2к6) урона; действие _**Гниющее разложение**_ до 10 (3к6) урона; действие _**Мельфова кислотная стрела**_ до 9 (2к8) урона и 4 (1к8) в следующий ход; бонусные действия _**корона безумия**_, _**фантомная сила**_, _**вызвать страх**_ и _**удержание существа**_ до 4 (1к8) урона; и бонусное действие _**молния**_ до 25 (10к4) урона. Для второй фазы уменьшите: их способность _**рывок**_, бонусное действие _**топот**_ и реакцию _**отрезвляющий упрёк матроны**_ до 9 (2к8) урона; атаку _**укус**_ до 16 (2к8+5) урона; и бонусные действия _**смах хвоста**_, _**истощающее кольцо**_ и _**наложение кошмаров**_ до 7 (2к6) урона
 > * ***Four Players.*** Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
 
 > [!design]- **Design Note: Innate Spellcasting**
 > Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
@@ -698,6 +730,7 @@ Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.) If using 2024 spells, Victor retains the 5th-level spell slot for his one use of *abjure spell*.
 
 ***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
+
 ### The Hags' Failed Escape
 The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
 
@@ -744,6 +777,7 @@ If the hags knock the players unconscious, the players awaken 1d4 + 1 hours afte
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
 The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
+
 ### Morgantha’s Interrogation
 As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
 
@@ -762,6 +796,7 @@ Morgantha then wishes the players “sweet dreams”  and exits the attic, leavi
 Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
 
 If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in <span class="citation">O3. Bedroom (p. 127)</span>, and roughly guide them down the stairs before sitting them down on the toad-filled trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. See **Morgantha's Request** below.
+
 ### Morgantha’s Request
 If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
 
@@ -801,6 +836,7 @@ If the players complete Morgantha's task within the allotted time, however, she 
 
 > [!info]+ **Curing Cackle Fever**
 > Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
+
 ### Escaping the Windmill
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
@@ -815,6 +851,7 @@ Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal 
 Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
+
 ### Finding a Cure
 As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
 
@@ -834,6 +871,7 @@ The players can identify these remedies, as well as the symptoms of cackle fever
 Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Арка I - Стены Крезка]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
+
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
 ![[Heartstone.png]]
@@ -858,6 +896,7 @@ Leo Dilisnya used his vampiric claws to carve these words and images into the st
 Lady Wachter can inform the players that, when she was a child, her parents warned her of a monster that dwelled in the cellar: a terrible creature of ancient hungers and hatreds that longed to be set free. When she inherited the estate following her family’s deaths and descended to the basement, however, Lady Wachter found the room to be empty, with no evidence of any creature but the scratches on the walls. 
 
 Lady Wachter has been unable to remove the scratches and carvings, despite her best efforts. Though she has no great love for the chamber, she has confirmed that the carvings and stones conceal no magic or hostile creatures, and has found it to be a useful and indispensably secure location.
+
 ## H8a. The *Etherealness* Ritual
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4t.</em></span>
 
@@ -895,6 +934,7 @@ Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can
 > - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
 > 
 > In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane, and lose any damage resistances to acid, cold, fire, lightning, thunder, bludgeoning, piercing, or slashing damage. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
+
 ## H8b. The Restoration Ritual
 After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
 
@@ -922,6 +962,7 @@ The following sequence then unfolds, unless the players intervene:
 * Stella attempts to throw her arms around [[Non-Player Characters#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
 * If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
 * While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
+
 ### The Ghost of Erasmus van Richten
 Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
 
@@ -957,6 +998,7 @@ When the conversation with Erasmus concludes, Victor directs Stella to stand in 
 During that time, Erasmus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
 
 As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
+
 ### The Wayward Souls
 One minute after Victor begins reading the ritual’s incantation from his spellbook, five **specters** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
 
@@ -985,6 +1027,7 @@ Victor’s panicked eyes flash toward the players, and Stella draws in toward he
 In battle, Lady Wachter also gains the following reaction:
 
 * ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
+
 ### The Ghost of Leo Dilisnya
 At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
 
@@ -1027,6 +1070,7 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 * When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
+
 ### Fighting the Gallows Speaker
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
@@ -1221,7 +1265,7 @@ The following morning, Victor also sends the players the following message with 
 > Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
-> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
+> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Арка T - Три Святилища]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Арка O - Ужин с Дьяволом]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 
