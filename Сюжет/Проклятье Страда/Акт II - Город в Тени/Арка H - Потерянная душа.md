@@ -6,6 +6,15 @@ _Приключение для 5 персонажей 5-го уровня_
 # Подготовка
 
 - [ ] Талисман множественного героизма
+- [ ] 4 фанатика культа
+- [ ] Леди Вахтер
+- [ ] Виктор
+- [ ] Морганта
+- [ ] Морганта+
+- [ ] Офелия
+- [ ] Офелия+
+- [ ] Белла
+- [ ] Белла+
 
 В этой арке, после призрачного визита в **Таверне Синяя Вода** или осторожной сделки в особняке барона, Виктор Валлакович просит игроков помочь ему вернуть душу Стеллы Вахтер в её тело, найдя способ попасть в Эфирное Плоскость, где её дух заточён. Для этого игрокам нужно помочь Виктору добыть сердечный камень **ночной ведьмы** к ночи полнолуния, которое наступит на 6 день после первого прибытия игроков в Валлаки (8 ноября)
 
@@ -451,33 +460,32 @@ _Приключение для 5 персонажей 5-го уровня_
 ![[The Three Hags.png]]
 
 ### Отвлечение Морганты
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+_Эта сцена происходит в Главе 5: Область O1._
 
-If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
+Если один или несколько игроков постучат в дверь O1. Первый этаж (p. 126), Морганта спустится из O2. Костедробилка (p. 127) и откроет им дверь. Она с радостью пригласит игроков внутрь и спросит, пришли ли они приобрести её товары
 
-> [!info]+ **The Hag Coven**
+> [!info]+ **Шабаш карг**
+> Пока Морганта и её две дочери находятся в пределах 1 километра друг от друга, они используют характеристики **Шабаш Старой Костедробилки** и **Кошмарная Троица**, вместо своих индивидуальных блоков характеристик **ночной карги**
+> 
+> Пока шабаш существует, урон, нанесённый каждой отдельной карге, вместо этого вычитается из хитов шабаша, вызывая появление схожих ран или повреждений на телах всех трёх карг. (Если урон наносится нескольким каргам одновременно, этот урон вычитается из хитов шабаша соответствующее число раз)
 >
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
->
-> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
->
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
+> Карги не получают доступ к особенности **_Общее колдовство_**, обычно доступной шабашам карг. Однако каждая карга в составе шабаша сохраняет использование своих особенностей **_Врожденное колдовство_** и **_Предметы ночной карги_**, а также свои действия **_Когти_**, **_Изменение облика_**, **_Эфирность_** и **_Преследование кошмаров_**
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+Игроки могут убедить Морганту, что пришли купить дополнительные сонные пирожные, при успешной **проверке Обмана Сл 10**
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+Альтернативно, если игроки используют другую убедительную легенду, они могут убедить Морганту, что не представляют угрозы, при успешной **проверке Обмана Сл 16**
 
-If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
+Если игроки успешно убеждают Морганту, что они зависимы от сонных пирожных или иным образом безвредны, Морганта сообщает им, что её текущая партия сонных пирожных всё ещё выпекается, и приглашает их остаться, пока они не будут готовы. До тех пор она охотно поддерживает светскую беседу
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+Игроки также могут убедить Морганту позвать своих дочерей вниз на кухню (чтобы выманить их подальше от детей наверху) при успешной **проверке Убеждения** или **Обмана Сл 16**. Если им это удаётся, Белла и Оффалия представляются, неловко присев в реверансе
 
-On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
+При **провале** осторожная Морганта утверждает, что её дочери, к сожалению, слишком заняты, чтобы говорить с посетителями, но она с радостью передаст им любые комплименты или другие замечания, если игроки пожелают. Затем она спрашивает у игроков, как им понравились её сонные пирожные и какие сны они видели после того, как их съели
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+Игрок может ослабить паранойю Морганты, рассказав историю о красивом сне, который он увидел после того, как съел сонное пирожное, и преуспев в **проверке Обмана Сл 16**, которая **автоматически преуспевает**, если игрок говорит правду. В случае неудачи Морганта становится подозрительной. (См. раздел **Морганта становится подозрительной** ниже)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
+В отличие от своей матери, Белла и Оффалия легко отвлекаются. Их можно заманить в O2. Костяная мельница (стр. 127) или O4. Куполообразный чердак (стр. 127) при успешной **проверке Выступления Сл 13** и любом разумно подходящем способе (например, заклинанием **_Малая иллюзия_**)
 
-### Морганта начинает подозревать
+### Морганта становится подозрительной
 
 _Эта сцена происходит в Главе 5: Область O1_
 
@@ -487,7 +495,7 @@ _Эта сцена происходит в Главе 5: Область O1_
 
 Если игроки не уходят, через короткое время (в течение которого она не раскрывает игрокам ничего важного) Морганта ненадолго отлучается, чтобы достать из печи поднос с сонными пирожными, затем зовёт наверх: ***«Девочки, пора попробовать свежую партию!»*** (Пирожные явно почти сырые. Слова Морганты служат сигналом для двух других **ночных ведьм**, что в мельницу пришли нежеланные гости и с ними нужно разобраться)
 
-Пока Белла и Офалия спускаются из O3. Спальни, Морганта приветливо улыбается игрокам и сообщает, что её дочери — её самые ценные дегустаторы, и она всегда благодарна за их мнения. (***«Люди предупреждают о старости, и это правда»***, — говорит она приветливо. ***«Так сложно вести такой бизнес в одиночку»***)
+Пока Белла и Офалия спускаются из O3. Спальни, Морганта приветливо улыбается игрокам и сообщает, что её дочери — её самые ценные дегустаторы, и она всегда благодарна за их мнения. (***«Люди предупреждают о старости, и это правда»***, — говорит она приветливо. ***«Так сложно вести дела в одиночку»***)
 
 Когда Белла и Офалия приходят, они приветствуют игроков неловкими, чрезмерно драматичными реверансами. Затем Белла хмурится и восклицает: ***«Мама! Я думала, ты сказала, что починишь входную дверь!»***
 
@@ -499,82 +507,87 @@ _Эта сцена происходит в Главе 5: Область O1_
 
 Игроки затем пробуждаются через **1к4 + 1 часов** на чердаке Старой Костедробилки. См. раздел [[Арка H - Потерянная душа#H7c. Побег из Старой Костедробилки|H7c. Побег из Старой Костедробилки]] ниже для получения дополнительной информации о побеге игроков
 
-## H7b. Claiming the Heartstone
-### The Binding Circle
-If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
+## H7b. Получение Сердечного камня
+### Связывающий круг
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+Если игрокам удаётся узнать имена дочерей Морганты и спасти детей, заключённых в ветряной мельнице, [[Неигровые персонажи#Леди Фиона Вахтер|Леди Вахтер]] приказывает своим **4 фанатикам культа** построить пятиконечное построение вокруг подножия холма, на котором стоит Старая Костедробилка
 
-Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
+[[Неигровые персонажи#Виктор Валлакович|Виктор]] предупреждает игроков, что карги, вероятно, представляют собой опасных врагов, и советует активировать амулет немедленно, прежде чем вспыхнет бой
 
-When the players direct her to do so, Lady Wachter begins the ritual. Read:
+Затем Леди Вахтер предупреждает игроков, что, как только круг связывания будет возведён, он продержится всего **10 минут**. Она также сообщает, что если она или любой из **4 фанатиков культа** потеряет сознание, ритуал немедленно провалится, и карги смогут убежать. (Из-за высоты холма маловероятно, что ночные карги смогут атаковать культистов во время сражения)
 
-<div class="description">
-<p>Lady Wachter raises her hands toward the darkened sky. Her voice, firm and resonant, booms through the stillness of the air as words of power roll off her tongue.</p>
-<p>Lady Wachter’s four followers soon join the chant, raising their arms as their voices swell in harmony with hers. The air around the hill begins to crackle and hum, the atmosphere tinged with the scent of ozone.</p>
-<p>Small clouds of mist begin to rise from the ground beneath the ritualists, extruding long tendrils of wisping fog that bathe the earth in pale, ethereal light.</p>
-<p>As the chant continues, the billowing clouds of mist grow brighter, casting long, dancing shadows across the sides of the hill. The fog seems to undulate in rhythm with their words, the very air seeming to thrum with arcane resonance. From deep within the seas of roiling grey, you think you can almost hear a woman’s distant, murmuring voice, joined by the echo of a thousand whispers.</p>
-<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
-</div>
+Когда игроки приказывают ей это сделать, Леди Вахтер начинает ритуал. Читайте:
 
-The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
-### Confronting the Hags
-<span class="citation"><em>This scene takes place in Chapter 5: Area O.</em></span>
+>[!read]
+> Леди Вахтер поднимает руки к тёмному небу. Её голос, твёрдый и резонансный, гремит сквозь неподвижный воздух, когда с её губ срываются слова силы
+>
+> Четверо последователей Леди Вахтер вскоре присоединяются к заклинанию, поднимая руки, а их голоса сливаются в гармонии с её. Воздух вокруг холма начинает потрескивать и гудеть, а атмосфера наполняется запахом озона
+>
+> Малые облака тумана начинают подниматься с земли под ритуалистами, вытягивая длинные нити клубящегося дыма, которые омывают землю бледным, эфирным светом
+>
+> По мере продолжения заклинания клубящиеся облака тумана становятся ярче, отбрасывая длинные, пляшущие тени по склонам холма. Туман, кажется, колышется в ритме их слов, сам воздух, кажется, вибрирует от арканного резонанса. Из глубин бурлящих серых морей вам кажется, что вы почти слышите далёкий, шепчущий женский голос, сопровождаемый эхом тысячи шёпотов
+>
+> Нити тумана переплетаются — и сплетаются соединяются, образуя круг: плотное кольцо мерцающего, закручивающегося тумана. Руки Леди Вахтер сжимаются в кулаки, и она сводит обе руки через грудь. Низким, мелодичным голосом она вновь и вновь произносит трио имен: **«Морганта Разрушающий Шторм, Белладонна Солнечное Проклятие и Оффалия Червиворот»**. Её взгляд встречается с вашим, и она делает едва заметный кивок
 
-As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
+Круг, который простирается на **500 футов** в высоту, сохраняется следующие **10 минут**. В это время любые ночные карги, названные Леди Вахтер, находящиеся внутри круга, не могут использовать свою способность _**Эфирность**_, чтобы попасть на Эфирный план
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+### Столкновение с каргами
+_Эта сцена происходит в Главе 5: Область O_
 
-Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
+Когда игроки поднимаются на холм, ворон Леди Вахтер, Маджесто, издаёт надменный, вызывающий кар и присоединяется к ним с небес, принимая свою истинную форму **импа**, прежде чем стать невидимым
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+Тем временем [[Неигровые персонажи#Виктор Валлакович|Виктор]] накладывает заклинание **_Доспехи мага_** на любых игроков, которые просят об этом. Он также использует 1 ячейку заклинания четвёртого уровня, чтобы наложить на себя _**Высшую невидимость**_
 
-If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
+Виктор напоминает игрокам, что согласно _Эфирным сущностям_, ему нужно оставаться близко к ветряной мельнице — в пределах **60 футов** — чтобы использовать своё _**Контрзаклинание**_ для защиты круга от способности шабаша развеять его. Он просит игроков защищать его соответствующим образом
 
-Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
+Когда игроки приближаются к ветряной мельнице, если ночные карги заметили исчезновение детей, вершина холма вокруг мельницы теперь редеет сотней **жаб**, ранее хранившихся в деревянном сундуке Морганты в O1. Первый этаж (стр. 126). (Морганта выпустила их, чтобы использовать особое действие логова шабаша _**Амфибийный какофонический хор**_ и заманить детей обратно к мельнице)
 
-If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the "livestock" that they "stole." (Unless the players were detected doing so, Morgantha hasn't yet realized that the players stole the contract.)
+Если игроки не невидимы, Морганта выводит своих дочерей из ветряной мельницы, чтобы встретить их по мере приближения, располагаясь вместе с дочерьми прямо перед дверью мельницы и приветствуя игроков, когда те подходят на расстояние **30 футов**. Далее разворачивается следующий разговор, если его не прервать, хотя карги при необходимости атакуют в целях самозащиты
 
-If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
-
-Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
+>[!разговор]
+> Морганта тепло приветствует игроков и поздравляет их с получением своего «выкупа». Затем она любезно спрашивает, за какими предметами или дарами они пришли торговаться
+>
+> Если Морганте сообщают, что игроки хотят одолжить сердечный камень, она с радостью позволит им сделать это на срок в 3 дня — если игроки вернут «скот», который они «украли». (Если игроков не заметили при этом, Морганта ещё не осознала, что они украли контракт)
+>
+> Если игроки осуждают Морганту за её охоту на Франца и детей, она насмешливо фыркает, замечая: *«Дитя, их души были обречены с того самого момента, как родились в этих Туманах — мешок душ больше любого, какой я могла бы создать, и наполненный куда более глубоким злом. Какая разница, кто их заберёт и когда?»*
+>
+> Морганта отказывается подробнее объяснять своё заявление, отмечая лишь, что *«более тёмные силы»*, чем Страд вон Зарович, повелевают Туманами, окружающими долину, — и что она, возможно, будет готова поделиться большей информацией, если игроки вернут детей. (Если игроки затем делают это, Морганта раскрывает 3 секрета, указанные ниже в разделе **Мольба Морганты**)
 
 ![[The Bonegrinder Coven.png]]
-<span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Битва с каргами
-The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
 
-> [!info]+ **Lair Actions**
+Карги сражаются в целях самозащиты или если игроки ясно дают понять, что иначе не вернут детей или контракт шабаша. Сражающиеся действуют следующим образом:
+
+> [!info]+ **Действия логова**
+> Пока шабаш находится в пределах **100 футов** от мельницы, он может совершать **действия логова**, пока не является **недееспособным**
 >
-> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
+> В обеих фазах, на **инициативе 20** (проигрывая при равенстве инициативы), шабаш может совершить 1 из следующих действий логова, сосредоточенных на мельнице или исходящих от неё, либо отказаться от их использования в этом раунде
 >
-> In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
->
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+> - **_Оберегающий ветер._** Шабаш накладывает [[Защитный ветер]]
+> - **_Порыв ветра._** Шабаш накладывает [[Порыв ветра]]
+> - **_Амфибийный какофонический хор._** Шабаш заставляет лягушек в траве вокруг ветряной мельницы квакать странно гипнотическую песню. Каждое существо в пределах **120 футов** от мельницы, которое может слышать лягушек, должно преуспеть в **спасброске Харизмы Сл 10** или **в начале своего следующего хода** использовать всё своё передвижение, чтобы приблизиться к мельнице настолько, насколько может
+> - **_Развеять магию (1/день)._** Шабаш накладывает [[Рассеивание магии]] 5-го уровня
 
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
+<h2>Шабаш Костемолки</h2>
+<em>Трио из трёх средних исчадий, нейтрально злые</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>КД</strong> 17 (естественный доспех)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Хиты</strong> 183 (8)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Скорость</strong> 30 футов
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>Сил</th>
+      <th>Лов</th>
+      <th>Тел</th>
+      <th>Инт</th>
+      <th>Мдр</th>
+      <th>Хар</th>
     </tr>
   </thead>
   <tbody>
@@ -589,69 +602,67 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Навыки</strong> Обман +8, Проницательность +7, Восприятие +7, Скрытность +7<br>
+<strong>Сопротивления урону</strong> холодом, огнём; дробящему, колющему и режущему от немагических непосеребрённых атак<br>
+<strong>Сопротивления состояниям</strong> очарованный<br>
+<strong>Чувства</strong> Тёмное зрение 120 футов, пассивное Восприятие 16<br>
+<strong>Языки</strong> Бездны, Общий, Инфернальный, Первичный<br>
+<strong>ПО</strong> 14 или 12 когда против посеребрённого оружия<br>
+<strong>БМ</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+<p><strong><em>Шабаш карг.</em></strong> Шабаш состоит из 3 карг: Морганты, Беллы и Оффалии. Каждая карга действует по своей инициативе, самостоятельно поддерживает концентрацию и переносит состояния, а также имеет собственное действие, бонусное действие, реакцию и передвижение. Любой урон, который получает карга, вычитается из хитов шабаша. (Если несколько карг получают урон от одного и того же источника, шабаш теряет хиты соответствующее число раз)</p>
+<p><strong><em>Боец в узком пространстве.</em></strong> Шабаш не имеет помехи на броски атаки дальнобойным оружием, находясь в пределах 5 футов от враждебного существа</p>
+<p><strong><em>Сопротивление магии.</em></strong> Шабаш имеет преимущество на спасброски против заклинаний и магических эффектов</p>
+<p><strong><em>Заклинательство.</em></strong> Заклинательной характеристикой шабаша является Интеллект (Сл 17, +9 к попаданию)</p>
+<p><strong><em>Сложное колдовство.</em></strong> Если карга накладывает заклинание в свой ход бонусным действием, она также может действием наложить заклинание, не являющееся заговором, в тот же ход</p>
+<p><strong><em>Вторая фаза.</em></strong> Если хиты шабаша опускаются до 0, его характеристики немедленно заменяются характеристиками Кошмарной Троицы. Его инициатива остаётся прежней. Избыточный урон не переносится на новую форму, однако он сохраняет все состояния, которые имел в предыдущей форме. Все заклинания, требующие концентрации, оканчиваются</p>
+<h3>Действия</h3>
+<p><strong><em>Слепота/Глухота (только Белла).</em></strong> Белла накладывает Слепоту/Глухоту. Цель получает дополнительно 6 (1к12) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Тлетворное Сияние (только Белла).</em></strong> <em>2-й уровень, Некромантия</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em>: Тусклый зеленоватый свет вспыхивает в сфере радиусом 10 футов с центром в точке в пределах дистанции. Каждое существо в сфере должно преуспеть в спасброске Телосложения Сл 17 или получить 1к12 урона излучением и быть отравленным до конца своего следующего хода</p>
+<p><strong><em>Луч Слабости (только Оффалия).</em></strong> Оффалия произносит <em>Луч слабости</em>. Цель дополнительно получает 7 (2к6) некротического урона при провале</p>
+<p><strong><em>Кислотная стрела (только Оффалия).</em></strong> Оффалия произносит <em>Мельфову кислотную стрелу</em> с уроном 9 (2к8) и 4 (1к8) на следующий ход</p>
+<p><strong><em>Луч болезни (только Морганта).</em></strong> Морганта произносит <em>Луч слабости</em> с уроном 7 (2к6)</p>
+<p><strong><em>Гниющее разложение (только Морганта).</em></strong> <em>1-ый уровень, Некромантия</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em> Некромантическая энергия омывает существо по выбору Морганты, которое должно совершить спасбросок Телосложения. Цель получает 10 (3к6) некротического урона при провале или половину урона при успехе</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Корона безумия (только Белла).</em></strong> Белла сотворяет <em>Корону безумия</em>. Цель получает дополнительно 4 (1к8) психического урона при провале или половину урона при успехе. (Белла может бонусным действием поддерживать контроль над целью вместо действия)</p>
+<p><strong><em>Воображаемая сила (только Белла).</em></strong> Белла сотворяет <em>Воображаемую силу</em>. Цель получает дополнительно 4 (1к8) психического урона при провале  или половину урона при успехе</p>
+<p><strong><em>Ужас (только Оффалия).</em></strong> Оффалия сотворяет <em>Ужас</em> 2-го уровня. Цель получает дополнительно 4 (1к8) психического урона при провале или половину урона при успехе</p>
+<p><strong><em>Наложение проклятия (только Оффалия).</em></strong> Оффалия накладывает <em>Наложение проклятия</em> с дистанцией 30 футов. Цель получает дополнительно 6 (2к12) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Удержание личности (только Морганта).</em></strong> Морганта накладывает <em>Удержание личности</em> 3-го уровня. Цель получает дополнительно 4 (1к8) некротического урона при провале или половину урона при успехе</p>
+<p><strong><em>Молния (только Морганта, перезарядка 5-6).</em></strong> Морганта накладывает <em>Молнию</em> с уроном 25 (10к4)</p>
+<p><strong><em>Когти.</em></strong> <em>Рукопашная атака оружием:</em> +9, 5 футов. <em>Попадание:</em> 13 (2к8 + 4) режущего урона
+<h3>Реакции</h3>
+<p><strong><em>Спектральные тени (только Белла).</em></strong> <em>1-ый уровень, Иллюзия</em>, на себя, В С, мгновенно. <em>Эффект:</em> В ответ на атаку Белла может реакцией кратковременно создать 2 иллюзорные копии в своей области. Атакующий должен бросить 1к6: 5 или 6 поражает Беллу, в противном случае поражается копия</p>
+<p><strong><em>Безумный смех (только Оффалия).</em></strong> <em>1-ый уровень, Очарование</em>, 30 футов, В С М, мгновенно. <em>Эффект:</em> В ответ на получение урона от существа, которого Оффалия видит в пределах дистанции, она может реакцией заставить это существо совершить спасбросок Мудрости Сл 17. При провале существо впадает в приступы смеха, падает ниц, становится недееспособным и не может подняться до конца своего следующего хода или до получения урона</p>
+<p><strong><em>Ведьмовская дуга (только Морганта).</em></strong> <em>1-ый уровень, Воплощение</em>, 30 футов, В С М, 1 раунд. <em>Эффект:</em> В ответ на получение урона от существа, которое Морганта видит в пределах дистанции, она может реакцией послать луч искрящейся синей энергии в сторону атакующего, заставляя его совершить спасбросок Телосложения Сл 17 или получить 6 (1к12) урона электричеством. При провале луч образует электрическую дугу, соединяющую Морганту с атакующим до начала его следующего хода. Пока дуга существует, Морганта имеет сопротивление ко всем видам урона, а каждый раз, когда она получает урон, соединённое существо получает такое же количество урона</p>
+<p><strong><em>Туманный шаг.</em></strong> В ответ на получение урона карга может реакцией наложить <em>Туманный шаг</em>.</p>
 </div>
-
 
 ![[Bella.png]]
 
 ![[Offalia.png]]
 
 ![[Morgantha.png]]
-<span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
+<h2>Кошмарная троица</h2>
+<em>Трио из среднего исчадия и 2-х огромных исчадий, нейтрально злые</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>КД</strong> 17 (естественный доспех)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Хиты</strong> 183
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Скорость</strong> 30 футов
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>Сил</th>
+      <th>Лов</th>
+      <th>Тел</th>
+      <th>Инт</th>
+      <th>Мдр</th>
+      <th>Хар</th>
     </tr>
   </thead>
   <tbody>
@@ -666,29 +677,29 @@ The hags fight in self-defense, or if the players make clear that they will not 
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Навыки</strong> Обман +8, Проницательность +7, Восприятие +7, Скрытность +7<br>
+<strong>Сопротивления урону</strong> холодом, огнём; дробящим, колющим и режущим немагических непосеребрённых атак<br>
+<strong>Сопротивления состояниям</strong> очарованный<br>
+<strong>Чувства</strong> Тёмное зрение 120 футов, пассивное Восприятие 16<br>
+<strong>Языки</strong> Бездны, Общий, Инфернальный, Первичный<br>
+<strong>ПО</strong> 15 или 13, когда против посеребрённого оружия<br>
+<strong>БМ</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Шабаш карг.</em></strong> Шабаш состоит из трёх карг: Морганты, Беллы и Оффалии. Если хиты шабаша опускаются до 0, все карги погибают. До этого каждая карга действует на своей инициативе, переносит состояния самостоятельно и имеет собственное действие, бонусное действие, реакцию и передвижение. Любой урон, который получает карга, вычитается из хитов шабаша</p>
+<p><strong><em>Формы кошмара.</em></strong> В этой фазе Белла принимает форму Огромного крокодила, Оффалия — форму Огромного слона, а Морганта окутана плащом закручивающихся теней</p>
+<p><strong><em>Сопротивление магии.</em></strong> Шабаш имеет преимущество на спасброски против заклинаний и магических эффектов</p>
+<p><strong><em>Разгон (только Оффалия).</em></strong> Если Оффалия перемещается не менее чем на 20 футов по прямой к цели и затем поражает её атакой рогом в тот же ход, цель получает дополнительно 11 (2к10) колющего урона. Если целью является существо, оно должно преуспеть в спасброске Силы Сл 18 или быть оттолкнуто на расстояние до 10 футов и опрокинуто</p>
+<h3>Действия</h3>
+<p><strong><em>Укус (только Белла).</em></strong> <em>Рукопашная атака оружием:</em> +10, 5 футов. <em>Попадание:</em> 16 (2к10 + 5) колющего урона и цель схвачена (Сл побега 17). Пока захват не кончится, цель опутана, и Белла не может кусать другие цели</p>
+<p><strong><em>Хвост (только Белла).</em></strong> <em>Рукопашная атака оружием:</em> +10, 10 футов, 1 цель, не схваченная Беллой. <em>Попадание:</em> 14 (2к8 + 5) дробящего урона. Цель должна преуспеть в спасброске Силы Сл 17 или опрокинется</p>
+<p><strong><em>Пронзание (только Оффалия).</em></strong> <em>Рукопашная атака оружием:</em> +10, 5 футов. <em>Попадание:</em> 14 (2к8 +5) колющего урона</p>
+<p><strong><em>Разящее око (только Морганта).</em></strong> Морганта накладывает <em>Разящее око</em> (Сл 17). Цель, преуспевшая в спасброске, вместо этого потрясена до конца своего следующего хода</p>
 <br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Взмах хвостом (только Белла).</em></strong> Белла наносит взмах хвостом в 10-футовом конусе. Каждое существо в этой области должно совершить спасбросок Ловкости Сл 18, получая 9 (2к8) дробящего урона и опрокидываясь при провале. При успехе оно получает половину урона и не опрокидывается</p>
+<p><strong><em>Галлюциногенный туман (только Белла).</em></strong> Белла выпускает 30-футоый конус перламутрового тумана. Каждое существо в этом тумане должно совершить спасбросок Телосложения Сл 17 или станет потрясённым до начала следующего хода Беллы</p>
+<p><strong><em>Топот (только Оффалия).</em></strong> Оффалия топает по земле вокруг себя. Каждое существо в радиусе 5 футов должно совершить спасбросок Ловкости Сл 18, получая 11 (2к10) дробящего урона при провале и половину урона при успехе</p>
+<p><strong><em>Труба исчадия (только Оффалия).</em></strong> Оффалия издаёт звучный низкий рёв из хобота. Все гуманоиды в радиусе 60 футов должны совершить спасбросок Мудрости Сл 17 или вычесть 1к4 из своего следующего броска атаки, проверки способности или спасброска</p>
 <p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
 <p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
 <h3>Reactions</h3>
@@ -701,10 +712,9 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 > [!combat]- **Balancing the Hags**
 > Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
+>
+> - _**4 игрока.**_ Снизьте хиты карг до 183 в каждой фазе. Для первой фазы уменьшите: их действия _**Слепота/глухота**_ и _**Тлетворное сияние**_, а также бонусное действие _**Наложить проклятие**_ до 6 (1к12) урона; их действия _**Луч слабости**_ и _**Луч болезни**_ до 7 (2к6) урона; действие _**Гниющее разложение**_ до 10 (3к6) урона; действие _**Мельфова кислотная стрела**_ до 9 (2к8) урона и 4 (1к8) в следующий ход; бонусные действия _**корона безумия**_, _**фантомная сила**_, _**вызвать страх**_ и _**удержание существа**_ до 4 (1к8) урона; и бонусное действие _**молния**_ до 25 (10к4) урона. Для второй фазы уменьшите: их способность _**рывок**_, бонусное действие _**топот**_ и реакцию _**отрезвляющий упрёк матроны**_ до 9 (2к8) урона; атаку _**укус**_ до 16 (2к8+5) урона; и бонусные действия _**смах хвоста**_, _**истощающее кольцо**_ и _**наложение кошмаров**_ до 7 (2к6) урона
 > * ***Four Players.*** Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
 
 > [!design]- **Design Note: Innate Spellcasting**
 > Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
@@ -720,6 +730,7 @@ Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.) If using 2024 spells, Victor retains the 5th-level spell slot for his one use of *abjure spell*.
 
 ***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
+
 ### The Hags' Failed Escape
 The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
 
@@ -766,6 +777,7 @@ If the hags knock the players unconscious, the players awaken 1d4 + 1 hours afte
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
 The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
+
 ### Morgantha’s Interrogation
 As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
 
@@ -784,6 +796,7 @@ Morgantha then wishes the players “sweet dreams”  and exits the attic, leavi
 Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
 
 If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in <span class="citation">O3. Bedroom (p. 127)</span>, and roughly guide them down the stairs before sitting them down on the toad-filled trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. See **Morgantha's Request** below.
+
 ### Morgantha’s Request
 If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
 
@@ -823,6 +836,7 @@ If the players complete Morgantha's task within the allotted time, however, she 
 
 > [!info]+ **Curing Cackle Fever**
 > Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
+
 ### Escaping the Windmill
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
@@ -837,6 +851,7 @@ Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal 
 Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
+
 ### Finding a Cure
 As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
 
@@ -856,6 +871,7 @@ The players can identify these remedies, as well as the symptoms of cackle fever
 Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Арка I - Стены Крезка]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
+
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
 ![[Heartstone.png]]
@@ -880,6 +896,7 @@ Leo Dilisnya used his vampiric claws to carve these words and images into the st
 Lady Wachter can inform the players that, when she was a child, her parents warned her of a monster that dwelled in the cellar: a terrible creature of ancient hungers and hatreds that longed to be set free. When she inherited the estate following her family’s deaths and descended to the basement, however, Lady Wachter found the room to be empty, with no evidence of any creature but the scratches on the walls. 
 
 Lady Wachter has been unable to remove the scratches and carvings, despite her best efforts. Though she has no great love for the chamber, she has confirmed that the carvings and stones conceal no magic or hostile creatures, and has found it to be a useful and indispensably secure location.
+
 ## H8a. The *Etherealness* Ritual
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4t.</em></span>
 
@@ -917,6 +934,7 @@ Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can
 > - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
 > 
 > In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane, and lose any damage resistances to acid, cold, fire, lightning, thunder, bludgeoning, piercing, or slashing damage. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
+
 ## H8b. The Restoration Ritual
 After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
 
@@ -944,6 +962,7 @@ The following sequence then unfolds, unless the players intervene:
 * Stella attempts to throw her arms around [[Non-Player Characters#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
 * If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
 * While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
+
 ### The Ghost of Erasmus van Richten
 Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
 
@@ -979,6 +998,7 @@ When the conversation with Erasmus concludes, Victor directs Stella to stand in 
 During that time, Erasmus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
 
 As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
+
 ### The Wayward Souls
 One minute after Victor begins reading the ritual’s incantation from his spellbook, five **specters** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
 
@@ -1007,6 +1027,7 @@ Victor’s panicked eyes flash toward the players, and Stella draws in toward he
 In battle, Lady Wachter also gains the following reaction:
 
 * ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
+
 ### The Ghost of Leo Dilisnya
 At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
 
@@ -1049,6 +1070,7 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 * When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
+
 ### Fighting the Gallows Speaker
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
