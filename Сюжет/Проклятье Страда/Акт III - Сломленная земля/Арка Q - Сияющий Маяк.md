@@ -10,7 +10,7 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 
 ***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
 
-***Village of Krezk.*** If the players teleport to the Shrine of the White Sun in the village of Krezk, they can find shelter at the Krezkovs' cottage, which is as described in [[Arc K - The Fallen Abbey#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by Emil Toranescu, Baron Dmitri Krezkov angrily recognizes him as "the wolf that stole his sister," Zuleika, and insists that Emil sleep outside unless convinced otherwise.
+***Village of Krezk.*** If the players teleport to the Shrine of the White Sun in the village of Krezk, they can find shelter at the Krezkovs' cottage, which is as described in [[Арка K - Павшее Аббатство#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by Emil Toranescu, Baron Dmitri Krezkov angrily recognizes him as "the wolf that stole his sister," Zuleika, and insists that Emil sleep outside unless convinced otherwise.
 
 > [!lore]+ **Dmitri & Emil**
 > Dmitri doesn't seriously believe that Emil kidnapped Zuleika or forced her to join the werewolf pack against her will. However, Dmitri resents Emil for "luring" Zuleika away from Krezk with tall tales of the "gift" of lycanthropy, which Dmitri believes is a curse. If challenged, Dmitri grits his teeth, and spits, "He convinced my sister that it was a *gift* to be a monster—a *beast*. He filled her head with lies and mad tales, and took her from me—from all of us."
@@ -119,7 +119,7 @@ As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, t
 
 Regardless of the players’ answers, the shard warns them that the Abbot, like all creatures of celestial creation, is likely to be zealous, inflexible, and utterly devoted to his perceived cause. “Tread carefully, and ready your steel," the shard whispers telepathically. “For the Morninglord’s rays flare only brighter when they perceive darkness before them."
 ### The North Gate
-The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
+The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Арка K - Павшее Аббатство#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
@@ -129,7 +129,7 @@ Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, t
 ### The Courtyard
 Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
 
-If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
+If the players agreed to investigate Cyrus’s “perfection" in [[Арка K - Павшее Аббатство#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
 
 If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
 
@@ -174,7 +174,7 @@ If the players insist on cleansing the Abbot’s spirit or otherwise continue to
 <p>A palpable tension fills the air as the shadows of the room darken. The floors and walls seem to hum with power, and the Abbot’s eyes glimmer briefly with golden madness.</p>
 </div>
 
-***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
+***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **flesh golem** in [[Арка K - Павшее Аббатство#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
 
 Unless the players interrupt, the following exchange then occurs:
 
@@ -188,7 +188,7 @@ Unless the players interrupt, the following exchange then occurs:
 
 Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and uses his wings to fly her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
 
-***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
+***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Арка K - Павшее Аббатство#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
 
 <div class="description">
 <p>The Abbot steps forward, his single footstep echoing like a crack of thunder through the darkened hall. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly.</p>
@@ -215,7 +215,7 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > * **Six Players**. Increase the Abbot’s hit points to 292 in each phase. Increase his first phase’s Multiattack to three attacks, but reduce each of its bonus actions to 10 (3d6) damage. In his second phase, increase his Multiattack to include two Claw attacks, but reduce Erupt Earth to 5 (2d4) damage.
 
 > [!abstract]+ **The Flesh Golem’s Loyalty**
-> If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
+> If the players gave Vasilka’s flower garland to the **flesh golem** in [[Арка K - Павшее Аббатство]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
 ![[Ithuriel.png]]
 <span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -543,7 +543,7 @@ If the players follow St. Markovia’s invitation to <span class="citation">S4. 
 <p>As you reach the pool’s edge, an image appears in its sparkling blue waters: an older woman clad in a plain white robe, her wavy brown hair beginning to gray. Creases line the edges of her eyes, but age does not mar the kindness and compassion that dwells there.</p>
 </div>
 
-Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Arc K - The Fallen Abbey]] recognize her visage.
+Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Арка K - Павшее Аббатство]] recognize her visage.
 
 If she did not speak with the players in [[Арка Q - Сияющий Маяк#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
 

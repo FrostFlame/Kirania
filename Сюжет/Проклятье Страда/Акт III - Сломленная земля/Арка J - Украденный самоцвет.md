@@ -1561,7 +1561,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Арка K - Павшее Аббатство]] for more information about the players' adventures in Krezk.
 
 > [!abstract]+ **News from Barovia**
 > If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:

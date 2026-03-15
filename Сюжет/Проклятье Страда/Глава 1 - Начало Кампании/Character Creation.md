@@ -208,7 +208,7 @@ Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, 
 
 The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to redemption for the sins that they have committed.
 
-***Developments.*** When the players first arrive at the Abbey in [[Арка I - Стены Крезка]] or [[Arc K - The Fallen Abbey]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
+***Developments.*** When the players first arrive at the Abbey in [[Арка I - Стены Крезка]] or [[Арка K - Павшее Аббатство]] the *angel's feather* glimmers and is swept away in the same way that it did upon sensing Death House, guiding the player toward the Abbot. The Abbot recognizes the feather as his own, but dismisses its importance.
 ## Family—The Wanderer's Scarf
 ![[Wanderer's Scarf.png]]
 A player seeking **family** begins the campaign with the *wanderer's scarf*, a multicolored scarf woven with complex patterns. The fabric is soft and warm, and is long enough to be worn around the neck or over one's head. When bright sunlight, moonlight, or starlight is allowed to pass through it, the patterns seem to shimmer and twist in eerie and beautiful ways.
@@ -217,7 +217,7 @@ Unbeknownst to the player, the *wanderer's scarf* once belonged to a Vistana who
 
 The player who possesses the *wanderer's scarf* should have received the scarf from a beloved family member, and should have strong, vivid reasons to long for a sense of family and belonging.
 
-***Developments.*** When the players first encounter Ezmerelda in [[Arc K - The Fallen Abbey]], the *wanderer's scarf* shimmers and is carried away in the same way that it did upon sensing Death House, landing at Ezmerelda's feet. Ezmerelda recognizes the scarf and, upon confirming how the player came to inherit it, greets the player as family, calling them "cousin."
+***Developments.*** When the players first encounter Ezmerelda in [[Арка K - Павшее Аббатство]], the *wanderer's scarf* shimmers and is carried away in the same way that it did upon sensing Death House, landing at Ezmerelda's feet. Ezmerelda recognizes the scarf and, upon confirming how the player came to inherit it, greets the player as family, calling them "cousin."
 ## Inheritance—The Dragon's Scale
 ![[Dragon's Scale.png]]
 A player seeking **inheritance** begins the campaign with the *dragon's scale*, a large silver scale that always feels cold to the touch. A Good-aligned creature that touches the scale feels a fleeting sense of safety, protection, and comfort.

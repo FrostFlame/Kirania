@@ -167,7 +167,7 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 > * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
 > * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
 >   
-> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Арка E - Пропавшая Вистана]] or [[Арка H - Потерянная душа]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Арка E - Пропавшая Вистана]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Арка E - Пропавшая Вистана]] or [[Арка H - Потерянная душа]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Арка E - Пропавшая Вистана]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Арка K - Павшее Аббатство]]).
 
 Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
 
@@ -1103,7 +1103,7 @@ While in his second form, Vladimir attempts to use his ***vengeful rush*** react
 * If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
+> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Арка K - Павшее Аббатство]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
 > If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
