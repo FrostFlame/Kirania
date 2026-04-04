@@ -1531,7 +1531,7 @@ The bats arrive in two rounds, rather than three.
 ## P11a. Dungeon Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
 
-> [!info]+ **Flooded Areas** 
+> [!info]+ **Flooded Areas** 
 > The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. South Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
 
 This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
