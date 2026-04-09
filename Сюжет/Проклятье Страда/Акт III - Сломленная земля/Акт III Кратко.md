@@ -12,62 +12,64 @@
 
 В последнюю ночь перед новолунием игроки могут поужинать со Страдом вон Заровичем и членами его двора в [[Арка O - Ужин с Дьяволом]]. Там они узнают, что следующей ночью Страда не будет в замке, что создаёт идеальную возможность проникнуть в него в [[Арка P - Ограбление Рэйвенлофта]]. Сделав это, игроки должны затем вернуться в западную долину, чтобы очистить душу Аббата, победить оборотня Кирила Стояновича и вновь зажечь маяк Аргинвостхольта
 
-On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Arc O - Dinner with the Devil]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Arc P - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
+Этот акт заканчивается в сумерки в первую ночь после того, как игроки проникают в замок Рэйвенлофт в [[Арка P - Ограбление Рэйвенлофта]]. Тем не менее, игроки всё ещё могут завершить незавершённые арки этого акта даже после начала Актa IV — при условии, конечно, что эти арки всё ещё возможно завершить
 
-This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
-# Milestones
-The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+# Вехи
 
-* defeat the druids occupying the Wizard of Wines winery (2,000 XP)
-* retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,000 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
-* free Ilya and Zuleika from the den (250 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
-* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (250 XP)
-* obtain the *Spear of the Huntress* from King Dostron's crypt (250 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (250 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (250 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (250 XP)
-* defeat the Abbot (2,000 XP)
-* redeem the Abbot after defeating him (500 XP)
-* defeat Kiril Stoyanovich (2,000 XP)
-* light the beacon of Argynvostholt (3,000 XP)
-# Timeline
-The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
+Игроки начинают этот акт 5-го уровня и должны завершить его на 8-м уровне, получая опыт по вехам при успешном выполнении любого из следующих действий
 
-| Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
-| :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
-| O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
-| P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
-| Q: A Shining Beacon      | —   | —   | —   | —   | —   | —   | —   | 🔶  |
+- победить друидов, захвативших винодельню Волшебник Вин (2,000 XP) 
+- вернуть украденный самоцвет с Холма Былого (2,500 XP) 
+- завербовать Эсмеральду д’Авенир в Аббатстве Святой Марковии (1,000 XP) 
+- договориться с Зулейкой Торанеску в Логове оборотней (1,500 XP) 
+- освободить Илью и Зулейку из логова (250 XP) 
+- получить задание Аргинвоста в Аргинвостхольте (2,500 XP) 
+- успокоить призрак Варушки и найти её скрытый тайник в замке Рэйвенлофт (500 XP) 
+- вернуться из замка Рэйвенлофт после ужина со Страдом (3,500 XP) 
+- украсть череп Аргинвоста из **Зала костей** Рэйвенлофта (4,000 XP) 
+- вернуть _Икону Рэйвенлофта_ из катакомб Рэйвенлофта (250 XP) 
+- получить _Копьё Охотницы_ из гробницы короля Дострона (250 XP) 
+- спасти Эмиля Торанеску из подземелий Рэйвенлофта (250 XP) 
+- спасти Гертруду из главной спальни замка Рэйвенлофт (250 XP) 
+- ограбить скрытую сокровищницу Страда в замке Рэйвенлофт (250 XP) 
+- победить Аббата (2,000 XP) 
+- искупить Аббата после его поражения (500 XP) 
+- победить Кирила Стояновича (2,000 XP) 
+- зажечь маяк Аргинвостхольта (3,000 XP)
 
-The most common path through Act III is as follows:
+# Таймлайн
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶).
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+Кввесты Акта III становятся доступными и решаются, как указано в таблице ниже. (🟢 обозначает день, когда квест остаётся доступным, 🔶 — день, когда происходит значительное событие, 🟥 — крайний срок квеста, а ❌ — день, когда квест недоступен)
 
-Alternately, particularly swift players might take the following path through Act III instead:
+| Arc \ Day of Neyavr                 | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| :---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [[Арка J - Похищенный самоцвет]]    | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| [[Арка K - Павшее Аббатство]]       | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| [[Арка L - Логово Волков]]          | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| [[Арка M - Поместье Дракона]]       | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| [[Arc N - Tales of Vallaki]]        | —   | —   | —   | —   | —   | —   | —   | —   |
+| [[Арка O - Ужин с Дьяволом]]        | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| [[Арка P - Ограбление Рэйвенлофта]] | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| [[Арка Q - Сияющий Маяк]]           | —   | —   | —   | —   | —   | —   | —   | 🔶  |
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players take a day of downtime.
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+Наиболее распространённый путь прохождения Акта III выглядит следующим образом:
+
+- **9 ноября.** Игроки получают просьбу Урвина Мартикова завершить [[Арка J - Похищенный самоцвет]] (🔶)
+- **10 ноября**. Игроки отправляются на винодельню Винный Волшебник и побеждают друидов Лесного народа в [[Арка J - Похищенный самоцвет]]
+- **11 ноября.** Игроки отправляются на Холм Былого на рассвете и останавливают ритуал древесной заразы Зимнедрева в [[Арка J - Похищенный самоцвет]]. Игроки затем встречают Эсмеральду д’Авенир в деревне Крезк и проводят сеанс в Аббатстве Святой Марковии в [[Арка K - Павшее Аббатство]], затем устраивают засаду у логова оборотней с наступлением ночи в [[Арка L - Логово волков]]
+- **12 ноября.** Игроки исследуют Аргинвостхольт в [[Арка M - Поместье дракона]]
+- **13 ноября.** Игроки берут день отдыха
+- **14 ноября.** Игроки ужинают со Страдом в сумерках в [[Арка O - Ужин с дьяволом]] (🔶)
+- **15 ноября (Новолуние).** Игроки проникают в замок Рэйвенлофт в сумерках, затем сбегают через телепортационную жаровню в [[Арка P - Ограбление Рэйвенлофта]] (🔶)
+- **16 ноября.** Игроки зажигают маяк Аргинвостхольта и побеждают оборотня Кирила Стояновича в [[Арка Q - Сияющий маяк]] (🔶)
+
+Альтернативно особо быстрые игроки могут пройти Акт III следующим образом:
+
+- **9 ноября.** Игроки получают просьбу Урвина Мартикова завершить [[Арка J - Похищенный самоцвет]] (🔶), затем исследуют Аргинвостхольт в [[Арка M - Поместье дракона]]
+- **10 ноября.** Игроки отправляются на винодельню Винный Волшебник и побеждают друидов Лесного народа в [[Арка J - Похищенный самоцвет]]
+- **11 ноября.** Игроки отправляются на Холм Былого на рассвете и останавливают ритуал призыва древесной заразы Зимнедрева в [[Арка J - Похищенный самоцвет]]. Затем они встречают Эсмеральду д’Авенир и проводят сеанс в [[Арка K - Павшее Аббатство]], а также устраивают засаду у логова оборотней в [[Арка L - Логово волков]]
+- **12 ноября.** Игроки берут день отдыха
+- **13 ноября.** Игроки берут день отдыха
+- **14 ноября.** Игроки берут день отдыха, затем ужинают со Страдом в сумерках в [[Арка O - Ужин с дьяволом]] (🔶)
+- **15 ноября (Новолуние).** Игроки проникают в замок Рэйвенлофт в сумерках, затем сбегают через телепортационную жаровню в [[Арка P - Ограбление Рэйвенлофта]] (🔶)
+- **16 ноября.** Игроки зажигают маяк Аргинвостхольта и побеждают оборотня Кирила Стояновича в [[Арка Q - Сияющий маяк]] (🔶)
