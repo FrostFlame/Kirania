@@ -1,6 +1,6 @@
 _Приключение для пяти персонажей 5-го уровня_
 
-_An adventure for five 5th-level characters._
+В этой арке, в первое утро после первого полнолуния игроков в Баровии, к ним подходит Урвин Мартков и просит их расследовать загадочную нехватку поставок вина с винодельни Волшебник Вин, расположенной к юго-западу. Если игроки принимают его задание, Урвин просит их позволить Муриэль Виншоу — сотруднице винодельни — сопровождать их в путешествии. (Муриэль, разумеется, является тайным вервороном и членом Хранителей Пера, которой поручено передать пророчество Страда Давиану Марткову, лидеру ордена)
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 
