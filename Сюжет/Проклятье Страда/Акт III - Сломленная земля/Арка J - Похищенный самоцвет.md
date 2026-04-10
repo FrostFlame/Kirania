@@ -179,17 +179,16 @@ _Приключение для пяти персонажей 5-го уровня
 >[!read]
 > Вы слышите треск ветки в южном подлеске
 
+Если игроки расследуют, они могут совершить **проверку Восприятия Сл 11**, чтобы различить силуэт человека среди линии деревьев впереди. Если игроки приближаются, окликают или иным образом пытаются взаимодействовать с силуэтом, прочитайте:
 
+>[!read]
+> Вы пугаете спугиваете широкоплечую женщину, одетую в покрытую засохшей грязью меховую серо-белую куртку и сжимающую каменный топор. Тонкий слой серой грязи размазан по её лицу, сливаясь с тёмными деревьями вокруг неё. Она одета в шуфу, не закрывающую лицо
 
-If the players investigate, they can make a DC 11 Wisdom (Perception) check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
+Женщина немедленно пытается скрыться в лесу. Если игроки пытаются остановить её или напасть, Муриэль предупреждает их, что женщина — одна из Горного народа — племени охотников-собирателей, живущих среди гор балинок — и что их народ не является слугами Страда и не опасен, если на него не нападать
 
-<div class="description">
-<p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
-</div>
+Муриэль не знает, почему женщина наблюдала за дорогой, но делится, что Горный народ в последнее время стал более активным, хотя никто точно не знает почему. Однако есть сообщения, что они что-то ищут. (Если спросить, откуда она так много знает о Горном народе, Муриэль смеётся и утверждает лишь, что она много путешествовала и имеет «много друзей» по всей долине)
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
-
-Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
+Если игроки спрашивают Муриэль о друиде Лесного народа, которого они видели на Старая Сваличская дорога в [[Arc H - The Lost Soul]], она делится, что Лесной народ известен как верные слуги Страда, которому они поклоняются как божеству. Она советует игрокам держаться подальше от логова друидов: террасированного холма под названием Холм Былого в юго-западной части Сваличский лес, к югу от Винный Волшебник
 
 If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
