@@ -230,21 +230,30 @@ _Приключение для пяти персонажей 5-го уровня
 > **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 10%
 
-## J2e. The Huntress’s Monument
-As the players proceed past the pit trap, read:
+## J2e. Монумент Охотнице
 
-<div class="description">
-<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
-</div>
+Когда игроки проходят мимо ямы-ловушки, прочитайте:
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
-# J3. The Wizard of Wines
-The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+>[!read]
+> Дорога продолжается, снова изгибаясь, по мере того как деревья начинают отступать от тропы. Неподалёку от дороги, среди небольшой рощи кустов с ягодами, стоит старая каменная стела высотой чуть менее 6 футов. Она возвышается в круге из старых, потрескавшихся булыжников и, похоже, несёт на себе какую-то резьбу
 
-> [!lore]+ **History of the Winery**
-> Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
+Если игроки решают исследовать плиту, они обнаруживают, что на ней вырезано изображение волка над выгравированной трёхконечной звездой. (Плита является древним памятником Охотнице, а трёхконечная звезда — символ Трёх Леди. В отличие от трёх других плит в Баровии, на этом памятнике нет ни лишайника, ни мха, поскольку за ним обычно тщательно ухаживают Мартиковы. Хотя Мартиковы не помнят имён и сущностей Леди Святилищ, они сохраняют глубокое уважение к древним богам Баровии)
+
+# J3. Винный Волшебник
+
+>[!Приближение к винодельне]
+> После чуть менее километра, дорога превращается в грунтовую тропу, виляющую по лесу и идущую под откос, пока деревья не расступаются, открывая укрытый туманом луг. Здесь тропинка разделяется. Одна её ветвь ведёт на запад в долину, а другая на юг – в тёмный лес. Деревянный указатель на пересечении указывает на запад и гласит «Винодельня»
+>
+> Когда вы подходите к винодельне начинается мелкий, моросящий дождь. Неокрашенные заборы начинают окружать тропинку, которая огибая виноградник с севера, заворачивает на юг к солидному зданию. Туман принимает призрачные формы, клубясь среди аккуратных рядов виноградной лозы. Здесь и там вы видите кадки с верёвками для перетаскивания винограда. К северу от тропы располагается весьма крупная роща. Человек в тёмном плаще с капюшоном, стоящий на её краю под деревьями, манит вас жестом
+
+Если Муриэль находится в отряде, она узнаёт плащ мужчины как плащ Давиана Мартикова и призывает игроков встретиться с ним
+
+> [!lore]+ **История винодельни**
+> Давным-давно, ещё до того как Страд вон Зарович впервые завоевал долину, племена Первого народа были жестоко объединены, когда Каван Кровопийца, молодой вождь, разрушил иерархию друидической касты и развязал кровавую войну против своих соседей
+>
+> Служители Искательницы — клан **верворонов** — опасались завоеваний Кавана. Чтобы защитить силу Леди Трёх от его амбиций, вервороны украли три дающих жизнь самоцвета из их мест среди Святилищ и спрятали их
 > 
-> The servants of the Seeker—a clan of **wereravens**—feared Kavan’s conquest. To protect the power of the Ladies Three from his ambition, the wereravens stole the three life—giving gemstones from their places amidst the Fanes and hid them away. 
+> Спустя столетия потомки этих верворонов — семья Мартиковых — использовали эти самоцветы, чтобы основать винодельню Винный Волшебник, скрыв её обильную силу у всех на виду. Даже когда Страд завоевал долину и даровал винодельню семье Крезков в награду за их верность, прошло лишь несколько поколений, прежде чем Мартиковы породнились с родом Крезков и вновь вернули себе владение посредством наследования
 > 
 > Centuries later, the descendants of these wereravens—the Martikov family—would use these gemstones to found the Wizard of Wines Winery, hiding their bountiful power in plain sight. Even when Strahd conquered the valley and bestowed the winery to the Krezkov family as a reward for their loyalty, few generations had passed before the Martikovs married into the Krezkov line and retook possession by means of inheritance.
 > 
