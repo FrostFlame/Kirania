@@ -203,17 +203,19 @@ _Приключение для пяти персонажей 5-го уровня
 
 Если игроки спрашивают ревенанта о Горном народе или Лесном народе, он сообщает лишь, что «Первый народ» был разделён давным-давно перед лицом трагедии и раздора, и что их потомки с тех пор остаются разобщёнными. Он отмечает, что Лесной народ принял Страда вон Заровича как своего господина и правителя, но Горный народ всё ещё придерживается древних традиций, поклоняясь древним богиням, некогда обитавшим в долине. (Ревенант не знает, где обитает Горный народ, но слышал, что их поселение скрыто где-то в горах)
 
-If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
+Если оружие игроков явно видно, он спрашивает игроков, противостоят ли они господину замка Рэйвенлофт. Если игроки заявляют, что они противостоят Страду, ревенант советует им отправиться в Аргинвостхольт на юго-востоке, где сэр Годфри Гвилим ждёт тех, кто поднимет свои мечи против тьмы, скрывающейся в глубинах замка. Если игроки спрашивают дорогу к Аргинвостхольту, ревенант советует им идти «на восток, затем на юг по пепельно-серому пути»
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+Ревенант не покинет свой пост на мосту ни при каких обстоятельствах
 
-The revenant will not leave its post on the bridge under any circumstances.
-## J2d. The Spiked Pit Trap
-As the players proceed south from the Raven River Crossroads, read:
+## J2d. Яма с шипами
 
-<div class="description">
-<p>As the dirt road winds through the woods, the path narrows, framed by ancient, twisted trees whose gnarled branches form a thick canopy overhead. Dappled gray light struggles to pierce through, casting eerie shadows that flicker and dance with the slightest breeze. A musky, earthy aroma fills the air—the scent of rotting leaves, damp soil, and the faint tang of decay.  </p>
-<p>The vegetation here is denser than the main road, and several low-hanging branches are draped with clumps of vines that weave a tangled tapestry across the undergrowth. A thick blanket of twigs and pine needles crunches beneath your boots, their low sounds the only noise amidst the silent path.</p>
+По мере того как игроки продолжают путь на юг от перекрёстка у реки Рэйвен, прочитайте:
+
+>[!read]
+> Грунтовая дорога извивается сквозь лес, тропа сужается, обрамлённая древними, искривлёнными деревьями, чьи узловатые ветви образуют плотный полог над головой. Пятнистый серый свет с трудом пробивается сквозь него, отбрасывая жуткие тени, которые дрожат и пляшут от малейшего дуновения ветра. В воздухе стоит затхлый, землистый запах — аромат гниющих листьев, влажной почвы и слабый привкус разложения
+>
+> Растительность здесь гуще, чем на главной дороге, и несколько низко нависающих ветвей увиты пучками лоз, сплетающимися в запутанный узор над подлеском. Толстый ковёр из веточек и сосновых иголок хрустит под вашими сапогами, и этот тихий звук — единственное, что нарушает тишину безмолвной тропы
+
 </div>
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
