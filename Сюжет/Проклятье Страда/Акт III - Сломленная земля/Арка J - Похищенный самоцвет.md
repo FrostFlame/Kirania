@@ -188,19 +188,20 @@ _Приключение для пяти персонажей 5-го уровня
 
 Муриэль не знает, почему женщина наблюдала за дорогой, но делится, что Горный народ в последнее время стал более активным, хотя никто точно не знает почему. Однако есть сообщения, что они что-то ищут. (Если спросить, откуда она так много знает о Горном народе, Муриэль смеётся и утверждает лишь, что она много путешествовала и имеет «много друзей» по всей долине)
 
-Если игроки спрашивают Муриэль о друиде Лесного народа, которого они видели на Старая Сваличская дорога в [[Arc H - The Lost Soul]], она делится, что Лесной народ известен как верные слуги Страда, которому они поклоняются как божеству. Она советует игрокам держаться подальше от логова друидов: террасированного холма под названием Холм Былого в юго-западной части Сваличский лес, к югу от Винный Волшебник
+Если игроки спрашивают Муриэль о друиде Лесного народа, которого они видели на Старой Сваличской дороге в [[Арка H - Потерянная душа]], она делится, что Лесной народ известен как верные слуги Страда, которому они поклоняются как божеству. Она советует игрокам держаться подальше от логова друидов: террасированного холма под названием Холм Былого в юго-западной части Сваличскского леса, к югу от Винного Волшебника
 
-If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
-## J2c. The Raven River Crossroads
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+## J2c. Перекрёсток у реки Рэйвен
 
-<div class="description">
-<p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
-</div>
+>[!Перекрёсток у реки Рэйвен]
+> Вы видите ветхий от непогоды указатель у обочины дороги. Три руки на знаке указывают на три возможных направления. Рука, указывающая на север гласит КРЕЗК, и в этом направлении сквозь лес просматривается арочный мост, пересекающий реку. Рука, указывающая в восточном направлении гласит ВАЛЛАКИ, а дорога в этом направлении ведёт вверх по склону. Рука, указывающая в юго-западном направлении гласит ВИННЫЙ ВОЛШЕБНИК. Дорога в этом направлении слегка идёт под уклон
+>
+> Фигура в ржавых доспехах стоит одна на мосту, сжимая в бледных руках сияющий длинный меч
 
-The figure is recognizably similar to the revenant standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+Фигура заметно похожа на **ревенанта**, стоящего на страже у водопадов Тсер. Если к ней подойти, она приветствует персонажей и спрашивает о их цели
 
-If the players tell the revenant that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of the Gulthias Tree—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
+Если игроки сообщают ревенанту, что направляются к Винному Волшебнику, он предупреждает их, что Лесной народ с Холма Былого в последнее время становится всё более возбуждённым и что к ним присоединились дети Древа Гальтиас — искривлённой оболочки, растущей на вершине Холма Былого и порождающей «зараз», выползающих из его искривлённых корней. Ревенант советует им остерегаться зараз, которые видят без глаз и маскируются среди растительности дикой природы
+
+Если игроки спрашивают ревенанта о Горном народе или Лесном народе, он сообщает лишь, что «Первый народ» был разделён давным-давно перед лицом трагедии и раздора, и что их потомки с тех пор остаются разобщёнными. Он отмечает, что Лесной народ принял Страда вон Заровича как своего господина и правителя, но Горный народ всё ещё придерживается древних традиций, поклоняясь древним богиням, некогда обитавшим в долине. (Ревенант не знает, где обитает Горный народ, но слышал, что их поселение скрыто где-то в горах)
 
 If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
 
