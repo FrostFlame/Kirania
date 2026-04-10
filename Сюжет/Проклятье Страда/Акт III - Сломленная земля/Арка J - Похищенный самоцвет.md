@@ -23,7 +23,7 @@ _Приключение для пяти персонажей 5-го уровня
 # Подготовка
 
 - [ ] Муриэль
-- [ ] 
+- [ ] 4 вьющиеся заразы
 
 # J1. Таверна Синяя Вода
 ### J1a. Просьба Урвина
@@ -216,28 +216,19 @@ _Приключение для пяти персонажей 5-го уровня
 >
 > Растительность здесь гуще, чем на главной дороге, и несколько низко нависающих ветвей увиты пучками лоз, сплетающимися в запутанный узор над подлеском. Толстый ковёр из веточек и сосновых иголок хрустит под вашими сапогами, и этот тихий звук — единственное, что нарушает тишину безмолвной тропы
 
-</div>
+Когда игроки входят в эту область, Муриэль шёпотом говорит, что здесь что-то не так, отмечая, что дорога «не пахла смертью» в прошлый раз, когда она проходила здесь
 
-As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
+Дорога здесь скрывает [[ДМовские заметки#Яма с шипами|яму с шипами]]. Клочья лоз (и источник запаха разложения) — это **4 вьющиеся заразы**, скрытые благодаря способности _**ложный облик**_
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+Игрок с **пассивным Восприятием 15**, либо преуспевший в **проверке Восприятия Сл 15** замечает яму. Если любые игроки падают в яму, пытаются обойти её или атакуют вьющиеся заразы, заразы нападают. Любой игрок, который ещё не распознал в пучках лоз угрозу, застигнут врасплох
 
-A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+В бою **вьющиеся заразы** используют свою атаку _**сжимание**_, чтобы схватить противников, а затем тащат их в яму-ловушку
 
-In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
-
-> [!combat]- **Combat - The False Trail**  
+> [!combat]- **Бой - Ложная тропа**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
 > **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 10%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Vine Blight | 3 | 4 | 5 | 6 |
-
 
 ## J2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
