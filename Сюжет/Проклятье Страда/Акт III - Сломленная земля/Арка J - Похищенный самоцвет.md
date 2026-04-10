@@ -275,26 +275,29 @@ _Приключение для пяти персонажей 5-го уровня
 > 
 > С тех пор друиды остаются на винодельне, разыскивая третий самоцвет, который, как они считают, спрятан там. Они также посадили черенок Древа Гальтиас внутри винодельни, который планируют использовать, чтобы расширить своё влияние на север, в сторону Крезка. Вскоре, однако, друиды прекратят поиски — и **древесная зараза** Зимнедрево выступит на винодельню и уничтожит её навсегда
 
-Если игроки задерживаются на дороге, с юга раздаётся пронзительный крик — знакомый зов **большой стрикс**. Через мгновение ему отвечает второй, похожий крик с востока — и третий, такой же, с запада. Пока три вопля разносятся над виноградниками, закутанная фигура бросает взгляд вверх, её жесты становятся более настойчивыми, а Муриэль призывает игроков укрыться
+Если игроки задерживаются на дороге, с юга раздаётся пронзительный крик — знакомый зов **большого стрикса**. Через мгновение ему отвечает второй, похожий крик с востока — и третий, такой же, с запада. Пока 3 вопля разносятся над виноградниками, закутанная фигура бросает взгляд вверх, её жесты становятся более настойчивыми, а Муриэль призывает игроков укрыться
 
-If the players linger on the road, a piercing screech splits the air from the south—the familiar call of a **greater strix**. Just a moment later, it’s answered by a second, similar call from the east—and a third, similar call from the west. As the three shrieks echo across the vineyard, the cloaked figure glances upward and its gestures become more urgent, while Muriel urges the players to seek cover.
+Если игроки приближаются к закутанной фигуре, она манит их глубже в лес. Прочитайте:
 
-If the players approach the cloaked figure, it beckons them deeper into the woods. Read: 
+>[!read]
+> Фигура исчезает в небольшой роще буков, укрытой среди леса, их гладкие серебристо-серые стволы стоят в круге, словно древние стражи. Навес листвы наверху образует плотный, почти сплошной потолок, погружая лесную подстилку в потустороннюю тень
+>
+> Вокруг вас деревья с их одинаковыми, почти симметричными ветвями тянутся вверх, словно тонкие руки к небу. Десятки воронов сидят на них, их тёмные глаза молча наблюдают, пока вы приближаетесь
+>
+> Фигуры нигде не видно, но в центре поляны открыт хорошо замаскированный люк, обнажающий деревянную лестницу, уходящую вниз в шахту в земле
 
-<div class="description">
-<p>The figure vanishes into a small grove of beech trees tucked away amidst the woods, their smooth, silvery-gray trunks standing in a ring like ancient sentinels. The canopy above forms a dense, near-unbroken ceiling of foliage, casting the forest floor in an otherworldly shadow.</p>
-<p>All around you, the trees' uniform, near-symmetrical branches reach upward like slender arms toward the sky. Dozens of ravens sit perched upon them, their dark eyes watching silently as you approach.</p>
-<p>The figure is nowhere to be seen, but a well-disguised trapdoor has been pulled open at the center of the clearing, exposing a wooden ladder that descends down a shaft in the earth.</p>
-</div>
+Когда игроки входят в поляну, моросящий дождь превращается в ливень, а над головой вспыхивают молнии и гремит гром
 
-As the players enter the clearing, the drizzle turns to rain, lightning flashing and thunder rolling overhead.
+Муриэль не узнаёт ни люк, ни лестницу. Если игроки задерживаются, не спускаясь в люк, из него высовывается голова закутанного мужчины, и он ворчит: ***«Вы что, хотите быть пронзёнными насмерть, глупцы? Спускайтесь сюда, пока они вас не увидели, ради всего святого — и закройте за собой дверь»***. После этого он снова спускается по лестнице вниз
 
-Muriel doesn’t recognize the trapdoor or the ladder. If the players linger without entering the trapdoor, the cloaked man’s head pokes up out of the trapdoor, and he grunts, “Do you want to get punctured to death, you fools? Get down here before they see you, for goodness’ sake—and close the door behind you." He then descends back down the ladder.
-## J3a. The Martikovs’ Refuge
-### Down the Ladder
-If the players descend the ladder, read:
+## J3a. Убежище Мартиковых
+### Вниз по лестнице
 
-<div class="description">
+Если игроки спускаются по лестнице, прочитайте:
+
+>[!read]
+> Вы спускаетесь по деревянной лестнице, и каждый шаг гулко отзывается в замкнутом пространстве, пока перекладины скрипят под вашим весом. Над головой тяжёлые капли дождя барабанят по закрытому люку с неумолимым ритмом, а приглушённые раскаты грома разносятся где-то далеко наверху. Струйки дождевой воды стекают по влажным каменным стенам вокруг вас, собираясь в хлюпающей водяной яме в 30 футах внизу
+
 <p>You descend the wooden ladder, each step echoing faintly in the enclosed space as the rungs creak beneath your weight. Overhead, heavy raindrops drum against the closed trapdoor with a relentless rhythm, the muffled sound of booming thunder echoing far above. Rivulets of rainwater run down the damp stone walls around you, pooling in a sloshing, watery pit thirty feet below.</p>
 <p>Halfway down the shaft, the walls open up into a small stone cavern, its rough walls damp and glistening. Lanterns hang from iron hooks that jut out from the walls, their flickering flames filling the space with the warm glow of candlelight. The perimeter of the cavern hosts a collection of crates and sacks, which appear to have been kept in relatively good condition. A tunnel stretches away from the south wall of the cave, a thin layer of mist clinging to its floor as it vanishes into darkness.</p>
 <p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to Urwin Martikov lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
