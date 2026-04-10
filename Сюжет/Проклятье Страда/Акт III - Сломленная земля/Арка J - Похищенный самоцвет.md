@@ -89,90 +89,83 @@ _Приключение для пяти персонажей 5-го уровня
 
 Если игроки предоставляют неопровержимые доказательства своего предположения (например, необъяснимую способность Муриэль к регенерации от ран), она морщится, а затем настаивает, что не может сказать ничего больше, пока не поговорит со своим «шефом». (Она не раскроет личность своего шефа, но честно может заверить, что её шеф — не Страд и ни один из его слуг)
 
-<div class="statblock">
-    <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
-    <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
-    <br>
-    <strong>Hit Points</strong> 63 (14d8)
-    <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>16 (+3)</td>
-                <td>11 (+0)</td>
-                <td>13 (+1)</td>
-                <td>15 (+2)</td>
-                <td>14 (+2)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-</div>
+### Муриэль Виншоу
 
-### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+Средний Гуманоид (Человек, перевёртыш), хаотично-добрый_
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+**КД** 14 ([[Доспехи и щиты#Лёгкие доспехи|кожаный доспех]])
+**Хиты** 63 (14dк8)
+**Скорость** 30 футов, летая 50 футов в форме ворона и гибрида
 
-* Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+| Сил     | Лов     | Тел     | Инт     | Мдр     | Хар     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 16 (+3) | 11 (+0) | 13 (+1) | 15 (+2) | 14 (+2) |
 
-If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+**Навыки** Восприятие +6, Проницательность +4
+**Чувства** пассивное Восприятие 16  
+**Языки** Общий (не может говорить в форме ворона)
+**ПО** 2 (450 XP)
+**БМ** +2  
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+---
 
-If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
-# J2. The Old Svalich Road
-The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
-## J2a. Crossing the River
-As the players cross the bridge over the Luna River, read the following:
+**_Регенерация._** Муриэль **восстанавливает 10 хитов в начале своего хода**, если с конца своего прошлого хода она не получала **некротический урон** или **дробящий**, **колющий** либо **рубящий** урон от **посеребрённого оружия**
 
-<div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
-</div>
+**_Подражание._** Муриэль может подражать простым звукам, которые она слышала, таким как шёпот человека, плач младенца или стрекотание животного. Существо, услышавшее эти звуки, может определить, что это имитация, при успешной проверке **Проницательности Сл 10**
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+**_Пике._** Если Муриэль пролетает не менее **20 футов по прямой** к цели, при этом снижаясь как минимум на 5 футов к земле, а затем в тот же ход попадает по цели атакой коротким мечом, цель получает **дополнительно 7 (2к6) колющего урона**. Если цель — существо, оно должно преуспеть в **спасброске Силы Сл 12**, иначе оно [[ДМовские заметки#Опрокинутый|сбивается с ног]]
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+#### Действия
 
-<div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
-</div>
+**_Мультиатака._** Муриэль совершает 2 атаки оружием, 1 из которых может быть атакой из ручного арбалета
+
+**_Короткий меч._** (Только гуманоидная или гибридная форма) _Атака рукопашным оружием_: +5 к попаданию, досягаемость 5 футов, 1 цель. _Попадание:_ **6 (1к6 + 3) колющего урона**
+
+**_Ручной арбалет._** (Только гуманоидная или гибридная форма) _Атака дальнобойным оружием_: +5 к попаданию, дальность 30/120 футов, 1 цель. _Попадание:_ **5 (1к6 + 3) колющего урона**
+
+**_Клюв._** (Только форма ворона или гибридная форма) _Атака рукопашным оружием_: +5 к попаданию, досягаемость 5 футов, 1 цель. _Попадание:_ **1 колющего урона** в форме ворона или **5 (1к4 + 3) колющего урона** в гибридной форме. Если цель — гуманоид, она должна преуспеть в **спасброске Телосложения Сл 10**, иначе будет проклята ликантропией верворона
+
+#### Бонусные действия
+
+**_Смена формы._** Муриэль превращается в гибрид ворона и гуманоида, в ворона или обратно в свою человеческую форму. Её характеристики, за исключением размера, остаются одинаковыми в каждой форме. Любое снаряжение, которое она носит или несёт, не трансформируется. В случае смерти она возвращается в свою человеческую форму
+
+#### Реакции
+
+**_Вмешательство._** Когда существо, которое Муриэль видит, попадает атакой по другой цели в пределах 5 футов от Муриэль, она может **реакцией** принять урон на себя вместо этой цели
+
+### Просьба Ирины
+
+Перед тем как игроки покидают Таверна Синяя Вода, если они ранее относились к Ирине Колян с добротой и уважением, она входит в общий зал таверны, чтобы встретиться с ними — снова в своей рапире и кирасе
+
+Ирина, которая узнала о цели игроков от Даники, отца Петровича или другого дружественного валлакийца, связанного с Мартиковыми, сначала подтверждает, что игроки покидают Валлаки, чтобы расследовать Винного Волшебника. После этого она просит игроков позволить ей сопровождать их — путешествовать вместе с ними в их борьбе за помощь Баровии и противостояние воле Страда. Она может поделиться следующей информацией, чтобы объяснить своё решение:
+
+- Ирина делится, что, увидев подвиги игроков в Валлаки, она осознала как важно бороться за других, а не просто говорить от их имени. Она хочет научиться быть воином для своего народа и напрямую сопротивляться тирании Страда — без страха и колебаний.
+- Если Ирину преследовал или похищал Изек Стражни в _**Акт H: Брат и Сестра Стражни**_, она делится, что устала прятаться от тех, кто стремится использовать её в своих целях, и покончила с тем, чтобы позволять другим страдать, пытаясь защитить её. Она полна решимости стоять на своих ногах и сражаться за себя сама, вместо того чтобы позволять другим сражаться за неё.
+- Ирина отмечает, что церковь Святого Андрала уже однажды становилась целью слуг Страда — и что, хотя Измарк отправил её в Валлаки в надежде, что она будет вне досягаемости Страда, её опыт там показал ей, что в долине нет по-настоящему безопасного места.
+
+Если игроки проявляют обеспокоенность за безопасность Ирины, она отмечает, что на протяжении их путешествий ни один из слуг или приспешников Страда не осмелился напасть на неё, что наводит на мысль, что он приказал им оставить её в живых
+
+Если игроки предполагают, что Ирена будет плохо подготовлена к жизни искателя приключений, она отмечает, что является обученным лекарем (благодаря наставничеству своей матери), что она опытная фехтовальщица (благодаря обучению Исмарка), и что она также может помочь им, выступая посредником и делясь информацией о долине
+
+Если игроки предполагают, что присутствие Ирины привлечёт внимание Страда или иным образом принесёт им несчастье, она напрягается, затем тихо спрашивает, действительно ли они хотят отправить её прочь, как это сделал Измарк. Если они повторяют свой отказ, она смиряется с их решением
+
+# J2. Старая Сваличская дорога
+
+Путь от города Валлаки до винодельни **Винный Волшебник** составляет чуть меньше 11,3 километра и занимает 2 часа 15 минут. Чтобы добраться до винодельни, игроки должны отправиться к перекрёстку у Реки Рэйвен, а затем двигаться на юг
+
+## J2a. Пересекая реку
+
+Когда игроки пересекают мост через реку Луна, прочитайте:
+
+>[!read]
+> Тропа сужается, по обе стороны её обступают густые, высокие деревья. Впереди появляется старый деревянный мост, его изношенные временем доски перекинуты через бурную реку внизу. По мере приближения вы видите, как тёмная река стремительно несётся по гладким камням русла, а по её берегам растут искривлённые кусты и деревья
+>
+> Когда вы ступаете на мост, ваши сапоги гулко отзываются по старому, влажному дереву. На севере вы видите, как река извивается вверх по течению вдоль линии деревьев, прежде чем исчезнуть за изгибом. На юге река петляет, словно лента, между берегами, а затем постепенно растворяется в тумане
+
+По мере того как игроки проходят этот участок, дорога к Аргинвостхольту выглядит так, прочитайте:
+
+>[!read]
+> Грунтовая тропа ответвляется от Старой Сваличской дороги здесь, извиваясь на юг вверх по скалистому горному отрогу. Земля тропы утрамбована, её цвет бледно-серо-коричневый, напоминающий холодный пепел. Деревья по обе стороны стоят безмолвные и неподвижные, их листья выцветшего зелёного оттенка. По мере того как тропа поднимается вверх, она постепенно сменяется глубокими тенями лесистого склона горы, исчезая в мраке леса впереди
 
 ## J2b. The Path to Tsolenka Pass
 Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
