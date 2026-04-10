@@ -167,18 +167,19 @@ _Приключение для пяти персонажей 5-го уровня
 >[!read]
 > Грунтовая тропа ответвляется от Старой Сваличской дороги здесь, извиваясь на юг вверх по скалистому горному отрогу. Земля тропы утрамбована, её цвет бледно-серо-коричневый, напоминающий холодный пепел. Деревья по обе стороны стоят безмолвные и неподвижные, их листья выцветшего зелёного оттенка. По мере того как тропа поднимается вверх, она постепенно сменяется глубокими тенями лесистого склона горы, исчезая в мраке леса впереди
 
-## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+## J2b. Путь к перевалу Тсоленка
 
-<div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
-</div>
+Незадолго до того как игроки достигают перекрёстка у реки Рэйвен, они выходят к тропе, ведущей к озеру Бараток и Глава 11: Башне Ван Рихтена, недалеко от дороги, ведущей к Глава 9: Перевалу Тсоленка. Прочитайте:
 
-As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
+>[!read]
+> Старая охотничья тропа ответвляется от Старая Сваличская дорога здесь, извиваясь на север между старыми, искривлёнными деревьями, прежде чем исчезнуть в подлеске. В ста метрах дальше альпийская тропа отделяется от главной дороги, чтобы направиться на юг к горам, поднимаясь в высоту, пока не исчезает за крутым, покрытым деревьями откосом
 
-<div class="description">
-<p>You hear the snap of a twig in the underbrush to the south.</p>
-</div>
+Когда игроки проходят мимо входа на альпийскую тропу, за ними наблюдает **берсерк** из Горного народа, скрывающийся в южном подлеске. Прочитайте:
+
+>[!read]
+> Вы слышите треск ветки в южном подлеске
+
+
 
 If the players investigate, they can make a DC 11 Wisdom (Perception) check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
 
