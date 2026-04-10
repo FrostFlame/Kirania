@@ -8,80 +8,86 @@ _Приключение для пяти персонажей 5-го уровня
 
 Чтобы сделать это, игроки должны проникнуть на винодельню через тайный туннель, ведущий в подвал, затем вступить в бой с друидами и их искажёнными слугами-заразами. Однако друиды выращивают черенок «древа Галтиас» — вампирического дерева, которое растёт на вершине Холма Былого к югу — внутри стен винодельни, что усложняет игрокам попытки добраться до верхних уровней
 
-Если игроки победят друидов, они узнают, что Лесной народ планирует ритуал по призыву существа под названием «Винтерсплинтер» на Холме Былого на следующий день — существа, которое угрожает разнести винодельню на куски. Давиан просит игроков и Муриэль отправиться на Холм Былого и предотвратить рождение Винтерсплинтера. Давиан также просит игроков вернуть зачарованный самоцвет, который ранее использовался винодельней для выращивания винограда, прежде чем он был украден друидами
+Если игроки победят друидов, они узнают, что Лесной народ планирует ритуал по призыву существа под названием «Зимнедрево» на Холме Былого на следующий день — существа, которое угрожает разнести винодельню на куски. Давиан просит игроков и Муриэль отправиться на Холм Былого и предотвратить рождение Винтерсплинтера. Давиан также просит игроков вернуть зачарованный самоцвет, который ранее использовался винодельней для выращивания винограда, прежде чем он был украден друидами
 
-Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “Wintersplinter" at Yester Hill the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent Wintersplinter’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
+На Холме Былого Муриэль сначала приводит игроков к роще в тени Сваличского леса. Там она призывает духа Кавана, древнего вождя Лесного народа, который предоставляет сведения о планах и защите друидов. Каван предупреждает игроков, что Сварог, предводитель друидов, — могущественный противник, и приглашает их вернуться к его кургану, если они победят Сварога и заберут его тисовый жезл
 
-At Yester Hill, Muriel first guides the players to a grove in the shadow of the Svalich Woods. There, she summons the spirit of Kavan, an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.
+По мере того как игроки продолжают путь к Холму Былого, их встречает Страд вон Зарович верхом на своём **кошмаре** Буцефале. Если игроки убедят Страда позволить им выступить против друидов, Страд предлагает пари и обещает награду в случае их победы, которую игроки смогут получить у Шепчущей Стены к западу от Холма Былого после битвы
 
-As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, Beucephalus. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at the Whispering Wall west of Yester Hill after the battle.
+Игроки должны взобраться на Холм Былого, не привлекая внимания патрулей друидов, пробиться через стражей каменного круга на вершине холма и победить круг друидов Сварога, прежде чем они смогут призвать Зимнедрево, ужасающую **древесную заразу**, угрожающую осадить винодельню Винный Волшебник. Если игроки преуспеют, они смогут извлечь украденный самоцвет Мартиковых из сердца Зимнедрева и навсегда положить конец угрозе Лесного народа
 
-The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **tree blight** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
+Если игроки встречают Страда у Шепчущей Стены, он делится краткой историей стены и приглашает их отправиться в её окутанные туманом глубины, где они могут столкнуться с видениями своих самых сокровенных желаний. Перед уходом Страд вручает игрокам их награду, а также дополнительные дары каждому игроку, который вошёл в Шепчущую Стену и вернулся обратно
 
-Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
+Если игроки возвращаются к кургану Кавана и преподносят ему жезл Сварога, он делится с ними историей раскола между Лесным народом (который решил поклоняться Страду) и Горным народом (который бросил вызов власти Страда) в давние времена. Каван рассказывает игрокам о Леди Святилищ и наставляет их отправиться в скрытое поселение Горного народа Солдав в Перевале Тсолёнка, если они хотят найти способ обратить порчу земли вспять
 
-Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
-# J1. The Blue Water Inn
-### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
+# Подготовка
 
-After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
+- [ ] Муриэль
+- [ ] 
 
-* The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
-* However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
+# J1. Таверна Синяя Вода
+### J1a. Просьба Урвина
 
-Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named Davian Martikov, to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
+Утром после ночи первого полнолуния игроков в Баровии (9 ноября), если они остановились в Таверна Синяя Вода, Урвин Мартков подходит к ним с выражением явной тревоги
 
-Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
+После обмена любезностями Урвин неохотно (хотя и тихо) спрашивает, готовы ли они помочь ему и Данике с проблемой, с которой сейчас сталкивается таверна. Если игроки соглашаются, Урвин делится следующей информацией:
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+- Таверна Синяя Вода обычно получает регулярные поставки вина раз в 2 недели c Винного Волшебника, расположенного на юго-западной окраине долины Баровии, включая как популярную Фиолетовую наливку No. 3, так и более дорогую настойку Красный драконг
+- Однако поставка за эти 2 недели опаздывает уже на 2 дня, и запасы таверны начинают заканчиваться. У Урвина и Даники достаточно сбережений, чтобы это не стало немедленной проблемой, но они беспокоятся о благополучии винодельни, от которой с момента последней поставки не было никаких вестей.
 
-> [!lore]+ **What Urwin Knows**
-> Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
+Урвин просит игроков отправиться к Винному Волшебнику и поговорить с владельцем, человеком по имени Давиан Мартков, чтобы выяснить причину задержки и при необходимости решить её. (Если игроки указывают на фамилию Давиана, Урвин мрачно признаёт, что Давиан — его отец, но отказывается вдаваться в подробности, сообщая лишь, что они с отцом не разговаривали много лет) Урвин предупреждает игроков, что Давиан — «упрямая старая птица», и что его вспыльчивый характер может испытывать их терпение.
+
+Урвин отмечает, однако, что запасов вина в таверне достаточно, чтобы хватило как минимум на несколько дней. Если у игроков есть более срочные дела, он с радостью даст им ещё день или два перед отбытием
+
+Если игроки принимают задание Урвина, он просит их присоединиться к нему на кухне Таверна Синяя Вода через **1 час**, чтобы встретиться с Муриэль Виншоу, бывшей сотрудницей Винного Волшебника, которая может проводить их к винодельне. (Если спросить, Урвин сообщает, что у Муриэль есть собственные дела на винодельне и что она так же обеспокоена безопасностью винодельни, но отказывается предоставлять какие-либо дополнительные сведения)
+
+> [!lore]+ **Что известно Урвину**
+> Урвин считает, что с винодельней произошло что-то ужасное — хотя он не уверен, что именно. Хотя он отправил полдюжины воронов на разведку, когда первая поставка не появилась, ни один из них не вернулся
 > 
-> Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
-## J1b. Setting Off
-### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+> Урвин знает, благодаря Муриэль, что **стриксы** Бабы Лисяги недавно начали патрулировать долину с большей силой и в большем количестве. Хотя Муриэль вызвалась провести расследование, он и Муриэль решили, что небо, скорее всего, больше не является безопасным, и что лучше всего ей действовать пешком, желательно с опытными телохранителями
 
-<div class="description">
-<p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
-<p>Her right hand lifts up to her head, fingers idly twirling the bright blue streak that runs through her hair. She flashes you a grin and holds out the other hand in greeting, her fingers twitching with restless energy.</p>
-</div>
+## J1b. Отправление
+### Знакомство с Муриэль
 
-![[Muriel Vinshaw 1.png]]
-<span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Когда игроки встречаются с Урвином на кухне Таверны Синяя Вода после принятия его задания, он представляет им Муриэль Виншоу. Прочитайте:
 
-> [!profile]+ **Profile: Muriel Vinshaw**
-> **Roleplaying Information**
-> ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
-> 
-> ***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
-> 
-> ***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
-> 
-> ***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
-> 
-> ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
-> 
-> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+>[!read]
+> Молодая женщина стоит прислонившись к плите, скрестив руки на груди. Она невысокая и смуглая, с угольно-чёрными волосами и тёмными глазами. Плащ заляпанный дорожной грязью висит у неё на плечах, а маленькое тёмное перо на кожаном шнурке висит у неё на шее между двумя резными деревянными бусинами. Деревянный арбалет закреплён у неё на спине, и короткий меч в ножнах у бедра
+>
+> Её правая рука поднимается к голове, пальцы рассеянно крутят ярко-синюю прядь, проходящую через её волосы. Она улыбается вам и протягивает другую руку в приветствии, её пальцы подёргиваются от беспокойной энергии
 
-Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
+![[Muriel Vinshaw.png]]
 
-> [!lore]+ **Muriel’s Secret Identity**
-> Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in the village of Barovia and on the path to Tser Pool.
+> [!profile]+ **Профиль: Муриэль Виншоу**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Муриэль должна вызывать расположение своей энергичной, целеустремлённой манерой поведения, смех своими язвительными комментариями и жизнерадостным чувством юмора, а также лёгкое раздражение своим упрямством и периодическими (хотя и вежливыми) отказами раскрывать секреты Хранителей Пера
 > 
-> If the players confront Muriel and suggest that she’s secretly a wereraven, druid, or other shapeshifter, she scoffs at the prospect and summarily denies the allegations with a healthy dose of sarcasm, laughter, and good-natured humor, spinning off a series of excuses as she does:
+> _**Эмоции.**_ Муриэль чаще всего испытывает любопытство, возбуждение, решимость, торжество, радость, веселье, злость или грусть
 > 
-> * (If accused of being a shapeshifter) “What, like some kind of tree-hugging druid? I don’t even have a wooden staff. And I *hate* trees."
-> * (If accused of being a wereraven) “Oh, so like a werewolf but for ravens instead? That’s so stupid. ‘Oh, look at me, I’m a dangerous werewolf who turns into birds!’"
-> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was Izek Strazni in disguise. Good on that bird, though. He’s got good taste."
-> * (If the players continue to insist that Muriel was the blue-winged raven) "Believe what you want. But if I catch you sneaking birdseed into my rations, we're probably gonna have a problem."
+> _**Мотивации.**_ Муриэль хочет почтить жизнь Элрика через своё сопротивление Страду и изменить повседневную жизнь баровийцев, действуя в качестве полевого агента Хранителей Пера.
+> 
+> _**Вдохновения.**_ При отыгрыше Муриэль следует брать за основу Аметист (_Steven Universe_), Сокку (_Аватар: Легенда об Аанге_) и Питера Паркера (_Человек-паук_)
+> 
+> **Информация о персонаже**
+> _**Персона.**_ Для окружающего мира Муриэль — жизнерадостная, пусть и иногда рассеянная молодая женщина. Для тех, кому она доверяет, Муриэль — решительный полевой агент Хранителей Пера с сильным чувством справедливости и ярко выраженной независимой жилкой. В глубине души Муриэль всё ещё скорбит о смерти своего жениха, Элрика Мартикова, и задаётся вопросом, сможет ли она когда-нибудь исправить то, что его смерть сломала в ней
+> 
+> _**Мораль.**_ В бою Муриэль с радостью достаёт свой короткий меч или арбалет и бросает вызов противнику нанести первый удар, убегая только если её регенерация будет заблокирована или она окажется в заведомо проигрышном положении
+> 
+> _**Отношения.**_ Муриэль — агент Хранителей Пера под началом Давиана Мартикова, контакт и союзница мастера-шпиона Хранителей Урвина Мартикова, а также бывшая невеста погибшего сына Давиана, Элрика Мартикова, который был заключён в тюрьму, помогая восстанию Дору против замка Рэйвенлофт
 
-If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
+Муриэль тепло приветствует игроков и представляется, отмечая, что Урвин сообщил ей, что она будет сопровождать их к Винному Волшебнику, пока они будут следить за тем, чтобы она «не убилась». После их ответа она коротко отчитывает игроков, игриво предполагая, что они «не выглядят как авантюристы». Если игроки делятся какими-либо своими подвигами в Валлаки или за его пределами, Муриэль радостно признаёт, что они действительно выглядят хорошо экипированными и подготовленными, и благодарит их за то, что они взялись за это задание
+
+> [!lore]+ **Секретная личность Муриэль**
+> Муриэль, разумеется, является **вервороном** и тайным членом Хранителей Пера — тем самым сине-крылым вервороном, которого игроки ранее встречали в деревне Баровия и на пути к Озеру Тсер
+>
+> Если игроки напрямую сталкиваются с Муриэль и предполагают, что она тайно является вервороном, друидом или другим оборотнемперевёртышем, она насмехается над этой мыслью и решительно отрицает обвинения с изрядной долей сарказма, смеха и добродушного юмора, попутно выдавая целую серию оправданий:
+> 
+> - (Если её обвиняют в том, что она перевёртыш) **«Что, типа какого-то друида, обнимающегося с деревьями? У меня даже деревянного посоха нет. И я _ненавижу_ деревья»**
+> - (Если её обвиняют в том, что она верворон) **«А, то есть как оборотень, только вместо волка — ворон? Это же так тупо. “О, смотрите на меня, я опасный оборотень, который превращается в птиц!”»**
+> - (Если указывают на её синюю прядь в волосах) **«Однажды я видела волка с уродливой мордой, но это же не значит, что это был Изек Стражни под прикрытием. Хотя за ту птицу я рада. У неё хороший вкус»**
+> - (Если игроки продолжают настаивать, что Муриэль — сине-крылый ворон) **«Верьте во что хотите. Но если я поймаю вас за тем, что вы подсыпаете птичий корм в мои пайки, у нас, скорее всего, будут проблемы»**
+
+Если игроки предоставляют неопровержимые доказательства своего предположения (например, необъяснимую способность Муриэль к регенерации от ран), она морщится, а затем настаивает, что не может сказать ничего больше, пока не поговорит со своим «шефом». (Она не раскроет личность своего шефа, но честно может заверить, что её шеф — не Страд и ни один из его слуг)
 
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
