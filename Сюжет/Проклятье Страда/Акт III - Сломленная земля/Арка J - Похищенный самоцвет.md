@@ -359,19 +359,18 @@ _Приключение для пяти персонажей 5-го уровня
 
 Если спросить, Даг может поделиться следующей информацией:
 
-- 
+- 10 лет назад кто-то украл нечто ценное из винодельни, пока Урвин Мартиков был на страже. Давиан обвинил Урвина в краже, убеждённый, что тот вместо наблюдения за порядком развлекался со своей невестой, Даникой Дораковой. На следующее утро Давиан и Урвин яростно поссорились, и Урвин покинул винодельню, отправившись в Валлаки. Урвин так и не вернулся, а Давиан не смог ни вернуть украденную вещь, ни найти виновного (если спросить, что было украдено, Даг отвечает лишь, что это был драгоценный камень — ценная семейная реликвия и одна из самых дорогих Давиану вещей)
+- Чуть больше 3 месяцев назад Элрик Мартиков, брат-близнец Эльвира и жених Муриэль, присоединился к восстанию в деревне Баровия, которое направилось к замку Рэйвенлофт. Элрик всегда был светлоглазым и оптимистичным — мечтателем, верившим в лучшее будущее для своих близких. Давиан запретил ему идти и приказал Элрику никогда не возвращаться, когда тот ослушался. Слова Давиана оказались пророческими — Элрик погиб в замке, и его смерть снова расколола семью Мартиковов
+- Клаудиу был особенно близок со своими двумя младшими дядями, и больше всего — с Элриком. Он и Эльвир тяжело пережили смерть Элрика: оба впали в своего рода меланхолическое отчаяние, а Эльвир срывается на любого, кто попадает ему под горячую руку
 
-* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
-* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
-* Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
+Если спросить, Муриэль тихим, сдержанным шёпотом подтверждает, что Элрик «вдохновлял всех нас», но что ей — и семье Элрика — пришлось научиться жить без него Затем она извиняется и садится рядом с Эльвиром
 
-If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
-
-> [!abstract]+ **Speaking with Elvir**
-> If the players move to speak with Elvir, he ignores them, staring straight at the cavern wall, for the first full minute. He then hoarsely demands to know why they’ve come to the winery, insisting that there’s nothing left for them or anyone else to find there. If the players show Elvir kindness and compassion, they can somewhat lighten his mood with a DC 15 Charisma (Persuasion) check. Otherwise, he firmly but politely asks them to leave him alone, his voice strained and raw.
+> [!abstract]+ **Разговор с Эльвиром**
+> Если игроки подходят поговорить с Эльвиром, он игнорирует их, целую минуту глядя прямо в стену пещеры. Затем он хрипло требует объяснить, зачем они пришли в винодельню, настаивая, что там больше нечего найти ни им, ни кому-либо ещё. Если игроки проявят к Эльвиру доброту и сочувствие, они могут немного улучшить его настроение при помощи **проверки Убеждения Сл 15**. В противном случае он твёрдо, но вежливо попросит их оставить его в покое, его голос напряжён и охрипший
 > 
-> If the players get on Elvir’s good side and ask about Elric, Elvir tells them that Elric was a fool who abandoned his family, and that he “deserved what he got." A DC 10 Wisdom (Insight) check reveals that Elvir is uncomfortable with the harshness of his words, and doesn’t appear to entirely believe them. The players can convince Elvir to reveal his true feelings with a DC 20 Charisma (Persuasion) check; otherwise, he shakes his head and firmly denies any deeper meaning.
-### Into the Tunnel
+> Если игрокам удаётся расположить к себе Эльвира и они спрашивают об Элрике, Эльвир говорит, что Элрик был глупцом, который бросил свою семью, и что он «получил то, что заслужил». **Проверка Проницательности Сл 10** показывает, что Эльвир чувствует себя неловко из-за резкости своих слов и, похоже, сам им не до конца верит. Игроки могут убедить Эльвира раскрыть свои истинные чувства при помощи **проверки Убеждения Сл 20**, в противном случае он качает головой и твёрдо отрицает какой-либо скрытый смысл
+
+### В туннель
 After the players have spoken with Dag and the other Martikovs to their satisfaction, Davian and Stefania approach them. Davian apologizes to the players for Elvir’s behavior, and—at Stefania’s gentle chiding—his own outburst as well.
 
 If the players are still willing to enter the winery to defeat the druids within, Davian can share the following final warnings:
