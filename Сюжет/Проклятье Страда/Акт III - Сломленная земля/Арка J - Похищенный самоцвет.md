@@ -371,24 +371,26 @@ _Приключение для пяти персонажей 5-го уровня
 > Если игрокам удаётся расположить к себе Эльвира и они спрашивают об Элрике, Эльвир говорит, что Элрик был глупцом, который бросил свою семью, и что он «получил то, что заслужил». **Проверка Проницательности Сл 10** показывает, что Эльвир чувствует себя неловко из-за резкости своих слов и, похоже, сам им не до конца верит. Игроки могут убедить Эльвира раскрыть свои истинные чувства при помощи **проверки Убеждения Сл 20**, в противном случае он качает головой и твёрдо отрицает какой-либо скрытый смысл
 
 ### В туннель
-After the players have spoken with Dag and the other Martikovs to their satisfaction, Davian and Stefania approach them. Davian apologizes to the players for Elvir’s behavior, and—at Stefania’s gentle chiding—his own outburst as well.
 
-If the players are still willing to enter the winery to defeat the druids within, Davian can share the following final warnings:
+После того как игроки наговорились с Дагом и остальными Мартиковыми, Давиан и Стефания подходят к ним. Давиан извиняется перед игроками за поведение Эльвира и — под мягкое увещевание Стефании — также за свою собственную вспышку гнева
 
-* First, Davian shares that the tunnel that leads into the cellar passes through a cavern filled with **brown mold**, which the Martikovs use to keep the wine stored in the cellar cool. Davian advises the players to stick to the path through the center of the mold, and not to approach, attack, or touch the mold lest it harm them.
-* Second, Davian warns that the druids can conjure the force of thunder to defeat their enemies. If the players fail to swiftly defeat any individual druid they come across, the sound of their thunder might alert the others, summoning them to defend the first. (The same is true for any loud spells that the players might use, so Davian warns them to stay quiet to avoid detection. Davian is reasonably confident, however, that the sound of the storm should help to cover up the sounds of any ordinary combat.)
-* Third, Davian reminds the players that the winery is an old structure built of wood. If any of the players appear to be spellcasters, Davian makes them promise not to set it on fire by mistake “like a bloody flaming fool."
+Если игроки всё ещё готовы войти в винодельню, чтобы победить находящихся внутри друидов, Давиан может дать следующие последние предупреждения:
 
-> [!info]+ **Fire Hazard**
-> The players should be cautious when casting spells such as *fireball* or *lightning bolt* within the winery, both of which expressly set their surroundings on fire. If the players nonetheless set the winery aflame, apply the following rules: 
-> 
-> * Each contiguous collection of ignited squares counts as a single fire. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.) 
-> * When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet. A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage. 
-> * All squares within 10 feet of a fire are heavily obscured by smoke. A creature that starts its turn in the smoke must make a DC 10 Constitution saving throw or be poisoned until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
-> * A creature can use its action and suitable means to extinguish a 5-foot section
+- Во-первых, Давиан сообщает, что туннель, ведущий в подвал, проходит через пещеру, заполненную **бурой плесенью**, которую Мартиковы используют, чтобы поддерживать прохладу в погребе с вином. Давиан советует игрокам держаться в середине и не приближаться к плесени, не атаковать и не прикасаться к ней, чтобы она не причинила им вреда
+- Во-вторых, Давиан предупреждает, что друиды способны призывать силу грома, чтобы побеждать своих врагов. Если игрокам не удастся быстро уничтожить любого отдельного друида, с которым они столкнутся, звук их грома может насторожить остальных, призвав их на защиту первого (то же самое относится к любым громким заклинаниям, которые могут использовать игроки, поэтому Давиан советует им сохранять тишину, чтобы избежать обнаружения. Впрочем, Давиан достаточно уверен, что звук бури должен частично заглушить шум обычного боя)
+- В-третьих, Давиан напоминает игрокам, что винодельня — старое строение, построенное из дерева. Если кто-то из игроков выглядит как заклинатель, Давиан заставляет их пообещать не поджечь её по ошибке «как проклятый дурак»
 
-Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
-### Brown Mold
+> [!info]+ **Пожарная опасность**
+> Игрокам следует быть осторожными при использовании заклинаний вроде _Огненного шара_ или _Молнии_ внутри винодельни, поскольку оба они могут поджечь окружающую обстановку. Если игроки всё же подожгут винодельню, применяйте следующие правила:
+>
+> - Каждая непрерывная область зажжённых клеток считается одним пожаром. На **инициативе 20** каждого раунда для каждого пожара бросьте количество **к4**, равное числу клеток в этом пожаре. За каждую выпавшую 4 загорается дополнительная соседняя клетка (на ваш выбор), которая также становится частью пожара. Зажжённые клетки могут включать как полы, так и стены (зажжённая стена охвачена пламенем с обеих сторон)
+> - Когда огонь распространяется, каждое существо в его области должно совершить **проверку Ловкости Сл 10**. При **успехе** это существо может немедленно переместиться в соседнюю незанятую клетку в пределах **5 футов**. Существо, которое **входит в огонь впервые за ход** или **начинает в нём свой ход**, получает **1к8 урона огнём**
+> - Все клетки в пределах **10 футов** от огня [[ДМовские заметки#Заслонённая область|сильно заслонены]] дымом. Существо, которое **начинает свой ход в дыму**, должно совершить **проверку Телосложения Сл 10** или стать [[ДМовские заметки#Отравление|отравленным]] **до начала своего следующего хода**. Нежить и Конструкты автоматически преуспевают в этой проверке
+> - Существо может **действием** и подходящими средствами потушить участок площадью 5 футов
+
+Давиан также сообщает игрокам о существовании аварийного тайника, который он хранил в винодельне, но не успел забрать, прежде чем друиды изгнали их. Тайник, спрятанный в бочке, ближайшей к северо-западному углу складского помещения на основном этаже винодельни, содержит лечебные припасы и другие предметы, которые могут быть полезны игрокам (Давиан не помнит точно, что он оставил в тайнике, но предлагает игрокам забрать всё его содержимое себе — если, конечно, друиды уже не нашли его и не разграбили)
+
+### Коричневая плесень
 <span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
 Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
 
