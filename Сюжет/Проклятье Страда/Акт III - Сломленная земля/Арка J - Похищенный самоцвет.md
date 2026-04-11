@@ -486,12 +486,12 @@ _Приключение для пяти персонажей 5-го уровня
         <li>2-го уровня (3 ячейки): _Дубовая кожа_, _Тёмное зрение_</li>
     </ul>
     <h3>Действия</h3>
-    <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+    <p><strong><em>Мультиатака.</em></strong> Друид совершает 2 атаки <em>посохом</em></p>
+    <p><strong><em>Посох.</em></strong> <em>Рукопашная атака оружием:</em> +2 к попаданию (+4 с <em>Дубинкой</em>), 5 футов. <em>Попадание:</em> 1к6 дробящего урона, или 1к8, если двумя руками, или 1к8 + 2 с <em>Дубинкой</em></p>
+    <h3>Бонусные действия</h3>
+    <p><strong><em>Скорость гадюки.</em></strong> Друид может наложить заклинание со временем накладывания 1 действие (но не 2 уровневых заклинания за ход)</p>
+    <h3>Реакции</h3>
+    <p><strong><em>Дар Гилтиаса.</em></strong> В ответ на атаку видимого им существа, друид накладывает заклинание <em>Дубовая кора</em>, при условии, что у него есть ячейка заклинания 2-го уровня (это заклинание не требует концентрации, когда накладывается таким образом)</p>
 </div>
 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
