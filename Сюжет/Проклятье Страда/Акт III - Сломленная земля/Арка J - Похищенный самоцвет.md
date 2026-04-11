@@ -520,13 +520,14 @@ _Приключение для пяти персонажей 5-го уровня
 > |4| - | - |
 > |5| [[#Печатный пресс]]|**1 друид нападающий** и **3 вьющихся заразы**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Ни заразы в [[#Погрузочная платформа|Погрузочной платформе]], ни Лоргхот и **большой стрикс** в [[#Погрузочная лебёдка|Погрузочной лебёдке]] не покидают своих позиций, если поднята тревога, предпочитая вместо этого заботиться о **молодом дереве Галтиас**, растущем там
 > 
-> If the druid and blights in the cellar are alerted by loud or explosive sounds from [[#Fermentation Vats]], the needle blights join the combat after two rounds, and the druid joins the combat after three rounds. If the fighting is taking place elsewhere in the winery, increase the number of rounds by one each.
+> Если **друид** и **заразы** в подвале предупреждены громкими или взрывными звуками из [[#Бродильные чаны|Бродильных чанов]], **игольчатые заразы** присоединяются к бою **через 2 раунда**, а **друид** — **через 3 раунда**. Если бой происходит в другом месте винодельни, увеличьте это количество раундов на 1
 
-The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
+Плющ, покрывающий винные стойки, — это особенно опасный вид плотоядной бритвенной лозы, называемой **ядовитая бритвенная лоза**. Каждое скопление ядовитой бритвенной лозы имеет **КД 11**, **25 хитов** и **иммунитет** к **дробящему**, **колющему** и **психическому урону**
 
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
+Когда существо, отличное от **заразы**, **друида-натуралиста** или **друида-нападающего**, оказывается в пределах **5 футов** от зарослей или **начинает там свой ход**, бритвенная лоза хлещет по нему, как кнут. Это существо совершает **спасбросок Ловкости Сл 10**, получая **1к10 рубящего урона** от её лезвиеподобных шипов при **провале**. При **провале** оно также [[ДМовские заметки#Захват|схвачено]] (**высвобождение Сл 10**) и совершает **спасбросок Телосложения Сл 10**, иначе [[ДМовские заметки#Отравление|отравлено]] **до начала своего следующего хода**
+
 ## J3c. Ascending the Stairs
 The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
@@ -781,7 +782,7 @@ If the players free the ravens from their cages, they join the party as a **swar
 
 ## J3d. The First Floor
 The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
-### Loading Dock
+### Погрузочная платформа
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
 Revise the description of this area to read as follows:
@@ -839,7 +840,7 @@ The room containing the Martikovs’ printing press is largely as described in <
 > | Druid Assailant | 1 | 1 | 1 | 1 |
 > | Vine Blight | 1 | 2 | 3 | 4 |
 
-### Loading Winch
+### Погрузочная лебёдка
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
 This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
