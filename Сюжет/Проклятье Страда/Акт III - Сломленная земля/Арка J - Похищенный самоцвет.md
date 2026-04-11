@@ -418,48 +418,47 @@ _Приключение для пяти персонажей 5-го уровня
 
 Зуб рассеивается в ледяной туман, если используется любое из этих свойств
 
-## J3b. Into the Winery
-<span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
+## J3b. На винодельню
+Эта сцена происходит в главе 12, области W14
 
-The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
+>[!read]
+> Деревянные колонны и балки поддерживают потолок высотой 10 футов в этом необычно тёплом подвале, который разделён пополам кирпичной стеной толщиной 5 футов. Густой влажный туман стелется по полу, пересечённому мелкими чёрными корнями
 
-<div class="description">
-<p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
-</div>
+Когда игроки входят в подвал, прочитайте:
 
-As the players step into the cellar, read:
+>[!read]
+> Каждая половина подвала оснащена 2,5-метровой деревянной перегородкой, которая одновременно служит винной стойкой. Западная стойка пуста, а восточная заполнена наполовину винными бутылками. Обе стойки покрыты густыми, душащими зарослями лоз, переплетёнными с побегами зелёного плюща с кроваво-красными пятнами и острыми, зловещими шипами
+>
+> Вы видите несколько силуэтов, движущихся за восточной стойкой, включая один с полными оленьими рогами
 
-<div class="description">
-<p>Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half-filled with wine bottles. Both racks are covered by a thick, choking tangle of vines, interwoven with strands of green ivy bearing blood-red spots and sharp, wicked thorns.</p>
-<p>You see several silhouettes move behind the eastern rack—including one with a full rack of antlers.</p>
-</div>
+> [!lore]+ **Друидические украшения**
+> Друиды и **берсерки** Лесного народа узнаются по звериным шкурам и деревянным украшениям, которые они носят, а также по кроваво-красной краске, которой они раскрашивают свои тела. **Друиды-натуралисты** используют её, чтобы рисовать кольца вокруг глаз, тогда как **друиды-нападающие** рисуют вампирские клыки под губами. **Берсерки** Лесного народа используют эту краску, чтобы изображать кольца из шипов вокруг предплечий и голеней. Некоторые имеют татуировки драконов
+>
+> Все они носят красные повязки, которыми закрывают нижнюю часть лица, которые снимают при намерении убить. У них заточенные острые зубы
 
-> [!lore]+ **Druidic Decorations**
-> The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid assailants** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
+Игрок, который осматривает корни, легко может определить, что они, по-видимому, исходят с верхних этажей винодельни
 
-A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
-
-The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
+Силуэт с рогами, который стоит ближе всего к входу игроков, является **друидом-нападающим**, и его сопровождают **8 игольчатых заразы**. Если игроки двигаются тихо, они могут попытаться прокрасться мимо или устроить засаду на друида и заразу (однако, поскольку у зараз есть слепое зрение, заклинание _Невидимость_ и подобная магия не помогут скрыть игроков от их восприятия)
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
-    <em>Medium human, neutral evil</em>
+    <h2>Друид нападающий</h2>
+    <em>Средний гуманоид, нейтрально-злой</em>
     <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
+    <strong>КД</strong> 11 (16 с <em>Дубовой кожей</em>)
     <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
+    <strong>Хиты</strong> 55 (10к8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Скорость</strong> 30 футов
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>Сил</th>
+                <th>Лов</th>
+                <th>Тел</th>
+                <th>Инт</th>
+                <th>Мдр</th>
+                <th>Хар</th>
             </tr>
         </thead>
         <tbody>
@@ -474,19 +473,19 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Навыки</strong> Медицина +4, Природа +3, Восприятие +4<br>
+    <strong>Чувства</strong> пассивное Восприятие 14<br>
+    <strong>Языки</strong> Друидический andи Общий<br>
+    <strong>ПО</strong> 2<br>
+    <strong>БМ</strong> +2
     <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
+    <p><strong><em>Заклинательство.</em></strong> Заклинатель 4-го уровня. Мудрость (Сл 12, +4 к атакам заклинаниями)</p>
     <ul>
-        <li>Cantrips (at will): produce flame, shillelagh, thorn whip</li>
-        <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, darkvision</li>
+        <li>Заговоры: _Сотворение пламени_, _Дубинка_, _Терновый кнут_</li>
+        <li>1-го уровня (4 ячейки): _Огонь фей_, _Скороход_, _Разговор с животными_, _Волна грома_</li>
+        <li>2-го уровня (3 ячейки): _Дубовая кожа_, _Тёмное зрение_</li>
     </ul>
-    <h3>Actions</h3>
+    <h3>Действия</h3>
     <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
     <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
     <h3>Bonus Actions</h3>
