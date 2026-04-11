@@ -391,33 +391,33 @@ _Приключение для пяти персонажей 5-го уровня
 Давиан также сообщает игрокам о существовании аварийного тайника, который он хранил в винодельне, но не успел забрать, прежде чем друиды изгнали их. Тайник, спрятанный в бочке, ближайшей к северо-западному углу складского помещения на основном этаже винодельни, содержит лечебные припасы и другие предметы, которые могут быть полезны игрокам (Давиан не помнит точно, что он оставил в тайнике, но предлагает игрокам забрать всё его содержимое себе — если, конечно, друиды уже не нашли его и не разграбили)
 
 ### Коричневая плесень
-<span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
-Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
+Эта сцена происходит в главе 12, области W15
 
-As the players pass through the tunnel, read:
+Как только игроки будут готовы отправляться, Муриэль подходит к ним и желает удачи (она не будет сопровождать их в винодельню, решив остаться в пещере, чтобы защитить Мартиковов, если возникнут какие-либо проблемы)
 
-<div class="description">
-<p>The tunnel marches silently through the earth, a thin veil of mist clinging to the ground as it delves deeper into the darkness. The further you travel, the colder it gets, your breath misting on the air. Moisture pooling in the tunnel's nooks and crannies gradually gives way to patches of ice, their brittle surfaces splintering and crunching under your boots.</p>
-<p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
-</div>
+Когда игроки проходят через туннель, прочитайте:
 
-This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
+>[!read]
+> Туннель бесшумно проходит сквозь землю, тонкая пелена тумана стелется по земле, по мере того как он уходит всё глубже в темноту. Чем дальше вы идёте, тем холоднее становится, ваше дыхание превращается в пар в воздухе. Влага, скапливающаяся в нишах и трещинах туннеля, постепенно сменяется участками льда, их хрупкие поверхности трескаются и хрустят под вашими сапогами
+>
+> Туннель вскоре открывается в неглубокую, промёрзшую пещеру. Толстый слой бурой плесени покрывает стены, пол и потолок, его поверхность прерывается лишь узкой грунтовой тропой, которая пересекает пол и ведёт к тёмной каменной арке на противоположном конце
 
-<div class="description">
-<p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
-<p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
-</div>
+>[!Бурая плесень]
+> Каменная арка переходит в каменный туннель, который, по-видимому, заканчивается глухой кирпичной стеной в 15 футах впереди
+>
+> **Бурая плесень** заполнила этот тесный коридор. Более свежие её отростки покрывают пол, стены и потолок вокруг него — за исключением одного места. Неподалёку в туннеле на ржавом железном крюке висит небольшая деревянная коробка, покрытая старой облупившейся краской. Коробка окрашена в бледный, холодный синий цвет, а на её боку вырезан узор снежинки. Вокруг коробки есть шестидюймовая полоса голой стены, где нет ни единой споры плесени.
 
-The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
+Игроки не могут безопасно продвинуться дальше по туннелю, не уничтожив бурую плесень, которая его перекрывает. Игрок, преуспевший в **проверке Природы Сл 10**, вспоминает информацию о **бурой плесени** и узнаёт сведения, описанные [[ДМовские заметки#Бурая плесень|здесь]]
 
-A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
+Игрок, который накладывает _Обнаружение магии_, замечает, что 3 небольших предмета в коробке мерцают магией _Преобразования_. Если игроки извлекут коробку — которая закреплена на стене в 5 футах дальше по коридору — магическим или иным способом, они обнаруживают, что внутри находятся 3 зуба **зимнего волка**, каждый длиной 15 см, холодные на ощупь и покрытые сложными руническими надписями (эти зубы были добыты, вырезаны и зачарованы Горным народом, который продал их Давиану много лет назад)
 
-A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter wolves.** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
+Игрок, преуспевший в **проверке Природы Сл 15**, определяет, что зубы принадлежат одному или нескольким **зимним волкам**. Игрок, желающий определить свойства зуба, должен изучать его **1 минуту** и совершить **проверку Магии Сл 10**, автоматически преуспевая, если тратит **10 минут** . При **успехе** игрок узнаёт, что зуб обладает следующими свойствами:
 
-* A creature can use their action to pierce their stomach with the tooth. That creature can then immediately exhale a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-* A creature can use their action to pierce their bicep with the tooth. That creature gains immunity to cold damage for 1 minute.
+- Существо может **действием** пронзить себе живот этим зубом. После этого оно может немедленно выдохнуть поток ледяного ветра в **конусе 15 футов**. Каждое существо в этой области совершает **проверку Ловкости Сл 12**, получая **4к8 урона холодом** при **провале** или **половину** при **успехе**
+- Существо может **действием** пронзить себе бицепс этим зубом. После этого оно получает **иммунитет к урону холодом** на **1 минуту**
 
-The tooth dissipates into frigid mist if either of these properties are used.
+Зуб рассеивается в ледяной туман, если используется любое из этих свойств
+
 ## J3b. Into the Winery
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
 
