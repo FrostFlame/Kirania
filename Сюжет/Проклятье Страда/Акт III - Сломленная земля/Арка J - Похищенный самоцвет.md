@@ -323,26 +323,24 @@ _Приключение для пяти персонажей 5-го уровня
 
 Давиан приветствует Муриэль с очевидной фамильярностью, затем грубо требует от игроков назвать себя и объяснить своё присутствие. Если ему сообщают, что игроков прислал Урвин Мартиков, Давиан фыркает и насмешливо отзывается о «наглости этого грубияна»
 
-Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
+Давиан коротко представляет каждого члена семьи, если его об этом спрашивают. Он также готов сухо подтвердить, что Урвин Мартиков — его сын, однако отказывается говорить что-либо ещё об их отношениях
 
-Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that Urwin Martikov is his son, though refuses to speak further of their relationship.
-### Davian’s Request
-Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
+### Просьба Давиана
 
-* Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
-* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
-* Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
+Узнав, что игроков отправили расследовать задержку поставок вина, Давиан с готовностью делится следующей информацией:
 
-A DC 12 Wisdom (Insight) check suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Wisdom (Insight) check reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
+- За 3 дня до того, как игроки получили просьбу Урвина (см. [[#J1a. Просьба Урвина]] выше), 4 друида Лесного народа вторглись в Винный Волшебник и изгнали Мартиковых. Давиан и его семья с тех пор скрываются в этой тайной пещере
+- Друидов сопровождают несколько десятков зараз, созданных Древом Галтиас на Холме Былого, а также **больших стрикса**, созданных болотной ведьмой Бабой Лисягой, обитающей в Березе. Стриксы патрулируют небеса, не позволяя Мартиковым сбежать
+- Давиан не до конца уверен, почему друиды напали на винодельню, почему они всё ещё находятся внутри и почему Баба Лисяга им помогает
 
-Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
+**Проверка Проницательности Сл 12** позволяет предположить, что Давиан может знать больше, чем говорит, но он упорно отказывается объяснять что-либо дальше, лишь замечая: ***«Холм Былого недалеко отсюда. Лесной народ уже много лет — отвратительные соседи, и мы не стеснялись давать им это понять. Похоже, это их месть»***. Вторая **проверка Проницательности Сл 12** показывает, что он говорит не всю правду. Если его прижать, Давиан раздражённо обещает отдать игрокам «всю чёртову учётную книгу» семьи, если они сначала избавятся от друидов
 
-* There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
-* The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
-* The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
+Давиан приветствует помощь игроков в победе над друидами. Если игроки соглашаются на это, Давиан может поделиться следующей дополнительной информацией:
 
-> [!info]+ **Balancing the Winery**
-> If you are rebalancing the Wizard of Wines for parties of larger or smaller size (see encounter-balancing callouts below), make sure to adjust Davian's information accordingly.
+- В винодельне находятся 4 друида, **8 игольчатых зараз**, **8 вьющихся зараз** и несколько десятков **ветвистых зараз**. Небо над винодельней охраняют 3 патрулирующих **старших стрикса**, а виноградник охраняют слишком многочисленные, чтобы сосчитать, **игольчатые заразы**
+- Лидер друидов носит странный магический посох, который, по-видимому, является источником силы зараз и средством, с помощью которого друиды ими управляют. Если игрокам удастся получить этот посох и сломать его, орды зараз в винограднике (а также любые другие заразы в винодельне), вероятно, будут значительно ослаблены, если не уничтожены полностью.
+- Самый безопасный путь в Винный Волшебник — подземный туннель, который ведёт из этой пещеры и выходит через секретную дверь в подвал винодельни. Оттуда игрокам придётся пробираться скрытно или с боем наверх, пока они не найдут друида с магическим посохом
+
 ### Elvir’s Rage
 When Davian has given the players their mission, Claudiu mutters—just loudly enough to be heard—“What does it matter? They’re just going to die, anyway."
 
