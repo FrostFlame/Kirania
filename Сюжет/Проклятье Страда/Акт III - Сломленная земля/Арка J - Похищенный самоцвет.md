@@ -743,20 +743,23 @@ _**Веха.**_ Освобождение винодельни считается
 > [!info]+ **Очищение небес**
 > Стриксы являются ограниченным ресурсом и требуют как времени, так и ресурсов, чтобы создать новых. Победа над **большим стриксом**, защищающим Лоргота, очищает небо для Хранителей Пера и их воронов, позволяя им снова летать, по крайней мере временно
 
-# J4. The Path to Yester Hill
-If the players agree to travel to Yester Hill the following morning, Muriel wakes them two hours before dawn. 
+# J4. Путь к Холму Былого
 
-After asking the players whether they had a good night’s rest, Muriel quietly informs them that she’ll need to make a quick detour en route to Yester Hill to meet with a contact she has in the area—a man named Kavan. While she can’t be sure, she has reason to believe that Kavan might have more information about the druids’ plans and defenses. 
+Если игроки соглашаются отправиться на Холм Былого следующим утром, Муриэль будит их за 2 часа до рассвета
 
-If the players appear receptive, Muriel asks them to promise not to share this detour with Davian, who she believes would likely disapprove. She’s reluctant to provide more information than that, promising only that Kavan is neither dangerous nor a servant of Strahd, and that she’ll share more when they meet him. 
+После того как Муриэль спрашивает игроков, хорошо ли они отдохнули ночью, она тихо сообщает им, что ей нужно будет сделать небольшой крюк по пути к Холму Былого, чтобы встретиться со своим контактом в этом районе — человеком по имени Каван. Хотя она не может быть уверена, у неё есть основания полагать, что Каван может располагать дополнительной информацией о планах и защите друидов
 
-If pressed, Muriel shares only that Kavan is a spirit that dwells in the Svalich Wood, and that she intends to summon and speak with him as she has multiple times before. (Muriel doesn’t know Kavan’s history, nor his relationship to the druids, and can’t read the inscription on his cairn.)
+Если игроки согласны, Муриэль просит их пообещать не рассказывать о этом крюке Дэвиану, который, как она считает, скорее всего, это не одобрит. Она неохотно делится какой-либо дополнительной информацией, обещая лишь, что Каван не опасен и не является слугой Страда, и что она расскажет больше, когда они встретятся с ним
 
-The journey from the Wizard of Wines to Yester Hill is 2.5 miles and 50 minutes long. As the players set off, read:
+Если на неё надавить, Муриэль делится лишь тем, что Каван — это дух, обитающий в Сваличском лесу, и что она намерена призвать его и поговорить с ним, как делала это уже несколько раз прежде (Муриэль не знает истории Кавана, его связи с друидами и не может прочитать надпись на его кургане)
 
-<div class="description"> 
-<p>A thin, chilling mist curls through the vineyard, twisting around your ankles as you set off from the winery toward the main path. You head south, cold moonlight filtering in from the lower clouds and casting long shadows across the loamy earth. </p>
-<p>The velvet cloak of the night sky rests silently overhead, but it's soon swallowed by the gnarled canopy of the Svalich Wood, whose long, dark branches reach over the path like skeletal limbs. The mist is thicker here, the air crisp and chill, and a palpable silence seems to envelop the entirety of the wood. The quiet is only occasionally broken by the snap of a twig underfoot, the squelch of mud beneath your boots, or the distant hoot of a mournful owl.</p>
+Путь от Винного Волшебника до Холма Былого составляет 4 км и занимает 50 минут. Когда игроки отправляются в путь, зачитайте:
+
+>[!read]
+> Тонкий, пронизывающий туман стелется среди виноградников, обвиваясь вокруг ваших лодыжек, когда вы покидаете винодельню и выходите на главную дорогу. Вы направляетесь на юг, холодный лунный свет пробивается сквозь низкие облака и отбрасывает длинные тени на рыхлую землю
+>
+> Бархатный покров ночного неба тихо раскинулся над вами, но вскоре его поглощает искривлённый полог Сваличского леса, чьи длинные тёмные ветви нависают над тропой, словно костлявые конечности. Туман здесь гуще, воздух прохладный и обжигающий, и плотная тишина словно бы окутывает весь лес. Покой лишь изредка нарушается треском ветки под ногой, чавканьем грязи под сапогами или далёким уханьем печальной совы
+
 </div>
 
 As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
