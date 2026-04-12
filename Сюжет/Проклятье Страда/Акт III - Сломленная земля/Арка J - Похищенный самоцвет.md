@@ -610,11 +610,10 @@ _Эта сцена происходит в Главе 12, область W2_
 > **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 22%
 
+3 бочки, стоящие в северо-восточном, юго-восточном и северо-западном углах комнаты покрыты побегами **ядовитой бритволозы**
 
+Когда существо, не являющееся заразой, **друидом натуралистом** или **друидом-нападающим**, перемещается в пределах **5 футов** от зарослей или начинает там свой ход, бритволоза хлещет по нему, как кнут. Это существо совершает **спасбросок Ловкости Сл 10** или получает **1к10 рубящего урона** от лезвенно-острых шипов бритволозы. При **провале** существо также становится [[ДМовские заметки#Опутанный|опутанным]] (освобождение **Сл 10**) и должно преуспеть в **спасброске Телосложения Сл 10** или становится [[ДМовские заметки#Отравление|отравленным]] **до начала своего следующего хода**
 
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
-
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ### Barrel Storage
 <span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
 
