@@ -595,22 +595,24 @@ _Приключение для пяти персонажей 5-го уровня
 >[!Шепчущая стена]
 > Стена тумана всегда стояла близ Холма Былого, даже до того, как смертоносный туман окружил долину. Она названа Шепчущей стеной, потому что внутри того тумана можно услышать шёпот голосов из прошлого и будущего. Считается, что древняя богиня пожертвовала своей божественностью, чтобы сохранить мир от разрушения, и своим последним вздохом в качестве бога, она создала тот туман. Внутри него были все её воспоминания о мире и все её видения его возможного будущего, и с соответствующей подготовкой к ним, искатель может отправиться туда за видениями
 
-Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
+Сильвия приглашает игроков подойти к запертому в клетке ворону и увидеть «метку ночи» на его груди, которой отмечены все слуги Страда. (Это уловка, призванная выманить игроков на открытое место. Игрок, преуспев в **проверке Проницательности Сл 10**, замечает, что глаза Сильвии на мгновение устремляются к ветвистым заразам вокруг неё, когда она просит игроков подойти)
 
-> [!info]+ **The Broken Spigot**
-> The fermentation vat to the immediate west of the central staircase of <span class="citation">W9. Fermentation Vats (p. 176)</span> has a damaged spigot. The first time that a player approaches it, read:
-> 
+> [!info]+ **Сломанный кран**
+> Чан с брагой непосредственно к западу от центральной лестницы W9. Чаны с брагой (p. 176) имеет повреждённый кран. Когда игрок впервые подходит к нему, прочитайте:
+>
 > <hr>
 > 
-> The wood of this vat bulges out around a badly dented spigot, the splintered wood straining against the weight of the contents within. A thin line of red, sweet-smelling wine leaks from a small gap where the spigot meets the wood, pooling on the ground two feet below.
-> 
+> Древесина этого чана вздулась вокруг сильно помятого крана, расколотое дерево с трудом выдерживает вес содержимого внутри. Тонкая струйка красного, сладко пахнущего вина сочится из небольшого зазора там, где кран соединяется с деревом, скапливаясь на земле в двух футах ниже.
+>
 > <hr>
 > 
-> In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
+> В текущем состоянии повреждённый кран имеет **КД 10**, **5 хитов** и **иммунитет** к **колющему урону**, **ядом** и **психическому**. Если **хиты крана** опускаются до **0** или если существо преуспевает в **проверке Силы Сл 10**, чтобы сломать кран, находясь в пределах **5 футов**, чан разрывается и выпускает волну вина, которая обрушивается на всех существ в **кубе 15 футов** к северу от чана
 > 
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat, is knocked prone, and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the swarm of twig blights, must also make the saving throw.) On a successful save, the creature takes half as much damage, and is not pushed or knocked prone.
+> Когда это происходит, каждое Маленькое и меньше существо в **кубе** совершает **спасбросок Силы Сл 15**. При **провале** оно **отбрасывается на 15 футов** от чана, [[ДМовские заметки#Опрокинутый|опрокидывается]] и получает **2к6 дробящего урона**. (Рой существ Маленького размера или меньше, например рой ветвистых зараз, также должен совершить этот **спасбросок**.) При **успехе** существо получает **половину урона**, не отбрасывается и не опрокидывается
 > 
-> Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
+> После того как чан разрывается, вся земля в пределах **20-футового радиуса** становится **труднопроходимой местностью**, пока вино не будет убрано
+
+
 
 Silvia attacks if the players approach the cage, refuse her invitation, or attack her first. 
 
