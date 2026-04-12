@@ -585,8 +585,10 @@ _Приключение для пяти персонажей 5-го уровня
 
 Если игроки освобождают воронов из клеток, они присоединяются к группе как **рой воронов**, во главе с вороном, которого пытала Сильвия
 
-## J3d. The First Floor
-The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
+## J3d. Первый этаж
+
+Первый этаж винодельни в основном соответствует описанию в W2. Погрузочная платформа (p. 176), W3. Мастерская бондаря (p. 176), W4. Кладовая бочек (p. 176), W5. Веранда (p. 176) и W8. Кладовая (p. 176). 2 упряжные лошади Мартиковых оказались заперты в W1. Стойла (p. 176) густыми зарослями ядовитой бритволозы (см. выше), покрывающими двери
+
 ### Погрузочная платформа
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
