@@ -29,7 +29,7 @@ _Приключение для пяти персонажей 5-го уровня
 - [ ] 2 друида нападающих
 - [ ] 1 друид натуралист
 - [ ] 1 древняя ветвистая зараза (?)
-- [ ] 
+- [ ] 1 рой воронов
 
 # J1. Таверна Синяя Вода
 ### J1a. Просьба Урвина
@@ -446,62 +446,7 @@ _Приключение для пяти персонажей 5-го уровня
 
 Игрок, который осматривает корни, легко может определить, что они, по-видимому, исходят с верхних этажей винодельни
 
-Силуэт с рогами, который стоит ближе всего к входу игроков, является **друидом-нападающим**, и его сопровождают **6 игольчатых зараз**. Если игроки двигаются тихо, они могут попытаться прокрасться мимо или устроить засаду на друида и заразу (однако, поскольку у зараз есть слепое зрение, заклинание _Невидимость_ и подобная магия не помогут скрыть игроков от их восприятия)
-
-<div class="statblock">
-    <h2>Друид нападающий</h2>
-    <em>Средний гуманоид, нейтрально-злой</em>
-    <hr>
-    <strong>КД</strong> 11 (16 с <em>Дубовой кожей</em>)
-    <br>
-    <strong>Хиты</strong> 55 (10к8 + 10)
-    <br>
-    <strong>Скорость</strong> 30 футов
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>Сил</th>
-                <th>Лов</th>
-                <th>Тел</th>
-                <th>Инт</th>
-                <th>Мдр</th>
-                <th>Хар</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-                <td>13 (+1)</td>
-                <td>12 (+1)</td>
-                <td>15 (+2)</td>
-                <td>11 (+0)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Навыки</strong> Медицина +4, Природа +3, Восприятие +4<br>
-    <strong>Чувства</strong> пассивное Восприятие 14<br>
-    <strong>Языки</strong> Друидический andи Общий<br>
-    <strong>ПО</strong> 2<br>
-    <strong>БМ</strong> +2
-    <hr>
-    <p><strong><em>Заклинательство.</em></strong> Заклинатель 4-го уровня. Мудрость (Сл 12, +4 к атакам заклинаниями)</p>
-    <ul>
-        <li>Заговоры: _Сотворение пламени_, _Дубинка_, _Терновый кнут_</li>
-        <li>1-го уровня (4 ячейки): _Огонь фей_, _Скороход_, _Разговор с животными_, _Волна грома_</li>
-        <li>2-го уровня (3 ячейки): _Дубовая кожа_, _Тёмное зрение_</li>
-    </ul>
-    <h3>Действия</h3>
-    <p><strong><em>Мультиатака.</em></strong> Друид совершает 2 атаки <em>посохом</em></p>
-    <p><strong><em>Посох.</em></strong> <em>Рукопашная атака оружием:</em> +2 к попаданию (+4 с <em>Дубинкой</em>), 5 футов. <em>Попадание:</em> 1к6 дробящего урона, или 1к8, если двумя руками, или 1к8 + 2 с <em>Дубинкой</em></p>
-    <h3>Бонусные действия</h3>
-    <p><strong><em>Скорость гадюки.</em></strong> Друид может наложить заклинание со временем накладывания 1 действие (но не 2 уровневых заклинания за ход)</p>
-    <h3>Реакции</h3>
-    <p><strong><em>Дар Гилтиаса.</em></strong> В ответ на атаку видимого им существа, друид накладывает заклинание <em>Дубовая кора</em>, при условии, что у него есть ячейка заклинания 2-го уровня (это заклинание не требует концентрации, когда накладывается таким образом)</p>
-</div>
----
+Силуэт с рогами, который стоит ближе всего к входу игроков, является [[Друид нападающий|друидом-нападающим]], и его сопровождают **6 игольчатых зараз**. Если игроки двигаются тихо, они могут попытаться прокрасться мимо или устроить засаду на друида и заразу (однако, поскольку у зараз есть слепое зрение, заклинание _Невидимость_ и подобная магия не помогут скрыть игроков от их восприятия)
 
 Друид и заразы атакуют, как только замечают врагов. В свой первый ход в бою друид использует свою способность _**скорость гадюки**_, чтобы **бонусным действием** наложить заклинание _Огонь фей_, после чего совершает _**мультиатаку**_ действием. Во второй ход друид накладывает _Волну грома_ 2-го уровня бонусным действием, после чего совершает дополнительную _**мультиатаку**_ действием
 
@@ -612,100 +557,33 @@ _Приключение для пяти персонажей 5-го уровня
 > 
 > После того как чан разрывается, вся земля в пределах **20-футового радиуса** становится **труднопроходимой местностью**, пока вино не будет убрано
 
+Сильвия атакует, если игроки подходят к клетке, отвергают её приглашение или первыми нападают на неё
 
+- В свой первый ход в бою она использует своё умение _**Скорость гадюки**_, чтобы сотворить заклинание _Опутывание_ **бонусным действием**, а затем — заговор действием
+- Во второй ход она накладывает _Волну грома_ 2-го уровня **бонусным действием**
 
-Silvia attacks if the players approach the cage, refuse her invitation, or attack her first. 
-
-* On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
-* On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
-
-> [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> [!info]+ **Привлечение внимания друидов**
+> Если друид или игрок накладывает заклинание — например, _Волна грома_, _Дребезги_ или _Огненный шар_ — достаточно громкое и взрывное, чтобы привлечь внимание других друидов на винодельне, друиды и порождения из верхних этажей присоединяются к бою, как указано ниже:
+>
 > 
-> | No. of Rounds Later | Origin | Creatures |
-> | :---:|:----:|:---|
-> |1| - |None|
-> |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> | Задержка в раундах | Источник | Существа |
+> | :---:|:----:|:---:|
+> |1| - | - |
+> |2| [[#Печатный пресс]]|**1 друид нападающий** и **3 вьющихся заразы**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Ни заразы в [[#Погрузочная платформа|Погрузочной платформе]], ни Лоргхот и **большой стрикс** в [[#Погрузочная лебёдка|Погрузочной лебёдке]] не покидают своих позиций, если поднята тревога, предпочитая вместо этого ухаживать за **молодым деревом Галтиас**, растущим там
 
-> [!combat]- **Combat - The Vat Room**  
+> [!combat]- **Бой - Чаны с брагой**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 33%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Druid Assailant | 1 | 1 | 1 | 1 |
-> | Druid Naturalist | 1 | 1 | 1 | 1 |
-> | Elder Twig Blight | 0 | 1 | 2 | 2 |
-> | Swarm of Twig Blights | 2 | 2 | 2 | 3 |
-> | Twig Blight | 2 | 0 | 0 | 0 |
-> | Vine Blight | 3 | 3 | 3 | 3 |
 
-Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
+Поскольку она ранее наложила _Разговор с животными_, у Сильвии остаётся только 3 ячейки заклинаний 1-го уровня в начале боя
 
-As she dies, Silvia laughs and warns the players, “You may defeat us—but Wintersplinter is coming."        
+Когда она умирает, Сильвия смеётся и предупреждает игроков: ***«Вы можете победить нас — но Зимнедрево идёт»***
 
-If the players free the ravens from their cages, they join the party as a **swarm of ravens**, led by the raven that Silvia was torturing.
-
-<div class="statblock">
-    <h2>Druid Naturalist</h2>
-    <em>Medium human, neutral evil</em>
-    <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
-    <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
-    <br>
-    <strong>Speed</strong> 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-                <td>13 (+1)</td>
-                <td>12 (+1)</td>
-                <td>15 (+2)</td>
-                <td>11 (+0)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
-    <ul>
-        <li>Cantrips (at will): gust, infestation, produce flame</li>
-        <li>1st level (4 slots): entangle, fog cloud, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, moonbeam</li>
-    </ul>
-    <h3>Actions</h3>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
-</div>
-
-<br>
+Если игроки освобождают воронов из клеток, они присоединяются к группе как **рой воронов**, во главе с вороном, которого пытала Сильвия
 
 <div class="statblock">
     <h2>Elder Twig Blight</h2>
