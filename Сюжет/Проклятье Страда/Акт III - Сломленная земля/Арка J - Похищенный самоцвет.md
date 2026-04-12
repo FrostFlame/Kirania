@@ -28,7 +28,7 @@ _Приключение для пяти персонажей 5-го уровня
 - [ ] 2 роя ветвистых зараз
 - [ ] 2 друида нападающих
 - [ ] 1 друид натуралист
-- [ ] 2 древние ветвистые заразы (?)
+- [ ] 1 древняя ветвистая зараза (?)
 - [ ] 
 
 # J1. Таверна Синяя Вода
@@ -446,7 +446,7 @@ _Приключение для пяти персонажей 5-го уровня
 
 Игрок, который осматривает корни, легко может определить, что они, по-видимому, исходят с верхних этажей винодельни
 
-Силуэт с рогами, который стоит ближе всего к входу игроков, является **друидом-нападающим**, и его сопровождают **6 игольчатых заразы**. Если игроки двигаются тихо, они могут попытаться прокрасться мимо или устроить засаду на друида и заразу (однако, поскольку у зараз есть слепое зрение, заклинание _Невидимость_ и подобная магия не помогут скрыть игроков от их восприятия)
+Силуэт с рогами, который стоит ближе всего к входу игроков, является **друидом-нападающим**, и его сопровождают **6 игольчатых зараз**. Если игроки двигаются тихо, они могут попытаться прокрасться мимо или устроить засаду на друида и заразу (однако, поскольку у зараз есть слепое зрение, заклинание _Невидимость_ и подобная магия не помогут скрыть игроков от их восприятия)
 
 <div class="statblock">
     <h2>Друид нападающий</h2>
@@ -518,7 +518,7 @@ _Приключение для пяти персонажей 5-го уровня
 > | :---:|:----:|:---:|
 > |1| - | - |
 > |2|[[#Чаны с брагой]]|**2 роя ветвистых зараз**|
-> |3|[[#Чаны с брагой]]|**1 друид натуралист** и **2 древних ветвистых заразы**|
+> |3|[[#Чаны с брагой]]|**1 друид натуралист** и **древняя ветвистая зараза**|
 > |4| - | - |
 > |5| [[#Печатный пресс]]|**1 друид нападающий** и **3 вьющихся заразы**|
 > 
@@ -561,29 +561,30 @@ _Приключение для пяти персонажей 5-го уровня
 Если игроки вошли сюда из W10. Мастерская стеклодува или полностью вошли в помещение, также прочитайте следующий текст:
 
 >[!read]
-> 
+> Под наклонной крышей тянутся толстые стропила, с которых свисают 6 деревянных клеток, расположенных рядом друг с другом. В каждой клетке находится более дюжины воронов, тесно прижатых друг к другу, почти без возможности двигаться или дышать. У большинства воронов есть порезы или сломанные клювы, и у всех отсутствуют перья
+>
+> Дикая на вид женщина стоит на западном балконе рядом с самой левой клеткой, окружённая роем почти из двух дюжин маленьких существ, похожих на ветки. В руке она держит длинный, узловатый жезл. Она одета в юбку, сшитую из шкур животных, незастёгнутую жилетку из шкур и головной убор с козьими рогами. В контраст с этим диким видом, на её пальцах множество драгоценных колец, на её левой руке золотой браслет, а на её груди множество ожерелий
+>
+> Существо, похожее на ветки и чуть крупнее остальных, цепляется за стороны деревянной клетки перед ней, просовывая свои острые, заострённые руки сквозь прутья. Женщина кивает, и существо пронзает бока потрёпанного на вид ворона, который снова кричит от беспомощной агонии
 
-<div class="description">
-<p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
-<p>A wild-looking female figure stands on the western balcony beside the leftmost cage, surrounded by a swarm of nearly two-dozen small, twiglike creatures. She holds a long, gnarled wand in her hand, and wears a gown made of animal skins and a headdress with goat horns. </p>
-<p>Two twiglike creatures, slightly larger than the others, cling to the sides of the wooden cage before her, their sharp, pointed arms pushed through the bars of the cage. The woman nods, and the creatures pierce the sides of a battered-looking raven, which screams again in helpless agony.</p>
-</div>
+Женщина — **друид-натуралист** и её окружают **2 роя ветвистых зараз**. Существо, цепляющееся за клетку, — **древняя ветвистая зараза**
 
-The woman is a **druid naturalist** (see statistics below) and is surrounded by two **swarms of twig blights**. The two creatures clinging to the cage are **elder twig blights**. 
-
-> [!abstract]+ **The Raven's Interrogation**
-> If the players linger and remain undetected, they can hear the druid (using the spell *speak with animals*) speak to the battered raven with a series of caws and clicks. A player who uses similar magic to understand the speech of ravens hears the following conversation:
-> 
+> [!abstract]+ **Допрос ворона**
+> Если игроки задерживаются и остаются незамеченными, они могут услышать, как друидка (используя заклинание _Разговор с животными_) обращается к потрёпанному ворону при помощи серии карканий и щелчков. Игрок, использующий подобную магию, чтобы понимать речь воронов, слышит следующий разговор:
+>
 > <hr>
 > 
-> The druid hisses. “Where is it?" she asks. “Give it up, and your torment will end."
+> Друидка шипит: ***«Где он?»*** — спрашивает она. ***«Отдай его, и твои мучения закончатся»***
+>
+> Ворон слабо каркает, кровь капает из ран на его груди. ***«То, что ты ищешь, было потеряно давным-давно. Ты никогда его не найдёшь»***
 > 
-> The raven cackles weakly, blood dripping from the corkscrew wounds upon its breast. “The thing you seek was lost long ago. You will never find it."
-> 
-> The druid snarls, baring her teeth. “Liar!" She turns to the twig creatures and speaks two words in a strange language. The creatures incline their heads, then turn to pierce the raven’s sides again.
+> Друидка рычит, оскалив зубы. ***«Лжец!»*** Она поворачивается к веточному созданию и произносит 2 слова на странном языке. Создание склоняет голов, затем снова пронзает бока ворона
+>
 > <hr>
 > 
-> A player who speaks Druidic recognizes the druids’ words as: “Hurt him."
+> Игрок, который говорит на Друидическом, узнаёт слова друидки как: ***«Причините ему боль»***
+
+
 
 If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
 
