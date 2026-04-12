@@ -740,8 +740,9 @@ _**Веха.**_ Освобождение винодельни считается
 
 Если игроки делятся предупреждением Лоргота или Сильвии, Давиан настоятельно советует им отправиться на Холм Былого до следующего рассвета, вернуть украденный самоцвет и сорвать злой замысел друидов. Поскольку Холм Былого находится менее чем в часе ходьбы от Винного Волшебника, Дэвиан рад предложить игрокам убежище на эту ночь на винодельне, чтобы они могли отдохнуть и восстановить силы, пообещав отправить Муриэль разбудить их за несколько часов до рассвета
 
-> [!info]+ **Clearing the Skies**
-> Strix are a finite resource, and require both time and resources to craft anew. Defeating the **greater strix** defending Lorghoth clears the skies once again for the Keepers of the Feather and their ravens to fly, at least temporarily.
+> [!info]+ **Очищение небес**
+> Стриксы являются ограниченным ресурсом и требуют как времени, так и ресурсов, чтобы создать новых. Победа над **большим стриксом**, защищающим Лоргота, очищает небо для Хранителей Пера и их воронов, позволяя им снова летать, по крайней мере временно
+
 # J4. The Path to Yester Hill
 If the players agree to travel to Yester Hill the following morning, Muriel wakes them two hours before dawn. 
 
