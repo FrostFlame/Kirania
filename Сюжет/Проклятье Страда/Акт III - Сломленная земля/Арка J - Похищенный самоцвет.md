@@ -544,12 +544,9 @@ _Приключение для пяти персонажей 5-го уровня
 Когда игроки поднимаются по винтовой лестнице или задней лестнице к первому этажу, прочитайте:
 
 >[!read]
-> 
-
-<div class="description">
-<p>The air grows steadily warmer as you approach the upper floors, your boots treading softly across the soft, supple bed of black roots that cascade across the stairs.</p>
-<p>As you approach the first landing, the silence is pierced by a haunting, desperate scream, which is followed soon after by the rustling of many feathers.</p>
-</div>
+> По мере приближения к верхним этажам воздух становится всё теплее, ваши шаги мягко звучат по упругому ковру чёрных корней, стелющихся по ступеням
+>
+> Когда вы приближаетесь к первой лестничной площадке, тишину пронзает пронзительный, отчаянный крик, за которым вскоре следует шелест множества перьев
 
 ### Бродильные чаны
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
