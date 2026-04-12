@@ -528,7 +528,7 @@ _Приключение для пяти персонажей 5-го уровня
 
 Когда существо, отличное от **заразы**, **друида-натуралиста** или **друида-нападающего**, оказывается в пределах **5 футов** от зарослей или **начинает там свой ход**, бритвенная лоза хлещет по нему, как кнут. Это существо совершает **спасбросок Ловкости Сл 10**, получая **1к10 рубящего урона** от её лезвиеподобных шипов при **провале**. При **провале** оно также [[ДМовские заметки#Захват|схвачено]] (**высвобождение Сл 10**) и совершает **спасбросок Телосложения Сл 10**, иначе [[ДМовские заметки#Отравление|отравлено]] **до начала своего следующего хода**
 
-## J3c. Ascending the Stairs
+## J3c. Поднимаясь по ступеням
 The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
 As the players climb the spiral staircase or back staircase toward the first floor, read:
