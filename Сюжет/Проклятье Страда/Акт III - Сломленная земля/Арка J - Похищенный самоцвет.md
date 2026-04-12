@@ -582,17 +582,18 @@ _Приключение для пяти персонажей 5-го уровня
 >
 > <hr>
 > 
-> Игрок, который говорит на Друидическом, узнаёт слова друидки как: ***«Причините ему боль»***
+> Игрок, который говорит на Друидическом, узнаёт слова друидки как: ***«Причини ему боль»***
 
+Если игроки выдают себя, не нападая, друидка наклоняет голову и спрашивает певучим голосом, как такие «маленькие мышки» нашли дорогу на винодельню. Друидка, которую зовут Сильвия из септа Холм Былого, знает следующую информацию, которой она может поделиться, чтобы усыпить бдительность игроков:
 
+- Айил (Лесной народ) пришли с Холма Былого на юге, который находится рядом с Шёпчущей Стеной
+- Лесной народ издавна враждует с воронами винодельни и их хозяевами, «пернатыми», чья древняя служба «Тёмному владыке» (так Лесной народ называет Страда) вдохновила название и герб Замка Рэйвенлофт. (Это ложь. Игрок, преуспев в **проверке Проницательности Сл 10**, замечает, что Сильвия звучит слегка слишком воодушевлённо, когда говорит это, и её голос кажется слишком гладким)
+- «Пернатые» обладают здесь мощной магией — магией, которую Лесной народ стремится вернуть на её законное место (Сильвия говорит о Хранителях Пера и третьем зачарованном самоцвете, который она описывает как «семя сосны, выкованное из кристаллического камня»)
+- Сильвия пытает ворона, потому что он служит «пернатым», а значит, должен знать, где может храниться магическое семя (Сильвия ошибается)
+- Лесной народ заключил союз с «ведьмой из болота», чьи летающие слуги называются «стрикс». (Сильвия имеет в виду Бабу Лисягу). Ведьма презирает воронов и не признаёт власть Замка Рэйвенлофт. (Это ложь. Игрок, преуспев в **проверке Проницательности Сл 10**, замечает, что Сильвия слегка колеблется, произнося свои слова)
 
-If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
-
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
-* The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
-* Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
-* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
+>[!Шепчущая стена]
+> Стена тумана всегда стояла близ Холма Былого, даже до того, как смертоносный туман окружил долину. Она названа Шепчущей стеной, потому что внутри того тумана можно услышать шёпот голосов из прошлого и будущего. Считается, что древняя богиня пожертвовала своей божественностью, чтобы сохранить мир от разрушения, и своим последним вздохом в качестве бога, она создала тот туман. Внутри него были все её воспоминания о мире и все её видения его возможного будущего, и с соответствующей подготовкой к ним, искатель может отправиться туда за видениями
 
 Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
 
