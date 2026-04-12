@@ -760,12 +760,11 @@ _**Веха.**_ Освобождение винодельни считается
 >
 > Бархатный покров ночного неба тихо раскинулся над вами, но вскоре его поглощает искривлённый полог Сваличского леса, чьи длинные тёмные ветви нависают над тропой, словно костлявые конечности. Туман здесь гуще, воздух прохладный и обжигающий, и плотная тишина словно бы окутывает весь лес. Покой лишь изредка нарушается треском ветки под ногой, чавканьем грязи под сапогами или далёким уханьем печальной совы
 
-</div>
+По мере того как игроки продвигаются на юг, **4 стаи воронов** взлетают с ближайшего дерева и следуют за ними по дороге, летя над пологом леса. Муриэль сообщает игрокам, что вороны, вероятно, хотят помочь, и что они могут следить за небом, пока игроки идут по дороге (вороны садятся на ветви ближайших деревьев всякий раз, когда игроки останавливаются на дороге)
 
-As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
+Во время пути по тропе Муриэль с лёгкой тоской отмечает, что совсем недавно она ходила по ней вместе с другом. ***«Это так странно»***, тихо говорит она, ***«как быстро всё может измениться к худшему»***. Если её спросить, Муриэль может рассказать, что её ***«другом»*** был Элрик Мартиков, брат-близнец Эльвира и её собственный жених, и что Элрик сделал ей предложение во время прогулки по лесу именно по этой тропе. Если спросить о судьбе её ***«друга»***, Муриэль резко отвечает: ***«Он умер»*** и отказывается вдаваться в подробности. Если на неё надавить, она лишь добавляет, что его смерть слишком свежа и болезненна для неё, чтобы заново переживать это
 
-While traveling along the path, Muriel notes wistfully that she used to walk it with a friend of hers not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that her "friend" was Elric Martikov, Elvir's twin brother and her own betrothed, and that Elric proposed to her during a walk in the woods along this very path. If asked her "friend's" fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
-## J4a. Kavan’s Cairn
+## J4a. Каирн Кавана
 Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
 
 <div class="description">
