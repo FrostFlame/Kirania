@@ -695,33 +695,36 @@ _Эта сцена происходит в Главе 12, область W16_
 
 Игольчатые заразы добираются до винодельни через **2 раунда** и до комнаты с Лоргхотом ещё через **2 раунда**. (Из-за стен вокруг комнаты заразы не могут атаковать, пока не достигнут покоев)
 
-The needle blights reach the winery after two rounds, and reach Lorghoth’s chamber after an additional two rounds. (Due to the walls around the room, the blights can’t attack until they reach the chamber.)
+Лоргхот использует свою особенность _**страж Галтиаса**_ при первой же возможности после того, как использовал свою особенность _**повелитель зараз**_
 
-Lorghoth uses his _**guardian of the Gulthias**_ feature at the first available opportunity after having used his _**master of blights**_ feature.
+На второй ход стриксов в бою второй **большой стрикс** появляется в небе, в **160 футах** над винодельней. Прежде чем он успевает атаковать, **4 роя воронов** поднимаются из рощи к северу, чтобы окружить его и атаковать, отвлекая стрикса и мешая его продвижению
 
-On the strixes’ second turn in combat, the third **greater strix** appears in the skies overhead, one hundred and sixty feet above the winery. Before it can attack, four **swarms of ravens** rise from the grove to the north to surround and attack it, distracting the strix and obstructing its advance.
+Лоргхот и заразы сражаются насмерть. Когда хиты Лоргхота опускаются до 0, он возвращается к своей истинной форме и клянётся, что победа игроков будет недолгой. ***«Ибо идёт Зимнедрево»***, — хрипит он, смеясь, — ***«и когда взойдёт рассвет, нектар победы обратится в пепел на ваших губах»***
 
-Lorghoth and the blights fight to the death. When Lorghoth is reduced to 0 hit points, he reverts to his true form and vows that the players’ victory shall be short-lived. “For Wintersplinter comes," he wheezes, cackling, “and when dawn rises, the nectar of victory will turn to ash on your lips."
+Когда игроки ломают посох Лоргхота, прочитайте:
 
-When the players break Lorghoth’s staff, read:
+>[!read]
+> Из расколотой древесины посоха вырывается ужасный человеческий крик, пронзающий воздух, словно вопль банши. Земля, кажется, содрогается от его силы — и вокруг вас искажённая растительность начинает извиваться и корчиться, кровь льётся из почерневших листьев и стеблей. Заразы замирают на месте, затем медленно оседают, жизнь покидает их сморщенные формы, пока от них не остаётся лишь мёртвых пустых оболочек
+>
+> В центре комнаты кора мёртвого искривлённого дерева начинает кипеть и плавиться, ствол обрушивается сам в себя, пока не остаётся лишь лужа густой серо-черной слизи. С последним хриплым воплем посох рассыпается, оставляя после себя струю тонкого серого пепла, уносимого ветром
 
-<div class="description">
-<p>A terrible human scream erupts from the staff’s splintered wood, piercing the air like a banshee's wail. The earth seems to tremble beneath its intensity—and, all around you, the corrupted flora begins to twist and writhe, blood pouring from blackening leaves and stalks. The blights freeze in place, then slowly crumple, the life leaving their shriveling forms until naught but dead husks remain.</p>
-<p>At the center of the room, the bark of the dead, gnarled tree begins to boil and melt, the trunk collapsing in upon itself until there's nothing left but a pool of thick, grayish sludge. With a final, wheezing wail, the staff disintegrates, leaving behind a stream of fine, gray ash that wisps away on the wind.</p>
-</div>
+Стриксы сражаются до тех пор, пока остальные не будут уничтожены или пока игроки не сломают _посох Галтиаса_, после чего любые выжившие стриксы отступают в Берез, чтобы доложить Бабе Лисяге
 
-The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
+Гроза стихает вскоре после поражения Лоргхота, хотя дождь ещё держится, смывая слизь и заразу. Дождь прекращается полностью, когда игроки впервые спускаются, чтобы встретиться с Мартиковыми
 
-The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
-***Milestone.*** Reclaiming the winery completes a story milestone. When the players defeat Lorghoth and break his staff, award each player 2,000 XP.
-## J3f. The Martikovs’ Return
-If the players break the *Gulthias staff*, the Martikovs hear its shrieking wail and return to the winery, where they thank the players for their heroism. 
+_**Веха.**_ Освобождение винодельни считается завершением сюжетной вехи. Когда игроки побеждают Лоргхота и ломают его посох, наградите каждого игрока 2000 опыта
 
-Elvir and Claudiu are awed and slightly shaken at the players’ ability to defy Strahd and his servants, and the players’ victory brings hope to them and the entire Martikov family. (Elvir in particular is stricken by the thought that, had Elric asked for help and been granted it, his brother might still be alive today.)
+## J3f. Возвращение Мартиковых
 
-After thanking and congratulating the players, Davian Martikov reveals that he has not been entirely forthright with the players. He then agrees to share the following information:
+Если игроки ломают _посох Галтиаса_, Мартиковы слышат его пронзительный вопль и возвращаются на винодельню, где благодарят игроков за их героизм
 
-* The Forest Folk didn’t attack merely because they are “bad neighbors." Davian and his family are members of the Keepers of the Feather—a secret society dedicated to aiding those who oppose Strahd von Zarovich and his servants. The Keepers of the Feather, which aim to guide and shelter others rather than fighting Strahd directly, uses ravens as their messengers and spies.
+Эльвир и Клаудиу поражены и немного потрясены способностью игроков противостоять Страду и его слугам, и их победа приносит надежду им и всей семье Мартиковых. (Эльвир особенно потрясён мыслью о том, что если бы Элрик попросил помощи и получил её, его брат мог бы быть жив сегодня)
+
+После благодарности и поздравлений игроков Давиан Мартиков признаётся, что был не до конца откровенен с игроками. Затем он соглашается рассказать следующую информацию:
+
+- Лесной народ напал не просто потому, что они «плохие соседи». Давиан и его семья являются членами Хранителей Пера — тайного общества, посвящённого помощи тем, кто противостоит Страду вон Заровичу и его слугам. Хранители Пера, которые стремятся направлять и укрывать других, а не сражаться со Страдом напрямую, используют воронов как своих посланников и шпионов
+- Давиан является лидером организации, и все его дети также являются её членами. (Давиан может подтвердить, что Муриэль Виншоу и Урвин Мартиков также являются членами Хранителей Пера, как и некоторые другие баровийцы, разбросанные по всей долине)
+
 * Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
 * Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to Castle Ravenloft to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
 * Elric died in Castle Ravenloft. Not long thereafter, Baba Lysaga’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
