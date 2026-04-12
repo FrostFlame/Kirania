@@ -765,31 +765,35 @@ _**Веха.**_ Освобождение винодельни считается
 Во время пути по тропе Муриэль с лёгкой тоской отмечает, что совсем недавно она ходила по ней вместе с другом. ***«Это так странно»***, тихо говорит она, ***«как быстро всё может измениться к худшему»***. Если её спросить, Муриэль может рассказать, что её ***«другом»*** был Элрик Мартиков, брат-близнец Эльвира и её собственный жених, и что Элрик сделал ей предложение во время прогулки по лесу именно по этой тропе. Если спросить о судьбе её ***«друга»***, Муриэль резко отвечает: ***«Он умер»*** и отказывается вдаваться в подробности. Если на неё надавить, она лишь добавляет, что его смерть слишком свежа и болезненна для неё, чтобы заново переживать это
 
 ## J4a. Каирн Кавана
-Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
 
-<div class="description">
-<p>The footpath veers deeper into the undergrowth, the vines and underbrush clutching at your clothing like soft, grasping hands as you cut forward through the tangled flora. The trees grow close together here, and the air grows thick with heavy silence. </p>
-<p>It's not long, however, before the path opens up into a small, mossy clearing, illuminated faintly by pale moonlight. A soft, crisp wind dances through the trees here, the rustling of the leaves sounding almost like a cacophony of whispers. At the center of the clearing stands a tall mound of large, black stones—an ancient cairn adorned with lichens, red blooms, and a collection of strange runes. </p>
-</div>
+Примерно через **1,2** км и **15 минут** к югу от винодельни, если она сопровождает игроков, Муриэль ненадолго уводит их с главной дороги на старую заросшую тропу. Если игроки следуют за ней, прочитайте:
 
-A player who speaks Druidic notices that the runes on the mound form an epitaph. They read: 
+>[!read]
+> Тропинка уходит глубже в подлесок, лозы и кустарник цепляются за вашу одежду, словно мягкие, цепкие руки, пока вы продвигаетесь сквозь переплетённую растительность. Деревья здесь растут тесно друг к другу, а воздух наполняется густой, тяжёлой тишиной
+>
+> Вскоре тропа выводит вас на небольшую, покрытую мхом поляну, слабо освещённую бледным лунным светом. Лёгкий, прохладный ветер играет в кронах деревьев, и шелест листвы звучит почти как какофония шёпотов. В центре поляны возвышается высокий курган из крупных чёрных камней — древний могильный холм, украшенный лишайниками, красными цветами и набором странных рун
+
+Игрок, говорящий на друидическом языке, замечает, что руны на кургане складываются в эпитафию. Они гласят:
 
 <div class="description" style="text-align: center">
-<p>KAVAN, THE BLOOD-DRINKER
+<p>КАВАН, КРОВОПИЙЦА
 <br>
-FORSAKEN OF THE ROZANA
+ПОКИНУТЫЙ РОЗАНОЙ
 <br>
-FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.
+ПЕРВЫЙ И ПОСЛЕДНИЙ ВОЖДЬ СЕПТА ГОР БАЛИНОК
 <br>
-MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE</p>
+ПУСТЬ ЕГО ДУХ ПОЖНЁТ УРОЖАЙ ЕГО НАГЛОСТИ</p>
 </div>
 
-Unless prevented, Muriel kneels before the cairn, produces a dagger from her boot, and makes a cut across her palm, allowing a few drops of blood to drip into a basin at the base of the cairn. (She then quickly curls her palm into a fist, hiding her **wereraven** regeneration as it quickly knits the wound shut.)
+Если ей не помешать, Муриэль опускается на колени перед курганом, достаёт кинжал из сапога и делает надрез на ладони, позволяя нескольким каплям крови стечь в чашу у основания кургана (затем она быстро сжимает ладонь в кулак, скрывая свою регенерацию **верворона**, пока рана стремительно затягивается)
 
-When she does, read:
+Когда она это делает, зачитайте:
 
-<div class="description">
-<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
+>[!read]
+> Когда кровь Муриэль капает в чашу, низкий занавес тумана вокруг кургана словно начинает дрожать. Туманы поднимаются, мягко закручиваясь в воздухе, пока из их лунной глубины не выступает призрачная фигура мужчины
+>
+> Его лицо изрезано морщинами и обветрено, густые брови сведены над тёмными, пронзительными глазами. Он облачён в простую коричневую куртку из грубой ткани, его руки и грудь покрыты узором шрамов и на его предплечье вы видите татуировку дракона (китайского), которые словно мерцают в бледном, зловещем свете. Серьги, выкованные из кости животных и острого обсидиана, свисают до плеч, почти полностью скрытых длинными тёмными волосами
+
 <p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
 <p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
 <p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
