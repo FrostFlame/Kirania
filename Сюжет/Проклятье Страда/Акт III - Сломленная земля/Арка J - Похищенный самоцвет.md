@@ -32,6 +32,9 @@ _Приключение для пяти персонажей 5-го уровня
 - [ ] 1 древняя ветвистая зараза (?)
 - [ ] 1 рой воронов
 - [ ] [[Порошок исчезновения]]
+- [ ] [[Посох Галтиаса]]
+- [ ] 1 большой стрикс
+- [ ] 2 роя малый стриксов
 
 # J1. Таверна Синяя Вода
 ### J1a. Просьба Урвина
@@ -645,70 +648,52 @@ _Эта сцена происходит в Главе 12, область W20_
 > **Expected HP Consumption:** 12%
 
 ### Погрузочная лебёдка
-<span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
+_Эта сцена происходит в Главе 12, область W16_
 
-This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
+>[!read]
+> Крыша над этой комнатой обрушилась, разбросав кучи обломков и открыв тёмное, бурное небо над головой, в котором вспыхивают молнии. Сильный дождь падает на деревянный пол комнаты, в центре которого вырезано отверстие размером **10x10 футов**, а с северной стороны установлена деревянная лебёдка
+>
+> Мёртвое, уродливое дерево растёт через отверстие в центре комнаты, его искривлённые ветви образуют скелетоподобный полог там, где должна быть крыша. Кровь сочится из его ствола, как сок, а на его ветвях сидят птицы, 1 размером с человека, и множество поменьше, созданные из дерева, звериных шкур и мешковины
+>
+> На вершине лебёдки сидит мужчина с дикими волосами, гнилыми зубами и кожей, окрашенной в кроваво-красный цвет. Нижняя часть его лица скрыта за красной вуалью. Он держит искривлённый посох, сделанный из чёрной ветви, из трещин по всей его длине сочится кровь, а с более толстого конца поднимается тёмная струйка дыма
+>
+> Пока вы наблюдаете, мужчина взмахивает посохом в сторону мёртвого дерева, которое стонет, его кора трещит и раскалывается, ветви шуршат, а ствол слегка вытягивается вверх
 
-<div class="description">
-<p>The roof over this room has collapsed, scattering mounds of debris and revealing a dark, stormy sky overhead that flashes with lightning. Heavy rain falls down onto the room’s wooden floor, which has a ten-foot-square hole cut into the middle of it and a wooden winch mounted upon the north side. </p>
-<p>A dead, misshapen tree grows through the hole at the center of the room, its gnarled branches forming a skeletal canopy overhead where the roof should be. Blood oozes from its trunk like sap, and two man-sized birds crafted of wood, animal skins, and burlap perch among its branches.</p>
-<p>Perched atop the winch is a man with wild hair, rotted teeth, and skin painted blood-red. He carries a gnarled staff made from a black branch, with blood oozing from cracks along its length and a dark trail of smoke wisping from the broader end. </p>
-<p>As you watch, the man waves the staff toward the dead tree, which groans, bark snapping and splintering, as its branches rustle and its trunk grows slightly taller.</p>
-</div>
+Искусственные птицы — это **большой стрикс** и **2 роя малых стриксов**. Мужчина — [[Лоргхот Разлагатель]]
 
-The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
+Созданный из ветви древа Галтиас, посох Галтиаса – это пористый отрез чёрного дерева. Его зло заставляет зверей явно чувствовать себя некомфортно в пределах **30 футов** от него. Посох имеет **10 зарядов** и восполняет **1к6+4** потраченных зарядов на закате каждого дня. Если посох будет сломан или сожжён до пепла, древесина испускает ужасающий, нечеловеческий крик, который слышно на 1,5 км. Все заразы, которые услышат этот крик, немедленно чахнут и погибают, как и черенок дерева Галтиас, который быстро сгнивает, превращаясь в тёмную серо-чёрную слизь
 
-* ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
-* ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+> [!info]+ **Статистики стриксов**
+> **Большой стрикс** использует характеристики **мантикоры**, но имеет Средний размер и **уязвимость к урону огнём**. Вместо настоящих шипов на хвосте атака **_шипы хвоста_** выпускает залп из десятков мелких серебряных зазубрин с его крыльев
+>
+> Если нужно добавить 1 или несколько **роёв малых стриксов** (см. ниже), каждый такой рой использует характеристики **роя воронов**
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+Лоргхот встречает игроков безумным хохотом при их появлении, приглашая их ***«узреть славу порождения дерева Галтиас»*** и спрашивая, пришли ли они ***«почтить могущество Теневого Владыки»***
 
-> [!info]+ **Strix Statistics**
-> A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
-> 
-> Should you adjust this encounter to include one or more **swarms of lesser strix** (see below), each swarm uses the statistics of a **swarm of ravens**.
+Если игроки разговаривают с ним, Лоргхот с радостью делится следующей информацией:
 
-Lorghoth greets the players with maddened cackling upon their arrival, inviting them to “revel in the glory of the spawn of the Gulthias tree" and asking if they have come to “honor the might of the Shadowed Lord."
+- Лесной народ пришёл с Холма Былого на юге, который находится рядом со Шёпчущей Стеной
+- Лесной народ поклоняется Страду вон Заровичу как богу, которого они называют «Тёмным Владыкой». Вороны винодельни и их хозяева, которых Лесной народ называет «пернатыми», являются древними врагами Страда и его слуг
+- Лесной народ пришёл ***«забрать то, что принадлежит им»*** — древнюю магию, которую «пернатые» давно украли у предков айил. С этой целью они заключили союз с «ведьмой болота», чьих летающих слуг называют «стрикс», и чьи дети зовут её «Матерью Тьмы». Они также объединились с женщиной, которую называют «Дитя Крови», чьё мастерство в магии дало им новую власть над деревом Галтиас и его порождениями. (Лоргхот имеет в виду Бабу Лисягу и Людмиллу Вилисевич соответственно)
+- Мёртвое дерево — это черенок дерева Галтиас, которое растёт на вершине Холма Былого. Вскоре, подпитываемое _посохом Галтиаса_, оно вырастет, чтобы сравниться со своим родителем, и породит собственные порождения
+- Завтра на рассвете могучее Зимнедрево выступит с Холма Былого и превратит винодельню в руины, обратив её в мульчу, чтобы питать молодое дерево Галтиас. (Лоргхот не скажет, кто или что такое Зимнедрево, лишь будет хохотать: «Зимнедрево идёт, и всё будет разрушено!»)
 
-If the players speak with him, Lorghoth is glad to share the following information:
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk worship Strahd von Zarovich as a god, whom they call “the Shadowed Lord." The ravens of the winery and their masters, whom the Forest Folk call “the feathered ones," are old enemies of Strahd and his servants.
-* The Forest Folk have come to “claim what is theirs"—ancient magic that the “feathered ones" stole from the druids’ ancestors long ago. To this end, they have allied with the “witch of the swamp," whose flying servants are called “strix," and whose children call her the “Mother of Darkness." They have also allied with a woman they call the “Child of Blood," whose mastery of magic has given them new power over the Gulthias tree and its spawn. (Lorghoth is referring to Baba Lysaga and Ludmilla Vilisevic, respectively.)
-* The dead tree is a cutting of the Gulthias tree, which grows atop Yester Hill. Soon, nurtured by the *Gulthias staff*, it will grow to rival its parent, and give birth to blights of its own.
-* Tomorrow at dawn, the mighty Wintersplinter will march from Yester Hill and reduce the winery to rubble, turning it into mulch to feed the young Gulthias tree. (Lorghoth won’t say who or what Wintersplinter is, except to cackle “Wintersplinter comes, and all will crumble in his wake!")
+Когда Лоргхот устаёт от игроков, он благодарит их за присутствие, обещая, что их кровь станет хорошей пищей для дерева Галтиас. После этого он и **1 старший стрикс** и **2 роя малых стриксов** нападают. Стриксы сбегают, если другие стриксы уничтожены, или посох сломан
 
-When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
-
-> [!combat]- **Combat - The Loading Winch**  
+> [!combat]- **Бой - Погрузочная лебёдка**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 21%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
-> |-|-|-|-|-|
-> | Druid Naturalist | 1 | 1 | 1 | 1 |
-> | Greater Strix | 0 | 1 | 2 | 2 |
-> | Swarm of Lesser Strix | 3 | 2 | 0 | 4 |
->
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
->
-> | Number of Players | Modification |
-> |-|-|
-> | 3 | Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken. |
-> | 4 | Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
-> | 6 | Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
 
-On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
+В свой первый ход в бою Лоргхот использует свою особенность _**Повелитель зараз**_, чтобы призвать орду из **30 игольчатых зараз** из виноградника. Прочитайте:
 
-<div class="description">
-<p>The man raises his staff to the thundering sky and shrieks, “Nature, heed my will, for I have the Shadowed Lord’s staff!"</p>
-<p>You hear the rustle of dead vines all around you. On the ground below, nearly three dozen inhuman shapes emerge from the vineyard, their limbs cracking as they trudge toward the winery through the mist and rain.</p>
-</div>
+>[!read]
+> Мужчина поднимает свой посох к громовому небу и пронзительно кричит: ***«Природа, внемли моей воле, ибо у меня посох Теневого Владыки!»***
+>
+> Вы слышите шелест мёртвых лоз вокруг. На земле внизу почти три дюжины нечеловеческих фигур поднимаются из виноградника, их конечности с треском расправляются, когда они бредут к винодельне сквозь туман и дождь
+
+Игольчатые заразы добираются до винодельни через **2 раунда** и до комнаты с Лоргхотом ещё через **2 раунда**. (Из-за стен вокруг комнаты заразы не могут атаковать, пока не достигнут покоев)
 
 The needle blights reach the winery after two rounds, and reach Lorghoth’s chamber after an additional two rounds. (Due to the walls around the room, the blights can’t attack until they reach the chamber.)
 
