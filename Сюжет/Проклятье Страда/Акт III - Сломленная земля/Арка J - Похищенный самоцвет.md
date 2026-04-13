@@ -878,12 +878,17 @@ _**Веха.**_ Освобождение винодельни считается
 > [!abstract]+ **Позор Кавана**
 > Если игрок спрашивает Кавана о его эпитафе, он отвечает: ***«Я подвёл свой народ при жизни. В смерти я хочу искупить эти ошибки»***
 
-## J4b. The Nightmare
-After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **nightmare**, Beucephalus. Read:
+## J4b. Кошмар
 
-<div class="description">
-<p>"Good evening," echoes a voice from ahead of you, "or, perhaps, good morning?"</p>
-<p>A tall, pale figure emerges from the inky darkness betwixt the trees, riding atop a fiery steed. The figure's eyes burn through the shadows like smoldering coals, and his alabaster skin seems as cold as marble in the moonlight. He is immaculate in dark, tailored armor, and beneath his pristine, obsidian-black hair, his lips—as red as fresh blood—curl into a satisfied, malevolent smile.</p>
+После того как игроки покидают курган Кавана, они могут вернуться на тропу и продолжить путь на юг к Холму Былого. Пройдя ещё **2 км** и **25 минут**, игроки встречают Страда вон Заровича, едущего верхом на своём **кошмаре**, Буцефале. Прочитайте:
+
+>[!read]
+> ***«Добрый вечер»***, — раздаётся голос впереди вас, — ***«или, возможно, доброе утро?»***
+>
+> Из чернильной тьмы между деревьями появляется высокая бледная фигура, восседающая на огненном скакуне. Его глаза прожигают тени, словно тлеющие угли, а алебастровая кожа в лунном свете кажется холодной, как мрамор. Он безупречно облачён в тёмную, подогнанную броню, и под его гладкими обсидианово-чёрными волосами губы — красные, как свежая кровь — складываются в удовлетворённую, зловещую улыбку
+>
+> Скакун под ним фыркает, из его ноздрей вырываются языки пламени, а огненная грива мерцает, словно адский нимб вокруг головы. В воздухе витают клубы едкого дыма с запахом серы и горелой плоти, а мощные мышцы едва заметно перекатываются под контурами его угольно-чёрной шкуры. Вы замечаете блеск металла, сверкающего золотом и глубоким бордовым оттенком, поблёскивающего в седельных сумках, закреплённых на спине зверя
+
 <p>The steed beneath him snorts, flames dancing from its nostrils as its fiery mane flickers like a hellish halo around its head. Wisps of acrid smoke fill the air with a scent like sulfur and burnt flesh, and powerful muscles flex faintly beneath the contours of its coal-black hide. You notice a flash of metal, gleaming with gold and deep burgundy, glittering within the saddlebags strapped to the beast’s back.</p>
 <p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
 </div>
