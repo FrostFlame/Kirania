@@ -673,7 +673,7 @@ _Эта сцена происходит в Главе 12, область W16_
 Если игроки разговаривают с ним, Лоргхот с радостью делится следующей информацией:
 
 - Лесной народ пришёл с Холма Былого на юге, который находится рядом со Шёпчущей Стеной
-- Лесной народ поклоняется Страду вон Заровичу как богу, которого они называют «Тёмным Владыкой». Вороны винодельни и их хозяева, которых Лесной народ называет «пернатыми», являются древними врагами Страда и его слуг
+- Лесной народ поклоняется Страду вон Заровичу как богу, которого они называют «Тёмным Владыкой», "Великим Повелителем Тьмы", "Отцом Лжи", "Пастырем Ночи". Вороны винодельни и их хозяева, которых Лесной народ называет «пернатыми», являются древними врагами Страда и его слуг
 - Лесной народ пришёл ***«забрать то, что принадлежит им»*** — древнюю магию, которую «пернатые» давно украли у предков айил. С этой целью они заключили союз с «ведьмой болота», чьих летающих слуг называют «стрикс», и чьи дети зовут её «Матерью Тьмы». Они также объединились с женщиной, которую называют «Дитя Крови», чьё мастерство в магии дало им новую власть над деревом Галтиас и его порождениями. (Лоргхот имеет в виду Бабу Лисягу и Людмиллу Вилисевич соответственно)
 - Мёртвое дерево — это черенок дерева Галтиас, которое растёт на вершине Холма Былого. Вскоре, подпитываемое _посохом Галтиаса_, оно вырастет, чтобы сравниться со своим родителем, и породит собственные порождения
 - Завтра на рассвете могучее Зимнедрево выступит с Холма Былого и превратит винодельню в руины, обратив её в мульчу, чтобы питать молодое дерево Галтиас. (Лоргхот не скажет, кто или что такое Зимнедрево, лишь будет хохотать: «Зимнедрево идёт, и всё будет разрушено!»)
@@ -689,7 +689,7 @@ _Эта сцена происходит в Главе 12, область W16_
 В свой первый ход в бою Лоргхот использует свою особенность _**Повелитель зараз**_, чтобы призвать орду из **30 игольчатых зараз** из виноградника. Прочитайте:
 
 >[!read]
-> Мужчина поднимает свой посох к громовому небу и пронзительно кричит: ***«Природа, внемли моей воле, ибо у меня посох Теневого Владыки!»***
+> Мужчина поднимает свой посох к громовому небу и пронзительно кричит: ***«Природа, внемли моей воле, ибо у меня посох Великого Повелителя Тьмы!»***
 >
 > Вы слышите шелест мёртвых лоз вокруг. На земле внизу почти три дюжины нечеловеческих фигур поднимаются из виноградника, их конечности с треском расправляются, когда они бредут к винодельне сквозь туман и дождь
 
@@ -861,14 +861,14 @@ _**Веха.**_ Освобождение винодельни считается
 >
 >  Это оказывается небольшая статуэтка бабочки, не больше ладони, вырезанная из окаменевшего дерева и инкрустированная мелкими сверкающими синими минералами, которые переливаются пойманным лунным светом. Крылья фигурки расправлены, будто она застыла в полёте
 
+По просьбе Муриэль Каван может поделиться следующей информацией о Лесном народе Холма Былого:
 
+- Друиды Лесного народа (уже больше не Айил) в последнее время стали более активными, собирая берсерков из северной долины и направляя заразы дерева Галтиас в земли внизу. Похоже, у них появился новый лидер: темнокожая женщина в белом платье и золотой тиаре, с пронзительным взглядом и парой острых клыков. Каван считает её магом, так как видел, как она создавала странные огни и звуки (это Людмилла Вилисевич, одна из вампирских невест Страда)
+- Недавно Лесной народ Холма Былого — который люди Кавана когда-то называли Сармизегет — получил нечто одновременно новое и невероятно древнее: зачарованный самоцвет, некогда принадлежавший народу Кавана, который он считал давно утраченным. Лесной народ возвёл огромного истукана из дерева и земли на вершине холма, внутри великого каменного круга, служащего местом их собраний, и поместил самоцвет в грудь этой статуи
+- Некоторые из Лесного народа, похоже, готовятся вложить силу самоцвета в статую, сплетённую из корней дерева Галтиас, растущего на вершине Холма Былого. Ритуалисты связали себя с кровожадными корнями дерева и планируют использовать силу вечной бури над Холмом Былого, чтобы вдохнуть жизнь в существо внутри статуи
+- Галтиас дерево — тёмное и искажённое дерево Авендесоры, священное для Айил, соучастник воли друидов. Каван предупреждает их, что дерево может попытаться помешать их усилиям, но сообщает, что свет обжигает его и замедляет его новый рост. Он отмечает, что дерево особенно жаждет проклятой крови, которая усиливает и восстанавливает его
+- На Холме Былого сейчас находится более дюжины друидов и берсерков, хотя с каждым днём прибывает всё больше. Похоже, они ждут того, кого называют «Великим Повелителем Тьмы», Забирающего зрение — властителя крепости на востоке (Каван имеет в виду Страда фон Заровича и замок Рэйвенлофт)
 
-At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
-
-* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
-* Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
-* Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
-* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
 * There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
 
 Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
