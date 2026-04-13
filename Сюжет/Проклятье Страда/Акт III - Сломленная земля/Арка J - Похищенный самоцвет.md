@@ -803,15 +803,17 @@ _**Веха.**_ Освобождение винодельни считается
 Муриэль представляет духа как **призрака** Кавана, предка Горного народа, и представляет игроков по именам
 
 > [!lore]+ **Наследие Кавана**
-> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
+> Задолго до того, как Страд прибыл в долину, Каван был молодым вождём одного из нескольких племён Айил, обитавших среди гор Балинок. Амбициозный и гордый, он вошёл в Шепчущую Стену, нарушив запреты Хранительниц Мудрости. Там эхо Пожирателя прошептало ему тайны священного копья Охотницы и способ, с помощью которого он мог присвоить его силу себе
+>
+> Каван похитил копьё Охотницы из Лесного Святилища и использовал тайны Пожирателя, чтобы усилить своих воинов и осквернить святилища Леди Трёх. Прозванный «Кровопийцей» за силу своего копья и свои свирепые ритуалы в бою, Каван вёл жестокую войну с соседними племенами, стремясь объединить их под славой своего собственного племени и знамени
+>
+> Хранительницы Мудрости Айил, ужаснувшись его богохульству, отступили в священную деревню Солдав на горе Гхакис. Там они назвали его «врагом», изгнав его из святого центра своей веры. Леди, ослабленные деяниями Кавана, лишили его народ своей благодати, оставив их в отчаянии под властью нового тирана
 > 
-> Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
+> Каван прожил достаточно долго, чтобы увидеть, как его сыновья и дочери оборачиваются друг против друга и ссорятся между собой, раскалывая народ, который он когда-то стремился создать. Когда Каван лежал больным и умирающим в свои преклонные годы, последней вестью, которую он получил, стало известие о новом вторжении — на этот раз с востока, когда Король Дострон Адорождённый вторгся в долину в поисках новых земель для завоевания
 > 
-> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of Soldav on Mount Ghakis. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
-> 
-> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as King Dostron the Hellborn swept into the valley in search of new lands to conquer.
-> 
-> When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
+> Когда Каван умер, вместо того чтобы похоронить его с почестями на Холме Былого рядом с великими вождями прошлого, Хранительницы Мудрости, которых он когда-то отверг, похоронили его тело в одиноком кургане вдали от Холма Былого, прокляв его дух скитаться в сумерках без джи, страха или благосклонности
+
+Каван тепло приветствует игроков, называя их воинами, и просит рассказать о их «кланах и победах». Если его спросить о его собственном клане, его улыбка гаснет, и он отказывается отвечать, отмечая лишь, что его отношения со своим народом сложны
 
 Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
 
