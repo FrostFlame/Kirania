@@ -780,7 +780,7 @@ _**Веха.**_ Освобождение винодельни считается
 <br>
 ПОКИНУТЫЙ РОЗАНОЙ
 <br>
-ПЕРВЫЙ И ПОСЛЕДНИЙ ВОЖДЬ СЕПТА ГОР БАЛИНОК
+ПЕРВЫЙ И ПОСЛЕДНИЙ ВОЖДЬ СЕПТА ГОРЫ БАЛИНОК
 <br>
 ПУСТЬ ЕГО ДУХ ПОЖНЁТ УРОЖАЙ ЕГО НАГЛОСТИ</p>
 </div>
@@ -792,18 +792,17 @@ _**Веха.**_ Освобождение винодельни считается
 >[!read]
 > Когда кровь Муриэль капает в чашу, низкий занавес тумана вокруг кургана словно начинает дрожать. Туманы поднимаются, мягко закручиваясь в воздухе, пока из их лунной глубины не выступает призрачная фигура мужчины
 >
-> Его лицо изрезано морщинами и обветрено, густые брови сведены над тёмными, пронзительными глазами. Он облачён в простую коричневую куртку из грубой ткани, его руки и грудь покрыты узором шрамов и на его предплечье вы видите татуировку дракона (китайского), которые словно мерцают в бледном, зловещем свете. Серьги, выкованные из кости животных и острого обсидиана, свисают до плеч, почти полностью скрытых длинными тёмными волосами
-
-<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
-<p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
-<p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
-</div>
+> Его лицо изрезано морщинами и обветрено, густые брови сведены над тёмными, пронзительными глазами. Он облачён в простую коричневую куртку из грубой ткани, его руки и грудь покрыты узором шрамов и на его левом предплечье вы видите татуировку дракона (китайского), которые словно мерцают в бледном, зловещем свете. Серьги, выкованные из кости животных и острого обсидиана, свисают до плеч, почти полностью скрытых длинными тёмными волосами
+>
+> Его руки мозолисты и грубы, в левой он сжимает обтянутый кожей круглый деревянный щит. В правой руке он держит длинное, зловещее копьё, выкованное из тумана, его наконечник словно поглощает эфирный свет, наполняющий поляну
+>
+> ***«Приветствую, Муриэль Виншоу»***, — грохочет дух. ***«Вижу, на этот раз вы привели новых спутников»***
 
 ![[Kavan.png]]
-<span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
 
-> [!lore]+ **Kavan's Legacy**
+Муриэль представляет духа как **призрака** Кавана, предка Горного народа, и представляет игроков по именам
+
+> [!lore]+ **Наследие Кавана**
 > Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
 > 
 > Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
