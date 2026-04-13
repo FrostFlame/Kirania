@@ -813,56 +813,55 @@ _**Веха.**_ Освобождение винодельни считается
 > 
 > Когда Каван умер, вместо того чтобы похоронить его с почестями на Холме Былого рядом с великими вождями прошлого, Хранительницы Мудрости, которых он когда-то отверг, похоронили его тело в одиноком кургане вдали от Холма Былого, прокляв его дух скитаться в сумерках без джи, страха или благосклонности
 
-Каван тепло приветствует игроков, называя их воинами, и просит рассказать о их «кланах и победах». Если его спросить о его собственном клане, его улыбка гаснет, и он отказывается отвечать, отмечая лишь, что его отношения со своим народом сложны
+Каван тепло приветствует игроков, называя их воинами, и просит поведать о их «кланах и победах». Если его спросить о его собственном клане, его улыбка гаснет, и он отказывается отвечать, отмечая лишь, что его отношения со своим народом сложны
 
-Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
+После того как игроки представляются, Муриэль начинает с того, что сообщает Кавану, что они пришли узнать его знания о друидах Холма Былого. Пока она говорит, Каван замечает что-то в лесу. Прочитайте:
 
-Once the players have introduced themselves, Muriel begins by informing Kavan that they’ve come to seek his knowledge of the druids of Yester Hill. As she does, Kavan notices something in the woods. Read:
+>[!read]
+> Вы слышите шорох в лесу позади вас, и вороны над вами беспокойно переминаются. Взгляд духа резко устремляется в точку за вашими плечами, и он поднимает руку, крепче сжимая древко своего копья. ***«Стой, Муриэль Виншоу»***, — бормочет он. ***«Мы не одни. Что-то наблюдает за нами из теней»***
 
-<div class="description">
-<p>You hear a rustling from the woods behind you, and the ravens above you shuffle uneasily. The spirit’s gaze snaps to a point across your shoulders and he holds up a hand, his grip tightening around the haft of his spear. “Hold, Muriel Vinshaw," he murmurs. “We are not alone. Something watches us from the shadows."</p>
-</div>
+Игрок с **пассивным Восприятием 17** или выше замечает, как в деревьях на мгновение мелькает гуманоидный силуэт, прежде чем исчезнуть в темноте (силуэт — Страд, но в темноте его невозможно опознать)
 
-A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoid silhouette flicker in the trees before vanishing amidst the darkness. (The silhouette is Strahd, but cannot be recognized in the darkness.)
+> [!abstract]+ **Расследование силуэта**
+> Если игрок расследует место, где появился силуэт, прочитайте
+>
+> <hr>
+>
+> Сухие листья хрустят под ногами, когда вы проходите между деревьями, а густая грязь чавкает под сапогами. Однако среди холодной тьмы нет ни единого признака живой души, хотя ты замечаешь слабый красноватый свет, мерцающий вдалеке, словно костёр, скрытый ветвями и колючим кустарником
+> 
+> <hr>
+>
+> Свет исходит от Буцефала, **кошмара** Страда
+>
+> Если игрок движется к свету или пытается с ним взаимодействовать, прочитайте:
+> 
+> <hr>
+>
+> Внезапно окружающие звуки леса — шёпот ветра, шелест листвы, даже далёкое уханье совы — зловеще стихают. Из глубин теней, где деревья особенно густы и свет не осмеливается проникнуть, исходит глубокая, затаившаяся злоба
+>
+> Воздух словно гудит от напряжения, будто сухожилия зверя, готовящегося к прыжку, и ты не можешь избавиться от ощущения, до самых глубин души, что за тобой наблюдает нечто могущественное, древнее и почти непостижимо терпеливое
+> 
+> И затем — ощущение исчезает. Тихие звуки леса возвращаются. И через мгновение мерцающий багровый свет гаснет
+>
+> <hr>
+>
+> Когда игрок собирается покинуть место, прочитайте:
+>
+> <hr>
+> 
+> Ты замечаешь слабое мерцание холодного, лазурного света с лесной подстилки, наполовину скрытое под перегноем и едва освещённое редкими лучами лунного света, пробивающимися сквозь полог крон
+>
+> <hr>
+> 
+> Если игрок расследует, прочитайте:
+>
+> <hr>
+>
+>  Когда ты раздвигаешь подлесок, твои пальцы касаются чего-то твёрдого и гладкого, наполовину погребённого в почве
+>
+>  Это оказывается небольшая статуэтка бабочки, не больше ладони, вырезанная из окаменевшего дерева и инкрустированная мелкими сверкающими синими минералами, которые переливаются пойманным лунным светом. Крылья фигурки расправлены, будто она застыла в полёте
 
-> [!abstract]+ **Investigating the Silhouette**
-> If a player investigates the place where the silhouette appeared, read:
-> 
-> <hr>
-> 
-> Dead leaves crunch underfoot as you pass between the trees, and the thick mud squelches beneath your boots. There’s no sign of any living soul amidst the cold darkness, however, though you notice a faint, reddish light flickering in the distance, like a campfire obscured by branches and brambles.
-> 
-> <hr>
-> 
-> The light comes from Beucephalus, Strahd’s **nightmare.**
-> 
-> If the player moves toward or attempts to interact with the light, read:
-> 
-> <hr>
-> 
-> Suddenly, the ambient sounds of the forest - the whispering wind, the rustling leaves, even the distant hooting of an owl - go eerily silent. From the depths of the shadows, where the trees are thickest and the light dare not penetrate, comes a deep, lurking malevolence. 
-> 
-> The air seems to hum with tension, like the tendons of a beast waiting to pounce, and you cannot help but feel, to the very depths of your soul, that you are being watched by something powerful, old, and almost unfathomably patient.
-> 
-> And then—the sensation fades. The quiet sounds of the woods return. And, a heartbeat later, the crimson light flickers out.
-> 
-> <hr>
-> 
-> As the player moves to depart the clearing, read:
-> 
-> <hr>
-> 
-> You notice a faint glitter of cold, cerulean light from the forest floor, half-concealed by mulch and dimly illuminated by the little moonlight that pierces through the canopy.
-> 
-> <hr>
-> 
-> If the player investigates the light, read:
-> 
-> <hr>
-> 
->  As you sift through the underbrush, your fingers brush against something hard and smooth, half-buried in the soil.
->  
->  It appears to be a small statuette of a butterfly, no larger than the palm of your hand and carved from petrified wood, which is embedded with small, glittering blue minerals that seem to dance with captured moonlight. The figurine's wings are outstretched, as though caught in mid-flight.
+
 
 At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
 
