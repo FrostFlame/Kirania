@@ -891,9 +891,9 @@ _**Веха.**_ Освобождение винодельни считается
 >
 > Мужчина щёлкает пяткой по боку своего скакуна, и тот послушно делает шаг вперёд, преграждая вам путь. Улыбка Страда становится шире, пока он жадно разглядывает вас, его взгляд пронзает пляшущие тени, таящиеся среди тропы
 
-</div>
+Буцефал - чёрный конь с пылающей гривой и огненными копытами. Это кошмар со **104 хитами**, и у него есть следующее умение
 
-Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
+- _**Эфирное бегство (перезарядка 5–6).**_ В ответ на получение урона Буцефалом или его всадником, Буцефал может реакцией использовать свою способность _**эфирный шаг**_
 
 * ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
 
