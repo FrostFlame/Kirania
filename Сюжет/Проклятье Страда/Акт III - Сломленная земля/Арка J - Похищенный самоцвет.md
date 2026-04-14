@@ -893,16 +893,16 @@ _**Веха.**_ Освобождение винодельни считается
 
 Буцефал - чёрный конь с пылающей гривой и огненными копытами. Это кошмар со **104 хитами**, и у него есть следующее умение
 
-- _**Эфирное бегство (перезарядка 5–6).**_ В ответ на получение урона Буцефалом или его всадником, Буцефал может реакцией использовать свою способность _**эфирный шаг**_
+- _**Эфирный побег (перезарядка 5–6).**_ В ответ на получение урона Буцефалом или его всадником, Буцефал может **реакцией** использовать свою способность _**эфирный шаг**_
 
-* ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
-
-The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
+Предмет в седельных сумках Буцефала — это **оживлённая броня Страда** - безголовый, оживлённый комплект лат. Доспех выкрашен багровой краской и украшен золотыми орнаментами на ангельскую тему. В данный момент он разобран и неактивен, однако атакует своим действием _**разряд молнии**_, если игроки его потревожат
 
 ![[Strahd and Beucephalus.png]]
-<span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Greeting Strahd
+### Приветствие Страда
+
+Страд приветствует игроков так, словно уже знаком с ними. Он также обращается к их спутникам следующим образом:
+
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
 * If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
