@@ -901,19 +901,21 @@ _**Веха.**_ Освобождение винодельни считается
 
 ### Приветствие Страда
 
-Страд приветствует игроков так, словно уже знаком с ними. Он также обращается к их спутникам следующим образом:
+Страд приветствует игроков, как давних знакомых. Он также обращается к их спутникам следующим образом:
 
-Strahd greets the players with familiarity. He also addresses their companions as follows:
+- Если Ирина присутствует, он слегка кланяется и приветствует её вежливой улыбкой. ***«Леди Коляна»***, — говорит он. — ***«Как всегда, рад встрече»***
+- Если Муриэль присутствует, он приветствует её с ленивым, наигранным удивлением, прося игроков представить ему их «новую подругу». Затем его взгляд скользит к волосам Муриэль, и он тихо замечает, что она кажется ему знакомой, после чего вслух задаётся вопросом, не встречались ли они раньше. (Глаза Муриэль расширяются, и она поспешно это отрицает. Страд, разумеется, знает, что Муриэль — **верворон**, подслушивавший его у озера Тсер в [[Арка C - В Долину]]. Он позволяет ей жить, поскольку предполагает, что она уже передала своё сообщение, а также потому, что уже принял необходимость пожертвовать своей _оживлённой бронёй_ вместо Арабелль)
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+Затем Страд спрашивает, какое дело может быть у игроков на дороге к Холму Былого — особенно в столь тёмный и безнадёжный час ночи. ***«Я нахожу, что именно последние часы перед рассветом я ценю больше всего»***, — говорит Страд, — ***«но признаюсь, я не ожидал встретить родственные души на такой одинокой тропе этим вечером»***
 
-Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
+Если игроки пытаются скрыть свою цель, Страд вслух предполагает, что они пришли примерно по той же причине, что и он — стать свидетелями великого «триумфа» Лесного народа, рождения **древесной порчи**, которую они называют Зимнедревом. ***«Хотя»***, — с усмешкой замечает он, и его тёмные глаза блестят во тьме, — ***«я бы рискнул предположить, что вы пришли не праздновать победу друидов, а сокрушить её — мечом и магией»***
 
-If the players attempt to conceal their purpose, Strahd guesses aloud that they have come for much the same reason he has—to witness the Forest Folks’ great “triumph," the birth of the **tree blight** they call Wintersplinter. “Although," he notes with amusement, his dark eyes glittering in the darkness, “I would hazard to guess that you have come not to celebrate the druids’ mighty victory, but to vanquish it—by sword and spell."
+В любом случае Страд приглашает игроков пройти вместе с ним по дороге, пока он едет к Холму Былого: ***«ибо дорога темна, и компания всегда желанна»***. Если они отказываются, он укоряет их за грубость и направляет Буцефала вперёд, прежде чем исчезнуть среди теней впереди (это способность _**эфирный шаг**_ Буцефала, переносящая его и Страда на Эфирный план)
 
-In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
-### Walking with Strahd
+### Идя со Страдом
+
+
+
 If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
