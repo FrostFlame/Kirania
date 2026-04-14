@@ -888,9 +888,9 @@ _**Веха.**_ Освобождение винодельни считается
 > Из чернильной тьмы между деревьями появляется высокая бледная фигура, восседающая на огненном скакуне. Его глаза прожигают тени, словно тлеющие угли, а алебастровая кожа в лунном свете кажется холодной, как мрамор. Он безупречно облачён в тёмную, подогнанную броню, и под его гладкими обсидианово-чёрными волосами губы — красные, как свежая кровь — складываются в удовлетворённую, зловещую улыбку
 >
 > Скакун под ним фыркает, из его ноздрей вырываются языки пламени, а огненная грива мерцает, словно адский нимб вокруг головы. В воздухе витают клубы едкого дыма с запахом серы и горелой плоти, а мощные мышцы едва заметно перекатываются под контурами его угольно-чёрной шкуры. Вы замечаете блеск металла, сверкающего золотом и глубоким бордовым оттенком, поблёскивающего в седельных сумках, закреплённых на спине зверя
+>
+> Мужчина щёлкает пяткой по боку своего скакуна, и тот послушно делает шаг вперёд, преграждая вам путь. Улыбка Страда становится шире, пока он жадно разглядывает вас, его взгляд пронзает пляшущие тени, таящиеся среди тропы
 
-<p>The steed beneath him snorts, flames dancing from its nostrils as its fiery mane flickers like a hellish halo around its head. Wisps of acrid smoke fill the air with a scent like sulfur and burnt flesh, and powerful muscles flex faintly beneath the contours of its coal-black hide. You notice a flash of metal, gleaming with gold and deep burgundy, glittering within the saddlebags strapped to the beast’s back.</p>
-<p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
 </div>
 
 Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
