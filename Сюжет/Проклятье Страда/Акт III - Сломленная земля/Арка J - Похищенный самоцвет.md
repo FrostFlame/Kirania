@@ -914,34 +914,34 @@ _**Веха.**_ Освобождение винодельни считается
 
 ### Идя со Страдом
 
+Если игроки принимают приглашение Страда и идут рядом с ним, он начинает с того, что спрашивает, как им понравилось их время в Баровии после их последней встречи. Если игроки прогнали Воленту Попофски в [[Арка D - Пир святого Андрала]], Страд отмечает, что у неё, похоже, случилось _довольно_ памятное столкновение с ними — история, которую он с большим удовольствием выслушал после её возвращения в замок Рэйвенлофт. (***«Как и мои другие невесты, она всегда старается мне угодить — хотя, должен с сожалением признать, что моя благосклонность бывает переменчивой»***)
 
+Если игроки спрашивают, Страд с радостью представляет своего скакуна **кошмара**, Буцефала. ***«В жизни его называли Чудо-конём»***, — замечает Страд, проводя руками сквозь пламя гривы кошмара. ***«Теперь он — совсем иное чудо»***
 
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+Если игроки интересуются ужином в Рэйвенлофте или если игроки ранее отклонили приглашение Рахадина отужинать со Страдом в [[Арка O - Ужин с дьяволом]], Страд сообщает, что с нетерпением ждёт ужина с ними в своём замке и надеется, что они разделяют его энтузиазм
 
-If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
+Если игроки спрашивают о содержимом седельных сумок Страда, Страд лишь говорит, что это его личные вещи — старое имущество, от которого он решил избавиться в обмен на нечто новое (Страд не станет вдаваться в подробности)
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+Если игроки спрашивают, был ли Страд тем силуэтом, который наблюдал за ними у кургана Кавана, Страд слегка улыбается. Вместо ответа на их вопрос он говорит: ***«Любопытно, но я был не первым существом, которого в этой долине называли „кровопийцей“. Сможете догадаться, кто это был?»*** Независимо от ответа игроков, он затем рассказывает следующую историю:
 
-If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
+>[!read]
+> *«Задолго до моего появления, в веках, предшествовавших тому, как она перешла под мою защиту, Баровией правила тьма иного рода. Его звали Каван, вождь Горных племён, и он хлынул из гор Балинок, словно бушующий шторм, уничтожая всех, кто вставал у него на пути. Его называли Кровопийцей — из-за проклятого копья, которое он носил, и его собственной, ужасающей жажды»*
+>
+> *«Каван, как вы понимаете, не был из числа моих сородичей. Он был чем-то куда худшим — человеком смертных страстей и амбиций. Он пил кровь своих жертв и, засыпая, зарывался в пропитанную кровью землю, купаясь в их ужасе и боли»*
+>
+> *«Его правление, хоть и длилось не дольше его жизни, было эпохой льющейся крови — свидетельством глубин человеческой жестокости»*. Улыбка Страда становится тонкой и острой, как осколок стекла. *«Помните его историю, ступая по этим землям, ибо отголоски прошлого никогда не покидают нас, и кровь, которую пролил Каван, всё ещё окрашивает эти священные холмы»*
 
-If the players ask whether Strahd was the silhouette watching them by Kavan’s cairn, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
+### Пари Страда
 
-<div class="description">
-<p>"Long before my time, in the centuries before it came under my protection, Barovia was ruled by a different kind of darkness. His name was Kavan, warlord of the Mountain Tribes, and he swept forth from the Balinok Mountains like a raging storm to slaughter all who stood in his path. They called him Blood-Drinker, for the cursed spear he carried and his own, terrible thirst.</p>
-<p>"Kavan, you see, was not of my kin. He was something far worse—a man of mortal lusts and ambitions. He drank the blood of his victims and buried himself beneath the red-stained soil when he slept, bathing in their terror and pain."</p>
-<p>"His reign, though it lasted no longer than his lifetime, was an era of bloody excess—a testament to the depths of human brutality." Strahd's smile is thin and sharp, like broken glass. "Remember his tale as you walk these lands, for the echoes of the past never leave us, and the blood Kavan spilled still stains these hallowed hills."</p>
-</div>
+По мере того как он и игроки приближаются к Холму Былого, Страд спрашивает их — скучающим, безразличным тоном — почему он должен позволить им вмешиваться в дела своих слуг на Холме Былого. ***«В конце концов»***, — замечает он, и в его глазах вспыхивает блеск, — ***«они ведь так усердно трудятся, стараясь угодить мне»***
 
-### Strahd's Wager
-As he and the players approach Yester Hill, Strahd asks them—in a bored, disinterested tone—why he should allow them to meddle in the affairs of his servants at Yester Hill. “After all," he notes, with a gleam in his eyes, “they do work so *hard* in their efforts to please me."
+Как и при первой встрече с игроками, Страд с готовностью принимает любые разумные доводы, которые могут убедить его в необходимости сохранять нейтралитет, хотя при этом он снова наслаждается ролью адвоката дьявола в ходе разговора. В конечном итоге Страд может принять, среди прочего, следующие аргументы:
 
-As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
+- Как и в случае с Волентой, Страду, похоже, доставляет удовольствие наблюдать, как его слуги испытываются и получают вызов. Позволив игрокам сразиться с Лесным народом на Холме Былого, он получит дополнительную возможность увидеть это
+- Страд, по-видимому, достаточно заинтересован в игроках, чтобы лично пригласить их отужинать в своём замке. Убивать игроков сейчас, до того как у него появится возможность это сделать, было бы напрасной тратой
+- Винный Волшебник является экономической опорой баровийского сообщества. Лишение людей Страда вина причинило бы вред старинной и благородной семье и принесло бы печаль и отчаяние тем, кому они служат
 
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
-* Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
-* The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
-
-> [!abstract] **The Players Attack**
+> [!abstract] **Игроки атакуют**
 > If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
 > 
 > If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
