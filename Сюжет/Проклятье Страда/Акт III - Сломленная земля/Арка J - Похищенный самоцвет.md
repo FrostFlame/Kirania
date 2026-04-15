@@ -942,12 +942,13 @@ _**Веха.**_ Освобождение винодельни считается
 - Винный Волшебник является экономической опорой баровийского сообщества. Лишение людей Страда вина причинило бы вред старинной и благородной семье и принесло бы печаль и отчаяние тем, кому они служат
 
 > [!abstract] **Игроки атакуют**
-> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
-> 
-> If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
+> Если игроки в любой момент пытаются атаковать Страда или Буцефала, Буцефал немедленно использует реакцией способность _**Эфирный побег**_, переходя на Эфирный план и унося с собой Страда. В следующем раунде Страд вновь появляется верхом на Буцефале на небольшом расстоянии, после чего укоряет игроков за их поспешность и грубость
+>
+> Если затем игроки снова пытаются атаковать Страда или Буцефала, Страд больше не возвращается, вместо этого сразу направляясь на встречу с друидами Холма Былого
 
-If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
-# J5. Yester Hill
+Если игрокам удаётся убедить Страда позволить им сразиться с Лесным народом, достигнув подножия Холма Былого, Страд отмечает, что впечатлён их дерзостью, и предлагает следующую сделку: если игроки преуспеют в своей задаче, они могут встретиться с ним у подножия Шепчущей Стены к западу от Холма Былого после ритуала, где он предложит им дар — и поделится с ними секретом. (Если спросить, что игроки потеряют в случае неудачи, Страд лишь улыбается и замечает, что их «противник», вероятно, уже имеет планы на этот случай)
+
+# J5. Холм Былого
 The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
 
 <div class="description">
