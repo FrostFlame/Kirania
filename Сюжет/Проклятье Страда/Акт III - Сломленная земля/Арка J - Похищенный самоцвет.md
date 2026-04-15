@@ -28,7 +28,8 @@ _Приключение для пяти персонажей 5-го уровня
 - [ ] 5 ветвистых зараз
 - [ ] 2 роя ветвистых зараз
 - [ ] 2 друида нападающих
-- [ ] 1 друид натуралист
+- [ ] 13 друид натуралист
+- [ ] 1 берсерк
 - [ ] 1 древняя ветвистая зараза (?)
 - [ ] 1 рой воронов
 - [ ] [[Порошок исчезновения]]
@@ -949,38 +950,43 @@ _**Веха.**_ Освобождение винодельни считается
 Если игрокам удаётся убедить Страда позволить им сразиться с Лесным народом, достигнув подножия Холма Былого, Страд отмечает, что впечатлён их дерзостью, и предлагает следующую сделку: если игроки преуспеют в своей задаче, они могут встретиться с ним у подножия Шепчущей Стены к западу от Холма Былого после ритуала, где он предложит им дар — и поделится с ними секретом. (Если спросить, что игроки потеряют в случае неудачи, Страд лишь улыбается и замечает, что их «противник», вероятно, уже имеет планы на этот случай)
 
 # J5. Холм Былого
-The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
 
-<div class="description">
-<p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
-</div>
+Последний отрезок тропы, ведущей к Холму Былого, описан так
 
-When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
+>[!read]
+> Тропа, идущая через густой лес приводит на холм, покрытый мёртвой травой и грудами чёрных камней. Тёмные, нависающие тучи собираются над головами и, внезапно, молния бьёт прямиком в вершину холма. Западнее холма, земля, леса и небо скрываются за взмывшей до небес стеной тумана
+>
+> Вспышка яркого изумрудно-зелёного света внезапно мерцает внутри огромного кольца сложенных валунов на вершине холма. Пока вы наблюдаете, свет пульсирует, словно неровное сердцебиение — и вместе с тем медленно, постепенно и неуклонно усиливается. Вам кажется, что вы едва различаете далёкий звук барабанов, разносящийся по горам с вершины холма
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
+Когда игроки достигают Холма Былого, если Страд сопровождал их, он сообщает, что, если они хотят выполнить условия их сделки, им сперва нужно будет встретиться с ним в точке, где дорога выходит на вершину холма. (Он обещает игрокам, что ***«позаботится о том, чтобы празднество не началось без вас»***, добавляя: ***«Вам ведь нужно встретиться со своим противником»***) Если игроки соглашаются, он замечает, что «увидится с ними на вершине», и исчезает, уносясь верхом на Буцефале
 
-> [!info]+ **The Swarms of Ravens**
-> The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
+Игроки могут подняться по тропе прямо к Y3. Кругу друидов (стр. 197) на вершине холма. (Им не нужно проходить через курганы берсерков, описанные в Y2. Курганы берсерков (стр. 197), мимо которых они проходят во время подъёма на холм, чтобы сделать это)
+
+>[!курганы]
+> Грязные тропы пролегают между двух концентрических колец гуриев, окружающих склон холма. Каждый гурий – это десятифутовый курган из влажных чёрных камней
+
+> [!info]+ **Рой воронов**
+> **Стаи воронов**, сопровождавшие игроков к Холму Былого, следуют за ними в небе, но не вступают в бой. (Если игроки обращают на это внимание, Муриэль отмечает, что от них было бы мало пользы против более опасных противников, чем заразы винодельни, однако добавляет, что, по её мнению, они всё же смогут как-нибудь помочь)
 > 
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
-## J5a. Entering the Circle
-The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
+> Хотя вороны не будут выступать как участники боя, они могут помочь игрокам в сражении против Людмиллы и в попытках спастись в случае провала ритуала. См. [[#Провокации Людмиллы]] и [[#J5f. Остановка ритуала]] для получения дополнительной информации о том, как вороны помогают
 
-<div class="description">
-<p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
-</div>
+## J5a. Входя в Круг
 
-Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
+>[!круг друидов]
+> На вершине холма располагается широкое кольцо чёрных булыжников и валунов поменьше, которые вместе образуют некое подобие стены, окружающей поляну мёртвой травы. Молния время от времени бьёт в край этого кольца, освещая зловещую, пятидесятифутовую статую, построенную из плотно сплетенных веток и набитую чёрной землёй. Статуя олицетворяет великана в плаще и с клыками
+>
+> Глубокий изумрудно-зелёный свет вспыхивает из груди статуи, и нарастающий гул барабанного боя заполняет ваши уши. Когда вы проходите между валунами, к нему присоединяется пение, доносящееся от круга из 13 фигур, стоящих вокруг основания статуи. Над звериными масками, которые они носят, виднеются рога, волчьи шкуры и короны, сплетённые из зловещих шипов, а багровые отметины окрашивают их лица в кровавый оттенок. У всех них красные вуали закрывают нижние части лиц
 
-<div class="description">
-<p>You hear a familiar cold, resonant voice pierce the air above you. "Quite the impressive display, wouldn't you say?" intones Strahd von Zarovich.</p>
-<p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
-</div>
+Прямо у входа в кольцо чёрных валунов, образующих **Круг друидов**, и в **10 футах** над землёй парит Страд вон Зарович, восседающий на своём **кошмаре** Буцефале. Когда игроки входят в круг, если Страд замечает их, прочитайте:
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+>[!read]
+> Вы слышите знакомый холодный, гулкий голос, пронзающий воздух над вами. ***«Довольно впечатляющее зрелище, не так ли?»*** — произносит Страд вон Зарович
+>
+> Он восседает на своём пламенном скакуне, парящем почти в 10 футах над землёй прямо над вами. Его плащ мягко развевается в холодном воздухе, а на губах играет лёгкая, задумчивая улыбка, пока он перекатывает в руке небольшой предмет. ***«Людмила всегда любила устраивать представления»***
 
-> [!combat]- **Combat - The Ritual's Guards**  
+13 фигур вокруг основания статуи — это **13 друидов-натуралистов**. 3 фигуры, защищающие их, — 2 **друида-нападающих** и **1 берсерк**. Женщина — Людмила Вилисевич, одна из вампирских невест Страда
+
+> [!combat]- **Бой - Стража Ритуала**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Ireena Kolyana (CR 2), and Muriel Vinshaw (CR 2)
@@ -994,29 +1000,30 @@ The thirteen figures around the statue’s base are thirteen **druid naturalists
 > | Druid Assailant | 1 | 2 | 2 | 2 |
 > | Ludmilla Vilisevic | 1 | 1 | 1 | 1 |
 
-A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
-## J5b. Ludmilla's Challenge
-Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
+Игрок, успешно преуспевший в **проверке Восприятия Сл 14**, замечает, что предмет в руке Страда — это старая, но искусно вырезанная деревянная шахматная фигура: пешка
+
+## J5b. Вызов Людмиллы
+
+Вскоре после того, как игроки входят в круг, любые игроки, продолжающие смотреть на круг поющих друидов, видят, как Людмила оборачивается, замечает их и исчезает в завитке тумана. Затем она вновь появляется перед игроками таким же образом, стоя всего в **30 футах** от них
 
 ![[Ludmilla.png]]
-<span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Ludmilla Vilisevic**
-> **Roleplaying Information**
-> ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
+> [!profile]+ **Профиль: Людмилла Вилисевич**
+> **Информация для отыгрыша**
+> _**Резонанс.**_ Людмилла должна вызывать раздражение своим отказом позволить игрокам спровоцировать её (и очевидной неспособностью испытывать гнев), дискомфорт своей отстранённой и аналитической личностью, а также злость из-за её снисходительности и изощрённых оскорблений
+>
+> _**Эмоции.**_ Людмила чаще всего испытывает интерес, раздражение, задумчивость или (слегка) веселье
 > 
-> ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
+> _**Мотивации.**_ Людмила хочет постичь тайны магии и достаточно впечатлить Страда, чтобы стать его тайным советником, как когда-то был Хазан
 > 
-> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+> _**Вдохновения.**_ При отыгрыше Людмилы используйте образы Северуса Снейпа (_Гарри Поттер_), Шерлока Холмса (_Шерлок_) и доктора Грегори Хауса (_Доктор Хаус_)
+>
+> **Информация о персонаже**
+> _**Личность.**_ Для окружающих Людмилла — амбициозный, отстранённый и социопатичный маг, стремящийся к обретению знаний и силы любой ценой
+>
+> _**Мораль.**_ В бою Людмилла стремится заманить противника в заранее подготовленную ловушку, отступая, если её превосходят и она не может вести бой с каким-либо преимуществом
 > 
-> ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Ludmilla is an ambitious, detached, and sociopathic mage, dedicated to attaining knowledge and power at all costs.
-> 
-> ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
-> 
-> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+> _**Отношения.**_ Людмилла — вторая по старшинству вампирская невеста Страда и глава шабаша **баровийских ведьм** в замке Рэйвенлофт
 
 Unless the players intervene, the following scene then unfolds:
 
@@ -1120,7 +1127,7 @@ The statistics of the wall of roots are as follows:
 > Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Dexterity saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
 > 
 > While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
-### Ludmilla's Provocations
+### Провокации Людмиллы
 Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
 <div class="statblock">
@@ -1237,7 +1244,8 @@ Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes th
 * If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
 
 A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
-## J5f. Stopping the Ritual
+
+## J5f. Остановка ритуала
 The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle. 
 
 The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue. 
