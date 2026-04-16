@@ -1,4 +1,4 @@
-_Приключение для пяти персонажей 5-го уровня_
+_Приключение для 5 персонажей 5-го уровня_
 
 В этой арке, в первое утро после первого полнолуния игроков в Баровии, к ним подходит Урвин Мартков и просит их расследовать загадочную нехватку поставок вина с винодельни Волшебник Вин, расположенной к юго-западу. Если игроки принимают его задание, Урвин просит их позволить Муриэль Виншоу — сотруднице винодельни — сопровождать их в путешествии. (Муриэль, разумеется, является тайным вервороном и членом Хранителей Пера, которой поручено передать пророчество Страда Давиану Марткову, лидеру ордена)
 
@@ -36,6 +36,7 @@ _Приключение для пяти персонажей 5-го уровня
 - [ ] [[Посох Галтиаса]]
 - [ ] 1 большой стрикс
 - [ ] 2 роя малый стриксов
+- [ ] Людмилла
 
 # J1. Таверна Синяя Вода
 ### J1a. Просьба Урвина
@@ -1025,11 +1026,13 @@ _**Веха.**_ Освобождение винодельни считается
 > 
 > _**Отношения.**_ Людмилла — вторая по старшинству вампирская невеста Страда и глава шабаша **баровийских ведьм** в замке Рэйвенлофт
 
-Unless the players intervene, the following scene then unfolds:
+Если игроки не вмешаются, далее разворачивается следующая сцена
 
-* Ludmilla greets Strahd respectfully, calling him "my Lord," and notes with concern—and a slight edge to her voice—that she had not known he would be bringing additional company.
-* Strahd gestures with a flourish toward the players, and notes, with obvious relish, that he had no hand in their arrival—but that he is intrigued by what Ludmilla will do next.
-* Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
+- Людмилла почтительно приветствует Страда, называя его «мой господин», и с тревогой — и лёгкой резкостью в голосе — отмечает, что не знала, что он приведёт с собой дополнительную компанию
+- Страд с изящным жестом указывает на игроков и с явным удовольствием замечает, что не имеет отношения к их появлению — но ему весьма интересно, что Людмила предпримет дальше
+- Людмилла замечает пешку в руке Страда и резко каменеет лицом, её голос становится резким и холодным. Затем она с отвращением оглядывает игроков, презрительно кривя губы, и говорит: ***«Ещё одна из ваших игр, значит. Хорошо, мой господин. Уверяю вас, вы будете разочарованы»***
+- Страд слегка улыбается Людмилле и говорит: ***«Возможно. Но я всегда наслаждался возможностью быть удивлённым»***. Затем он и Буцефал исчезают, переходя на Эфирный план с помощью способности _**эфирный шаг**_ Буцефала
+
 * Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
 
 Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
