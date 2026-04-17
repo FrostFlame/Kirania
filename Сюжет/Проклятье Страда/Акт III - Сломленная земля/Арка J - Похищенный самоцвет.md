@@ -1050,33 +1050,35 @@ _**Веха.**_ Освобождение винодельни считается
 
 Людмилла завершает, предупреждая игроков, что, хотя они могут считать её своим врагом, их «вороньи друзья» не заслуживают доверия. ***«Какие ещё секреты они от вас скрывают, интересно?»*** — спрашивает она, задумчиво глядя на Муриэль (если та присутствует). ***«Но хороший образец никогда не хранит свои тайны долго»***
 
-## J5c. The Ritual Begins
-As the conversation winds down, or if the players attack or attempt to bypass Ludmilla, read:
+## J5c. Начало Ритуала
 
-<div class="description">
-<p>The dark storm roils overhead — and a single bolt of lightning lances down from the boiling clouds, surrounding the statue in a nimbus of white, blinding light. A deep groan seems to shudder through the very earth of the hill, and the wind around you whips up into a hot and heavy gale, tearing through the tall grass as it shrieks across the hilltop.</p>
-<p>The sounds of chanting and drum beats intensify—and sparks of deep, viridian energy begin to arc across the earth and toward the statue.</p>
-</div>
+Когда разговор подходит к концу, или если игроки атакуют либо пытаются обойти Людмиллу, прочитайте:
 
-The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
+>[!read]
+> Тёмная буря клубится над головой — и одиночная молния пронзает кипящие облака, окутывая статую ореолом ослепительно-белого света. Глубокий стон, кажется, проходит через саму землю холма, и ветер вокруг вас вздымается в горячий и тяжёлый шквал, разрывая высокую траву, пронзительно завывая над вершиной холма
+>
+> Звуки пения и ударов барабанов усиливаются — и искры насыщенной изумрудной энергии начинают пробегать по земле, устремляясь к статуе
 
-> [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. At the end of each round, if fewer than twelve druids are able to chant (e.g., because some druids have broken concentration or died, or due to a *silence* spell), roll a d12. 
-> 
-> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
-> 
-> The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
+Удар молнии знаменует истинное начало ритуала друидов. Как только ритуал начинается, **13 друидов-натуралистов**, окружающих статую, каждым **действием** в свой ход продолжают пение и бьют в барабаны. Участвуя в ритуале, друид **не может двигаться** или использовать **бонусные действия** или **реакции**
 
-> [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
-> 
-> If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
-> 
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
-> 
-> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
-> 
-> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
+> [!info]+ **Завершение Ритуала**
+> Чтобы завершить ритуал, друиды должны использовать свои действия для пения в течение **12 раундов**, при этом как минимум 1 из них должен петь каждый раунд. В конце каждого раунда, если петь способны **менее 12 друидов** (например, потому что некоторые друиды **потеряли концентрацию** или **погибли**, либо из-за заклинания _Тишина_), бросьте **к12**
+>
+> Если результат превышает число поющих друидов в этом раунде, из статуи вырываются искры зелёной молнии, поражая всех существ внутри стены корней. Каждая цель должна преуспеть в **спасброске Телосложения Сл 17** или получить **7 (2к6) урона электричеством** и стать [[ДМовские заметки#Потрясение|потрясённой]] **до начала своего следующего хода**
+>
+> **Во второй раз**, когда срабатывает эта молния, урон увеличивается до **10 (3к6) урона электричеством**. **В третий раз**, когда срабатывает эта молния, ритуал рушится, высвобождая свою разрушительную энергию, как описано ниже в **Остановке ритуала**
+
+> [!abstract]+ **Ритуал завершён**
+> Если друиды успешно завершают ритуал, появляется **древесная зараза** Зимнедрево. **30-футовое** существо, похожее на растение, вырывается из статуи, разметав ветви и землю. Существо напоминает мёртвого трента, из которого пробивается зеленоватое свечение. Затем друиды-натуралисты поворачиваются, чтобы атаковать игроков, в то время как Зимнедрево начинает своё шествие к винодельне «Винный Волшебник». (Если игроки не остановят его, Зимнедрево уничтожает винодельню, после чего возвращается на Холм Былого, где остаётся в спящем состоянии рядом со своим местом рождения, ожидая дальнейших приказов)
+>
+> Если игроки побеждены, друиды стабилизируют их и приводят к Древу Галтиас в качестве жертв. Перед тем как связать игроков, друиды убирают любое видимое или легко обнаруживаемое оружие, фокусировки, магические предметы и контейнеры (например, рюкзаки) с их тел, после чего складывают их у основания статуи, которая когда-то удерживала Зимнедрево
+>
+> Все друиды затем покидают холм, кроме Сварога, который закапывает себя в грязь неподалёку. **2 берсерка** также закапывают себя в грязь неподалёку. Игроки должны преуспеть в **проверке Скрытности Сл 11**, чтобы забрать свои вещи, не разбудив Сварога или его стражей берсерков
+>
+> Когда игроки приходят в сознание, они обнаруживают себя обезоруженными и привязанными к стволу Древа Галтиас, а из основания дерева выходят сети мелких чёрных корней, проникающих в их кожу. Игрок считается [[ДМовские заметки#Опутанный|опутанным]], пока связан таким образом, и [[ДМовские заметки#Отравление|отравленным]], пока корни остаются в его коже. Сеть корней имеет **КД 10**, **10 хитов** и **восстанавливает 10 хитов** на **инициативе 20** каждого раунда, если у неё есть как минимум 1 хит и она не находится под солнечным светом или в проточной воде
+>
+> **В конце каждого часа**, пока игрок заражён корнями дерева, он должен преуспеть в **спасброске Телосложения Сл 17** или получить **1к6 некротического урона**. Его **максимум хитов уменьшается** на величину некротического урона. Это уменьшение длится до тех пор, пока игрок не завершит **продолжительный отдых**, и игрок умирает, если этот эффект уменьшает его максимум хитов до 0
+
 ## J5d. The Druidic Guards
 Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
 <br>
