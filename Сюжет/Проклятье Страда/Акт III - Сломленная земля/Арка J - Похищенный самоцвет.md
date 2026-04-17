@@ -1141,59 +1141,65 @@ _**Веха.**_ Освобождение винодельни считается
 
 Как только игроки проходят через покров тумана, Людмила также вступает с ними в бой, активировав свой **покров теней**. (Благодаря её автоматической особенности **Непредвиденные обстоятельства**, Людмила телепортируется с поля боя и спасается бегством, если её первая фаза снижена до 0 хитов)
 
-<div class="statblock">
-    <h2>Людмилла, Первая форма</h2>
-    <em>Средняя Нежить, нейтрально-злая</em>
-    <hr>
-    <strong>КД</strong> 15 (естественный доспех)
-    <br>
-    <strong>Хиты</strong> 120 (16к8 + 48)
-    <br>
-    <strong>Скорость</strong> 30 футов
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>СИЛ</th>
-                <th>ЛОВ</th>
-                <th>ТЕЛ</th>
-                <th>ИНТ</th>
-                <th>МДР</th>
-                <th>ХАР</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>16 (+3/+3)</td>
-                <td>16 (+3/+6)</td>
-                <td>16 (+3/+3)</td>
-                <td>18 (+4/+7)</td>
-                <td>10 (+0/+3)</td>
-                <td>12 (+1/+1)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Навыки</strong> Магия +7, Восприятие +3, Скрытность +6<br>
-    <strong>Сопротивление урону</strong> некротическому, дробящему, колющему и рубящему от немагического оружия<br>
-    <strong>Чувства</strong> пассивное Восприятие 13<br>
-    <strong>Языки</strong> Бездны, Общий, Драконий, Инфернальный<br>
-    <strong>ПО</strong> 8<br>
-    <strong>БМ</strong> +3
-    <hr>
-    <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
+##### Людмилла, Первая форма
+
+Средняя Нежить, нейтрально-злая
+
+---
+
+**КД** 15 (естественный доспех)
+**Хиты** 120 (16к8 + 48)
+**Скорость** 30 футов
+
+---
+
+|     |     | мод | спас |     |     | мод | спас |
+| :-: | :-: | :-: | :--: | :-: | :-: | :-: | :--: |
+| Сил | 16  | +3  |  +3  | Инт | 18  | +4  |  +7  |
+| Лов | 16  | +3  |  +6  | Мдр | 10  | +0  |  +3  |
+| Тел | 16  | +3  |  +3  | Хар | 12  | +1  |  +1  |
+
+---
+
+**Навыки** Магия +7, Восприятие +3, Скрытность +6
+**Сопротивление урону** некротическому, дробящему, колющему и рубящему от немагического оружия
+**Чувства** пассивное Восприятие 13
+**Языки** Бездны, Общий, Драконий, Инфернальный
+**ПО** 8
+**БМ** +3
+
+---
+
+***Дьявольское зрение.*** Людмила может видеть в темноте, как магической, так и немагической, на расстоянии до **120 футов**
+
+***Регенерация.*** Людмила **восстанавливает 10 хитов в начале своего хода**, если у неё есть как минимум 1 хит и она не находится под солнечным светом или в проточной воде. Если она получает **урон излучением** или **от святой воды**, эта особенность не действует в начале её следующего хода
+
+***Паучье лазание.*** Людмила может карабкаться по сложным поверхностям, включая перемещение вверх ногами по потолкам, без необходимости совершать проверку характеристики
+
+**_Чувствительность к солнечному свету._** Находясь под солнечным светом, Людмилла получает **20 урона излучением** в начале своего хода и имеет **помеху к броскам атаки** и **проверкам способностей**
+
+**_Быстрый захват._** Людмилла не тратит дополнительное движение, чтобы перемещать существо, захваченное ею, если захваченное существо того же размера или меньше
+
+***Форма тумана.*** Когда Людмилла опускается до **0 хитов**, её параметры мгновенно заменяются параметрами её второй формы. Её инициатива не меняется. Избыточный урон не переносится на её новую форму, но она **сохраняет все состояния**, которые у неё были в предыдущей форме
+
+###### Действия
+
+***Масло.*** Людмила накладывает _Скольжение_ **Сл 15** в **квадрате 20 футов**
+
+***Приказ.*** Людмилла накладывает _Приказ_ **Сл 15** на 2 существ одним приказом. Если она в пределах 10 футов от обеих целей, она может произнести до 3 слов, а не 1
+
+***Гипнотический узор (2/день).*** Людмилла накладывает _Гипнотический узор_ **Сл 15**
+
+***Перемещающая дверь (1/день).*** Людмилла накладывает *Перемещающую дверь*
+
+###### Бонусные действия
+
+***Покров теней (1/день).*** Людмила призывает вокруг себя покров теней, который длится **8 часов** или пока она не рассеет его бонусным действием. Пока покров действует, она получает скорость полёта 50 футов (парение) и имеет сопротивление дробящему, колющему и рубящему урону, наносимому магическими и немагическими рукопашными атаками оружием. Если Людмила получает сопротивление урону таким образом, атакующий получает такой же урон того же типа.
+
+В первый раз, когда Людмила получает урон излучением или урон от святой воды, пока действует покров, он ослабевает, уменьшая её скорость полёта до 25 футов и заставляя её упасть на 20 футов. Во второй раз, когда Людмила получает урон излучением или урон от святой воды, пока действует покров, он немедленно исчезает
+
+
+Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br> The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes
     <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
     <h3>Reactions</h3>
     <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
