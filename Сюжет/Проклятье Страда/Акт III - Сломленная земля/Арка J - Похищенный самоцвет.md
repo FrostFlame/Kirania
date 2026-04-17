@@ -1142,45 +1142,44 @@ _**Веха.**_ Освобождение винодельни считается
 Как только игроки проходят через покров тумана, Людмила также вступает с ними в бой, активировав свой **покров теней**. (Благодаря её автоматической особенности **Непредвиденные обстоятельства**, Людмила телепортируется с поля боя и спасается бегством, если её первая фаза снижена до 0 хитов)
 
 <div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
+    <h2>Людмилла, Первая форма</h2>
+    <em>Средняя Нежить, нейтрально-злая</em>
     <hr>
-    <strong>Armor Class</strong> 15 (natural armor)
+    <strong>КД</strong> 15 (естественный доспех)
     <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
+    <strong>Хиты</strong> 120 (16к8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Скорость</strong> 30 футов
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>СИЛ</th>
+                <th>ЛОВ</th>
+                <th>ТЕЛ</th>
+                <th>ИНТ</th>
+                <th>МДР</th>
+                <th>ХАР</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>18 (+4)</td>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>16 (+3/+3)</td>
+                <td>16 (+3/+6)</td>
+                <td>16 (+3/+3)</td>
+                <td>18 (+4/+7)</td>
+                <td>10 (+0/+3)</td>
+                <td>12 (+1/+1)</td>
             </tr>
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> passive Perception 13<br>
-    <strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
-    <strong>Challenge Rating</strong> 8<br>
-    <strong>Proficiency Bonus</strong> +3
+    <strong>Навыки</strong> Магия +7, Восприятие +3, Скрытность +6<br>
+    <strong>Сопротивление урону</strong> некротическому, дробящему, колющему и рубящему от немагического оружия<br>
+    <strong>Чувства</strong> пассивное Восприятие 13<br>
+    <strong>Языки</strong> Бездны, Общий, Драконий, Инфернальный<br>
+    <strong>ПО</strong> 8<br>
+    <strong>БМ</strong> +3
     <hr>
     <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
