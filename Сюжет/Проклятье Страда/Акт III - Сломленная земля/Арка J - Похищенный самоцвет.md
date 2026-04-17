@@ -1139,7 +1139,7 @@ _**Веха.**_ Освобождение винодельни считается
 
 ### Провокации Людмиллы
 
-Как только игроки проходят через покров тумана, Людмила также вступает с ними в бой, активировав свой **покров теней**. (Благодаря её автоматической особенности **Непредвиденные обстоятельства**, Людмила телепортируется с поля боя и спасается бегством, если её первая фаза снижена до 0 хитов)
+Как только игроки проходят через покров тумана, Людмила также вступает с ними в бой, активировав свой **покров теней**. (Благодаря её автоматической особенности **Предосторожность**, Людмила телепортируется с поля боя и спасается бегством, если её первая фаза снижена до 0 хитов)
 
 ##### Людмилла, Первая форма
 
@@ -1190,26 +1190,30 @@ _**Веха.**_ Освобождение винодельни считается
 
 ***Гипнотический узор (2/день).*** Людмилла накладывает _Гипнотический узор_ **Сл 15**
 
-***Перемещающая дверь (1/день).*** Людмилла накладывает *Перемещающую дверь*
+***Переносящая дверь (1/день).*** Людмилла накладывает *Переносящую дверь*
 
 ###### Бонусные действия
 
-***Покров теней (1/день).*** Людмила призывает вокруг себя покров теней, который длится **8 часов** или пока она не рассеет его бонусным действием. Пока покров действует, она получает скорость полёта 50 футов (парение) и имеет сопротивление дробящему, колющему и рубящему урону, наносимому магическими и немагическими рукопашными атаками оружием. Если Людмила получает сопротивление урону таким образом, атакующий получает такой же урон того же типа.
+***Покров теней (1/день).*** Людмила призывает вокруг себя покров теней, который длится **8 часов** или пока она не рассеет его **бонусным действием**. Пока покров действует, она получает **скорость полёта 50 футов** (парение) и имеет **сопротивление дробящему**, **колющему** и **рубящему урону**, наносимому магическими и немагическими рукопашными атаками оружием. Если Людмила получает такой урон, **атакующий получает такой же урон** того же типа
 
-В первый раз, когда Людмила получает урон излучением или урон от святой воды, пока действует покров, он ослабевает, уменьшая её скорость полёта до 25 футов и заставляя её упасть на 20 футов. Во второй раз, когда Людмила получает урон излучением или урон от святой воды, пока действует покров, он немедленно исчезает
+**В первый раз**, когда Людмила получает **урон излучением** или от **святой воды**, пока действует покров, он ослабевает, уменьшая её **скорость полёта до 25 футов** и заставляя её **упасть на 20 футов**. **Во второй раз**, когда Людмила получает **урон излучением** или от **святой воды**, пока действует покров, он немедленно **исчезает**
+
+***Опутывающая слизь.*** Если Людмилла наложила _Скольжение_, она накладывает _Паутину_ **Сл 15** на ту же область
+
+###### Реакции
+
+Людмилла может совершать до **3 реакций за раунд**, но только 1 за ход. Если Волента должна потерять свои **реакции**, она теряет только **1 реакцию** вместо всех
+
+***Туманный шаг.*** В ответ на получение урона, Людмилла использует _Туманный шаг_
+
+***Разрушение заклинания (3/день).*** *Заклинание 3-го уровня:* **60 футов**, **С**, **Мгновенно**. _Эффект:_ Людмилла пытается отвлечь существо в процессе накладывания заклинания. Если существо накладывает заклинание **3-го уровня** или ниже, оно должно совершить **спасбросок Сл 15**, используя заклинательную характеристику. При **провале** заклинание существа не срабатывает и не оказывает никакого эффекта
+
+***Репрессия мага.*** В ответ на **промах** по ней **атакой заклинанием** или **успешный спасбросок против заклинания**, Людмила может немедленно заставить заклинателя совершить **спасбросок Телосложения Сл 15**, или он получит **2к6 силового урона**
+
+***Непредвиденные обстоятельства (1/день).*** Если Людмилла должна опуститься до 0 хитов в результате получения урона, срабатывает заклинание *Предосторожность*, позволяющее ей получить эффекты заклинания _Переносящая дверь_. (Поскольку Людмила не накладывает заклинание в момент своей реакции, его нельзя отменить противодействием)
 
 
-Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br> The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
-</div>
-
-> [!combat]- **Combat - The Second Bride**  
+> [!combat]- **Бой - Вторая Невеста**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Muriel Vinshaw (CR 1), Ireena Kolyana (CR 2)
