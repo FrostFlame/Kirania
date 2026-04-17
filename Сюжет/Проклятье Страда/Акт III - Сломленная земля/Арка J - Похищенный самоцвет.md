@@ -1263,9 +1263,9 @@ _**Веха.**_ Освобождение винодельни считается
 
 Друиды должны использовать свои действия в каждый ход, чтобы произносить слова ритуала, что требует их концентрации, как если бы они концентрировались на заклинании. Пока они таким образом произносят заклинание, друиды не могут использовать бонусные действия или реакции. Друиды также не осмеливаются накладывать гремящий взрыв или другие заклинания, наносящие урон, внутри круга, опасаясь повредить статую
 
-The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue. 
+Когда игроки **впервые входят в круг**, тринадцатый друид, [[Сварог]], прекращает пение и вступает в бой. Бросьте **инициативу** для Сварога
 
-When the players first enter the circle, the thirteenth druid, Svarog, ceases chanting and enters combat. Roll initiative for Svarog.
+Сварог имеет характеристики друида-натуралиста, за исключением того, что он получает следующие особенности:
 
 Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
 
