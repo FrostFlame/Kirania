@@ -1105,10 +1105,12 @@ _**Веха.**_ Освобождение винодельни считается
 > - **12 друидов-натуралистов** окружают статую, каждый из которых стоит в **10 футах** от статуи. Сварог, **тринадцатый друид-натуралист**, стоит между ними
 > - стена корней **толщиной 15 футов** окружает круг друидов, при этом внутренняя кромка стены находится в **5 футах** от друидов
 > - Тонкое кольцо тумана Людмилы начинается в **20 футах** от внешнего края стены корней
-> 
-> * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
-> * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
-### The Wall of Roots
+> - Людмила остаётся над стеной корней и внутри круга, ограниченного кольцом тумана
+
+### Стена корней
+
+
+
 The first time that a player passes through Ludmilla’s shroud of mist, read:
 
 <div class="description">
