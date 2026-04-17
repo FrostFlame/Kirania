@@ -1247,18 +1247,15 @@ _**Веха.**_ Освобождение винодельни считается
 Каждый раз, когда Муриэль получает **колющий** или **рубящий урон** (например, от особенности **покрова теней** Людмилы), кровь из её ран проливается на землю Холма Былого внизу. Прочитайте:
 
 >[!read]
-> 
+> Кровь Муриэль проливается на землю, образуя багровые лужи на грязной почве. Вы видите, как из стены корней вырываются небольшие чёрные корни и пронзают поверхность луж, а по их длине начинают перемещаться вздутия жидкости, словно они жадно впитывают пролитую кровь
 
-<p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
-</div>
+Каждая клетка **5x5 футов** в пределах **30 футов** от земли под Муриэль затем подвергается следующим эффектам:
 
-Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes the following effects:
+- Если клетка содержит сегмент **стены**, он **восстанавливает 10 хитов**. (Сегмент восстанавливает хиты даже если его особенность регенерации в данный момент не действует)
+- Если ранее в клетке находился сегмент стены, но теперь она пуста, эта клетка получает эффекты заклинания _Поросль шипов_
+- Если ранее в клетке находился сегмент стены и сейчас в ней действует эффект заклинания _Поросль шипов_, эффект заменяется сегментом стены с **5 хитами**
 
-* If the square contains a wall segment, it regains 10 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
-* If the square previously contained a wall segment but is now empty, that square gains the effects of a *spike growth* spell.
-* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
-
-A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
+Игрок может убедить Муриэль прекратить атаку на Людмилу, преуспев в **проверке Убеждения Сл 20**, **с преимуществом**, если игрок упоминает память Элрика и призывает Муриэль не стремиться к мести. (Проверка **автоматически успешна**, если Муриэль и игрок ранее сблизились на почве пережитой утраты) Эта проверка не требует действия
 
 ## J5f. Остановка ритуала
 The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle. 
