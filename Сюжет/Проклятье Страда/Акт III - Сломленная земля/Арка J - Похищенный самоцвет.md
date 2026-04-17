@@ -1090,19 +1090,22 @@ _**Веха.**_ Освобождение винодельни считается
 
 ## J5e. Баррикада Людмилы
 
-Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
+Как только игроки обходят или побеждают друидов и берсерка, охраняющих вход в круг, Людмила и её союзники создают 2 барьера, чтобы их задержать: **покров тумана**, а затем **стену корней**
 
-### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
- 
-A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
+### Покров тумана
 
-> [!info]+ **Laying Out the Battlefield**
-> Once the players move through the ring of mist, the structure of the battlefield is as follows:
+Этот полый цилиндр серого тумана имеет **радиус 60 футов** и **высоту 150 футов**, а его непрозрачные «занавесообразные» края **толщиной 15 см** скрывают внутреннюю часть, которая заполнена лёгким безвредным туманом и является [[ДМовские заметки#Заслонённая область|слегка заслонённой]]. Цилиндр длится **10 минут** или до тех пор, пока Людмила не рассеет его **бонусным действием**. (Поддержание покрова не требует концентрации Людмилы)
+
+Существо, не являющееся нежитью, которое впервые в ход соприкасается с туманом, должно преуспеть в **спасброске Телосложения Сл 15** или получить **3к6 некротического урона** и стать [[ДМовские заметки#Замедление|замедленным]] **до начала своего следующего хода**
+
+> [!info]+ **Поле боя**
+> Как только игроки проходят через кольцо тумана, структура поля боя выглядит следующим образом:
 > 
-> * The Huge statue of Strahd stands at the center of the ring.
-> * Twelve **druid naturalists** encircle the statue, with each druid standing 10 feet from the statue. Svarog, a thirteenth **druid naturalist**, stands between them.
-> * The fifteen-foot-thick wall of roots surrounds the circle of druids, with the wall’s inner edge five feet away from the druids.
+> - Огромная статуя Страда стоит в центре круга
+> - **12 друидов-натуралистов** окружают статую, каждый из которых стоит в **10 футах** от статуи. Сварог, **тринадцатый друид-натуралист**, стоит между ними
+> - стена корней **толщиной 15 футов** окружает круг друидов, при этом внутренняя кромка стены находится в **5 футах** от друидов
+> - Тонкое кольцо тумана Людмилы начинается в **20 футах** от внешнего края стены корней
+> 
 > * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
 > * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
 ### The Wall of Roots
