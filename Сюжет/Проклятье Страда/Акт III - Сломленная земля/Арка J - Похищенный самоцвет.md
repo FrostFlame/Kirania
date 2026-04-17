@@ -1089,7 +1089,9 @@ _**Веха.**_ Освобождение винодельни считается
 > Область, охватываемая Кругом друидов Y3 (стр. 197), имеет примерно **125 футов в радиусе**. Игрокам необходимо пройти примерно **60 футов** от точки входа в круг — где берсерк и друиды-нападающие препятствуют им — чтобы достичь края **покрова тумана** Людмилы
 
 ## J5e. Баррикада Людмилы
+
 Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
+
 ### The Shroud of Mist
 This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
  
