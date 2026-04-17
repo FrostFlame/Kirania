@@ -1258,7 +1258,10 @@ _**Веха.**_ Освобождение винодельни считается
 Игрок может убедить Муриэль прекратить атаку на Людмилу, преуспев в **проверке Убеждения Сл 20**, **с преимуществом**, если игрок упоминает память Элрика и призывает Муриэль не стремиться к мести. (Проверка **автоматически успешна**, если Муриэль и игрок ранее сблизились на почве пережитой утраты) Эта проверка не требует действия
 
 ## J5f. Остановка ритуала
-The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle. 
+
+**13 друидов-натуралистов** внутри стены корней имеют скорость 0 на время ритуала, их ноги и ступни связаны корнями Древа Галтиас, которые соединяют их со статуей в центре круга
+
+Друиды должны использовать свои действия в каждый ход, чтобы произносить слова ритуала, что требует их концентрации, как если бы они концентрировались на заклинании. Пока они таким образом произносят заклинание, друиды не могут использовать бонусные действия или реакции. Друиды также не осмеливаются накладывать гремящий взрыв или другие заклинания, наносящие урон, внутри круга, опасаясь повредить статую
 
 The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue. 
 
