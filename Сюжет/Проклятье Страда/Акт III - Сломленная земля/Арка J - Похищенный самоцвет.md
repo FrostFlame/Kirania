@@ -1109,16 +1109,16 @@ _**Веха.**_ Освобождение винодельни считается
 
 ### Стена корней
 
+В первый раз, когда игрок проходит через покров тумана Людмилы, прочитайте:
 
+>[!read]
+> Друид в центре круга поднимает руки высоко вверх, сжимая в своих бледных костлявых пальцах тонкий каменно-серый жезл. По его жесту кольцо чёрных корней пульсирует, словно живое, дрожа и извиваясь, пока их почерневшая кора поднимается в воздух
+>
+> Шипы — длинные, зловещие и острые — вырываются с краёв корней, а на мягкой губчатой поверхности корней проступают капли алой крови. Сами корни начинают расти вертикально, закручиваясь и переплетаясь, пока не формируют стену тёмной, непроницаемой растительности **высотой 30 футов** и **глубиной 15 футов**. Чёрные корни торчат из неё и поднимаются в воздух, где дрожат и извиваются, словно скользкие, покрытые грязью щупальца
 
-The first time that a player passes through Ludmilla’s shroud of mist, read:
+Друид — это Сварог, а жезл, который он держит, тот самый, о котором упоминал Каван
 
-<div class="description">
-<p>A druid at the center of the circle lifts his hands high, clasping a thin, stone-gray wand in his pale, bony fingers. At his gesture, the ring of black roots pulsates as if alive, quivering and writhing as their blackened bark rises into the air.</p>
-<p>Thorns—long, wicked, and sharp—erupt from the roots' edges, even as droplets of crimson blood bead upon the roots' soft, spongy surfaces. The roots themselves grow vertically, twisting and intertwining, until they form a wall of dark, impenetrable foliage thirty feet high and fifteen feet deep. Black roots pierce from its sides and rise into the air above it, where they tremble and writhe like slick, muddy tendrils.</p>
-</div>
-
-The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
+Если Муриэль находится с игроками и получает некротический урон после прохождения через покров тумана Людмилы, игрок, наблюдающий за ней, замечает, что в начале её хода в следующем раунде она на мгновение выглядит удивлённой. (Муриэль обеспокоена тем, что некротический урон, наносимый туманом, по-видимому, подавляет её способность регенерации.)
 
 If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
 
