@@ -1265,12 +1265,7 @@ _**Веха.**_ Освобождение винодельни считается
 
 Когда игроки **впервые входят в круг**, тринадцатый друид, [[Сварог]], прекращает пение и вступает в бой. Бросьте **инициативу** для Сварога
 
-Сварог имеет характеристики друида-натуралиста, за исключением того, что он получает следующие особенности:
-
-Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
-
-* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
-* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
+Гигантская статуя отдалённо напоминает Страда вон Заровича. Внимательное рассмотрение показывает корни, торчащие из земли у её основания. Эти корни являются частью древа Галтиас. Они обвиваются вокруг статуи, давая дополнительную поддержку и прочность. Корни не только не дают опрокинуть статую, но и позволяют ей служить компонентом для ритуала, создающего древесную заразу. В «сердце» этого деревянного изваяния помещён волшебный самоцвет, украденный из винодельни «Винный Волшебник». У статуи **100 хитов**. Кроме того, часть груди статуи, содержащая самоцвет и находящаяся в **30 футах** над землёй, имеет **КД 10** и **10 хитов**, а также **иммунитет к урону ядом** и **психическому урону**. Самоцвет нельзя извлечь, пока грудь статуи не будет снижена до **0 хитов**, после чего самоцвет становится открытым
 
 The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
 
