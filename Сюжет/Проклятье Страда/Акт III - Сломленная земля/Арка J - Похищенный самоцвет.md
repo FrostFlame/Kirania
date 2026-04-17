@@ -1126,16 +1126,17 @@ _**Веха.**_ Освобождение винодельни считается
 - **Регенерация сегментов.** Сегмент стены **восстанавливает 10 хитов** на **инициативе 20**, если у него есть как минимум 1 хит и он не находится под солнечным светом. Если сегмент получает **урон излучением** или **огнём**, эта особенность не действует в следующем раунде. Снижение хитов сегмента до 0 уничтожает его
 - **Гневные корни.** Существо, кроме Людмилы, которое **впервые за ход** перемещается **вдоль** внешнего края стены или **заканчивает там ход**, должно совершить **спасбросок Ловкости Сл 17**, так как длинные шипастые корни вырываются из поверхности стены. (Существо, перемещающееся вдоль внутреннего края стены — например, по коридору, прорубленному атаками игроков, — не подвергается атаке.) При **провале** существо оказывается [[ДМовские заметки#Опутанный|опутанным]] корнями (освобождение **Сл 17**) и получает **1к6 дробящего урона + 2к6 колющего урона в начале каждого своего хода**. Пучок опутывающих корней, который получает урон отдельно от своего сегмента стены, имеет **КД 15**, **10 хитов**, **уязвимость к урону излучением** и **иммунитет к колющему** и **психическому урону**
 
-> [!info]+ **Spirit Guardians**
-> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
+> [!info]+ **Духовные стражи**
+> Стена корней получает урон от Духов-хранителей и других заклинаний или способностей, которые срабатывают **в начале хода существа**, на **инициативе 0** каждого раунда
 
-> [!info]+ **Moving Through the Wall**
-> A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+> [!info]+ **Продвижение через стену**
+> Существо может перемещаться сквозь стену корней, хотя медленно и болезненно. За каждый **1 фут** перемещения через стену существо должно тратить **4 фута** движения. Кроме того, **в первый раз за ход**, когда существо входит в стену или **заканчивает там ход**, оно должно совершить **спасбросок Ловкости Сл 17**. При **провале** оно получает **7к8 рубящего урона**, а при **успехе** — **половину**
 
-> [!info]+ **Flying Over the Wall**
-> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Dexterity saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
-> 
-> While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
+> [!info]+ **Перелёт через стену**
+> Когда существо, кроме Людмилы, **перелетает над стеной впервые за ход** или **заканчивает свой ход**, если оно находится в пределах **300 футов от стены**, длинные чёрные корни вырываются из стены и обвиваются вокруг существа, удерживая его на месте. Существо должно преуспеть в **спасброске Ловкости Сл 17** или быть [[ДМовские заметки#Опутанный|опутанным]] (освобождение **Сл 17**) и [[ДМовские заметки#Опрокинутый|упасть ничком]] на землю ниже. (Существо получает **урон от падения** как обычно)
+>
+> Пока существо [[ДМовские заметки#Опутанный|опутано]] таким образом, оно получает **1к6 дробящего урона + 2к6 колющего урона в начале каждого своего хода**. Корни имеют **КД 15**, **20 хитов**, **уязвимость к урону излучением** и **иммунитет к колющему** и **психическому урону**
+
 ### Провокации Людмиллы
 Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
