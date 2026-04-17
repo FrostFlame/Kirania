@@ -23,6 +23,7 @@ _Приключение для 5 персонажей 5-го уровня_
 # Подготовка
 
 - [ ] Муриэль
+- [ ] Муриэль гибрид
 - [ ] 4 вьющиеся заразы
 - [ ] 6 игольчатых зараз
 - [ ] 5 ветвистых зараз
@@ -1148,7 +1149,7 @@ _**Веха.**_ Освобождение винодельни считается
 ---
 
 **КД** 15 (естественный доспех)
-**Хиты** 120 (16к8 + 48)
+**Хиты** 102 (16к8 + 48)
 **Скорость** 30 футов
 
 ---
@@ -1208,52 +1209,46 @@ _**Веха.**_ Освобождение винодельни считается
 
 ***Разрушение заклинания (3/день).*** *Заклинание 3-го уровня:* **60 футов**, **С**, **Мгновенно**. _Эффект:_ Людмилла пытается отвлечь существо в процессе накладывания заклинания. Если существо накладывает заклинание **3-го уровня** или ниже, оно должно совершить **спасбросок Сл 15**, используя заклинательную характеристику. При **провале** заклинание существа не срабатывает и не оказывает никакого эффекта
 
-***Репрессия мага.*** В ответ на **промах** по ней **атакой заклинанием** или **успешный спасбросок против заклинания**, Людмила может немедленно заставить заклинателя совершить **спасбросок Телосложения Сл 15**, или он получит **2к6 силового урона**
+***Репрессия мага.*** В ответ на **промах** по ней **атакой заклинанием** или **успешный спасбросок против заклинания**, Людмила может немедленно заставить заклинателя совершить **спасбросок Телосложения Сл 15**, или он получит **1к6 силового урона**
 
 ***Непредвиденные обстоятельства (1/день).*** Если Людмилла должна опуститься до 0 хитов в результате получения урона, срабатывает заклинание *Предосторожность*, позволяющее ей получить эффекты заклинания _Переносящая дверь_. (Поскольку Людмила не накладывает заклинание в момент своей реакции, его нельзя отменить противодействием)
 
+##### Остальное
 
 > [!combat]- **Бой - Вторая Невеста**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Muriel Vinshaw (CR 1), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 20%
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+
+В бою Людмила предпочитает сначала использовать **опутывающую слизь**, переходя к использованию **гипнотического узора** только тогда, когда большинство игроков либо вырвались, либо избежали её скольжения и паутины
+
+> [!abstract]+ **Гипнотический узор**
+> Если какие-либо игроки **проваливают спасбросок** против **гипнотического узора** Людмилы, 1 или несколько **роев ворон** спускаются, чтобы разбудить их на счёте **инициативе 20** следующего раунда, после чего возвращаются в небо
+
+В первый ход Людмилы в бою, если Муриэль присутствует, Людмила также пытается спровоцировать её. Далее происходит следующая последовательность, если игроки не вмешиваются
+
+>[!read]
+> Людмила с лёгким любопытством смотрит на Муриэль. ***«Я видела, как ты отреагировала, когда я упомянула смерть верворона. Ты знала его, возможно? Он был тебе близок?»***
 >
-> | Number of Players | Modification |
-> |-|-|
-> | 3 | Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). |
-> | 4 | Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). |
-> | 6 | Increase Ludmilla’s hit points to 136. |
+> Маленькая холодная улыбка искривляет губы Людмилы. ***«Хочешь знать, почему я препарирую своих подопытных? В их последние мгновения люди раскрывают своё истинное “я” — свои глубочайшие страхи и сожаления. В каком-то смысле я знаю его лучше, чем ты когда-либо знала»***
+>
+> В её глазах появляется расчётливый, хищный блеск. ***«Хочешь узнать, оказался ли он в конце трусом?»***
+>
+> Лицо Муриэль бледнеет, и она начинает дрожать, сотрясаясь от напряжения и ярости
 
-In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
+Игрок может отговорить Муриэль от атаки на Людмилу, преуспев в **проверке Убеждения Сл 25**, без необходимости тратить действие. В противном случае Муриэль на своём следующем ходу использует способность изменение формы, чтобы превратиться в гибрид человека и ворона, и немедленно атакует Людмилу своей мультиатакой коротким мечом. Прочитайте:
 
-> [!abstract]+ **Hypnotic Pattern**
-> If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
+>[!read]
+> С губ Муриэль срывается мучительный вой — губ, которые, как вы замечаете, внезапно становятся длиннее, твёрже и острыми, как птичий клюв. Звук рвущейся ткани пронзает воздух, когда два огромных чёрных крыла с синими кончиками вырываются из её спины, а её руки и ноги сморщиваются, превращаясь в искривлённые вороньи когти
+>
+> С криком ярости и бессильной злобы Муриэль расправляет крылья и взмывает в воздух
 
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+Каждый раз, когда Муриэль получает **колющий** или **рубящий урон** (например, от особенности **покрова теней** Людмилы), кровь из её ран проливается на землю Холма Былого внизу. Прочитайте:
 
-[^1]: Inspired by *The Dark Knight*
+>[!read]
+> 
 
-<div class="description">
-<p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
-<p>A small, cold smile twists Ludmilla's lips. "Do you want to know why I dissect my test subjects? In their final moments, people reveal their true selves—their deepest fears and regrets. In a way, I know him better than you ever did."</p>
-<p>A calculating, predatory glint appears in her eyes. "Would you like to know if he was a coward in the end?"</p>
-<p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
-</div>
-
-A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
-
-<div class="description">
-<p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered, blue-tipped wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
-<p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
-</div>
-
-Each time Muriel takes piercing or slashing damage (e.g. from Ludmilla's ***shroud of shadows*** feature), blood from her wounds spills onto the earth of Yester Hill below. Read:
-
-<div class=description>
 <p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
 </div>
 
