@@ -1233,15 +1233,16 @@ _**Веха.**_ Освобождение винодельни считается
 > [!warning]+ **Мечты игроков**
 > Перед проведением этой сцены попросите игроков предоставить информацию о глубочайших желаниях их персонажей, а затем используйте эту информацию, чтобы создать подходящую встречу, если этот персонаж войдёт в Шепчущую Стену
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+Эта область заменяет Шепчущую стену Y5 (стр. 200). Когда игроки впервые прибывают, прочитайте:
 
-<div class="description">
-<p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
-</div>
+>[!read]
+> Затенённая стена непроницаемого тумана возвышается здесь над землёй, устремляясь вверх, встречаясь с небесами далеко наверху. Странные формы и силуэты словно дрейфуют в её глубинах, а далёкие голоса, кажется, шепчут за пределами слышимости
 
-If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
+Если игроки недавно победили друидов и остановили их ритуал, Страда можно найти здесь, стоящим на коленях перед стеной, в 30 футах от Буцефала. (Игрок, который осмотрит Буцефала, заметит, что седельные сумки **кошмара** кажутся пустыми)
 
-As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
+Когда игроки приближаются, Страд поднимается и, кажется, убирает что-то в свой плащ. (Страд не станет раскрывать, что это, с насмешкой отчитывая игроков за просьбы о дарах, которые им не были даны.) Он тепло приветствует игроков и поздравляет их с победой над Лесным народом
+
+Если его спросить, сожалеет ли он о поражении Людмилы, Страд улыбается и утверждает, что ***«напоминание о её месте пойдёт ей на пользу»*** — хотя, по его словам, она вряд ли забудет своё унижение даже после того, как залижет свои раны
 
 If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
 
