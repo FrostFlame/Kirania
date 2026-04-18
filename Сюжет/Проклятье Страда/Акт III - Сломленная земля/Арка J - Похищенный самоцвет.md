@@ -1244,13 +1244,13 @@ _**Веха.**_ Освобождение винодельни считается
 
 Если его спросить, сожалеет ли он о поражении Людмилы, Страд улыбается и утверждает, что ***«напоминание о её месте пойдёт ей на пользу»*** — хотя, по его словам, она вряд ли забудет своё унижение даже после того, как залижет свои раны
 
-If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
+Страд благодарит игроков за участие в «его маленькой игре» и поздравляет их с выигранным пари. Он приветствует их у Шепчущей стены и сообщает, что предки Лесного народа считали её телом или гробницей древнего божества, последний вздох божественности которого породил этот туман
 
-Strahd thanks the players for playing "his little game," and congratulates them on winning their wager. He welcomes them to the Whispering Wall, and shares that the ancestors of the Forest Folk believed it to be the corpse or tomb of an ancient god, whose last exhalation of divinity produced this mist.
+Страд сообщает игрокам, что эти предки верили, будто Стена дарует видения глубочайших желаний того, кто войдёт в неё как паломник. ***«Знать себя и свои желания — великая сила»***, — мягко говорит он. ***«И всё же опасная»***
 
-Strahd informs the players that these ancestors believed the Wall to offer visions of one's deepest desires, if one entered it as a pilgrim. "It is a powerful thing, to know oneself and one's desires," he says, adding softly. "and yet dangerous, as well." 
+Если его спросить, входил ли он сам в Стену, Страд кивает. Если его спросить, что он видит внутри Стены, он отвечает, что видит ***«белую крепость над великим городом, где церковный колокол звенит сквозь туман»***. (Это видение родины Страда, хотя он не скажет об этом игрокам)
 
-If asked whether he has stepped into the Wall himself, Strahd nods. If asked what he sees within the Wall, he shares that he sees a "white fortress above a great city, with a church bell ringing through the fog." (This is a vision of Strahd's homeland, though he won't say so to the players.)
+Перед тем как вручить игрокам их награду за победу в пари Страда, Страд просит их выполнить одну простую задачу: они должны войти в Стену и увидеть свои глубочайшие желания. ***«Я не стану спрашивать, что вы увидите»***, — обещает Страд. ***«Желания человека принадлежат только ему самому»***
 
 Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "One's desires are their own."
 
