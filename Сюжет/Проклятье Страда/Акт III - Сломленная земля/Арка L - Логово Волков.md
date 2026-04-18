@@ -2,7 +2,7 @@ _An adventure for five 6th-level characters._
 
 In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 
-With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
+With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
 
 There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
 # L1. Finding the Den
@@ -20,7 +20,7 @@ In the former case, before she leads the players to the den, Ezmerelda proposes 
 > [!abstract]+ **Robbing Ez**
 > If the players stole from Ezmerelda's wagon in [[Арка E - Пропавшая Вистана]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
 # L2. Lake Baratok
-If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Арка E - Пропавшая Вистана]]. 
+If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Арка E - Пропавшая Вистана]]. 
 
 When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
 
@@ -145,17 +145,17 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 >
 > From that point forward, Kiril controlled his curse with ease. Emil and Zuleika harbored their own suspicions about his expedited growth, but chose not to raise them for fear of stoking division.
 >
-> Five years ago, when Skennis relinquished his leadership of the werewolf pack, Emil was his chosen heir to replace him. Kiril, however, jealous and drunk on his own bloodthirst and strength, challenged Emil to a brawl to decide the next leader. Emil won—but only just. 
+> Five years ago, when Skennis relinquished his leadership of the werewolf pack, Emil was his chosen heir to replace him. Kiril, however, jealous and drunk on his own bloodthirst and strength, challenged Emil to a brawl to decide the next leader. Emil won—but only just. 
 >
 > Enraged by his defeat, Kiril cut a bloody swathe across the lands beyond the mists. As he did, he acquired the nickname “the Black Terror"—so named for his distinctive charcoal-colored fur—and drew the attention of novice monster hunter Ezmerelda d’Avenir. Ezmerelda tracked Kiril to Barovia and sought to trap him, but Kiril outwitted her and devoured her leg. Only the timely arrival of Dmitri and Anna Krezkov saved Ezmerelda’s life, driving Kiril off as he retreated to the werewolves’ den.
 >
-> Three months ago, when Strahd awoke and Emil began discussing abandoning Barovia for greener pastures, Kiril saw a door of opportunity opening to him. He returned once more to the village of Berez, where he begged Baba Lysaga for Strahd’s favor and the strength to claim Emil’s place. 
+> Three months ago, when Strahd awoke and Emil began discussing abandoning Barovia for greener pastures, Kiril saw a door of opportunity opening to him. He returned once more to the village of Berez, where he begged Baba Lysaga for Strahd’s favor and the strength to claim Emil’s place. 
 >
 > Spying an opportunity to place the werewolf pack squarely beneath Strahd’s thumb, Lysaga granted Kiril a witch’s brew that bestowed upon him a monstrous transformation, grossly empowering his werewolf’s curse while driving his pride and bloodlust to new, terrifying heights. Through the aid of Ludmilla Vilisevic, one of Strahd’s vampiric brides, she also won Kiril the loyalty of a pack of Strahd’s **dire wolves**, which flanked him upon his return to the den.
 >
 > There, Kiril once more challenged Emil for the leadership of the pack—and this time, Kiril won. Victory did not sate Kiril’s appetite, however. Instead, Bianca has watched him sink ever-deeper into a haze of jealousy, rage, and paranoia. She fears for him, for herself, and for all of the people of Barovia who might fall prey to his madness.
 >
-> Bianca is well-aware of the true nature of Ezmerelda’s spell scrolls, and strongly suspects that the wagon belongs to the rumored Vistana “monster-hunter" who has been reported killing wolves and undead in the nearby woods. While she took the perfume and lyre out of nostalgia for her old life, she took the scrolls in the hopes that they might contain cures to her and Kiril’s lycanthropy. 
+> Bianca is well-aware of the true nature of Ezmerelda’s spell scrolls, and strongly suspects that the wagon belongs to the rumored Vistana “monster-hunter" who has been reported killing wolves and undead in the nearby woods. While she took the perfume and lyre out of nostalgia for her old life, she took the scrolls in the hopes that they might contain cures to her and Kiril’s lycanthropy. 
 >
 > Upon realizing that only one scroll contained the *remove curse* spell, however, she briefly pondered using it upon herself before ultimately declining to do so. Abandoning Kiril, at least for now, is not a path she’s willing to take.
 
@@ -174,7 +174,7 @@ As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in
 
 Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
 
-Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
+Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
 
 The campfire produces no smoke, and its light does not extend beyond the edges of the hollow. If asked her reason for making it, Ezmerelda reminds the players that werewolves can see in the dark. “Should we be unlucky enough for them to find us," she notes, grinning, “we’ll want to nullify every advantage they can get." (While Ezmerelda can cast the *darkvision* spell, she prefers to avoid spending spell slots without cause, especially if she might need them to fight werewolves and especially when accompanied by others.)
 
@@ -193,7 +193,7 @@ At the players’ choice, Ezmerelda can share one or both of the following stori
 
 <div class="description">
 <p>"It was nearly two decades ago that I first saw him. My family was travelling with the Radanavich clan—a Vistani caravan—when a Radanavich child fell deathly ill. The child’s parents took him to a local doctor—a man by the name of Rudolph van Richten.</p>
-<p>"Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance.  My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.</p>
+<p>"Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance.  My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.</p>
 <p>"Van Richten himself, desperate to rescue him, tracked our caravan down and bound my parents to a tree. After extracting his son's location, however, he departed without shedding a drop of their blood—an act of mercy I have never forgotten.</p>
 <p>"Ten years later, I ran from home, seeking to follow in Van Richten's footsteps. I found him a man changed—scarred and haunted by the years that had passed. His kindness, however, had never faded, and he agreed to take me on as his student. I spent two years with him, learning all I could about monsters and how to fight them, before we ultimately parted ways."</p>
 </div>
@@ -294,7 +294,7 @@ The wolf is Skennis, an old, blind **werewolf** with 36 hit points in wolf form.
 > [!lore]+ **Skennis**
 > Skennis was the leader of the werewolf pack until Emil succeeded him five years ago. Skennis’s health has deteriorated in his old age, however, claiming his sight and much of his mobility. Unable to hunt, Skennis relied on the rest of the pack for food—until Kiril claimed power three months ago.
 >
->  Since then, Kiril has kept Skennis confined to the den, and forbidden the other werewolves from feeding him (and any other “weak" wolves), still jealous and resentful of Skennis’s selection of Emil to succeed him instead of Kiril. A few sympathetic pack members continue to slip Skennis enough scraps to keep him alive, but it’s unclear whether Skennis’s bitterness, spite, and small shreds of hope will allow him to cling to life much longer.
+>  Since then, Kiril has kept Skennis confined to the den, and forbidden the other werewolves from feeding him (and any other “weak" wolves), still jealous and resentful of Skennis’s selection of Emil to succeed him instead of Kiril. A few sympathetic pack members continue to slip Skennis enough scraps to keep him alive, but it’s unclear whether Skennis’s bitterness, spite, and small shreds of hope will allow him to cling to life much longer.
 
 If a player approaches or inspects the wolf, read:
 
@@ -308,7 +308,7 @@ Skennis is not asleep, only dozing. The players must succeed on a group DC 14 De
 <p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
 </div>
 
-The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
+The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
 If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
@@ -404,10 +404,10 @@ Players who saw Ilya's sketch of Zuleika in [[Арка K - Павшее Абба
 <span class="credit">"Ilya Krezkov" and "Zuleika Toranescu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Kiril’s Prisoners**
-> ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
+> ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
 >
 > Although Kiril has forbidden the other members of the pack from feeding her, Mother Night sends rats each night bearing scraps for Zuleika to eat—not enough to keep her from starving, but enough to keep her from death.
-> 
+> 
 > ***Ilya.*** When Ilya’s rampage left him unconscious and alone in the Svalich Wood, Kiril and the werewolf pack smelled the curse of lycanthropy on him and dragged him back to the Werewolf Den to question him. When Ilya awoke, he swiftly recognized Zuleika from the Abbot’s disguise and accused her of causing his predicament.
 >
 > Upon learning that Ilya was Zuleika’s nephew, Kiril crafted a cruel plan. He imprisoned Ilya in a collar and cage and began to starve him of food, as he had Skennis and Zuleika. Eventually, Kiril knew, Ilya would have no choice but to consume the human flesh that had been left by his cage—and, when Ilya was ready, kill and devour a human captive, thereby embracing his curse the same way Kiril had.
@@ -455,7 +455,7 @@ If questioned, Zuleika can share the following information:
 
 * She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
 * Until recently, the werewolf pack ranged far and wide through the Mists for its hunts. In those days, the pack was a refuge—a family—for those who had been outcast from society for fear of their curse.
-* One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
+* One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
 * Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
 * Five years ago, the pack’s leader—an old **werewolf** named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
 * Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
@@ -506,7 +506,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
+Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
 
 Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
@@ -531,7 +531,7 @@ If Bianca notices and confronts the players, or if the players make no efforts t
 
 If the players attack Bianca, she immediately shatters the crystal. (See **Kiril’s Return** below for more information on Kiril’s arrival.) Bianca also shatters the crystal if the players fail to distract or satisfy her within a reasonable period of time. Bianca assumes her wolf form and flees if the players continue to attack.
 
-The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
+The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
 
 If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
 ## L4f. Kiril’s Return

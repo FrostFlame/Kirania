@@ -491,7 +491,7 @@ If the players reduce Strahd's second form to 155 hit points or fewer, he snarls
 
 <div class="description">
 <p>Strahd’s body trembles with rage. His batlike nostrils flare, his crimson eyes flashing as wounds across his body start to knit back together.</p>
-<p>"You may think your misguided courage will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose.".</p>
+<p>"You may think your misguided courage will save you," he hisses. “But as you sleep tonight, do not forget: Your souls are <em>mine</em>—and I shall claim them when I choose.".</p>
 </div>
 
 On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 

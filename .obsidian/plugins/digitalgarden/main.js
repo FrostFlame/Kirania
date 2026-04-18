@@ -1373,9 +1373,9 @@ var require_core = __commonJS({
              *     var instance = MyType.create();
              */
             create: function() {
-              var instance8 = this.extend();
-              instance8.init.apply(instance8, arguments);
-              return instance8;
+              var instance9 = this.extend();
+              instance9.init.apply(instance9, arguments);
+              return instance9;
             },
             /**
              * Initializes a newly created object.
@@ -1589,7 +1589,7 @@ var require_core = __commonJS({
             return new WordArray.init(words, hexStrLength / 2);
           }
         };
-        var Latin1 = C_enc.Latin1 = {
+        var Latin12 = C_enc.Latin1 = {
           /**
            * Converts a word array to a Latin1 string.
            *
@@ -1651,7 +1651,7 @@ var require_core = __commonJS({
            */
           stringify: function(wordArray) {
             try {
-              return decodeURIComponent(escape(Latin1.stringify(wordArray)));
+              return decodeURIComponent(escape(Latin12.stringify(wordArray)));
             } catch (e) {
               throw new Error("Malformed UTF-8 data");
             }
@@ -1670,7 +1670,7 @@ var require_core = __commonJS({
            *     var wordArray = CryptoJS.enc.Utf8.parse(utf8String);
            */
           parse: function(utf8Str) {
-            return Latin1.parse(unescape(encodeURIComponent(utf8Str)));
+            return Latin12.parse(unescape(encodeURIComponent(utf8Str)));
           }
         };
         var BufferedBlockAlgorithm = C_lib.BufferedBlockAlgorithm = Base.extend({
@@ -1957,6 +1957,432 @@ var require_sha1 = __commonJS({
       })();
       return CryptoJS.SHA1;
     });
+  }
+});
+
+// node_modules/crypto-js/enc-latin1.js
+var require_enc_latin1 = __commonJS({
+  "node_modules/crypto-js/enc-latin1.js"(exports, module2) {
+    (function(root, factory) {
+      if (typeof exports === "object") {
+        module2.exports = exports = factory(require_core());
+      } else if (typeof define === "function" && define.amd) {
+        define(["./core"], factory);
+      } else {
+        factory(root.CryptoJS);
+      }
+    })(exports, function(CryptoJS) {
+      return CryptoJS.enc.Latin1;
+    });
+  }
+});
+
+// node_modules/js-logger/src/logger.js
+var require_logger = __commonJS({
+  "node_modules/js-logger/src/logger.js"(exports, module2) {
+    (function(global2) {
+      "use strict";
+      var Logger12 = {};
+      Logger12.VERSION = "1.6.1";
+      var logHandler;
+      var contextualLoggersByNameMap = {};
+      var bind2 = function(scope, func) {
+        return function() {
+          return func.apply(scope, arguments);
+        };
+      };
+      var merge3 = function() {
+        var args = arguments, target = args[0], key, i;
+        for (i = 1; i < args.length; i++) {
+          for (key in args[i]) {
+            if (!(key in target) && args[i].hasOwnProperty(key)) {
+              target[key] = args[i][key];
+            }
+          }
+        }
+        return target;
+      };
+      var defineLogLevel = function(value, name) {
+        return { value, name };
+      };
+      Logger12.TRACE = defineLogLevel(1, "TRACE");
+      Logger12.DEBUG = defineLogLevel(2, "DEBUG");
+      Logger12.INFO = defineLogLevel(3, "INFO");
+      Logger12.TIME = defineLogLevel(4, "TIME");
+      Logger12.WARN = defineLogLevel(5, "WARN");
+      Logger12.ERROR = defineLogLevel(8, "ERROR");
+      Logger12.OFF = defineLogLevel(99, "OFF");
+      var ContextualLogger = function(defaultContext) {
+        this.context = defaultContext;
+        this.setLevel(defaultContext.filterLevel);
+        this.log = this.info;
+      };
+      ContextualLogger.prototype = {
+        // Changes the current logging level for the logging instance.
+        setLevel: function(newLevel) {
+          if (newLevel && "value" in newLevel) {
+            this.context.filterLevel = newLevel;
+          }
+        },
+        // Gets the current logging level for the logging instance
+        getLevel: function() {
+          return this.context.filterLevel;
+        },
+        // Is the logger configured to output messages at the supplied level?
+        enabledFor: function(lvl) {
+          var filterLevel = this.context.filterLevel;
+          return lvl.value >= filterLevel.value;
+        },
+        trace: function() {
+          this.invoke(Logger12.TRACE, arguments);
+        },
+        debug: function() {
+          this.invoke(Logger12.DEBUG, arguments);
+        },
+        info: function() {
+          this.invoke(Logger12.INFO, arguments);
+        },
+        warn: function() {
+          this.invoke(Logger12.WARN, arguments);
+        },
+        error: function() {
+          this.invoke(Logger12.ERROR, arguments);
+        },
+        time: function(label) {
+          if (typeof label === "string" && label.length > 0) {
+            this.invoke(Logger12.TIME, [label, "start"]);
+          }
+        },
+        timeEnd: function(label) {
+          if (typeof label === "string" && label.length > 0) {
+            this.invoke(Logger12.TIME, [label, "end"]);
+          }
+        },
+        // Invokes the logger callback if it's not being filtered.
+        invoke: function(level, msgArgs) {
+          if (logHandler && this.enabledFor(level)) {
+            logHandler(msgArgs, merge3({ level }, this.context));
+          }
+        }
+      };
+      var globalLogger = new ContextualLogger({ filterLevel: Logger12.OFF });
+      (function() {
+        var L = Logger12;
+        L.enabledFor = bind2(globalLogger, globalLogger.enabledFor);
+        L.trace = bind2(globalLogger, globalLogger.trace);
+        L.debug = bind2(globalLogger, globalLogger.debug);
+        L.time = bind2(globalLogger, globalLogger.time);
+        L.timeEnd = bind2(globalLogger, globalLogger.timeEnd);
+        L.info = bind2(globalLogger, globalLogger.info);
+        L.warn = bind2(globalLogger, globalLogger.warn);
+        L.error = bind2(globalLogger, globalLogger.error);
+        L.log = L.info;
+      })();
+      Logger12.setHandler = function(func) {
+        logHandler = func;
+      };
+      Logger12.setLevel = function(level) {
+        globalLogger.setLevel(level);
+        for (var key in contextualLoggersByNameMap) {
+          if (contextualLoggersByNameMap.hasOwnProperty(key)) {
+            contextualLoggersByNameMap[key].setLevel(level);
+          }
+        }
+      };
+      Logger12.getLevel = function() {
+        return globalLogger.getLevel();
+      };
+      Logger12.get = function(name) {
+        return contextualLoggersByNameMap[name] || (contextualLoggersByNameMap[name] = new ContextualLogger(merge3({ name }, globalLogger.context)));
+      };
+      Logger12.createDefaultHandler = function(options) {
+        options = options || {};
+        options.formatter = options.formatter || function defaultMessageFormatter(messages, context) {
+          if (context.name) {
+            messages.unshift("[" + context.name + "]");
+          }
+        };
+        var timerStartTimeByLabelMap = {};
+        var invokeConsoleMethod = function(hdlr, messages) {
+          Function.prototype.apply.call(hdlr, console, messages);
+        };
+        if (typeof console === "undefined") {
+          return function() {
+          };
+        }
+        return function(messages, context) {
+          messages = Array.prototype.slice.call(messages);
+          var hdlr = console.log;
+          var timerLabel;
+          if (context.level === Logger12.TIME) {
+            timerLabel = (context.name ? "[" + context.name + "] " : "") + messages[0];
+            if (messages[1] === "start") {
+              if (console.time) {
+                console.time(timerLabel);
+              } else {
+                timerStartTimeByLabelMap[timerLabel] = (/* @__PURE__ */ new Date()).getTime();
+              }
+            } else {
+              if (console.timeEnd) {
+                console.timeEnd(timerLabel);
+              } else {
+                invokeConsoleMethod(hdlr, [timerLabel + ": " + ((/* @__PURE__ */ new Date()).getTime() - timerStartTimeByLabelMap[timerLabel]) + "ms"]);
+              }
+            }
+          } else {
+            if (context.level === Logger12.WARN && console.warn) {
+              hdlr = console.warn;
+            } else if (context.level === Logger12.ERROR && console.error) {
+              hdlr = console.error;
+            } else if (context.level === Logger12.INFO && console.info) {
+              hdlr = console.info;
+            } else if (context.level === Logger12.DEBUG && console.debug) {
+              hdlr = console.debug;
+            } else if (context.level === Logger12.TRACE && console.trace) {
+              hdlr = console.trace;
+            }
+            options.formatter(messages, context);
+            invokeConsoleMethod(hdlr, messages);
+          }
+        };
+      };
+      Logger12.useDefaults = function(options) {
+        Logger12.setLevel(options && options.defaultLevel || Logger12.DEBUG);
+        Logger12.setHandler(Logger12.createDefaultHandler(options));
+      };
+      Logger12.setDefaults = Logger12.useDefaults;
+      if (typeof define === "function" && define.amd) {
+        define(Logger12);
+      } else if (typeof module2 !== "undefined" && module2.exports) {
+        module2.exports = Logger12;
+      } else {
+        Logger12._prevLogger = global2.Logger;
+        Logger12.noConflict = function() {
+          global2.Logger = Logger12._prevLogger;
+          return Logger12;
+        };
+        global2.Logger = Logger12;
+      }
+    })(exports);
+  }
+});
+
+// node_modules/before-after-hook/lib/register.js
+var require_register = __commonJS({
+  "node_modules/before-after-hook/lib/register.js"(exports, module2) {
+    module2.exports = register;
+    function register(state, name, method, options) {
+      if (typeof method !== "function") {
+        throw new Error("method for before hook must be a function");
+      }
+      if (!options) {
+        options = {};
+      }
+      if (Array.isArray(name)) {
+        return name.reverse().reduce(function(callback, name2) {
+          return register.bind(null, state, name2, callback, options);
+        }, method)();
+      }
+      return Promise.resolve().then(function() {
+        if (!state.registry[name]) {
+          return method(options);
+        }
+        return state.registry[name].reduce(function(method2, registered) {
+          return registered.hook.bind(null, method2, options);
+        }, method)();
+      });
+    }
+  }
+});
+
+// node_modules/before-after-hook/lib/add.js
+var require_add = __commonJS({
+  "node_modules/before-after-hook/lib/add.js"(exports, module2) {
+    module2.exports = addHook;
+    function addHook(state, kind, name, hook2) {
+      var orig = hook2;
+      if (!state.registry[name]) {
+        state.registry[name] = [];
+      }
+      if (kind === "before") {
+        hook2 = function(method, options) {
+          return Promise.resolve().then(orig.bind(null, options)).then(method.bind(null, options));
+        };
+      }
+      if (kind === "after") {
+        hook2 = function(method, options) {
+          var result;
+          return Promise.resolve().then(method.bind(null, options)).then(function(result_) {
+            result = result_;
+            return orig(result, options);
+          }).then(function() {
+            return result;
+          });
+        };
+      }
+      if (kind === "error") {
+        hook2 = function(method, options) {
+          return Promise.resolve().then(method.bind(null, options)).catch(function(error) {
+            return orig(error, options);
+          });
+        };
+      }
+      state.registry[name].push({
+        hook: hook2,
+        orig
+      });
+    }
+  }
+});
+
+// node_modules/before-after-hook/lib/remove.js
+var require_remove = __commonJS({
+  "node_modules/before-after-hook/lib/remove.js"(exports, module2) {
+    module2.exports = removeHook;
+    function removeHook(state, name, method) {
+      if (!state.registry[name]) {
+        return;
+      }
+      var index = state.registry[name].map(function(registered) {
+        return registered.orig;
+      }).indexOf(method);
+      if (index === -1) {
+        return;
+      }
+      state.registry[name].splice(index, 1);
+    }
+  }
+});
+
+// node_modules/before-after-hook/index.js
+var require_before_after_hook = __commonJS({
+  "node_modules/before-after-hook/index.js"(exports, module2) {
+    var register = require_register();
+    var addHook = require_add();
+    var removeHook = require_remove();
+    var bind2 = Function.bind;
+    var bindable = bind2.bind(bind2);
+    function bindApi(hook2, state, name) {
+      var removeHookRef = bindable(removeHook, null).apply(
+        null,
+        name ? [state, name] : [state]
+      );
+      hook2.api = { remove: removeHookRef };
+      hook2.remove = removeHookRef;
+      ["before", "error", "after", "wrap"].forEach(function(kind) {
+        var args = name ? [state, kind, name] : [state, kind];
+        hook2[kind] = hook2.api[kind] = bindable(addHook, null).apply(null, args);
+      });
+    }
+    function HookSingular() {
+      var singularHookName = "h";
+      var singularHookState = {
+        registry: {}
+      };
+      var singularHook = register.bind(null, singularHookState, singularHookName);
+      bindApi(singularHook, singularHookState, singularHookName);
+      return singularHook;
+    }
+    function HookCollection() {
+      var state = {
+        registry: {}
+      };
+      var hook2 = register.bind(null, state);
+      bindApi(hook2, state);
+      return hook2;
+    }
+    var collectionHookDeprecationMessageDisplayed = false;
+    function Hook() {
+      if (!collectionHookDeprecationMessageDisplayed) {
+        console.warn(
+          '[before-after-hook]: "Hook()" repurposing warning, use "Hook.Collection()". Read more: https://git.io/upgrade-before-after-hook-to-1.4'
+        );
+        collectionHookDeprecationMessageDisplayed = true;
+      }
+      return HookCollection();
+    }
+    Hook.Singular = HookSingular.bind();
+    Hook.Collection = HookCollection.bind();
+    module2.exports = Hook;
+    module2.exports.Hook = Hook;
+    module2.exports.Singular = Hook.Singular;
+    module2.exports.Collection = Hook.Collection;
+  }
+});
+
+// node_modules/wrappy/wrappy.js
+var require_wrappy = __commonJS({
+  "node_modules/wrappy/wrappy.js"(exports, module2) {
+    module2.exports = wrappy;
+    function wrappy(fn2, cb) {
+      if (fn2 && cb)
+        return wrappy(fn2)(cb);
+      if (typeof fn2 !== "function")
+        throw new TypeError("need wrapper function");
+      Object.keys(fn2).forEach(function(k) {
+        wrapper[k] = fn2[k];
+      });
+      return wrapper;
+      function wrapper() {
+        var args = new Array(arguments.length);
+        for (var i = 0; i < args.length; i++) {
+          args[i] = arguments[i];
+        }
+        var ret = fn2.apply(this, args);
+        var cb2 = args[args.length - 1];
+        if (typeof ret === "function" && ret !== cb2) {
+          Object.keys(cb2).forEach(function(k) {
+            ret[k] = cb2[k];
+          });
+        }
+        return ret;
+      }
+    }
+  }
+});
+
+// node_modules/once/once.js
+var require_once = __commonJS({
+  "node_modules/once/once.js"(exports, module2) {
+    var wrappy = require_wrappy();
+    module2.exports = wrappy(once2);
+    module2.exports.strict = wrappy(onceStrict);
+    once2.proto = once2(function() {
+      Object.defineProperty(Function.prototype, "once", {
+        value: function() {
+          return once2(this);
+        },
+        configurable: true
+      });
+      Object.defineProperty(Function.prototype, "onceStrict", {
+        value: function() {
+          return onceStrict(this);
+        },
+        configurable: true
+      });
+    });
+    function once2(fn2) {
+      var f = function() {
+        if (f.called)
+          return f.value;
+        f.called = true;
+        return f.value = fn2.apply(this, arguments);
+      };
+      f.called = false;
+      return f;
+    }
+    function onceStrict(fn2) {
+      var f = function() {
+        if (f.called)
+          throw new Error(f.onceError);
+        f.called = true;
+        return f.value = fn2.apply(this, arguments);
+      };
+      var name = fn2.name || "Function wrapped with `once`";
+      f.onceError = name + " shouldn't be called more than once";
+      f.called = false;
+      return f;
+    }
   }
 });
 
@@ -2424,196 +2850,6 @@ var require_lz_string = __commonJS({
         return LZString2;
       });
     }
-  }
-});
-
-// node_modules/js-logger/src/logger.js
-var require_logger = __commonJS({
-  "node_modules/js-logger/src/logger.js"(exports, module2) {
-    (function(global2) {
-      "use strict";
-      var Logger10 = {};
-      Logger10.VERSION = "1.6.1";
-      var logHandler;
-      var contextualLoggersByNameMap = {};
-      var bind2 = function(scope, func) {
-        return function() {
-          return func.apply(scope, arguments);
-        };
-      };
-      var merge3 = function() {
-        var args = arguments, target = args[0], key, i;
-        for (i = 1; i < args.length; i++) {
-          for (key in args[i]) {
-            if (!(key in target) && args[i].hasOwnProperty(key)) {
-              target[key] = args[i][key];
-            }
-          }
-        }
-        return target;
-      };
-      var defineLogLevel = function(value, name) {
-        return { value, name };
-      };
-      Logger10.TRACE = defineLogLevel(1, "TRACE");
-      Logger10.DEBUG = defineLogLevel(2, "DEBUG");
-      Logger10.INFO = defineLogLevel(3, "INFO");
-      Logger10.TIME = defineLogLevel(4, "TIME");
-      Logger10.WARN = defineLogLevel(5, "WARN");
-      Logger10.ERROR = defineLogLevel(8, "ERROR");
-      Logger10.OFF = defineLogLevel(99, "OFF");
-      var ContextualLogger = function(defaultContext) {
-        this.context = defaultContext;
-        this.setLevel(defaultContext.filterLevel);
-        this.log = this.info;
-      };
-      ContextualLogger.prototype = {
-        // Changes the current logging level for the logging instance.
-        setLevel: function(newLevel) {
-          if (newLevel && "value" in newLevel) {
-            this.context.filterLevel = newLevel;
-          }
-        },
-        // Gets the current logging level for the logging instance
-        getLevel: function() {
-          return this.context.filterLevel;
-        },
-        // Is the logger configured to output messages at the supplied level?
-        enabledFor: function(lvl) {
-          var filterLevel = this.context.filterLevel;
-          return lvl.value >= filterLevel.value;
-        },
-        trace: function() {
-          this.invoke(Logger10.TRACE, arguments);
-        },
-        debug: function() {
-          this.invoke(Logger10.DEBUG, arguments);
-        },
-        info: function() {
-          this.invoke(Logger10.INFO, arguments);
-        },
-        warn: function() {
-          this.invoke(Logger10.WARN, arguments);
-        },
-        error: function() {
-          this.invoke(Logger10.ERROR, arguments);
-        },
-        time: function(label) {
-          if (typeof label === "string" && label.length > 0) {
-            this.invoke(Logger10.TIME, [label, "start"]);
-          }
-        },
-        timeEnd: function(label) {
-          if (typeof label === "string" && label.length > 0) {
-            this.invoke(Logger10.TIME, [label, "end"]);
-          }
-        },
-        // Invokes the logger callback if it's not being filtered.
-        invoke: function(level, msgArgs) {
-          if (logHandler && this.enabledFor(level)) {
-            logHandler(msgArgs, merge3({ level }, this.context));
-          }
-        }
-      };
-      var globalLogger = new ContextualLogger({ filterLevel: Logger10.OFF });
-      (function() {
-        var L = Logger10;
-        L.enabledFor = bind2(globalLogger, globalLogger.enabledFor);
-        L.trace = bind2(globalLogger, globalLogger.trace);
-        L.debug = bind2(globalLogger, globalLogger.debug);
-        L.time = bind2(globalLogger, globalLogger.time);
-        L.timeEnd = bind2(globalLogger, globalLogger.timeEnd);
-        L.info = bind2(globalLogger, globalLogger.info);
-        L.warn = bind2(globalLogger, globalLogger.warn);
-        L.error = bind2(globalLogger, globalLogger.error);
-        L.log = L.info;
-      })();
-      Logger10.setHandler = function(func) {
-        logHandler = func;
-      };
-      Logger10.setLevel = function(level) {
-        globalLogger.setLevel(level);
-        for (var key in contextualLoggersByNameMap) {
-          if (contextualLoggersByNameMap.hasOwnProperty(key)) {
-            contextualLoggersByNameMap[key].setLevel(level);
-          }
-        }
-      };
-      Logger10.getLevel = function() {
-        return globalLogger.getLevel();
-      };
-      Logger10.get = function(name) {
-        return contextualLoggersByNameMap[name] || (contextualLoggersByNameMap[name] = new ContextualLogger(merge3({ name }, globalLogger.context)));
-      };
-      Logger10.createDefaultHandler = function(options) {
-        options = options || {};
-        options.formatter = options.formatter || function defaultMessageFormatter(messages, context) {
-          if (context.name) {
-            messages.unshift("[" + context.name + "]");
-          }
-        };
-        var timerStartTimeByLabelMap = {};
-        var invokeConsoleMethod = function(hdlr, messages) {
-          Function.prototype.apply.call(hdlr, console, messages);
-        };
-        if (typeof console === "undefined") {
-          return function() {
-          };
-        }
-        return function(messages, context) {
-          messages = Array.prototype.slice.call(messages);
-          var hdlr = console.log;
-          var timerLabel;
-          if (context.level === Logger10.TIME) {
-            timerLabel = (context.name ? "[" + context.name + "] " : "") + messages[0];
-            if (messages[1] === "start") {
-              if (console.time) {
-                console.time(timerLabel);
-              } else {
-                timerStartTimeByLabelMap[timerLabel] = (/* @__PURE__ */ new Date()).getTime();
-              }
-            } else {
-              if (console.timeEnd) {
-                console.timeEnd(timerLabel);
-              } else {
-                invokeConsoleMethod(hdlr, [timerLabel + ": " + ((/* @__PURE__ */ new Date()).getTime() - timerStartTimeByLabelMap[timerLabel]) + "ms"]);
-              }
-            }
-          } else {
-            if (context.level === Logger10.WARN && console.warn) {
-              hdlr = console.warn;
-            } else if (context.level === Logger10.ERROR && console.error) {
-              hdlr = console.error;
-            } else if (context.level === Logger10.INFO && console.info) {
-              hdlr = console.info;
-            } else if (context.level === Logger10.DEBUG && console.debug) {
-              hdlr = console.debug;
-            } else if (context.level === Logger10.TRACE && console.trace) {
-              hdlr = console.trace;
-            }
-            options.formatter(messages, context);
-            invokeConsoleMethod(hdlr, messages);
-          }
-        };
-      };
-      Logger10.useDefaults = function(options) {
-        Logger10.setLevel(options && options.defaultLevel || Logger10.DEBUG);
-        Logger10.setHandler(Logger10.createDefaultHandler(options));
-      };
-      Logger10.setDefaults = Logger10.useDefaults;
-      if (typeof define === "function" && define.amd) {
-        define(Logger10);
-      } else if (typeof module2 !== "undefined" && module2.exports) {
-        module2.exports = Logger10;
-      } else {
-        Logger10._prevLogger = global2.Logger;
-        Logger10.noConflict = function() {
-          global2.Logger = Logger10._prevLogger;
-          return Logger10;
-        };
-        global2.Logger = Logger10;
-      }
-    })(exports);
   }
 });
 
@@ -10085,241 +10321,22 @@ var require_lib = __commonJS({
   }
 });
 
-// node_modules/before-after-hook/lib/register.js
-var require_register = __commonJS({
-  "node_modules/before-after-hook/lib/register.js"(exports, module2) {
-    module2.exports = register;
-    function register(state, name, method, options) {
-      if (typeof method !== "function") {
-        throw new Error("method for before hook must be a function");
-      }
-      if (!options) {
-        options = {};
-      }
-      if (Array.isArray(name)) {
-        return name.reverse().reduce(function(callback, name2) {
-          return register.bind(null, state, name2, callback, options);
-        }, method)();
-      }
-      return Promise.resolve().then(function() {
-        if (!state.registry[name]) {
-          return method(options);
-        }
-        return state.registry[name].reduce(function(method2, registered) {
-          return registered.hook.bind(null, method2, options);
-        }, method)();
-      });
-    }
-  }
-});
-
-// node_modules/before-after-hook/lib/add.js
-var require_add = __commonJS({
-  "node_modules/before-after-hook/lib/add.js"(exports, module2) {
-    module2.exports = addHook;
-    function addHook(state, kind, name, hook2) {
-      var orig = hook2;
-      if (!state.registry[name]) {
-        state.registry[name] = [];
-      }
-      if (kind === "before") {
-        hook2 = function(method, options) {
-          return Promise.resolve().then(orig.bind(null, options)).then(method.bind(null, options));
-        };
-      }
-      if (kind === "after") {
-        hook2 = function(method, options) {
-          var result;
-          return Promise.resolve().then(method.bind(null, options)).then(function(result_) {
-            result = result_;
-            return orig(result, options);
-          }).then(function() {
-            return result;
-          });
-        };
-      }
-      if (kind === "error") {
-        hook2 = function(method, options) {
-          return Promise.resolve().then(method.bind(null, options)).catch(function(error) {
-            return orig(error, options);
-          });
-        };
-      }
-      state.registry[name].push({
-        hook: hook2,
-        orig
-      });
-    }
-  }
-});
-
-// node_modules/before-after-hook/lib/remove.js
-var require_remove = __commonJS({
-  "node_modules/before-after-hook/lib/remove.js"(exports, module2) {
-    module2.exports = removeHook;
-    function removeHook(state, name, method) {
-      if (!state.registry[name]) {
-        return;
-      }
-      var index = state.registry[name].map(function(registered) {
-        return registered.orig;
-      }).indexOf(method);
-      if (index === -1) {
-        return;
-      }
-      state.registry[name].splice(index, 1);
-    }
-  }
-});
-
-// node_modules/before-after-hook/index.js
-var require_before_after_hook = __commonJS({
-  "node_modules/before-after-hook/index.js"(exports, module2) {
-    var register = require_register();
-    var addHook = require_add();
-    var removeHook = require_remove();
-    var bind2 = Function.bind;
-    var bindable = bind2.bind(bind2);
-    function bindApi(hook2, state, name) {
-      var removeHookRef = bindable(removeHook, null).apply(
-        null,
-        name ? [state, name] : [state]
-      );
-      hook2.api = { remove: removeHookRef };
-      hook2.remove = removeHookRef;
-      ["before", "error", "after", "wrap"].forEach(function(kind) {
-        var args = name ? [state, kind, name] : [state, kind];
-        hook2[kind] = hook2.api[kind] = bindable(addHook, null).apply(null, args);
-      });
-    }
-    function HookSingular() {
-      var singularHookName = "h";
-      var singularHookState = {
-        registry: {}
-      };
-      var singularHook = register.bind(null, singularHookState, singularHookName);
-      bindApi(singularHook, singularHookState, singularHookName);
-      return singularHook;
-    }
-    function HookCollection() {
-      var state = {
-        registry: {}
-      };
-      var hook2 = register.bind(null, state);
-      bindApi(hook2, state);
-      return hook2;
-    }
-    var collectionHookDeprecationMessageDisplayed = false;
-    function Hook() {
-      if (!collectionHookDeprecationMessageDisplayed) {
-        console.warn(
-          '[before-after-hook]: "Hook()" repurposing warning, use "Hook.Collection()". Read more: https://git.io/upgrade-before-after-hook-to-1.4'
-        );
-        collectionHookDeprecationMessageDisplayed = true;
-      }
-      return HookCollection();
-    }
-    Hook.Singular = HookSingular.bind();
-    Hook.Collection = HookCollection.bind();
-    module2.exports = Hook;
-    module2.exports.Hook = Hook;
-    module2.exports.Singular = Hook.Singular;
-    module2.exports.Collection = Hook.Collection;
-  }
-});
-
-// node_modules/wrappy/wrappy.js
-var require_wrappy = __commonJS({
-  "node_modules/wrappy/wrappy.js"(exports, module2) {
-    module2.exports = wrappy;
-    function wrappy(fn2, cb) {
-      if (fn2 && cb)
-        return wrappy(fn2)(cb);
-      if (typeof fn2 !== "function")
-        throw new TypeError("need wrapper function");
-      Object.keys(fn2).forEach(function(k) {
-        wrapper[k] = fn2[k];
-      });
-      return wrapper;
-      function wrapper() {
-        var args = new Array(arguments.length);
-        for (var i = 0; i < args.length; i++) {
-          args[i] = arguments[i];
-        }
-        var ret = fn2.apply(this, args);
-        var cb2 = args[args.length - 1];
-        if (typeof ret === "function" && ret !== cb2) {
-          Object.keys(cb2).forEach(function(k) {
-            ret[k] = cb2[k];
-          });
-        }
-        return ret;
-      }
-    }
-  }
-});
-
-// node_modules/once/once.js
-var require_once = __commonJS({
-  "node_modules/once/once.js"(exports, module2) {
-    var wrappy = require_wrappy();
-    module2.exports = wrappy(once2);
-    module2.exports.strict = wrappy(onceStrict);
-    once2.proto = once2(function() {
-      Object.defineProperty(Function.prototype, "once", {
-        value: function() {
-          return once2(this);
-        },
-        configurable: true
-      });
-      Object.defineProperty(Function.prototype, "onceStrict", {
-        value: function() {
-          return onceStrict(this);
-        },
-        configurable: true
-      });
-    });
-    function once2(fn2) {
-      var f = function() {
-        if (f.called)
-          return f.value;
-        f.called = true;
-        return f.value = fn2.apply(this, arguments);
-      };
-      f.called = false;
-      return f;
-    }
-    function onceStrict(fn2) {
-      var f = function() {
-        if (f.called)
-          throw new Error(f.onceError);
-        f.called = true;
-        return f.value = fn2.apply(this, arguments);
-      };
-      var name = fn2.name || "Function wrapped with `once`";
-      f.onceError = name + " shouldn't be called more than once";
-      f.called = false;
-      return f;
-    }
-  }
-});
-
 // src/test/snapshot/generateGardenSnapshot.ts
 var generateGardenSnapshot_exports = {};
 __export(generateGardenSnapshot_exports, {
   generateGardenSnapshot: () => generateGardenSnapshot
 });
-var import_obsidian16, import_promises, SNAPSHOT_PATH, generateGardenSnapshot;
+var import_obsidian18, import_promises, SNAPSHOT_PATH, generateGardenSnapshot;
 var init_generateGardenSnapshot = __esm({
   "src/test/snapshot/generateGardenSnapshot.ts"() {
     "use strict";
-    import_obsidian16 = require("obsidian");
+    import_obsidian18 = require("obsidian");
     import_promises = __toESM(require("fs/promises"));
     SNAPSHOT_PATH = "src/test/snapshot/snapshot.md";
     generateGardenSnapshot = (settings, publisher) => __async(void 0, null, function* () {
       const devPluginPath = settings.devPluginPath;
       if (!devPluginPath) {
-        new import_obsidian16.Notice("devPluginPath missing, run generateGardenSettings.mjs");
+        new import_obsidian18.Notice("devPluginPath missing, run generateGardenSettings.mjs");
         return;
       }
       const marked = yield publisher.getFilesMarkedForPublishing();
@@ -10341,11 +10358,11 @@ var init_generateGardenSnapshot = __esm({
       }
       fileString += "==========\n";
       const fullSnapshotPath = `${devPluginPath}/${SNAPSHOT_PATH}`;
-      if (import_obsidian16.Platform.isDesktop) {
+      if (import_obsidian18.Platform.isDesktop) {
         yield import_promises.default.writeFile(fullSnapshotPath, fileString);
       }
-      new import_obsidian16.Notice(`Snapshot written to ${fullSnapshotPath}`);
-      new import_obsidian16.Notice(`Check snapshot to make sure nothing has accidentally changed`);
+      new import_obsidian18.Notice(`Snapshot written to ${fullSnapshotPath}`);
+      new import_obsidian18.Notice(`Check snapshot to make sure nothing has accidentally changed`);
     });
   }
 });
@@ -10356,10 +10373,10 @@ __export(main_exports, {
   default: () => DigitalGarden
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian17 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 
 // src/publisher/Publisher.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian6 = require("obsidian");
 
 // node_modules/js-base64/base64.mjs
 var version = "3.7.5";
@@ -10521,6 +10538,7 @@ var gBase64 = {
 // src/utils/utils.ts
 var import_slugify = __toESM(require_slugify());
 var import_sha1 = __toESM(require_sha1());
+var import_enc_latin1 = __toESM(require_enc_latin1());
 var REWRITE_RULE_DELIMITER = ":";
 function arrayBufferToBase64(buffer) {
   let binary = "";
@@ -10538,17 +10556,27 @@ function generateUrlPath(filePath, slugifyPath = true) {
   if (!filePath) {
     return filePath;
   }
+  const isCanvas = filePath.endsWith(".canvas");
   const extensionLessPath = filePath.contains(".") ? filePath.substring(0, filePath.lastIndexOf(".")) : filePath;
   if (!slugifyPath) {
-    return extensionLessPath + "/";
+    return extensionLessPath + (isCanvas ? ".canvas/" : "/");
   }
-  return extensionLessPath.split("/").map((x) => (0, import_slugify.default)(x)).join("/") + "/";
+  const slugifiedPath = extensionLessPath.split("/").map((x) => (0, import_slugify.default)(x)).join("/");
+  return slugifiedPath + (isCanvas ? ".canvas/" : "/");
 }
 function generateBlobHash(content) {
   const byteLength = new TextEncoder().encode(content).byteLength;
   const header = `blob ${byteLength}\0`;
   const gitBlob = header + content;
   return (0, import_sha1.default)(gitBlob).toString();
+}
+function generateBlobHashFromBase64(base64Content) {
+  const binary = gBase64.atob(base64Content);
+  const byteLength = binary.length;
+  const header = `blob ${byteLength}\0`;
+  const gitBlob = header + binary;
+  const wordArray = import_enc_latin1.default.parse(gitBlob);
+  return (0, import_sha1.default)(wordArray).toString();
 }
 function kebabize(str) {
   return str.split("").map((letter, idx) => {
@@ -10614,8 +10642,1669 @@ function isPublishFrontmatterValid(frontMatter) {
   return true;
 }
 
+// src/repositoryConnection/DigitalGardenSiteManager.ts
+var import_obsidian2 = require("obsidian");
+
+// src/repositoryConnection/RepositoryConnection.ts
+var import_js_logger = __toESM(require_logger());
+
+// src/forestry/LimitReachedError.ts
+var LimitReachedError = class extends Error {
+  constructor(errorType, responseData) {
+    var _a2;
+    const message = (_a2 = responseData.message) != null ? _a2 : "Usage limit reached";
+    super(message);
+    this.name = "LimitReachedError";
+    this.errorType = errorType;
+    this.buildsUsed = responseData.builds_used;
+    this.monthlyLimit = responseData.monthly_limit;
+    this.starterCreditsRemaining = responseData.starter_credits_remaining;
+  }
+};
+function throwIfLimitError(error) {
+  if (error && typeof error === "object" && "status" in error && error.status === 403) {
+    const responseData = extractResponseData(error);
+    if (!responseData)
+      return;
+    const errorType = responseData.error;
+    if (errorType === "build_limit_reached" || errorType === "storage_limit_exceeded") {
+      throw new LimitReachedError(errorType, responseData);
+    }
+  }
+}
+function extractResponseData(error) {
+  const err = error;
+  if (err.response && typeof err.response === "object") {
+    const response = err.response;
+    if (response.data && typeof response.data === "object") {
+      return response.data;
+    }
+  }
+  if (err.response && typeof err.response === "object") {
+    const resp = err.response;
+    if (resp.data && typeof resp.data === "object") {
+      return resp.data;
+    }
+  }
+  return null;
+}
+
+// src/repositoryConnection/RepositoryConnection.ts
+var logger = import_js_logger.default.get("repository-connection");
+var IMAGE_PATH_BASE = "src/site/";
+var NOTE_PATH_BASE = "src/site/notes/";
+var RepositoryConnection = class {
+  constructor({ octoKit, userName, pageName }) {
+    this.pageName = pageName;
+    this.userName = userName;
+    this.octokit = octoKit;
+  }
+  getRepositoryName() {
+    return this.userName + "/" + this.pageName;
+  }
+  getBasePayload() {
+    return {
+      owner: this.userName,
+      repo: this.pageName
+    };
+  }
+  /** Get filetree with path and sha of each file from repository */
+  getContent(branch) {
+    return __async(this, null, function* () {
+      try {
+        const response = yield this.octokit.request(
+          `GET /repos/{owner}/{repo}/git/trees/{tree_sha}`,
+          __spreadProps(__spreadValues({}, this.getBasePayload()), {
+            tree_sha: branch,
+            recursive: "true",
+            // invalidate cache
+            headers: {
+              "If-None-Match": ""
+            }
+          })
+        );
+        if (response.status === 200) {
+          return response.data;
+        }
+      } catch (error) {
+        throw new Error(
+          `Could not get file ${""} from repository ${this.getRepositoryName()}`
+        );
+      }
+    });
+  }
+  getFile(path, branch) {
+    return __async(this, null, function* () {
+      logger.info(
+        `Getting file ${path} from repository ${this.getRepositoryName()}`
+      );
+      try {
+        const response = yield this.octokit.request(
+          "GET /repos/{owner}/{repo}/contents/{path}",
+          __spreadProps(__spreadValues({}, this.getBasePayload()), {
+            path,
+            ref: branch
+          })
+        );
+        if (response.status === 200 && !Array.isArray(response.data) && response.data.type === "file") {
+          return response.data;
+        }
+      } catch (error) {
+        throw new Error(
+          `Could not get file ${path} from repository ${this.getRepositoryName()}`
+        );
+      }
+    });
+  }
+  deleteFile(_0, _1) {
+    return __async(this, arguments, function* (path, { branch, sha }) {
+      try {
+        sha != null ? sha : sha = yield this.getFile(path, branch).then((file) => file == null ? void 0 : file.sha);
+        if (!sha) {
+          console.error(
+            `cannot find file ${path} on github, not removing`
+          );
+          return false;
+        }
+        const payload = __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          path,
+          message: `Delete content ${path}`,
+          sha,
+          branch
+        });
+        const result = yield this.octokit.request(
+          "DELETE /repos/{owner}/{repo}/contents/{path}",
+          payload
+        );
+        import_js_logger.default.info(
+          `Deleted file ${path} from repository ${this.getRepositoryName()}`
+        );
+        return result;
+      } catch (error) {
+        throwIfLimitError(error);
+        logger.error(error);
+        return false;
+      }
+    });
+  }
+  getLatestRelease() {
+    return __async(this, null, function* () {
+      try {
+        const release = yield this.octokit.request(
+          "GET /repos/{owner}/{repo}/releases/latest",
+          this.getBasePayload()
+        );
+        if (!release || !release.data) {
+          logger.error("Could not get latest release");
+        }
+        return release.data;
+      } catch (error) {
+        logger.error("Could not get latest release", error);
+      }
+    });
+  }
+  getLatestCommit() {
+    return __async(this, null, function* () {
+      try {
+        const latestCommit = yield this.octokit.request(
+          `GET /repos/{owner}/{repo}/commits/HEAD?cacheBust=${Date.now()}`,
+          this.getBasePayload()
+        );
+        if (!latestCommit || !latestCommit.data) {
+          logger.error("Could not get latest commit");
+        }
+        return latestCommit.data;
+      } catch (error) {
+        logger.error("Could not get latest commit", error);
+      }
+    });
+  }
+  updateFile(_0) {
+    return __async(this, arguments, function* ({ path, sha, content, branch, message }) {
+      const payload = __spreadProps(__spreadValues({}, this.getBasePayload()), {
+        path,
+        message: message != null ? message : `Update file ${path}`,
+        content,
+        sha,
+        branch
+      });
+      try {
+        return yield this.octokit.request(
+          "PUT /repos/{owner}/{repo}/contents/{path}",
+          payload
+        );
+      } catch (error) {
+        throwIfLimitError(error);
+        logger.error(error);
+      }
+    });
+  }
+  // NB: Do not use this, it does not work for some reason.
+  //TODO: Fix this. For now use deleteNote and deleteImage instead
+  deleteFiles(filePaths) {
+    return __async(this, null, function* () {
+      const latestCommit = yield this.getLatestCommit();
+      if (!latestCommit) {
+        logger.error("Could not get latest commit");
+        return;
+      }
+      const normalizePath = (path) => path.startsWith("/") ? path.slice(1) : path;
+      const filesToDelete = filePaths.map((path) => {
+        if (path.endsWith(".md")) {
+          return `${NOTE_PATH_BASE}${normalizePath(path)}`;
+        }
+        return `${IMAGE_PATH_BASE}${normalizePath(path)}`;
+      });
+      const repoDataPromise = this.octokit.request(
+        "GET /repos/{owner}/{repo}",
+        __spreadValues({}, this.getBasePayload())
+      );
+      const latestCommitSha = latestCommit.sha;
+      const baseTreeSha = latestCommit.commit.tree.sha;
+      const baseTree = yield this.octokit.request(
+        "GET /repos/{owner}/{repo}/git/trees/{tree_sha}?recursive=1",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          tree_sha: baseTreeSha
+        })
+      );
+      const newTreeEntries = baseTree.data.tree.filter(
+        (item) => !filesToDelete.includes(item.path)
+      ).map(
+        (item) => ({
+          path: item.path,
+          mode: item.mode,
+          type: item.type,
+          sha: item.sha
+        })
+      );
+      const newTree = yield this.octokit.request(
+        "POST /repos/{owner}/{repo}/git/trees",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          tree: newTreeEntries
+        })
+      );
+      const commitMessage = "Deleted multiple files";
+      const newCommit = yield this.octokit.request(
+        "POST /repos/{owner}/{repo}/git/commits",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          message: commitMessage,
+          tree: newTree.data.sha,
+          parents: [latestCommitSha]
+        })
+      );
+      const defaultBranch = (yield repoDataPromise).data.default_branch;
+      yield this.octokit.request(
+        "PATCH /repos/{owner}/{repo}/git/refs/{ref}",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          ref: `heads/${defaultBranch}`,
+          sha: newCommit.data.sha
+        })
+      );
+    });
+  }
+  updateFiles(_0) {
+    return __async(this, arguments, function* (files, remoteImageHashes = {}) {
+      const latestCommit = yield this.getLatestCommit();
+      if (!latestCommit) {
+        logger.error("Could not get latest commit");
+        return;
+      }
+      const repoDataPromise = this.octokit.request(
+        "GET /repos/{owner}/{repo}",
+        __spreadValues({}, this.getBasePayload())
+      );
+      const latestCommitSha = latestCommit.sha;
+      const baseTreeSha = latestCommit.commit.tree.sha;
+      const normalizePath = (path) => path.startsWith("/") ? path.slice(1) : path;
+      const treePromises = files.map((file) => __async(this, null, function* () {
+        const [text2, _] = file.compiledFile;
+        try {
+          const blob = yield this.octokit.request(
+            "POST /repos/{owner}/{repo}/git/blobs",
+            __spreadProps(__spreadValues({}, this.getBasePayload()), {
+              content: text2,
+              encoding: "utf-8"
+            })
+          );
+          return {
+            path: `${NOTE_PATH_BASE}${normalizePath(file.getPath())}`,
+            mode: "100644",
+            type: "blob",
+            sha: blob.data.sha
+          };
+        } catch (error) {
+          throwIfLimitError(error);
+          logger.error(error);
+        }
+      }));
+      const allImages = files.flatMap((x) => x.compiledFile[1].images);
+      const imagesToUpload = allImages.filter((asset) => {
+        const hashKey = asset.path.replace("/img/user/", "");
+        const remoteHash = remoteImageHashes[hashKey];
+        if (remoteHash && asset.localHash && remoteHash === asset.localHash) {
+          logger.debug(`Skipping unchanged image: ${asset.path}`);
+          return false;
+        }
+        return true;
+      });
+      const treeAssetPromises = imagesToUpload.map((asset) => __async(this, null, function* () {
+        try {
+          const blob = yield this.octokit.request(
+            "POST /repos/{owner}/{repo}/git/blobs",
+            __spreadProps(__spreadValues({}, this.getBasePayload()), {
+              content: asset.content,
+              encoding: "base64"
+            })
+          );
+          return {
+            path: `${IMAGE_PATH_BASE}${normalizePath(asset.path)}`,
+            mode: "100644",
+            type: "blob",
+            sha: blob.data.sha
+          };
+        } catch (error) {
+          throwIfLimitError(error);
+          logger.error(error);
+        }
+      }));
+      treePromises.push(...treeAssetPromises);
+      const treeList = yield Promise.all(treePromises);
+      const tree = treeList.filter((x) => x !== void 0);
+      const newTree = yield this.octokit.request(
+        "POST /repos/{owner}/{repo}/git/trees",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          base_tree: baseTreeSha,
+          tree
+        })
+      );
+      const commitMessage = "Published multiple files";
+      const newCommit = yield this.octokit.request(
+        "POST /repos/{owner}/{repo}/git/commits",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          message: commitMessage,
+          tree: newTree.data.sha,
+          parents: [latestCommitSha]
+        })
+      );
+      const defaultBranch = (yield repoDataPromise).data.default_branch;
+      yield this.octokit.request(
+        "PATCH /repos/{owner}/{repo}/git/refs/heads/{branch}",
+        __spreadProps(__spreadValues({}, this.getBasePayload()), {
+          branch: defaultBranch,
+          sha: newCommit.data.sha
+        })
+      );
+    });
+  }
+  getRepositoryInfo() {
+    return __async(this, null, function* () {
+      const repoInfo = yield this.octokit.request("GET /repos/{owner}/{repo}", __spreadValues({}, this.getBasePayload())).catch((error) => {
+        logger.error(error);
+        logger.warn(
+          `Could not get repository info for ${this.getRepositoryName()}`
+        );
+        return void 0;
+      });
+      return repoInfo == null ? void 0 : repoInfo.data;
+    });
+  }
+  createBranch(branchName, sha) {
+    return __async(this, null, function* () {
+      yield this.octokit.request("POST /repos/{owner}/{repo}/git/refs", __spreadProps(__spreadValues({}, this.getBasePayload()), {
+        ref: `refs/heads/${branchName}`,
+        sha
+      }));
+    });
+  }
+};
+
+// src/repositoryConnection/DigitalGardenSiteManager.ts
+var import_js_logger4 = __toESM(require_logger());
+
+// src/repositoryConnection/TemplateManager.ts
+var import_js_logger2 = __toESM(require_logger());
+var logger2 = import_js_logger2.default.get("digital-garden-site-manager");
+var TemplateUpdateChecker = class {
+  constructor({
+    baseGardenConnection,
+    userGardenConnection
+  }) {
+    this.baseGardenConnection = baseGardenConnection;
+    this.userGardenConnection = userGardenConnection;
+  }
+  getFileInfoFromContent(content, path) {
+    const file = content == null ? void 0 : content.tree.find((x) => x.path === path);
+    if (!file) {
+      return null;
+    }
+    return file;
+  }
+  getFilesToDelete(pluginInfo, userFileList) {
+    const filesToDelete = [];
+    for (const file of pluginInfo.filesToDelete) {
+      const currentFile = this.getFileInfoFromContent(userFileList, file);
+      if (currentFile) {
+        filesToDelete.push({ path: file, sha: currentFile.sha });
+      }
+    }
+    return filesToDelete;
+  }
+  getPathsToModify(pluginInfo, baseGardenFileList, userFileList) {
+    const filesToUpdate = [];
+    for (const file of pluginInfo.filesToModify) {
+      const currentFile = this.getFileInfoFromContent(userFileList, file);
+      const baseFile = this.getFileInfoFromContent(
+        baseGardenFileList,
+        file
+      );
+      if (!currentFile || (currentFile == null ? void 0 : currentFile.sha) !== (baseFile == null ? void 0 : baseFile.sha)) {
+        filesToUpdate.push({ path: file, sha: currentFile == null ? void 0 : currentFile.sha });
+      }
+    }
+    return filesToUpdate;
+  }
+  getFilesToAdd(pluginInfo, userFileList) {
+    const filesToAdd = [];
+    for (const file of pluginInfo.filesToAdd) {
+      const currentFile = this.getFileInfoFromContent(userFileList, file);
+      if (!currentFile) {
+        filesToAdd.push({ path: file });
+      }
+    }
+    return filesToAdd;
+  }
+  getTemplateVersion() {
+    return __async(this, null, function* () {
+      const latestRelease = yield this.baseGardenConnection.getLatestRelease();
+      if (!latestRelease) {
+        throw new Error(
+          "Unable to get latest release from oleeskid repository"
+        );
+      }
+      return latestRelease.tag_name;
+    });
+  }
+  checkForUpdates() {
+    return __async(this, null, function* () {
+      const [updateInfo, templateVersion] = yield Promise.all([
+        this.getFilesToUpdate(),
+        this.getTemplateVersion()
+      ]);
+      if (!templateVersion) {
+        throw new Error("Unable to get update info");
+      }
+      if (!updateInfo) {
+        this.newestTemplateVersion = templateVersion;
+        return this;
+      }
+      this.newestTemplateVersion = templateVersion;
+      return new TemplateUpdater({
+        baseGardenConnection: this.baseGardenConnection,
+        userGardenConnection: this.userGardenConnection,
+        filesToChange: updateInfo,
+        defaultBranch: this.defaultBranch,
+        newestTemplateVersion: templateVersion
+      });
+    });
+  }
+  getFilesToUpdate() {
+    return __async(this, null, function* () {
+      const { baseGardenFileList, pluginInfo } = yield this.getPluginInfo(
+        this.baseGardenConnection
+      );
+      if (!baseGardenFileList) {
+        throw new Error("Unable to get base garden file list");
+      }
+      const repoInfo = yield this.baseGardenConnection.getRepositoryInfo();
+      const defaultBranch = repoInfo == null ? void 0 : repoInfo.default_branch;
+      if (!defaultBranch) {
+        throw new Error("Unable to get default branch");
+      }
+      this.defaultBranch = defaultBranch;
+      const userFileList = yield this.userGardenConnection.getContent(defaultBranch);
+      if (!userFileList) {
+        throw new Error("Unable to get user file list");
+      }
+      const filesToDelete = this.getFilesToDelete(pluginInfo, userFileList);
+      const filesToUpdate = this.getPathsToModify(
+        pluginInfo,
+        baseGardenFileList,
+        userFileList
+      );
+      const filesToAdd = this.getFilesToAdd(pluginInfo, userFileList);
+      if (filesToDelete.length === 0 && filesToUpdate.length === 0 && filesToAdd.length === 0) {
+        return null;
+      }
+      return {
+        filesToDelete,
+        filesToUpdate,
+        filesToAdd
+      };
+    });
+  }
+  getPluginInfo(baseGardenConnection) {
+    return __async(this, null, function* () {
+      logger2.info("Getting plugin info");
+      const pluginInfoResponse = yield baseGardenConnection.getFile("plugin-info.json");
+      const baseGardenFileList = yield baseGardenConnection.getContent("main");
+      if (!pluginInfoResponse) {
+        throw new Error("Unable to get plugin info");
+      }
+      return {
+        pluginInfo: JSON.parse(gBase64.decode(pluginInfoResponse.content)),
+        baseGardenFileList
+      };
+    });
+  }
+};
+var TemplateUpdater = class {
+  constructor({
+    baseGardenConnection,
+    userGardenConnection,
+    filesToChange,
+    defaultBranch,
+    newestTemplateVersion
+  }) {
+    this.filesToChange = filesToChange;
+    this.defaultBranch = defaultBranch;
+    this.baseGardenConnection = baseGardenConnection;
+    this.userGardenConnection = userGardenConnection;
+    this.newestTemplateVersion = newestTemplateVersion;
+  }
+  updateTemplate() {
+    return __async(this, null, function* () {
+      var _a2;
+      const { filesToDelete, filesToUpdate, filesToAdd } = this.filesToChange;
+      const { branchName } = yield this.createNewBranch();
+      logger2.info("Deleting files");
+      yield this.deleteFiles(filesToDelete, branchName);
+      logger2.info("Updating files");
+      yield this.addOrUpdateFiles(
+        [...filesToUpdate, ...filesToAdd],
+        branchName
+      );
+      logger2.info("Adding files");
+      yield this.addOrUpdateFiles(filesToAdd, branchName);
+      try {
+        const pr = yield this.userGardenConnection.octokit.request(
+          "POST /repos/{owner}/{repo}/pulls",
+          __spreadProps(__spreadValues({}, this.userGardenConnection.getBasePayload()), {
+            title: `Update template to version ${this.newestTemplateVersion}`,
+            head: branchName,
+            base: this.defaultBranch,
+            body: `Update to latest template version.
+ [Release Notes](https://github.com/oleeskild/digitalgarden/releases/tag/${this.newestTemplateVersion})`
+          })
+        );
+        return (_a2 = pr == null ? void 0 : pr.data) == null ? void 0 : _a2.html_url;
+      } catch (e) {
+        return "";
+      }
+    });
+  }
+  createNewBranch() {
+    return __async(this, null, function* () {
+      const uuid = crypto.randomUUID();
+      const branchName = "update-template-to-v" + this.newestTemplateVersion + "-" + uuid;
+      const latestCommit = yield this.userGardenConnection.getLatestCommit();
+      if (!latestCommit) {
+        throw new Error("Unable to get latest commit");
+      }
+      yield this.userGardenConnection.createBranch(
+        branchName,
+        latestCommit.sha
+      );
+      return { branchName };
+    });
+  }
+  deleteFiles(filesToDelete, branch) {
+    return __async(this, null, function* () {
+      for (const file of filesToDelete) {
+        yield this.userGardenConnection.deleteFile(file.path, {
+          branch,
+          sha: file.sha
+        });
+      }
+    });
+  }
+  addOrUpdateFiles(filesToAdd, branch) {
+    return __async(this, null, function* () {
+      for (const file of filesToAdd) {
+        const baseTemplateFile = yield this.baseGardenConnection.getFile(
+          file.path
+        );
+        if (!baseTemplateFile) {
+          throw new Error(`Unable to get file ${file}`);
+        }
+        yield this.userGardenConnection.updateFile({
+          content: baseTemplateFile.content,
+          path: file.path,
+          branch,
+          sha: file.sha,
+          message: "Update files"
+        });
+      }
+    });
+  }
+};
+var hasUpdates = (updater) => updater.filesToChange !== void 0;
+
+// node_modules/universal-user-agent/dist-web/index.js
+function getUserAgent() {
+  if (typeof navigator === "object" && "userAgent" in navigator) {
+    return navigator.userAgent;
+  }
+  if (typeof process === "object" && "version" in process) {
+    return `Node.js/${process.version.substr(1)} (${process.platform}; ${process.arch})`;
+  }
+  return "<environment undetectable>";
+}
+
+// node_modules/@octokit/core/dist-web/index.js
+var import_before_after_hook = __toESM(require_before_after_hook());
+
+// node_modules/is-plain-object/dist/is-plain-object.mjs
+function isObject(o) {
+  return Object.prototype.toString.call(o) === "[object Object]";
+}
+function isPlainObject(o) {
+  var ctor, prot;
+  if (isObject(o) === false)
+    return false;
+  ctor = o.constructor;
+  if (ctor === void 0)
+    return true;
+  prot = ctor.prototype;
+  if (isObject(prot) === false)
+    return false;
+  if (prot.hasOwnProperty("isPrototypeOf") === false) {
+    return false;
+  }
+  return true;
+}
+
+// node_modules/@octokit/endpoint/dist-web/index.js
+var VERSION2 = "9.0.0";
+var userAgent = `octokit-endpoint.js/${VERSION2} ${getUserAgent()}`;
+var DEFAULTS = {
+  method: "GET",
+  baseUrl: "https://api.github.com",
+  headers: {
+    accept: "application/vnd.github.v3+json",
+    "user-agent": userAgent
+  },
+  mediaType: {
+    format: ""
+  }
+};
+function lowercaseKeys(object) {
+  if (!object) {
+    return {};
+  }
+  return Object.keys(object).reduce((newObj, key) => {
+    newObj[key.toLowerCase()] = object[key];
+    return newObj;
+  }, {});
+}
+function mergeDeep(defaults2, options) {
+  const result = Object.assign({}, defaults2);
+  Object.keys(options).forEach((key) => {
+    if (isPlainObject(options[key])) {
+      if (!(key in defaults2))
+        Object.assign(result, { [key]: options[key] });
+      else
+        result[key] = mergeDeep(defaults2[key], options[key]);
+    } else {
+      Object.assign(result, { [key]: options[key] });
+    }
+  });
+  return result;
+}
+function removeUndefinedProperties(obj) {
+  for (const key in obj) {
+    if (obj[key] === void 0) {
+      delete obj[key];
+    }
+  }
+  return obj;
+}
+function merge(defaults2, route, options) {
+  var _a2;
+  if (typeof route === "string") {
+    let [method, url] = route.split(" ");
+    options = Object.assign(url ? { method, url } : { url: method }, options);
+  } else {
+    options = Object.assign({}, route);
+  }
+  options.headers = lowercaseKeys(options.headers);
+  removeUndefinedProperties(options);
+  removeUndefinedProperties(options.headers);
+  const mergedOptions = mergeDeep(defaults2 || {}, options);
+  if (options.url === "/graphql") {
+    if (defaults2 && ((_a2 = defaults2.mediaType.previews) == null ? void 0 : _a2.length)) {
+      mergedOptions.mediaType.previews = defaults2.mediaType.previews.filter(
+        (preview) => !mergedOptions.mediaType.previews.includes(preview)
+      ).concat(mergedOptions.mediaType.previews);
+    }
+    mergedOptions.mediaType.previews = (mergedOptions.mediaType.previews || []).map((preview) => preview.replace(/-preview/, ""));
+  }
+  return mergedOptions;
+}
+function addQueryParameters(url, parameters) {
+  const separator = /\?/.test(url) ? "&" : "?";
+  const names = Object.keys(parameters);
+  if (names.length === 0) {
+    return url;
+  }
+  return url + separator + names.map((name) => {
+    if (name === "q") {
+      return "q=" + parameters.q.split("+").map(encodeURIComponent).join("+");
+    }
+    return `${name}=${encodeURIComponent(parameters[name])}`;
+  }).join("&");
+}
+var urlVariableRegex = /\{[^}]+\}/g;
+function removeNonChars(variableName) {
+  return variableName.replace(/^\W+|\W+$/g, "").split(/,/);
+}
+function extractUrlVariableNames(url) {
+  const matches = url.match(urlVariableRegex);
+  if (!matches) {
+    return [];
+  }
+  return matches.map(removeNonChars).reduce((a, b) => a.concat(b), []);
+}
+function omit(object, keysToOmit) {
+  return Object.keys(object).filter((option) => !keysToOmit.includes(option)).reduce((obj, key) => {
+    obj[key] = object[key];
+    return obj;
+  }, {});
+}
+function encodeReserved(str) {
+  return str.split(/(%[0-9A-Fa-f]{2})/g).map(function(part) {
+    if (!/%[0-9A-Fa-f]/.test(part)) {
+      part = encodeURI(part).replace(/%5B/g, "[").replace(/%5D/g, "]");
+    }
+    return part;
+  }).join("");
+}
+function encodeUnreserved(str) {
+  return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
+    return "%" + c.charCodeAt(0).toString(16).toUpperCase();
+  });
+}
+function encodeValue(operator, value, key) {
+  value = operator === "+" || operator === "#" ? encodeReserved(value) : encodeUnreserved(value);
+  if (key) {
+    return encodeUnreserved(key) + "=" + value;
+  } else {
+    return value;
+  }
+}
+function isDefined(value) {
+  return value !== void 0 && value !== null;
+}
+function isKeyOperator(operator) {
+  return operator === ";" || operator === "&" || operator === "?";
+}
+function getValues(context, operator, key, modifier) {
+  var value = context[key], result = [];
+  if (isDefined(value) && value !== "") {
+    if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
+      value = value.toString();
+      if (modifier && modifier !== "*") {
+        value = value.substring(0, parseInt(modifier, 10));
+      }
+      result.push(
+        encodeValue(operator, value, isKeyOperator(operator) ? key : "")
+      );
+    } else {
+      if (modifier === "*") {
+        if (Array.isArray(value)) {
+          value.filter(isDefined).forEach(function(value2) {
+            result.push(
+              encodeValue(operator, value2, isKeyOperator(operator) ? key : "")
+            );
+          });
+        } else {
+          Object.keys(value).forEach(function(k) {
+            if (isDefined(value[k])) {
+              result.push(encodeValue(operator, value[k], k));
+            }
+          });
+        }
+      } else {
+        const tmp = [];
+        if (Array.isArray(value)) {
+          value.filter(isDefined).forEach(function(value2) {
+            tmp.push(encodeValue(operator, value2));
+          });
+        } else {
+          Object.keys(value).forEach(function(k) {
+            if (isDefined(value[k])) {
+              tmp.push(encodeUnreserved(k));
+              tmp.push(encodeValue(operator, value[k].toString()));
+            }
+          });
+        }
+        if (isKeyOperator(operator)) {
+          result.push(encodeUnreserved(key) + "=" + tmp.join(","));
+        } else if (tmp.length !== 0) {
+          result.push(tmp.join(","));
+        }
+      }
+    }
+  } else {
+    if (operator === ";") {
+      if (isDefined(value)) {
+        result.push(encodeUnreserved(key));
+      }
+    } else if (value === "" && (operator === "&" || operator === "?")) {
+      result.push(encodeUnreserved(key) + "=");
+    } else if (value === "") {
+      result.push("");
+    }
+  }
+  return result;
+}
+function parseUrl(template) {
+  return {
+    expand: expand.bind(null, template)
+  };
+}
+function expand(template, context) {
+  var operators = ["+", "#", ".", "/", ";", "?", "&"];
+  return template.replace(
+    /\{([^\{\}]+)\}|([^\{\}]+)/g,
+    function(_, expression, literal) {
+      if (expression) {
+        let operator = "";
+        const values = [];
+        if (operators.indexOf(expression.charAt(0)) !== -1) {
+          operator = expression.charAt(0);
+          expression = expression.substr(1);
+        }
+        expression.split(/,/g).forEach(function(variable) {
+          var tmp = /([^:\*]*)(?::(\d+)|(\*))?/.exec(variable);
+          values.push(getValues(context, operator, tmp[1], tmp[2] || tmp[3]));
+        });
+        if (operator && operator !== "+") {
+          var separator = ",";
+          if (operator === "?") {
+            separator = "&";
+          } else if (operator !== "#") {
+            separator = operator;
+          }
+          return (values.length !== 0 ? operator : "") + values.join(separator);
+        } else {
+          return values.join(",");
+        }
+      } else {
+        return encodeReserved(literal);
+      }
+    }
+  );
+}
+function parse(options) {
+  var _a2;
+  let method = options.method.toUpperCase();
+  let url = (options.url || "/").replace(/:([a-z]\w+)/g, "{$1}");
+  let headers = Object.assign({}, options.headers);
+  let body;
+  let parameters = omit(options, [
+    "method",
+    "baseUrl",
+    "url",
+    "headers",
+    "request",
+    "mediaType"
+  ]);
+  const urlVariableNames = extractUrlVariableNames(url);
+  url = parseUrl(url).expand(parameters);
+  if (!/^http/.test(url)) {
+    url = options.baseUrl + url;
+  }
+  const omittedParameters = Object.keys(options).filter((option) => urlVariableNames.includes(option)).concat("baseUrl");
+  const remainingParameters = omit(parameters, omittedParameters);
+  const isBinaryRequest = /application\/octet-stream/i.test(headers.accept);
+  if (!isBinaryRequest) {
+    if (options.mediaType.format) {
+      headers.accept = headers.accept.split(/,/).map(
+        (format) => format.replace(
+          /application\/vnd(\.\w+)(\.v3)?(\.\w+)?(\+json)?$/,
+          `application/vnd$1$2.${options.mediaType.format}`
+        )
+      ).join(",");
+    }
+    if (url.endsWith("/graphql")) {
+      if ((_a2 = options.mediaType.previews) == null ? void 0 : _a2.length) {
+        const previewsFromAcceptHeader = headers.accept.match(/[\w-]+(?=-preview)/g) || [];
+        headers.accept = previewsFromAcceptHeader.concat(options.mediaType.previews).map((preview) => {
+          const format = options.mediaType.format ? `.${options.mediaType.format}` : "+json";
+          return `application/vnd.github.${preview}-preview${format}`;
+        }).join(",");
+      }
+    }
+  }
+  if (["GET", "HEAD"].includes(method)) {
+    url = addQueryParameters(url, remainingParameters);
+  } else {
+    if ("data" in remainingParameters) {
+      body = remainingParameters.data;
+    } else {
+      if (Object.keys(remainingParameters).length) {
+        body = remainingParameters;
+      }
+    }
+  }
+  if (!headers["content-type"] && typeof body !== "undefined") {
+    headers["content-type"] = "application/json; charset=utf-8";
+  }
+  if (["PATCH", "PUT"].includes(method) && typeof body === "undefined") {
+    body = "";
+  }
+  return Object.assign(
+    { method, url, headers },
+    typeof body !== "undefined" ? { body } : null,
+    options.request ? { request: options.request } : null
+  );
+}
+function endpointWithDefaults(defaults2, route, options) {
+  return parse(merge(defaults2, route, options));
+}
+function withDefaults(oldDefaults, newDefaults) {
+  const DEFAULTS2 = merge(oldDefaults, newDefaults);
+  const endpoint2 = endpointWithDefaults.bind(null, DEFAULTS2);
+  return Object.assign(endpoint2, {
+    DEFAULTS: DEFAULTS2,
+    defaults: withDefaults.bind(null, DEFAULTS2),
+    merge: merge.bind(null, DEFAULTS2),
+    parse
+  });
+}
+var endpoint = withDefaults(null, DEFAULTS);
+
+// node_modules/deprecation/dist-web/index.js
+var Deprecation = class extends Error {
+  constructor(message) {
+    super(message);
+    if (Error.captureStackTrace) {
+      Error.captureStackTrace(this, this.constructor);
+    }
+    this.name = "Deprecation";
+  }
+};
+
+// node_modules/@octokit/request-error/dist-web/index.js
+var import_once = __toESM(require_once());
+var logOnceCode = (0, import_once.default)((deprecation) => console.warn(deprecation));
+var logOnceHeaders = (0, import_once.default)((deprecation) => console.warn(deprecation));
+var RequestError = class extends Error {
+  constructor(message, statusCode, options) {
+    super(message);
+    if (Error.captureStackTrace) {
+      Error.captureStackTrace(this, this.constructor);
+    }
+    this.name = "HttpError";
+    this.status = statusCode;
+    let headers;
+    if ("headers" in options && typeof options.headers !== "undefined") {
+      headers = options.headers;
+    }
+    if ("response" in options) {
+      this.response = options.response;
+      headers = options.response.headers;
+    }
+    const requestCopy = Object.assign({}, options.request);
+    if (options.request.headers.authorization) {
+      requestCopy.headers = Object.assign({}, options.request.headers, {
+        authorization: options.request.headers.authorization.replace(
+          / .*$/,
+          " [REDACTED]"
+        )
+      });
+    }
+    requestCopy.url = requestCopy.url.replace(/\bclient_secret=\w+/g, "client_secret=[REDACTED]").replace(/\baccess_token=\w+/g, "access_token=[REDACTED]");
+    this.request = requestCopy;
+    Object.defineProperty(this, "code", {
+      get() {
+        logOnceCode(
+          new Deprecation(
+            "[@octokit/request-error] `error.code` is deprecated, use `error.status`."
+          )
+        );
+        return statusCode;
+      }
+    });
+    Object.defineProperty(this, "headers", {
+      get() {
+        logOnceHeaders(
+          new Deprecation(
+            "[@octokit/request-error] `error.headers` is deprecated, use `error.response.headers`."
+          )
+        );
+        return headers || {};
+      }
+    });
+  }
+};
+
+// node_modules/@octokit/request/dist-web/index.js
+var VERSION3 = "8.1.1";
+function getBufferResponse(response) {
+  return response.arrayBuffer();
+}
+function fetchWrapper(requestOptions) {
+  var _a2, _b, _c;
+  const log = requestOptions.request && requestOptions.request.log ? requestOptions.request.log : console;
+  const parseSuccessResponseBody = ((_a2 = requestOptions.request) == null ? void 0 : _a2.parseSuccessResponseBody) !== false;
+  if (isPlainObject(requestOptions.body) || Array.isArray(requestOptions.body)) {
+    requestOptions.body = JSON.stringify(requestOptions.body);
+  }
+  let headers = {};
+  let status;
+  let url;
+  let { fetch } = globalThis;
+  if ((_b = requestOptions.request) == null ? void 0 : _b.fetch) {
+    fetch = requestOptions.request.fetch;
+  }
+  if (!fetch) {
+    throw new Error(
+      "fetch is not set. Please pass a fetch implementation as new Octokit({ request: { fetch }}). Learn more at https://github.com/octokit/octokit.js/#fetch-missing"
+    );
+  }
+  return fetch(requestOptions.url, __spreadValues({
+    method: requestOptions.method,
+    body: requestOptions.body,
+    headers: requestOptions.headers,
+    signal: (_c = requestOptions.request) == null ? void 0 : _c.signal
+  }, requestOptions.body && { duplex: "half" })).then((response) => __async(this, null, function* () {
+    url = response.url;
+    status = response.status;
+    for (const keyAndValue of response.headers) {
+      headers[keyAndValue[0]] = keyAndValue[1];
+    }
+    if ("deprecation" in headers) {
+      const matches = headers.link && headers.link.match(/<([^>]+)>; rel="deprecation"/);
+      const deprecationLink = matches && matches.pop();
+      log.warn(
+        `[@octokit/request] "${requestOptions.method} ${requestOptions.url}" is deprecated. It is scheduled to be removed on ${headers.sunset}${deprecationLink ? `. See ${deprecationLink}` : ""}`
+      );
+    }
+    if (status === 204 || status === 205) {
+      return;
+    }
+    if (requestOptions.method === "HEAD") {
+      if (status < 400) {
+        return;
+      }
+      throw new RequestError(response.statusText, status, {
+        response: {
+          url,
+          status,
+          headers,
+          data: void 0
+        },
+        request: requestOptions
+      });
+    }
+    if (status === 304) {
+      throw new RequestError("Not modified", status, {
+        response: {
+          url,
+          status,
+          headers,
+          data: yield getResponseData(response)
+        },
+        request: requestOptions
+      });
+    }
+    if (status >= 400) {
+      const data = yield getResponseData(response);
+      const error = new RequestError(toErrorMessage(data), status, {
+        response: {
+          url,
+          status,
+          headers,
+          data
+        },
+        request: requestOptions
+      });
+      throw error;
+    }
+    return parseSuccessResponseBody ? yield getResponseData(response) : response.body;
+  })).then((data) => {
+    return {
+      status,
+      url,
+      headers,
+      data
+    };
+  }).catch((error) => {
+    if (error instanceof RequestError)
+      throw error;
+    else if (error.name === "AbortError")
+      throw error;
+    throw new RequestError(error.message, 500, {
+      request: requestOptions
+    });
+  });
+}
+function getResponseData(response) {
+  return __async(this, null, function* () {
+    const contentType = response.headers.get("content-type");
+    if (/application\/json/.test(contentType)) {
+      return response.json();
+    }
+    if (!contentType || /^text\/|charset=utf-8$/.test(contentType)) {
+      return response.text();
+    }
+    return getBufferResponse(response);
+  });
+}
+function toErrorMessage(data) {
+  if (typeof data === "string")
+    return data;
+  if ("message" in data) {
+    if (Array.isArray(data.errors)) {
+      return `${data.message}: ${data.errors.map(JSON.stringify).join(", ")}`;
+    }
+    return data.message;
+  }
+  return `Unknown error: ${JSON.stringify(data)}`;
+}
+function withDefaults2(oldEndpoint, newDefaults) {
+  const endpoint2 = oldEndpoint.defaults(newDefaults);
+  const newApi = function(route, parameters) {
+    const endpointOptions = endpoint2.merge(route, parameters);
+    if (!endpointOptions.request || !endpointOptions.request.hook) {
+      return fetchWrapper(endpoint2.parse(endpointOptions));
+    }
+    const request2 = (route2, parameters2) => {
+      return fetchWrapper(
+        endpoint2.parse(endpoint2.merge(route2, parameters2))
+      );
+    };
+    Object.assign(request2, {
+      endpoint: endpoint2,
+      defaults: withDefaults2.bind(null, endpoint2)
+    });
+    return endpointOptions.request.hook(request2, endpointOptions);
+  };
+  return Object.assign(newApi, {
+    endpoint: endpoint2,
+    defaults: withDefaults2.bind(null, endpoint2)
+  });
+}
+var request = withDefaults2(endpoint, {
+  headers: {
+    "user-agent": `octokit-request.js/${VERSION3} ${getUserAgent()}`
+  }
+});
+
+// node_modules/@octokit/graphql/dist-web/index.js
+var VERSION4 = "7.0.1";
+function _buildMessageForResponseErrors(data) {
+  return `Request failed due to following response errors:
+` + data.errors.map((e) => ` - ${e.message}`).join("\n");
+}
+var GraphqlResponseError = class extends Error {
+  constructor(request2, headers, response) {
+    super(_buildMessageForResponseErrors(response));
+    this.request = request2;
+    this.headers = headers;
+    this.response = response;
+    this.name = "GraphqlResponseError";
+    this.errors = response.errors;
+    this.data = response.data;
+    if (Error.captureStackTrace) {
+      Error.captureStackTrace(this, this.constructor);
+    }
+  }
+};
+var NON_VARIABLE_OPTIONS = [
+  "method",
+  "baseUrl",
+  "url",
+  "headers",
+  "request",
+  "query",
+  "mediaType"
+];
+var FORBIDDEN_VARIABLE_OPTIONS = ["query", "method", "url"];
+var GHES_V3_SUFFIX_REGEX = /\/api\/v3\/?$/;
+function graphql(request2, query, options) {
+  if (options) {
+    if (typeof query === "string" && "query" in options) {
+      return Promise.reject(
+        new Error(`[@octokit/graphql] "query" cannot be used as variable name`)
+      );
+    }
+    for (const key in options) {
+      if (!FORBIDDEN_VARIABLE_OPTIONS.includes(key))
+        continue;
+      return Promise.reject(
+        new Error(
+          `[@octokit/graphql] "${key}" cannot be used as variable name`
+        )
+      );
+    }
+  }
+  const parsedOptions = typeof query === "string" ? Object.assign({ query }, options) : query;
+  const requestOptions = Object.keys(
+    parsedOptions
+  ).reduce((result, key) => {
+    if (NON_VARIABLE_OPTIONS.includes(key)) {
+      result[key] = parsedOptions[key];
+      return result;
+    }
+    if (!result.variables) {
+      result.variables = {};
+    }
+    result.variables[key] = parsedOptions[key];
+    return result;
+  }, {});
+  const baseUrl = parsedOptions.baseUrl || request2.endpoint.DEFAULTS.baseUrl;
+  if (GHES_V3_SUFFIX_REGEX.test(baseUrl)) {
+    requestOptions.url = baseUrl.replace(GHES_V3_SUFFIX_REGEX, "/api/graphql");
+  }
+  return request2(requestOptions).then((response) => {
+    if (response.data.errors) {
+      const headers = {};
+      for (const key of Object.keys(response.headers)) {
+        headers[key] = response.headers[key];
+      }
+      throw new GraphqlResponseError(
+        requestOptions,
+        headers,
+        response.data
+      );
+    }
+    return response.data.data;
+  });
+}
+function withDefaults3(request2, newDefaults) {
+  const newRequest = request2.defaults(newDefaults);
+  const newApi = (query, options) => {
+    return graphql(newRequest, query, options);
+  };
+  return Object.assign(newApi, {
+    defaults: withDefaults3.bind(null, newRequest),
+    endpoint: newRequest.endpoint
+  });
+}
+var graphql2 = withDefaults3(request, {
+  headers: {
+    "user-agent": `octokit-graphql.js/${VERSION4} ${getUserAgent()}`
+  },
+  method: "POST",
+  url: "/graphql"
+});
+function withCustomRequest(customRequest) {
+  return withDefaults3(customRequest, {
+    method: "POST",
+    url: "/graphql"
+  });
+}
+
+// node_modules/@octokit/auth-token/dist-web/index.js
+var REGEX_IS_INSTALLATION_LEGACY = /^v1\./;
+var REGEX_IS_INSTALLATION = /^ghs_/;
+var REGEX_IS_USER_TO_SERVER = /^ghu_/;
+function auth(token) {
+  return __async(this, null, function* () {
+    const isApp = token.split(/\./).length === 3;
+    const isInstallation = REGEX_IS_INSTALLATION_LEGACY.test(token) || REGEX_IS_INSTALLATION.test(token);
+    const isUserToServer = REGEX_IS_USER_TO_SERVER.test(token);
+    const tokenType = isApp ? "app" : isInstallation ? "installation" : isUserToServer ? "user-to-server" : "oauth";
+    return {
+      type: "token",
+      token,
+      tokenType
+    };
+  });
+}
+function withAuthorizationPrefix(token) {
+  if (token.split(/\./).length === 3) {
+    return `bearer ${token}`;
+  }
+  return `token ${token}`;
+}
+function hook(token, request2, route, parameters) {
+  return __async(this, null, function* () {
+    const endpoint2 = request2.endpoint.merge(
+      route,
+      parameters
+    );
+    endpoint2.headers.authorization = withAuthorizationPrefix(token);
+    return request2(endpoint2);
+  });
+}
+var createTokenAuth = function createTokenAuth2(token) {
+  if (!token) {
+    throw new Error("[@octokit/auth-token] No token passed to createTokenAuth");
+  }
+  if (typeof token !== "string") {
+    throw new Error(
+      "[@octokit/auth-token] Token passed to createTokenAuth is not a string"
+    );
+  }
+  token = token.replace(/^(token|bearer) +/i, "");
+  return Object.assign(auth.bind(null, token), {
+    hook: hook.bind(null, token)
+  });
+};
+
+// node_modules/@octokit/core/dist-web/index.js
+var VERSION5 = "5.0.0";
+var _a;
+var Octokit = (_a = class {
+  static defaults(defaults2) {
+    const OctokitWithDefaults = class extends this {
+      constructor(...args) {
+        const options = args[0] || {};
+        if (typeof defaults2 === "function") {
+          super(defaults2(options));
+          return;
+        }
+        super(
+          Object.assign(
+            {},
+            defaults2,
+            options,
+            options.userAgent && defaults2.userAgent ? {
+              userAgent: `${options.userAgent} ${defaults2.userAgent}`
+            } : null
+          )
+        );
+      }
+    };
+    return OctokitWithDefaults;
+  }
+  /**
+   * Attach a plugin (or many) to your Octokit instance.
+   *
+   * @example
+   * const API = Octokit.plugin(plugin1, plugin2, plugin3, ...)
+   */
+  static plugin(...newPlugins) {
+    var _a2;
+    const currentPlugins = this.plugins;
+    const NewOctokit = (_a2 = class extends this {
+    }, _a2.plugins = currentPlugins.concat(
+      newPlugins.filter((plugin) => !currentPlugins.includes(plugin))
+    ), _a2);
+    return NewOctokit;
+  }
+  constructor(options = {}) {
+    const hook2 = new import_before_after_hook.Collection();
+    const requestDefaults = {
+      baseUrl: request.endpoint.DEFAULTS.baseUrl,
+      headers: {},
+      request: Object.assign({}, options.request, {
+        // @ts-ignore internal usage only, no need to type
+        hook: hook2.bind(null, "request")
+      }),
+      mediaType: {
+        previews: [],
+        format: ""
+      }
+    };
+    requestDefaults.headers["user-agent"] = [
+      options.userAgent,
+      `octokit-core.js/${VERSION5} ${getUserAgent()}`
+    ].filter(Boolean).join(" ");
+    if (options.baseUrl) {
+      requestDefaults.baseUrl = options.baseUrl;
+    }
+    if (options.previews) {
+      requestDefaults.mediaType.previews = options.previews;
+    }
+    if (options.timeZone) {
+      requestDefaults.headers["time-zone"] = options.timeZone;
+    }
+    this.request = request.defaults(requestDefaults);
+    this.graphql = withCustomRequest(this.request).defaults(requestDefaults);
+    this.log = Object.assign(
+      {
+        debug: () => {
+        },
+        info: () => {
+        },
+        warn: console.warn.bind(console),
+        error: console.error.bind(console)
+      },
+      options.log
+    );
+    this.hook = hook2;
+    if (!options.authStrategy) {
+      if (!options.auth) {
+        this.auth = () => __async(this, null, function* () {
+          return {
+            type: "unauthenticated"
+          };
+        });
+      } else {
+        const auth2 = createTokenAuth(options.auth);
+        hook2.wrap("request", auth2.hook);
+        this.auth = auth2;
+      }
+    } else {
+      const _a2 = options, { authStrategy } = _a2, otherOptions = __objRest(_a2, ["authStrategy"]);
+      const auth2 = authStrategy(
+        Object.assign(
+          {
+            request: this.request,
+            log: this.log,
+            // we pass the current octokit instance as well as its constructor options
+            // to allow for authentication strategies that return a new octokit instance
+            // that shares the same internal state as the current one. The original
+            // requirement for this was the "event-octokit" authentication strategy
+            // of https://github.com/probot/octokit-auth-probot.
+            octokit: this,
+            octokitOptions: otherOptions
+          },
+          options.auth
+        )
+      );
+      hook2.wrap("request", auth2.hook);
+      this.auth = auth2;
+    }
+    const classConstructor = this.constructor;
+    classConstructor.plugins.forEach((plugin) => {
+      Object.assign(this, plugin(this, options));
+    });
+  }
+}, _a.VERSION = VERSION5, _a.plugins = [], _a);
+
+// src/repositoryConnection/PublishPlatformConnectionFactory.ts
+var import_js_logger3 = __toESM(require_logger());
+var oktokitLogger = import_js_logger3.default.get("octokit");
+var PublishPlatformConnectionFactory = class {
+  static createBaseGardenConnection() {
+    return {
+      octoKit: new Octokit({ log: oktokitLogger }),
+      userName: "oleeskild",
+      pageName: "digitalgarden"
+    };
+  }
+  static createPublishPlatformConnection(settings) {
+    return __async(this, null, function* () {
+      if (settings.publishPlatform === "SelfHosted" /* SelfHosted */) {
+        return {
+          octoKit: new Octokit({
+            auth: settings.githubToken,
+            log: oktokitLogger
+          }),
+          userName: settings.githubUserName,
+          pageName: settings.githubRepo
+        };
+      } else if (settings.publishPlatform === "ForestryMd" /* ForestryMd */) {
+        const userName = "Forestry";
+        const token = settings.forestrySettings.apiKey;
+        const baseUrl = "https://api.forestry.md/app";
+        const octoKit = new Octokit({
+          baseUrl: `${baseUrl}/Garden`,
+          auth: token,
+          log: oktokitLogger
+        });
+        const pageName = settings.forestrySettings.forestryPageName;
+        return {
+          userName,
+          pageName,
+          octoKit
+        };
+      } else {
+        throw new Error("Publish platform not supported");
+      }
+    });
+  }
+};
+
+// src/repositoryConnection/DigitalGardenSiteManager.ts
+var logger3 = import_js_logger4.default.get("digital-garden-site-manager");
+var DigitalGardenSiteManager = class {
+  constructor(metadataCache, settings) {
+    this.settings = settings;
+    this.metadataCache = metadataCache;
+    this.rewriteRules = getRewriteRules(settings.pathRewriteRules);
+    this.baseGardenConnection = new RepositoryConnection(
+      PublishPlatformConnectionFactory.createBaseGardenConnection()
+    );
+    this.userGardenConnection = null;
+    this.templateUpdater = null;
+  }
+  getTemplateUpdater() {
+    return __async(this, null, function* () {
+      if (!this.templateUpdater) {
+        this.templateUpdater = new TemplateUpdateChecker({
+          baseGardenConnection: this.baseGardenConnection,
+          userGardenConnection: yield this.getUserGardenConnection()
+        });
+      }
+      return this.templateUpdater;
+    });
+  }
+  getUserGardenConnection() {
+    return __async(this, null, function* () {
+      if (!this.userGardenConnection) {
+        this.userGardenConnection = new RepositoryConnection(
+          yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+            this.settings
+          )
+        );
+      }
+      return this.userGardenConnection;
+    });
+  }
+  updateEnv() {
+    return __async(this, null, function* () {
+      var _a2, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p;
+      const theme = JSON.parse(this.settings.theme);
+      const baseTheme = this.settings.baseTheme;
+      const siteName = this.settings.siteName;
+      const mainLanguage = this.settings.mainLanguage;
+      let gardenBaseUrl = "";
+      if (this.settings.gardenBaseUrl && !this.settings.gardenBaseUrl.startsWith("ghp_") && !this.settings.gardenBaseUrl.startsWith("github_pat") && this.settings.gardenBaseUrl.contains(".")) {
+        gardenBaseUrl = this.settings.gardenBaseUrl;
+      }
+      const envValues = __spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues(__spreadValues({
+        SITE_NAME_HEADER: siteName,
+        SITE_MAIN_LANGUAGE: mainLanguage,
+        SITE_BASE_URL: gardenBaseUrl,
+        SHOW_CREATED_TIMESTAMP: this.settings.showCreatedTimestamp,
+        TIMESTAMP_FORMAT: this.settings.timestampFormat,
+        SHOW_UPDATED_TIMESTAMP: this.settings.showUpdatedTimestamp,
+        NOTE_ICON_DEFAULT: this.settings.defaultNoteIcon,
+        NOTE_ICON_TITLE: this.settings.showNoteIconOnTitle,
+        NOTE_ICON_FILETREE: this.settings.showNoteIconInFileTree,
+        NOTE_ICON_INTERNAL_LINKS: this.settings.showNoteIconOnInternalLink,
+        NOTE_ICON_BACK_LINKS: this.settings.showNoteIconOnBackLink,
+        STYLE_SETTINGS_CSS: this.settings.styleSettingsCss,
+        STYLE_SETTINGS_BODY_CLASSES: this.settings.styleSettingsBodyClasses,
+        USE_FULL_RESOLUTION_IMAGES: this.settings.useFullResolutionImages
+      }, ((_a2 = this.settings.uiStrings) == null ? void 0 : _a2.backlinkHeader) && {
+        UI_BACKLINK_HEADER: this.settings.uiStrings.backlinkHeader
+      }), ((_b = this.settings.uiStrings) == null ? void 0 : _b.noBacklinksMessage) && {
+        UI_NO_BACKLINKS_MESSAGE: this.settings.uiStrings.noBacklinksMessage
+      }), ((_c = this.settings.uiStrings) == null ? void 0 : _c.searchButtonText) && {
+        UI_SEARCH_BUTTON_TEXT: this.settings.uiStrings.searchButtonText
+      }), ((_d = this.settings.uiStrings) == null ? void 0 : _d.searchPlaceholder) && {
+        UI_SEARCH_PLACEHOLDER: this.settings.uiStrings.searchPlaceholder
+      }), ((_e = this.settings.uiStrings) == null ? void 0 : _e.searchNotStarted) && {
+        UI_SEARCH_NOT_STARTED_TEXT: this.settings.uiStrings.searchNotStarted
+      }), ((_f = this.settings.uiStrings) == null ? void 0 : _f.searchEnterHotkey) && {
+        UI_SEARCH_ENTER_HOTKEY: this.settings.uiStrings.searchEnterHotkey
+      }), ((_g = this.settings.uiStrings) == null ? void 0 : _g.searchEnterHint) && {
+        UI_SEARCH_ENTER_HINT: this.settings.uiStrings.searchEnterHint
+      }), ((_h = this.settings.uiStrings) == null ? void 0 : _h.searchNavigateHotkey) && {
+        UI_SEARCH_NAVIGATE_HOTKEY: this.settings.uiStrings.searchNavigateHotkey
+      }), ((_i = this.settings.uiStrings) == null ? void 0 : _i.searchNavigateHint) && {
+        UI_SEARCH_NAVIGATE_HINT: this.settings.uiStrings.searchNavigateHint
+      }), ((_j = this.settings.uiStrings) == null ? void 0 : _j.searchCloseHotkey) && {
+        UI_SEARCH_CLOSE_HOTKEY: this.settings.uiStrings.searchCloseHotkey
+      }), ((_k = this.settings.uiStrings) == null ? void 0 : _k.searchCloseHint) && {
+        UI_SEARCH_CLOSE_HINT: this.settings.uiStrings.searchCloseHint
+      }), ((_l = this.settings.uiStrings) == null ? void 0 : _l.searchNoResults) && {
+        UI_SEARCH_NO_RESULTS: this.settings.uiStrings.searchNoResults
+      }), ((_m = this.settings.uiStrings) == null ? void 0 : _m.canvasDragHint) && {
+        UI_CANVAS_DRAG_HINT: this.settings.uiStrings.canvasDragHint
+      }), ((_n = this.settings.uiStrings) == null ? void 0 : _n.canvasZoomHint) && {
+        UI_CANVAS_ZOOM_HINT: this.settings.uiStrings.canvasZoomHint
+      }), ((_o = this.settings.uiStrings) == null ? void 0 : _o.canvasResetHint) && {
+        UI_CANVAS_RESET_HINT: this.settings.uiStrings.canvasResetHint
+      });
+      if (theme.name !== "default") {
+        envValues["THEME"] = theme.cssUrl;
+        envValues["BASE_THEME"] = baseTheme;
+      }
+      const keysToSet = __spreadValues(__spreadValues({}, envValues), this.settings.defaultNoteSettings);
+      const envSettings = Object.entries(keysToSet).map(([key, value]) => `${key}=${value}`).join("\n");
+      const base64Settings = gBase64.encode(envSettings);
+      const currentFile = yield (yield this.getUserGardenConnection()).getFile(".env");
+      const decodedCurrentFile = gBase64.decode((_p = currentFile == null ? void 0 : currentFile.content) != null ? _p : "");
+      if (decodedCurrentFile === envSettings) {
+        logger3.info("No changes to .env file");
+        new import_obsidian2.Notice("Settings already up to date!");
+        return;
+      }
+      yield (yield this.getUserGardenConnection()).updateFile({
+        path: ".env",
+        content: base64Settings,
+        message: "Update settings",
+        sha: currentFile == null ? void 0 : currentFile.sha
+      });
+    });
+  }
+  getNoteUrl(file) {
+    var _a2;
+    const savedBaseUrl = this.settings.publishPlatform === "SelfHosted" /* SelfHosted */ ? this.settings.gardenBaseUrl : this.settings.forestrySettings.baseUrl;
+    if (!savedBaseUrl) {
+      new import_obsidian2.Notice("Please set the garden base url in the settings");
+      throw new Error("Garden base url not set");
+    }
+    const baseUrl = `https://${extractBaseUrl(savedBaseUrl)}`;
+    const noteUrlPath = generateUrlPath(
+      getGardenPathForNote(file.path, this.rewriteRules),
+      this.settings.slugifyEnabled
+    );
+    let urlPath = `/${noteUrlPath}`;
+    const frontMatter = (_a2 = this.metadataCache.getCache(file.path)) == null ? void 0 : _a2.frontmatter;
+    if (frontMatter && frontMatter["dg-home"] === true) {
+      urlPath = "/";
+    } else if (frontMatter == null ? void 0 : frontMatter.permalink) {
+      urlPath = `/${frontMatter.permalink}`;
+    } else if (frontMatter == null ? void 0 : frontMatter["dg-permalink"]) {
+      urlPath = `/${frontMatter["dg-permalink"]}`;
+    }
+    return `${baseUrl}${urlPath}`;
+  }
+  getNoteContent(path) {
+    return __async(this, null, function* () {
+      if (path.startsWith("/")) {
+        path = path.substring(1);
+      }
+      const response = yield (yield this.getUserGardenConnection()).getFile(NOTE_PATH_BASE2 + path);
+      if (!response) {
+        return "";
+      }
+      const content = gBase64.decode(response.content);
+      return content;
+    });
+  }
+  getNoteHashes(contentTree) {
+    return __async(this, null, function* () {
+      const files = contentTree.tree;
+      const notes = files.filter(
+        (x) => typeof x.path === "string" && x.path.startsWith(NOTE_PATH_BASE2) && x.type === "blob" && x.path !== `${NOTE_PATH_BASE2}notes.json`
+      );
+      const hashes = {};
+      for (const note of notes) {
+        const vaultPath = note.path.replace(NOTE_PATH_BASE2, "");
+        hashes[vaultPath] = note.sha;
+      }
+      return hashes;
+    });
+  }
+  getImageHashes(contentTree) {
+    return __async(this, null, function* () {
+      var _a2;
+      const files = (_a2 = contentTree.tree) != null ? _a2 : [];
+      const images = files.filter(
+        (x) => typeof x.path === "string" && x.path.startsWith(IMAGE_PATH_BASE2) && x.type === "blob"
+      );
+      const hashes = {};
+      for (const img of images) {
+        const vaultPath = img.path.replace(IMAGE_PATH_BASE2, "");
+        hashes[vaultPath] = img.sha;
+      }
+      return hashes;
+    });
+  }
+};
+
 // src/compiler/GardenPageCompiler.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // src/ui/suggest/constants.ts
 var seedling = `<g style="pointer-events:all"><title style="pointer-events: none" opacity="0.33">Layer 1</title><g id="hair" style="pointer-events: none" opacity="0.33"></g><g id="skin" style="pointer-events: none" opacity="0.33"></g><g id="skin-shadow" style="pointer-events: none" opacity="0.33"></g><g id="line"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M47.71119,35.9247" id="svg_3"></path><polyline fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="49.813106536865234,93.05191133916378 49.813106536865234,69.57996462285519 40.03312683105469,26.548054680228233 " id="svg_4"></polyline><line x1="49.81311" x2="59.59309" y1="69.57996" y2="50.02" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_5"></line><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.99666,14.21103C35.9517,16.94766 39.92393,26.36911 39.92393,26.36911S30.99696,31.3526 23.04075,28.61655S11.11348,16.45847 11.11348,16.45847S20.04456,11.4789 27.99666,14.21103z" id="svg_6"></path><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M76.46266698455811,45.61669603088379 C84.67706698455811,47.43146603088379 89.6945869845581,56.34024603088379 89.6945869845581,56.34024603088379 S81.3917769845581,62.30603603088379 73.17639698455811,60.492046030883785 S59.94447698455811,49.768496030883796 59.94447698455811,49.768496030883796 S68.2515869845581,43.80622603088379 76.46266698455811,45.61669603088379 z" id="svg_7"></path></g></g>`;
@@ -10688,28 +12377,30 @@ var BLOCKREF_REGEX = /(\^\w+([\r\n]|$))/g;
 var CODE_FENCE_REGEX = /`(.*?)`/g;
 var CODEBLOCK_REGEX = /```.*?[\r\n][\s\S]+?```/g;
 var EXCALIDRAW_REGEX = /:\[\[(\d*?,\d*?)\],.*?\]\]/g;
-var TRANSCLUDED_SVG_REGEX = /!\[\[(.*?)(\.(svg))\|(.*?)\]\]|!\[\[(.*?)(\.(svg))\]\]/g;
+var TRANSCLUDED_SVG_REGEX = /!\[\[(.*?)(\.(svg))\\?\|(.*?)\]\]|!\[\[(.*?)(\.(svg))\]\]/g;
+var PDF_REGEX = /!\[(.*?)\]\((.*?)(\.pdf)\)/g;
+var TRANSCLUDED_PDF_REGEX = /!\[\[(.*?)(\.pdf)\\?\|(.*?)\]\]|!\[\[(.*?)(\.pdf)\]\]/g;
 
 // src/compiler/GardenPageCompiler.ts
-var import_js_logger2 = __toESM(require_logger());
+var import_js_logger6 = __toESM(require_logger());
 
 // src/compiler/DataviewCompiler.ts
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 var import_obsidian_dataview = __toESM(require_lib());
-var import_js_logger = __toESM(require_logger());
+var import_js_logger5 = __toESM(require_logger());
 var DataviewCompiler = class {
   constructor() {
     this.compile = (file) => (text2) => __async(this, null, function* () {
       var _a2, _b, _c;
       let replacedText = text2;
-      const dataViewRegex = new RegExp("```dataview\\s(.+?)```", "gms");
+      const dataViewRegex = new RegExp("```\\s*dataview\\s(.+?)```", "gms");
       const dvApi = (0, import_obsidian_dataview.getAPI)();
       if (!dvApi)
         return replacedText;
       const matches = text2.matchAll(dataViewRegex);
       const dataviewJsPrefix = dvApi.settings.dataviewJsKeyword;
       const dataViewJsRegex = new RegExp(
-        "```" + escapeRegExp(dataviewJsPrefix) + "\\s(.+?)```",
+        "```\\s*" + escapeRegExp(dataviewJsPrefix) + "\\s(.+?)```",
         "gsm"
       );
       const dataviewJsMatches = text2.matchAll(dataViewJsRegex);
@@ -10747,7 +12438,7 @@ var DataviewCompiler = class {
           );
         } catch (e) {
           console.log(e);
-          new import_obsidian2.Notice(
+          new import_obsidian3.Notice(
             "Unable to render dataview query. Please update the dataview plugin to the latest version."
           );
           return queryBlock[0];
@@ -10758,7 +12449,7 @@ var DataviewCompiler = class {
           const block = queryBlock[0];
           const query = queryBlock[1];
           const div = createEl("div");
-          const component = new import_obsidian2.Component();
+          const component = new import_obsidian3.Component();
           component.load();
           yield dvApi.executeJs(query, div, component, file.getPath());
           let counter = 0;
@@ -10769,7 +12460,7 @@ var DataviewCompiler = class {
           replacedText = replacedText.replace(block, (_a2 = div.innerHTML) != null ? _a2 : "");
         } catch (e) {
           console.log(e);
-          new import_obsidian2.Notice(
+          new import_obsidian3.Notice(
             "Unable to render dataviewjs query. Please update the dataview plugin to the latest version."
           );
           return queryBlock[0];
@@ -10790,7 +12481,7 @@ var DataviewCompiler = class {
           }
         } catch (e) {
           console.log(e);
-          new import_obsidian2.Notice(
+          new import_obsidian3.Notice(
             "Unable to render inline dataview query. Please update the dataview plugin to the latest version."
           );
           return inlineQuery[0];
@@ -10813,8 +12504,8 @@ var DataviewCompiler = class {
             result != null ? result : "Unable to render query"
           );
         } catch (e) {
-          import_js_logger.default.error(e);
-          new import_obsidian2.Notice(
+          import_js_logger5.default.error(e);
+          new import_obsidian3.Notice(
             "Unable to render inline dataviewjs query. Please update the dataview plugin to the latest version."
           );
           return inlineJsQuery[0];
@@ -10868,7 +12559,7 @@ function tryDVEvaluate(query, file, dvApi) {
     });
     result = (_b = dataviewResult == null ? void 0 : dataviewResult.toString()) != null ? _b : "";
   } catch (e) {
-    import_js_logger.default.warn("dvapi.tryEvaluate did not yield any result", e);
+    import_js_logger5.default.warn("dvapi.tryEvaluate did not yield any result", e);
   }
   return result;
 }
@@ -10877,14 +12568,14 @@ function tryEval(query) {
   try {
     result = (0, eval)("const dv = DataviewAPI;" + query);
   } catch (e) {
-    import_js_logger.default.warn("eval did not yield any result", e);
+    import_js_logger5.default.warn("eval did not yield any result", e);
   }
   return result;
 }
 function tryExecuteJs(query, file, dvApi) {
   return __async(this, null, function* () {
     const div = createEl("div");
-    const component = new import_obsidian2.Component();
+    const component = new import_obsidian3.Component();
     component.load();
     yield dvApi.executeJs(query, div, component, file.getPath());
     let counter = 0;
@@ -10900,6 +12591,9 @@ function delay(milliseconds) {
     setTimeout(resolve, milliseconds);
   });
 }
+
+// src/compiler/CanvasCompiler.ts
+var import_obsidian4 = require("obsidian");
 
 // src/compiler/FrontmatterCompiler.ts
 var FrontmatterCompiler = class {
@@ -10954,7 +12648,10 @@ var FrontmatterCompiler = class {
       publishedFrontMatter
     );
     publishedFrontMatter = this.addTimestampsFrontmatter(file)(publishedFrontMatter);
-    const fullFrontMatter = (publishedFrontMatter == null ? void 0 : publishedFrontMatter.dgPassFrontmatter) ? __spreadValues(__spreadValues({}, fileFrontMatter), publishedFrontMatter) : publishedFrontMatter;
+    const userProperties = this.extractUserProperties(fileFrontMatter);
+    const fullFrontMatter = (publishedFrontMatter == null ? void 0 : publishedFrontMatter.dgPassFrontmatter) ? __spreadProps(__spreadValues(__spreadValues({}, fileFrontMatter), publishedFrontMatter), {
+      "dg-note-properties": userProperties
+    }) : __spreadProps(__spreadValues({}, publishedFrontMatter), { "dg-note-properties": userProperties });
     const frontMatterString = JSON.stringify(fullFrontMatter);
     return `---
 ${frontMatterString}
@@ -11060,6 +12757,529 @@ ${frontMatterString}
       publishedFrontMatter.dgPassFrontmatter = dgPassFrontmatter;
     }
     return publishedFrontMatter;
+  }
+  /**
+   * Extracts all user-defined frontmatter properties, excluding
+   * Obsidian internal fields and dg-* plugin fields that are already
+   * handled by the compilation pipeline.
+   */
+  extractUserProperties(frontmatter) {
+    if (!frontmatter)
+      return {};
+    const skipKeys = /* @__PURE__ */ new Set([
+      "position",
+      // Obsidian internal
+      "dg-publish",
+      "dg-home",
+      "dg-path",
+      "dg-permalink",
+      "dg-hide",
+      "dg-hide-in-graph",
+      "dg-pinned",
+      "dg-metatags",
+      "dg-pass-frontmatter",
+      "dg-content-classes",
+      "dg-note-icon"
+    ]);
+    const userProps = {};
+    for (const [key, value] of Object.entries(frontmatter)) {
+      if (skipKeys.has(key))
+        continue;
+      if (key.startsWith("dg-") || key.startsWith("dg_"))
+        continue;
+      userProps[key] = value;
+    }
+    return userProps;
+  }
+};
+
+// src/compiler/CanvasCompiler.ts
+var COLOR_PRESETS = {
+  "1": "#fb464c",
+  // red
+  "2": "#e9973f",
+  // orange
+  "3": "#e0de71",
+  // yellow
+  "4": "#44cf6e",
+  // green
+  "5": "#53dfdd",
+  // cyan
+  "6": "#a882ff"
+  // purple
+};
+function resolveColor(color) {
+  if (!color)
+    return void 0;
+  if (color.startsWith("#"))
+    return color;
+  return COLOR_PRESETS[color];
+}
+function colorToId(color) {
+  return color.replace(/[^a-zA-Z0-9]/g, "").substring(0, 20);
+}
+var CanvasCompiler = class {
+  constructor(vault, metadataCache, settings) {
+    this.compileMarkdown = ({
+      idAppendage = "",
+      includeFrontMatter = true,
+      assets = []
+    } = {}) => (file) => (fileText) => __async(this, null, function* () {
+      var _a2, _b, _c, _d;
+      if (!file.file.name.endsWith(".canvas")) {
+        throw new Error("File is not a canvas file");
+      }
+      const canvasData = JSON.parse(fileText);
+      const canvasId = file.file.name.split(" ").join("_").replace(".", "") + idAppendage;
+      const nodesHtml = yield this.buildNodesHtml(
+        canvasData.nodes || [],
+        file,
+        assets
+      );
+      const edgesSvg = this.buildEdgesSvg(
+        canvasData.edges || [],
+        canvasData.nodes || []
+      );
+      const canvasCode = this.renderCanvas(canvasId, nodesHtml, edgesSvg);
+      let compiledFrontmatter = "";
+      if (includeFrontMatter) {
+        const frontmatterCompiler = new FrontmatterCompiler(
+          this.settings
+        );
+        const contentClassesKey = this.settings.contentClassesKey || "contentClasses";
+        const existingClasses = (_b = (_a2 = canvasData.metadata) == null ? void 0 : _a2.frontmatter) == null ? void 0 : _b[contentClassesKey];
+        const canvasPageClass = existingClasses ? `${existingClasses} canvas-page` : "canvas-page";
+        const canvasFrontmatter = __spreadProps(__spreadValues({}, (_d = (_c = canvasData.metadata) == null ? void 0 : _c.frontmatter) != null ? _d : {}), {
+          [contentClassesKey]: canvasPageClass
+        });
+        compiledFrontmatter = frontmatterCompiler.compile(
+          file,
+          canvasFrontmatter
+        );
+      }
+      return `${compiledFrontmatter}${canvasCode}`;
+    });
+    this.vault = vault;
+    this.metadataCache = metadataCache;
+    this.settings = settings;
+  }
+  setTextNodeProcessor(processor) {
+    this.textNodeProcessor = processor;
+  }
+  buildNodesHtml(nodes, file, assets) {
+    return __async(this, null, function* () {
+      const nodeHtmls = yield Promise.all(
+        nodes.map((node) => this.buildNodeHtml(node, file, assets))
+      );
+      return nodeHtmls.join("\n");
+    });
+  }
+  buildNodeHtml(node, file, assets) {
+    return __async(this, null, function* () {
+      const color = resolveColor(node.color);
+      const colorStyle = color ? `--canvas-color: ${color};` : "";
+      const colorClass = color ? "has-color" : "";
+      const baseStyle = `transform: translate(${node.x}px, ${node.y}px); width: ${node.width}px; height: ${node.height}px; ${colorStyle}`;
+      switch (node.type) {
+        case "text":
+          return yield this.buildTextNode(
+            node,
+            baseStyle,
+            colorClass,
+            file,
+            assets
+          );
+        case "file":
+          return yield this.buildFileNode(
+            node,
+            baseStyle,
+            colorClass,
+            file,
+            assets
+          );
+        case "link":
+          return this.buildLinkNode(node, baseStyle, colorClass);
+        case "group":
+          return yield this.buildGroupNode(
+            node,
+            baseStyle,
+            colorClass,
+            file,
+            assets
+          );
+        default:
+          return "";
+      }
+    });
+  }
+  buildTextNode(node, baseStyle, colorClass, file, assets) {
+    return __async(this, null, function* () {
+      var _a2;
+      let processedText = node.text;
+      if (this.textNodeProcessor) {
+        try {
+          processedText = yield this.textNodeProcessor.processTextNodeContent(
+            file,
+            node.text,
+            assets
+          );
+        } catch (e) {
+          console.error("Error processing canvas text node:", e);
+        }
+      }
+      const base64Markdown = Buffer.from(processedText).toString("base64");
+      const textAlign = (_a2 = node.styleAttributes) == null ? void 0 : _a2.textAlign;
+      const contentStyle = textAlign ? `text-align: ${textAlign};` : "";
+      return `<div class="canvas-node canvas-node-text ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered"${contentStyle ? ` style="${contentStyle}"` : ""}>
+			<div class="canvas-node-text-content" data-markdown="${base64Markdown}"></div>
+		</div>
+	</div>
+</div>`;
+    });
+  }
+  buildFileNode(node, baseStyle, colorClass, file, assets) {
+    return __async(this, null, function* () {
+      const isPdf = /\.pdf$/i.test(node.file);
+      if (isPdf) {
+        const linkedFile = this.metadataCache.getFirstLinkpathDest(
+          (0, import_obsidian4.getLinkpath)(node.file),
+          file.getPath()
+        );
+        if (linkedFile) {
+          try {
+            const pdfData = yield this.vault.readBinary(linkedFile);
+            const pdfBase64 = arrayBufferToBase64(pdfData);
+            const pdfPath2 = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: pdfPath2,
+              content: pdfBase64,
+              localHash: generateBlobHashFromBase64(pdfBase64)
+            });
+            return `<div class="canvas-node canvas-node-file canvas-node-pdf ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="${encodeURI(
+              pdfPath2
+            )}" class="canvas-pdf-iframe" loading="lazy" style="width:100%;height:100%;border:none;"></iframe>
+		</div>
+	</div>
+</div>`;
+          } catch (e) {
+            console.error("Error reading canvas PDF:", e);
+          }
+        }
+        const resolvedPath = (linkedFile == null ? void 0 : linkedFile.path) || node.file;
+        const pdfPath = encodeURI(`/img/user/${resolvedPath}`);
+        return `<div class="canvas-node canvas-node-file canvas-node-pdf ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="${pdfPath}" class="canvas-pdf-iframe" loading="lazy" style="width:100%;height:100%;border:none;"></iframe>
+		</div>
+	</div>
+</div>`;
+      }
+      const isImage = /\.(png|jpg|jpeg|gif|webp|svg)$/i.test(node.file);
+      if (isImage) {
+        const linkedFile = this.metadataCache.getFirstLinkpathDest(
+          (0, import_obsidian4.getLinkpath)(node.file),
+          file.getPath()
+        );
+        if (linkedFile) {
+          try {
+            const imageData = yield this.vault.readBinary(linkedFile);
+            const imageBase64 = arrayBufferToBase64(imageData);
+            const imgPath2 = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: imgPath2,
+              content: imageBase64,
+              localHash: generateBlobHashFromBase64(imageBase64)
+            });
+            const altText2 = node.file.split("/").pop() || node.file;
+            return `<div class="canvas-node canvas-node-file canvas-node-image ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="${encodeURI(imgPath2)}" alt="${this.escapeHtml(
+              altText2
+            )}" loading="lazy" />
+		</div>
+	</div>
+</div>`;
+          } catch (e) {
+            console.error("Error reading canvas image:", e);
+          }
+        }
+        const resolvedPath = (linkedFile == null ? void 0 : linkedFile.path) || node.file;
+        const imgPath = encodeURI(`/img/user/${resolvedPath}`);
+        const altText = node.file.split("/").pop() || node.file;
+        return `<div class="canvas-node canvas-node-file canvas-node-image ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="${imgPath}" alt="${this.escapeHtml(altText)}" loading="lazy" />
+		</div>
+	</div>
+</div>`;
+      }
+      const gardenUrl = this.resolveFileToGardenUrl(node.file, file);
+      const subpath = node.subpath || "";
+      const fullUrl = gardenUrl + subpath;
+      const label = node.file.replace(/\.md$/, "").split("/").pop() || "";
+      return `<div class="canvas-node canvas-node-file ${colorClass}" data-node-id="${node.id}" data-file-path="${this.escapeHtml(node.file)}" style="${baseStyle}">
+	<div class="canvas-node-label">${this.escapeHtml(label)}</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="${fullUrl}" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>`;
+    });
+  }
+  buildLinkNode(node, baseStyle, colorClass) {
+    const url = node.url;
+    const youtubeId = this.extractYouTubeId(url);
+    if (youtubeId) {
+      return `<div class="canvas-node canvas-node-link canvas-node-youtube ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-label">YouTube</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://www.youtube.com/embed/${youtubeId}" class="canvas-youtube-iframe" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>`;
+    }
+    let label = url;
+    try {
+      const urlObj = new URL(url);
+      label = urlObj.hostname;
+    } catch (e) {
+    }
+    return `<div class="canvas-node canvas-node-link ${colorClass}" data-node-id="${node.id}" style="${baseStyle}">
+	<div class="canvas-node-label">${this.escapeHtml(label)}</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="${this.escapeHtml(
+      url
+    )}" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>`;
+  }
+  extractYouTubeId(url) {
+    const patterns = [
+      /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/,
+      /youtube\.com\/watch\?.*v=([a-zA-Z0-9_-]{11})/
+    ];
+    for (const pattern of patterns) {
+      const match2 = url.match(pattern);
+      if (match2 && match2[1]) {
+        return match2[1];
+      }
+    }
+    return null;
+  }
+  buildGroupNode(node, baseStyle, colorClass, file, assets) {
+    return __async(this, null, function* () {
+      const label = node.label || "";
+      let backgroundStyle = "";
+      if (node.background) {
+        const linkedFile = this.metadataCache.getFirstLinkpathDest(
+          (0, import_obsidian4.getLinkpath)(node.background),
+          file.getPath()
+        );
+        if (linkedFile) {
+          try {
+            const imageData = yield this.vault.readBinary(linkedFile);
+            const imageBase64 = arrayBufferToBase64(imageData);
+            const bgPath = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: bgPath,
+              content: imageBase64,
+              localHash: generateBlobHashFromBase64(imageBase64)
+            });
+            const bgSize = node.backgroundStyle === "repeat" ? "auto" : node.backgroundStyle === "ratio" ? "contain" : "cover";
+            backgroundStyle = `background-image: url('${encodeURI(
+              bgPath
+            )}'); background-size: ${bgSize}; background-repeat: ${node.backgroundStyle === "repeat" ? "repeat" : "no-repeat"};`;
+          } catch (e) {
+            console.error("Error reading canvas group background:", e);
+          }
+        }
+        if (!backgroundStyle) {
+          const resolvedPath = (linkedFile == null ? void 0 : linkedFile.path) || node.background;
+          const bgPath = encodeURI(`/img/user/${resolvedPath}`);
+          const bgSize = node.backgroundStyle === "repeat" ? "auto" : node.backgroundStyle === "ratio" ? "contain" : "cover";
+          backgroundStyle = `background-image: url('${bgPath}'); background-size: ${bgSize}; background-repeat: ${node.backgroundStyle === "repeat" ? "repeat" : "no-repeat"};`;
+        }
+      }
+      return `<div class="canvas-node canvas-node-group ${colorClass}" data-node-id="${node.id}" style="${baseStyle} ${backgroundStyle}">
+	${label ? `<div class="canvas-node-label">${this.escapeHtml(label)}</div>` : ""}
+</div>`;
+    });
+  }
+  buildEdgesSvg(edges, nodes) {
+    const nodeMap = new Map(nodes.map((n2) => [n2.id, n2]));
+    const colors = /* @__PURE__ */ new Set();
+    edges.forEach((edge) => {
+      colors.add(resolveColor(edge.color) || "var(--text-muted)");
+    });
+    const markerDefs = Array.from(colors).map((color) => {
+      const colorId = colorToId(color);
+      return `<marker id="arrow-${colorId}" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="${color}" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-${colorId}-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="${color}" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>`;
+    }).join("\n");
+    const labelBgFilter = `<filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter>`;
+    const edgeElements = edges.map((edge) => {
+      const fromNode = nodeMap.get(edge.fromNode);
+      const toNode = nodeMap.get(edge.toNode);
+      if (!fromNode || !toNode)
+        return "";
+      const fromPoint = this.getEdgePoint(
+        fromNode,
+        edge.fromSide || "right"
+      );
+      const toPoint = this.getEdgePoint(
+        toNode,
+        edge.toSide || "left"
+      );
+      const color = resolveColor(edge.color) || "var(--text-muted)";
+      const colorId = colorToId(color);
+      const hasArrowFrom = edge.fromEnd === "arrow";
+      const hasArrowTo = edge.toEnd !== "none";
+      const fromSide = edge.fromSide || "right";
+      const toSide = edge.toSide || "left";
+      const { path, cp1, cp2 } = this.createBezierPath(
+        fromPoint,
+        toPoint,
+        fromSide,
+        toSide
+      );
+      const markerStart = hasArrowFrom ? `marker-start="url(#arrow-${colorId}-start)"` : "";
+      const markerEnd = hasArrowTo ? `marker-end="url(#arrow-${colorId})"` : "";
+      let edgeHtml = `<path d="${path}" fill="none" stroke="${color}" stroke-width="2" class="canvas-edge" data-edge-id="${edge.id}" ${markerStart} ${markerEnd} />`;
+      if (edge.label) {
+        const midX = (fromPoint.x + 3 * cp1.x + 3 * cp2.x + toPoint.x) / 8;
+        const midY = (fromPoint.y + 3 * cp1.y + 3 * cp2.y + toPoint.y) / 8;
+        edgeHtml += `<text x="${midX}" y="${midY}" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="${color}">${this.escapeHtml(
+          edge.label
+        )}</text>`;
+      }
+      return edgeHtml;
+    }).join("\n");
+    return `<defs>${markerDefs}${labelBgFilter}</defs>${edgeElements}`;
+  }
+  getEdgePoint(node, side) {
+    const centerX = node.x + node.width / 2;
+    const centerY = node.y + node.height / 2;
+    switch (side) {
+      case "top":
+        return { x: centerX, y: node.y };
+      case "right":
+        return { x: node.x + node.width, y: centerY };
+      case "bottom":
+        return { x: centerX, y: node.y + node.height };
+      case "left":
+        return { x: node.x, y: centerY };
+    }
+  }
+  createBezierPath(from, to, fromSide, toSide) {
+    const dx = to.x - from.x;
+    const dy = to.y - from.y;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+    const curvature = Math.max(distance * 0.4, 50);
+    let cp1x = from.x, cp1y = from.y, cp2x = to.x, cp2y = to.y;
+    switch (fromSide) {
+      case "right":
+        cp1x += curvature;
+        break;
+      case "left":
+        cp1x -= curvature;
+        break;
+      case "top":
+        cp1y -= curvature;
+        break;
+      case "bottom":
+        cp1y += curvature;
+        break;
+    }
+    switch (toSide) {
+      case "right":
+        cp2x += curvature;
+        break;
+      case "left":
+        cp2x -= curvature;
+        break;
+      case "top":
+        cp2y -= curvature;
+        break;
+      case "bottom":
+        cp2y += curvature;
+        break;
+    }
+    return {
+      path: `M ${from.x} ${from.y} C ${cp1x} ${cp1y}, ${cp2x} ${cp2y}, ${to.x} ${to.y}`,
+      cp1: { x: cp1x, y: cp1y },
+      cp2: { x: cp2x, y: cp2y }
+    };
+  }
+  resolveFileToGardenUrl(filePath, sourceFile) {
+    var _a2, _b;
+    const rewriteRules = getRewriteRules(this.settings.pathRewriteRules);
+    const linkedFile = this.metadataCache.getFirstLinkpathDest(
+      (0, import_obsidian4.getLinkpath)(filePath),
+      sourceFile.getPath()
+    );
+    if (!linkedFile) {
+      const pathWithoutExt = filePath.replace(/\.md$/, "");
+      return `/${generateUrlPath(
+        pathWithoutExt,
+        this.settings.slugifyEnabled
+      )}/`;
+    }
+    const metadata = this.metadataCache.getCache(linkedFile.path);
+    const permalink = (_a2 = metadata == null ? void 0 : metadata.frontmatter) == null ? void 0 : _a2["dg-permalink"];
+    const isHome = (_b = metadata == null ? void 0 : metadata.frontmatter) == null ? void 0 : _b["dg-home"];
+    if (isHome) {
+      return "/";
+    }
+    if (permalink) {
+      return sanitizePermalink(permalink);
+    }
+    const gardenPath = getGardenPathForNote(linkedFile.path, rewriteRules);
+    return `/${generateUrlPath(gardenPath, this.settings.slugifyEnabled)}/`;
+  }
+  escapeHtml(text2) {
+    return text2.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+  }
+  renderCanvas(canvasId, nodesHtml, edgesSvg) {
+    return `
+<div id="${canvasId}" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-${canvasId}" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-${canvasId})"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			${edgesSvg}
+		</svg>
+		${nodesHtml}
+	</div>
+</div>
+`;
   }
 };
 
@@ -12796,7 +15016,7 @@ function combineExtractors(...extractors) {
     [{}, null, 1]
   ).slice(0, 2);
 }
-function parse(s2, ...patterns) {
+function parse2(s2, ...patterns) {
   if (s2 == null) {
     return [null, null];
   }
@@ -12976,7 +15196,7 @@ var extractISOTimeAndOffset = combineExtractors(
   extractIANAZone
 );
 function parseISODate(s2) {
-  return parse(
+  return parse2(
     s2,
     [isoYmdWithTimeExtensionRegex, extractISOYmdTimeAndOffset],
     [isoWeekWithTimeExtensionRegex, extractISOWeekTimeAndOffset],
@@ -12985,10 +15205,10 @@ function parseISODate(s2) {
   );
 }
 function parseRFC2822Date(s2) {
-  return parse(preprocessRFC2822(s2), [rfc2822, extractRFC2822]);
+  return parse2(preprocessRFC2822(s2), [rfc2822, extractRFC2822]);
 }
 function parseHTTPDate(s2) {
-  return parse(
+  return parse2(
     s2,
     [rfc1123, extractRFC1123Or850],
     [rfc850, extractRFC1123Or850],
@@ -12996,11 +15216,11 @@ function parseHTTPDate(s2) {
   );
 }
 function parseISODuration(s2) {
-  return parse(s2, [isoDuration, extractISODuration]);
+  return parse2(s2, [isoDuration, extractISODuration]);
 }
 var extractISOTimeOnly = combineExtractors(extractISOTime);
 function parseISOTimeOnly(s2) {
-  return parse(s2, [isoTimeOnly, extractISOTimeOnly]);
+  return parse2(s2, [isoTimeOnly, extractISOTimeOnly]);
 }
 var sqlYmdWithTimeExtensionRegex = combineRegexes(sqlYmdRegex, sqlTimeExtensionRegex);
 var sqlTimeCombinedRegex = combineRegexes(sqlTimeRegex);
@@ -13010,7 +15230,7 @@ var extractISOTimeOffsetAndIANAZone = combineExtractors(
   extractIANAZone
 );
 function parseSQL(s2) {
-  return parse(
+  return parse2(
     s2,
     [sqlYmdWithTimeExtensionRegex, extractISOYmdTimeAndOffset],
     [sqlTimeCombinedRegex, extractISOTimeOffsetAndIANAZone]
@@ -17032,10 +19252,12 @@ var PublishFile = class {
       );
     });
   }
-  // TODO: This doesn't work yet, but file should be able to tell it's type
   getType() {
-    if (this.file.name.endsWith(".excalidraw")) {
+    if (this.file.name.endsWith(".excalidraw.md")) {
       return "excalidraw";
+    }
+    if (this.file.extension === "canvas") {
+      return "canvas";
     }
     return "markdown";
   }
@@ -17063,6 +19285,25 @@ var PublishFile = class {
   getFrontmatter() {
     var _a2, _b;
     return (_b = (_a2 = this.metadataCache.getCache(this.file.path)) == null ? void 0 : _a2.frontmatter) != null ? _b : {};
+  }
+  /**
+   * For canvas files, frontmatter is stored in the JSON metadata field.
+   * This method reads it directly from the file content.
+   */
+  getCanvasFrontmatter() {
+    return __async(this, null, function* () {
+      var _a2, _b;
+      if (this.file.extension !== "canvas") {
+        return this.getFrontmatter();
+      }
+      try {
+        const content = yield this.vault.cachedRead(this.file);
+        const canvasData = JSON.parse(content);
+        return (_b = (_a2 = canvasData == null ? void 0 : canvasData.metadata) == null ? void 0 : _a2.frontmatter) != null ? _b : {};
+      } catch (e) {
+        return {};
+      }
+    });
   }
   /** Add other possible sorting logic here, eg if we add dg-sortWeight
    * We might also want to sort by meta.getPath for rewritten garden path
@@ -17120,8 +19361,27 @@ function replaceBlockIDs(markdown) {
 }
 
 // src/compiler/GardenPageCompiler.ts
+var PDF_MAX_SIZE_BYTES = 20 * 1024 * 1024;
+var PDF_IFRAME_HEIGHT = "900px";
+var PDF_IFRAME_STYLE = "border:1px solid #ccc;";
 var GardenPageCompiler = class {
   constructor(vault, settings, metadataCache, getFilesMarkedForPublishing) {
+    this.resolveLinkedFile = (linkPath, sourcePath) => {
+      var _a2;
+      if (linkPath === "") {
+        return null;
+      }
+      return (_a2 = this.metadataCache.getFirstLinkpathDest(linkPath, sourcePath)) != null ? _a2 : null;
+    };
+    this.extractWikilinkTarget = (wikilink) => {
+      const start2 = wikilink.indexOf("[[") + 2;
+      const end2 = wikilink.indexOf("]]");
+      if (start2 < 2 || end2 < 0) {
+        return "";
+      }
+      const [name] = wikilink.substring(start2, end2).split("|");
+      return (0, import_obsidian5.getLinkpath)(name);
+    };
     this.runCompilerSteps = (file, compilerSteps) => (text2) => __async(this, null, function* () {
       return yield compilerSteps.reduce(
         (previousStep, compilerStep) => __async(this, null, function* () {
@@ -17139,10 +19399,10 @@ var GardenPageCompiler = class {
             filter2.replace
           );
         } catch (e) {
-          import_js_logger2.default.error(
+          import_js_logger6.default.error(
             `Invalid regex: ${filter2.pattern} ${filter2.flags}`
           );
-          new import_obsidian3.Notice(
+          new import_obsidian5.Notice(
             `Your custom filters contains an invalid regex: ${filter2.pattern}. Skipping it.`
           );
         }
@@ -17211,7 +19471,19 @@ var GardenPageCompiler = class {
               linkedFileName = headerSplit[0];
               headerPath = headerSplit.length > 1 ? `#${headerSplit[1]}` : "";
             }
-            const fullLinkedFilePath = (0, import_obsidian3.getLinkpath)(linkedFileName);
+            if (linkedFileName === "" && headerPath !== "") {
+              const currentFilePath = file.getPath();
+              const currentExtensionlessPath = currentFilePath.substring(
+                0,
+                currentFilePath.lastIndexOf(".")
+              );
+              convertedText = convertedText.replace(
+                linkMatch,
+                `[[${currentExtensionlessPath}${headerPath}\\|${linkDisplayName}]]`
+              );
+              continue;
+            }
+            const fullLinkedFilePath = (0, import_obsidian5.getLinkpath)(linkedFileName);
             if (fullLinkedFilePath === "") {
               continue;
             }
@@ -17226,14 +19498,15 @@ var GardenPageCompiler = class {
               );
               continue;
             }
-            if (linkedFile.extension === "md") {
+            if (linkedFile.extension === "md" || linkedFile.extension === "canvas") {
               const extensionlessPath = linkedFile.path.substring(
                 0,
                 linkedFile.path.lastIndexOf(".")
               );
+              const linkPath = linkedFile.extension === "canvas" ? `${extensionlessPath}.canvas` : extensionlessPath;
               convertedText = convertedText.replace(
                 linkMatch,
-                `[[${extensionlessPath}${headerPath}\\|${linkDisplayName}]]`
+                `[[${linkPath}${headerPath}\\|${linkDisplayName}]]`
               );
             }
           } catch (e) {
@@ -17260,7 +19533,16 @@ var GardenPageCompiler = class {
             transclusionMatch.indexOf("[") + 2,
             transclusionMatch.indexOf("]")
           ).split("|");
-          const transclusionFilePath = (0, import_obsidian3.getLinkpath)(transclusionFileName);
+          const youtubeId = this.extractYouTubeId(transclusionFileName);
+          if (youtubeId) {
+            const youtubeEmbed = `<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/${youtubeId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`;
+            transcludedText = transcludedText.replace(
+              transclusionMatch,
+              youtubeEmbed
+            );
+            continue;
+          }
+          const transclusionFilePath = (0, import_obsidian5.getLinkpath)(transclusionFileName);
           if (transclusionFilePath === "") {
             continue;
           }
@@ -17294,6 +19576,13 @@ var GardenPageCompiler = class {
             transcludedText = transcludedText.replace(
               transclusionMatch,
               excaliDrawCode
+            );
+          } else if (linkedFile.extension === "base") {
+            const baseFileText = yield this.vault.read(linkedFile);
+            const baseCodeBlock = "\n```base\n" + baseFileText + "\n```\n";
+            transcludedText = transcludedText.replace(
+              transclusionMatch,
+              baseCodeBlock
             );
           } else if (linkedFile.extension === "md") {
             let fileText = yield publishLinkedFile.cachedRead();
@@ -17403,8 +19692,8 @@ ${headerSection}
       if (transcludedSvgs) {
         for (const svg of transcludedSvgs) {
           try {
-            const [imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split("|");
-            const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
+            const [imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split(/\\?\|/);
+            const imagePath = (0, import_obsidian5.getLinkpath)(imageName);
             if (imagePath === "") {
               continue;
             }
@@ -17433,7 +19722,7 @@ ${headerSection}
       if (linkedSvgMatches) {
         for (const svg of linkedSvgMatches) {
           try {
-            const [_imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split("|");
+            const [_imageName, size] = svg.substring(svg.indexOf("[") + 2, svg.indexOf("]")).split(/\\?\|/);
             const pathStart = svg.lastIndexOf("(") + 1;
             const pathEnd = svg.lastIndexOf(")");
             const imagePath = svg.substring(pathStart, pathEnd);
@@ -17463,9 +19752,10 @@ ${headerSection}
       return text2;
     });
     this.extractImageLinks = (file) => __async(this, null, function* () {
+      var _a2;
       const text2 = yield file.cachedRead();
       const assets = [];
-      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\]\]/g;
+      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp|pdf))\\?\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp|pdf))\]\]/g;
       const transcludedImageMatches = text2.match(transcludedImageRegex);
       if (transcludedImageMatches) {
         for (let i = 0; i < transcludedImageMatches.length; i++) {
@@ -17474,12 +19764,9 @@ ${headerSection}
             const [imageName, _] = imageMatch.substring(
               imageMatch.indexOf("[") + 2,
               imageMatch.indexOf("]")
-            ).split("|");
-            const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
-            if (imagePath === "") {
-              continue;
-            }
-            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+            ).split(/\\?\|/);
+            const imagePath = (0, import_obsidian5.getLinkpath)(imageName);
+            const linkedFile = this.resolveLinkedFile(
               imagePath,
               file.getPath()
             );
@@ -17492,7 +19779,7 @@ ${headerSection}
           }
         }
       }
-      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif|webp))\)/g;
+      const imageRegex = /!\[(.*?)\]\((.*?)(\.(png|jpg|jpeg|gif|webp|pdf))\)/g;
       const imageMatches = text2.match(imageRegex);
       if (imageMatches) {
         for (let i = 0; i < imageMatches.length; i++) {
@@ -17505,10 +19792,7 @@ ${headerSection}
               continue;
             }
             const decodedImagePath = decodeURI(imagePath);
-            if (decodedImagePath === "") {
-              continue;
-            }
-            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+            const linkedFile = this.resolveLinkedFile(
               decodedImagePath,
               file.getPath()
             );
@@ -17521,13 +19805,35 @@ ${headerSection}
           }
         }
       }
+      const linkedImageRegex = /\[\[(.*?)(\.(png|jpg|jpeg|gif|webp|svg|pdf))(.*?)\]\]/g;
+      const linkedImageMatches = text2.matchAll(linkedImageRegex);
+      for (const match2 of linkedImageMatches) {
+        try {
+          const matchIndex = (_a2 = match2.index) != null ? _a2 : -1;
+          if (matchIndex > 0 && text2[matchIndex - 1] === "!") {
+            continue;
+          }
+          const imagePath = this.extractWikilinkTarget(match2[0]);
+          const linkedFile = this.resolveLinkedFile(
+            imagePath,
+            file.getPath()
+          );
+          if (!linkedFile) {
+            continue;
+          }
+          assets.push(linkedFile.path);
+        } catch (e) {
+          continue;
+        }
+      }
       return assets;
     });
-    this.convertImageLinks = (file) => (text2) => __async(this, null, function* () {
+    this.convertEmbeddedAssets = (file) => (text2) => __async(this, null, function* () {
+      var _a2;
       const filePath = file.getPath();
       const assets = [];
       let imageText = text2;
-      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\]\]/g;
+      const transcludedImageRegex = /!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\\?\|(.*?)\]\]|!\[\[(.*?)(\.(png|jpg|jpeg|gif|webp))\]\]/g;
       const transcludedImageMatches = text2.match(transcludedImageRegex);
       if (transcludedImageMatches) {
         for (let i = 0; i < transcludedImageMatches.length; i++) {
@@ -17536,7 +19842,7 @@ ${headerSection}
             const [imageName, ...metaDataAndSize] = imageMatch.substring(
               imageMatch.indexOf("[") + 2,
               imageMatch.indexOf("]")
-            ).split("|");
+            ).split(/\\?\|/);
             const lastValue = metaDataAndSize[metaDataAndSize.length - 1];
             const hasSeveralValues = metaDataAndSize.length > 0;
             const lastValueIsSize = hasSeveralValues && !isNaN(parseInt(lastValue));
@@ -17550,11 +19856,8 @@ ${headerSection}
             if (lastValueIsMetaData) {
               metaData = `${lastValue}`;
             }
-            const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
-            if (imagePath === "") {
-              continue;
-            }
-            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+            const imagePath = (0, import_obsidian5.getLinkpath)(imageName);
+            const linkedFile = this.resolveLinkedFile(
               imagePath,
               filePath
             );
@@ -17562,28 +19865,50 @@ ${headerSection}
               continue;
             }
             const image = yield this.vault.readBinary(linkedFile);
-            const imageBase64 = (0, import_obsidian3.arrayBufferToBase64)(image);
+            const imageBase64 = (0, import_obsidian5.arrayBufferToBase64)(image);
             const cmsImgPath = `/img/user/${linkedFile.path}`;
             let name = "";
             if (metaData && size) {
-              name = `${imageName}|${metaData}|${size}`;
+              name = `${imageName}\\|${metaData}\\|${size}`;
             } else if (size) {
-              name = `${imageName}|${size}`;
+              name = `${imageName}\\|${size}`;
             } else if (metaData && metaData !== "") {
-              name = `${imageName}|${metaData}`;
+              name = `${imageName}\\|${metaData}`;
             } else {
               name = imageName;
             }
             const imageMarkdown = `![${name}](${encodeURI(
               cmsImgPath
             )})`;
-            assets.push({ path: cmsImgPath, content: imageBase64 });
+            assets.push({
+              path: cmsImgPath,
+              content: imageBase64,
+              localHash: generateBlobHashFromBase64(imageBase64)
+            });
             imageText = imageText.replace(
               imageMatch,
               imageMarkdown
             );
           } catch (e) {
             continue;
+          }
+        }
+      }
+      const youtubeRegex = /!\[([^\]]*)\]\((https?:\/\/(?:www\.)?(?:youtube\.com|youtu\.be)[^)]+)\)/g;
+      const youtubeMatches = text2.match(youtubeRegex);
+      if (youtubeMatches) {
+        for (let i = 0; i < youtubeMatches.length; i++) {
+          const youtubeMatch = youtubeMatches[i];
+          const urlStart = youtubeMatch.lastIndexOf("(") + 1;
+          const urlEnd = youtubeMatch.lastIndexOf(")");
+          const url = youtubeMatch.substring(urlStart, urlEnd);
+          const youtubeId = this.extractYouTubeId(url);
+          if (youtubeId) {
+            const youtubeEmbed = `<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/${youtubeId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`;
+            imageText = imageText.replace(
+              youtubeMatch,
+              youtubeEmbed
+            );
           }
         }
       }
@@ -17609,10 +19934,7 @@ ${headerSection}
               continue;
             }
             const decodedImagePath = decodeURI(imagePath);
-            if (decodedImagePath === "") {
-              continue;
-            }
-            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+            const linkedFile = this.resolveLinkedFile(
               decodedImagePath,
               filePath
             );
@@ -17620,16 +19942,239 @@ ${headerSection}
               continue;
             }
             const image = yield this.vault.readBinary(linkedFile);
-            const imageBase64 = (0, import_obsidian3.arrayBufferToBase64)(image);
+            const imageBase64 = (0, import_obsidian5.arrayBufferToBase64)(image);
             const cmsImgPath = `/img/user/${linkedFile.path}`;
-            const imageMarkdown = `![${imageName}](${cmsImgPath})`;
-            assets.push({ path: cmsImgPath, content: imageBase64 });
+            const imageMarkdown = `![${imageName}](${encodeURI(
+              cmsImgPath
+            )})`;
+            assets.push({
+              path: cmsImgPath,
+              content: imageBase64,
+              localHash: generateBlobHashFromBase64(imageBase64)
+            });
             imageText = imageText.replace(
               imageMatch,
               imageMarkdown
             );
           } catch (e) {
+            import_js_logger6.default.warn("Error processing image link:", e);
             continue;
+          }
+        }
+      }
+      const linkedImageRegex = /\[\[(.*?)(\.(png|jpg|jpeg|gif|webp|svg|pdf))(.*?)\]\]/g;
+      const linkedImageMatches = text2.matchAll(linkedImageRegex);
+      for (const match2 of linkedImageMatches) {
+        try {
+          const matchIndex = (_a2 = match2.index) != null ? _a2 : -1;
+          if (matchIndex > 0 && text2[matchIndex - 1] === "!") {
+            continue;
+          }
+          const rawMatch = match2[0];
+          const textInsideBrackets = rawMatch.substring(
+            rawMatch.indexOf("[[") + 2,
+            rawMatch.lastIndexOf("]]")
+          );
+          const pipeIndex = textInsideBrackets.indexOf("|");
+          let linkedFileName = pipeIndex === -1 ? textInsideBrackets : textInsideBrackets.substring(0, pipeIndex);
+          const linkDisplayName = pipeIndex === -1 ? linkedFileName : textInsideBrackets.substring(pipeIndex + 1);
+          if (linkedFileName.endsWith("\\")) {
+            linkedFileName = linkedFileName.substring(
+              0,
+              linkedFileName.length - 1
+            );
+          }
+          const fullLinkedFilePath = (0, import_obsidian5.getLinkpath)(linkedFileName);
+          if (fullLinkedFilePath === "") {
+            continue;
+          }
+          const linkedFile = this.resolveLinkedFile(
+            fullLinkedFilePath,
+            filePath
+          );
+          if (!linkedFile) {
+            continue;
+          }
+          const cmsImgPath = `/img/user/${linkedFile.path}`;
+          const imageMarkdown = `[${linkDisplayName}](${encodeURI(
+            cmsImgPath
+          )})`;
+          imageText = imageText.replace(rawMatch, imageMarkdown);
+        } catch (e) {
+          import_js_logger6.default.warn("Error processing linked image:", e);
+          continue;
+        }
+      }
+      const generatePdfIframe = (src, title) => {
+        return `<iframe src="${encodeURI(
+          src
+        )}" width="100%" height="${PDF_IFRAME_HEIGHT}" title="${title}" style="${PDF_IFRAME_STYLE}"></iframe>`;
+      };
+      const buildWikilinkFallback = (name, metadataParts, displayText) => {
+        const display = displayText ? `|${displayText}` : metadataParts.length > 0 ? "|" + metadataParts.join("|") : "";
+        return `[[${name}${display}]]`;
+      };
+      const transcludedPdfMatches = text2.match(TRANSCLUDED_PDF_REGEX);
+      if (transcludedPdfMatches) {
+        for (const pdfMatch of transcludedPdfMatches) {
+          try {
+            const [pdfNameFromFile, ...metadataParts] = pdfMatch.substring(
+              pdfMatch.indexOf("[") + 2,
+              pdfMatch.indexOf("]")
+            ).split("|");
+            const altText = metadataParts.join("|") || pdfNameFromFile;
+            const pdfPath = (0, import_obsidian5.getLinkpath)(pdfNameFromFile);
+            if (pdfPath === "") {
+              imageText = imageText.replace(
+                pdfMatch,
+                buildWikilinkFallback(
+                  pdfNameFromFile,
+                  metadataParts
+                )
+              );
+              continue;
+            }
+            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+              pdfPath,
+              filePath
+            );
+            if (!linkedFile || linkedFile.extension !== "pdf") {
+              imageText = imageText.replace(
+                pdfMatch,
+                buildWikilinkFallback(
+                  pdfNameFromFile,
+                  metadataParts
+                )
+              );
+              continue;
+            }
+            if (linkedFile.stat.size > PDF_MAX_SIZE_BYTES) {
+              new import_obsidian5.Notice(
+                `PDF ${linkedFile.name} is larger than 20MB and will not be published as an embed. A link will be used.`
+              );
+              imageText = imageText.replace(
+                pdfMatch,
+                buildWikilinkFallback(
+                  pdfNameFromFile,
+                  metadataParts,
+                  "PDF too large to embed"
+                )
+              );
+              continue;
+            }
+            const pdfBinary = yield this.vault.readBinary(linkedFile);
+            const pdfBase64 = (0, import_obsidian5.arrayBufferToBase64)(pdfBinary);
+            const cmsPdfPath = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: cmsPdfPath,
+              content: pdfBase64,
+              localHash: generateBlobHashFromBase64(pdfBase64)
+            });
+            imageText = imageText.replace(
+              pdfMatch,
+              generatePdfIframe(cmsPdfPath, altText)
+            );
+          } catch (e) {
+            import_js_logger6.default.warn(
+              "Error processing transcluded PDF link:",
+              e
+            );
+            const [pdfNameFromFile, ...metadataParts] = pdfMatch.substring(
+              pdfMatch.indexOf("[") + 2,
+              pdfMatch.indexOf("]")
+            ).split("|");
+            imageText = imageText.replace(
+              pdfMatch,
+              buildWikilinkFallback(
+                pdfNameFromFile,
+                metadataParts
+              )
+            );
+          }
+        }
+      }
+      const pdfMatches = text2.match(PDF_REGEX);
+      if (pdfMatches) {
+        for (const pdfMatch of pdfMatches) {
+          try {
+            const nameStart = pdfMatch.indexOf("[") + 1;
+            const nameEnd = pdfMatch.indexOf("]");
+            const pdfName = pdfMatch.substring(nameStart, nameEnd);
+            const pathStart = pdfMatch.lastIndexOf("(") + 1;
+            const pathEnd = pdfMatch.lastIndexOf(")");
+            const pdfPath = pdfMatch.substring(pathStart, pathEnd);
+            if (pdfPath.startsWith("http")) {
+              imageText = imageText.replace(
+                pdfMatch,
+                generatePdfIframe(
+                  pdfPath,
+                  pdfName || "External PDF"
+                )
+              );
+              continue;
+            }
+            const decodedPdfPath = decodeURI(pdfPath);
+            if (decodedPdfPath === "") {
+              imageText = imageText.replace(
+                pdfMatch,
+                `[${pdfName || "Invalid PDF Link"}](${encodeURI(
+                  pdfPath
+                )})`
+              );
+              continue;
+            }
+            const linkedFile = this.metadataCache.getFirstLinkpathDest(
+              decodedPdfPath,
+              filePath
+            );
+            if (!linkedFile || linkedFile.extension !== "pdf") {
+              imageText = imageText.replace(
+                pdfMatch,
+                `[${pdfName || decodedPdfPath}](${encodeURI(
+                  pdfPath
+                )})`
+              );
+              continue;
+            }
+            if (linkedFile.stat.size > PDF_MAX_SIZE_BYTES) {
+              new import_obsidian5.Notice(
+                `PDF ${linkedFile.name} is larger than 20MB and will not be published as an embed. A link will be used.`
+              );
+              imageText = imageText.replace(
+                pdfMatch,
+                `[${pdfName || linkedFile.name} (PDF too large to embed)](${encodeURI(
+                  pdfPath
+                )})`
+              );
+              continue;
+            }
+            const pdfBinary = yield this.vault.readBinary(linkedFile);
+            const pdfBase64 = (0, import_obsidian5.arrayBufferToBase64)(pdfBinary);
+            const cmsPdfPath = `/img/user/${linkedFile.path}`;
+            assets.push({
+              path: cmsPdfPath,
+              content: pdfBase64,
+              localHash: generateBlobHashFromBase64(pdfBase64)
+            });
+            imageText = imageText.replace(
+              pdfMatch,
+              generatePdfIframe(
+                cmsPdfPath,
+                pdfName || linkedFile.basename
+              )
+            );
+          } catch (e) {
+            import_js_logger6.default.warn("Error processing PDF link:", e);
+            const nameStart = pdfMatch.indexOf("[") + 1;
+            const nameEnd = pdfMatch.indexOf("]");
+            const pdfName = pdfMatch.substring(nameStart, nameEnd);
+            const pathStart = pdfMatch.lastIndexOf("(") + 1;
+            const pathEnd = pdfMatch.lastIndexOf(")");
+            const pdfPath = pdfMatch.substring(pathStart, pathEnd);
+            imageText = imageText.replace(
+              pdfMatch,
+              `[${pdfName || "PDF"}](${encodeURI(pdfPath)})`
+            );
           }
         }
       }
@@ -17640,7 +20185,39 @@ ${headerSection}
     this.metadataCache = metadataCache;
     this.getFilesMarkedForPublishing = getFilesMarkedForPublishing;
     this.excalidrawCompiler = new ExcalidrawCompiler(vault);
+    this.canvasCompiler = new CanvasCompiler(
+      vault,
+      metadataCache,
+      settings
+    );
+    this.canvasCompiler.setTextNodeProcessor(this);
     this.rewriteRules = getRewriteRules(this.settings.pathRewriteRules);
+  }
+  /**
+   * Process text content from canvas text nodes through the same pipeline as notes.
+   * This enables wiki-links, transclusions, dataview, etc. in canvas text nodes.
+   */
+  processTextNodeContent(file, text2, assets) {
+    return __async(this, null, function* () {
+      const CANVAS_TEXT_COMPILE_STEPS = [
+        this.convertCustomFilters,
+        this.createBlockIDs,
+        this.createTranscludedText(0),
+        this.convertDataViews,
+        this.convertLinksToFullPath,
+        this.removeObsidianComments,
+        this.createSvgEmbeds
+      ];
+      const compiledText = yield this.runCompilerSteps(
+        file,
+        CANVAS_TEXT_COMPILE_STEPS
+      )(text2);
+      const [processedText, collectedAssets] = yield this.convertEmbeddedAssets(file)(compiledText);
+      if (assets) {
+        assets.push(...collectedAssets);
+      }
+      return processedText;
+    });
   }
   generateMarkdown(file) {
     return __async(this, null, function* () {
@@ -17650,6 +20227,14 @@ ${headerSection}
         return [
           yield this.excalidrawCompiler.compileMarkdown({
             includeExcaliDrawJs: true
+          })(file)(vaultFileText),
+          assets
+        ];
+      }
+      if (file.file.extension === "canvas") {
+        return [
+          yield this.canvasCompiler.compileMarkdown({
+            assets: assets.images
           })(file)(vaultFileText),
           assets
         ];
@@ -17668,8 +20253,56 @@ ${headerSection}
         file,
         COMPILE_STEPS
       )(vaultFileText);
-      const [text2, images] = yield this.convertImageLinks(file)(compiledText);
+      const [text2, images] = yield this.convertEmbeddedAssets(file)(compiledText);
+      const frontmatterImages = yield this.extractFrontmatterAssets(file);
+      images.push(...frontmatterImages);
       return [text2, { images }];
+    });
+  }
+  /**
+   * Scan frontmatter properties for values that look like image paths
+   * and include them as assets so they get published alongside the note.
+   */
+  extractFrontmatterAssets(file) {
+    return __async(this, null, function* () {
+      var _a2;
+      const assets = [];
+      const frontmatter = (_a2 = this.metadataCache.getFileCache(file.file)) == null ? void 0 : _a2.frontmatter;
+      if (!frontmatter)
+        return assets;
+      const imageExtensions = /\.(png|jpg|jpeg|gif|webp|svg)$/i;
+      const scanValue = (value) => __async(this, null, function* () {
+        if (typeof value === "string" && imageExtensions.test(value)) {
+          if (value.startsWith("http"))
+            return;
+          try {
+            const linkedFile = this.resolveLinkedFile(
+              value,
+              file.getPath()
+            );
+            if (!linkedFile)
+              return;
+            const image = yield this.vault.readBinary(linkedFile);
+            const imageBase64 = (0, import_obsidian5.arrayBufferToBase64)(image);
+            assets.push({
+              path: `/img/user/${linkedFile.path}`,
+              content: imageBase64,
+              localHash: generateBlobHashFromBase64(imageBase64)
+            });
+          } catch (e) {
+          }
+        } else if (Array.isArray(value)) {
+          for (const item of value) {
+            yield scanValue(item);
+          }
+        }
+      });
+      for (const [key, value] of Object.entries(frontmatter)) {
+        if (key === "position")
+          continue;
+        yield scanValue(value);
+      }
+      return assets;
     });
   }
   generateTransclusionHeader(headerName, transcludedFile) {
@@ -17685,1161 +20318,23 @@ ${headerSection}
     }
     return fixMarkdownHeaderSyntax(headerName);
   }
-};
-
-// src/publisher/Publisher.ts
-var import_js_logger4 = __toESM(require_logger());
-
-// node_modules/universal-user-agent/dist-web/index.js
-function getUserAgent() {
-  if (typeof navigator === "object" && "userAgent" in navigator) {
-    return navigator.userAgent;
-  }
-  if (typeof process === "object" && "version" in process) {
-    return `Node.js/${process.version.substr(1)} (${process.platform}; ${process.arch})`;
-  }
-  return "<environment undetectable>";
-}
-
-// node_modules/@octokit/core/dist-web/index.js
-var import_before_after_hook = __toESM(require_before_after_hook());
-
-// node_modules/is-plain-object/dist/is-plain-object.mjs
-function isObject(o) {
-  return Object.prototype.toString.call(o) === "[object Object]";
-}
-function isPlainObject(o) {
-  var ctor, prot;
-  if (isObject(o) === false)
-    return false;
-  ctor = o.constructor;
-  if (ctor === void 0)
-    return true;
-  prot = ctor.prototype;
-  if (isObject(prot) === false)
-    return false;
-  if (prot.hasOwnProperty("isPrototypeOf") === false) {
-    return false;
-  }
-  return true;
-}
-
-// node_modules/@octokit/endpoint/dist-web/index.js
-var VERSION2 = "9.0.0";
-var userAgent = `octokit-endpoint.js/${VERSION2} ${getUserAgent()}`;
-var DEFAULTS = {
-  method: "GET",
-  baseUrl: "https://api.github.com",
-  headers: {
-    accept: "application/vnd.github.v3+json",
-    "user-agent": userAgent
-  },
-  mediaType: {
-    format: ""
-  }
-};
-function lowercaseKeys(object) {
-  if (!object) {
-    return {};
-  }
-  return Object.keys(object).reduce((newObj, key) => {
-    newObj[key.toLowerCase()] = object[key];
-    return newObj;
-  }, {});
-}
-function mergeDeep(defaults2, options) {
-  const result = Object.assign({}, defaults2);
-  Object.keys(options).forEach((key) => {
-    if (isPlainObject(options[key])) {
-      if (!(key in defaults2))
-        Object.assign(result, { [key]: options[key] });
-      else
-        result[key] = mergeDeep(defaults2[key], options[key]);
-    } else {
-      Object.assign(result, { [key]: options[key] });
-    }
-  });
-  return result;
-}
-function removeUndefinedProperties(obj) {
-  for (const key in obj) {
-    if (obj[key] === void 0) {
-      delete obj[key];
-    }
-  }
-  return obj;
-}
-function merge(defaults2, route, options) {
-  var _a2;
-  if (typeof route === "string") {
-    let [method, url] = route.split(" ");
-    options = Object.assign(url ? { method, url } : { url: method }, options);
-  } else {
-    options = Object.assign({}, route);
-  }
-  options.headers = lowercaseKeys(options.headers);
-  removeUndefinedProperties(options);
-  removeUndefinedProperties(options.headers);
-  const mergedOptions = mergeDeep(defaults2 || {}, options);
-  if (options.url === "/graphql") {
-    if (defaults2 && ((_a2 = defaults2.mediaType.previews) == null ? void 0 : _a2.length)) {
-      mergedOptions.mediaType.previews = defaults2.mediaType.previews.filter(
-        (preview) => !mergedOptions.mediaType.previews.includes(preview)
-      ).concat(mergedOptions.mediaType.previews);
-    }
-    mergedOptions.mediaType.previews = (mergedOptions.mediaType.previews || []).map((preview) => preview.replace(/-preview/, ""));
-  }
-  return mergedOptions;
-}
-function addQueryParameters(url, parameters) {
-  const separator = /\?/.test(url) ? "&" : "?";
-  const names = Object.keys(parameters);
-  if (names.length === 0) {
-    return url;
-  }
-  return url + separator + names.map((name) => {
-    if (name === "q") {
-      return "q=" + parameters.q.split("+").map(encodeURIComponent).join("+");
-    }
-    return `${name}=${encodeURIComponent(parameters[name])}`;
-  }).join("&");
-}
-var urlVariableRegex = /\{[^}]+\}/g;
-function removeNonChars(variableName) {
-  return variableName.replace(/^\W+|\W+$/g, "").split(/,/);
-}
-function extractUrlVariableNames(url) {
-  const matches = url.match(urlVariableRegex);
-  if (!matches) {
-    return [];
-  }
-  return matches.map(removeNonChars).reduce((a, b) => a.concat(b), []);
-}
-function omit(object, keysToOmit) {
-  return Object.keys(object).filter((option) => !keysToOmit.includes(option)).reduce((obj, key) => {
-    obj[key] = object[key];
-    return obj;
-  }, {});
-}
-function encodeReserved(str) {
-  return str.split(/(%[0-9A-Fa-f]{2})/g).map(function(part) {
-    if (!/%[0-9A-Fa-f]/.test(part)) {
-      part = encodeURI(part).replace(/%5B/g, "[").replace(/%5D/g, "]");
-    }
-    return part;
-  }).join("");
-}
-function encodeUnreserved(str) {
-  return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-    return "%" + c.charCodeAt(0).toString(16).toUpperCase();
-  });
-}
-function encodeValue(operator, value, key) {
-  value = operator === "+" || operator === "#" ? encodeReserved(value) : encodeUnreserved(value);
-  if (key) {
-    return encodeUnreserved(key) + "=" + value;
-  } else {
-    return value;
-  }
-}
-function isDefined(value) {
-  return value !== void 0 && value !== null;
-}
-function isKeyOperator(operator) {
-  return operator === ";" || operator === "&" || operator === "?";
-}
-function getValues(context, operator, key, modifier) {
-  var value = context[key], result = [];
-  if (isDefined(value) && value !== "") {
-    if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
-      value = value.toString();
-      if (modifier && modifier !== "*") {
-        value = value.substring(0, parseInt(modifier, 10));
-      }
-      result.push(
-        encodeValue(operator, value, isKeyOperator(operator) ? key : "")
-      );
-    } else {
-      if (modifier === "*") {
-        if (Array.isArray(value)) {
-          value.filter(isDefined).forEach(function(value2) {
-            result.push(
-              encodeValue(operator, value2, isKeyOperator(operator) ? key : "")
-            );
-          });
-        } else {
-          Object.keys(value).forEach(function(k) {
-            if (isDefined(value[k])) {
-              result.push(encodeValue(operator, value[k], k));
-            }
-          });
-        }
-      } else {
-        const tmp = [];
-        if (Array.isArray(value)) {
-          value.filter(isDefined).forEach(function(value2) {
-            tmp.push(encodeValue(operator, value2));
-          });
-        } else {
-          Object.keys(value).forEach(function(k) {
-            if (isDefined(value[k])) {
-              tmp.push(encodeUnreserved(k));
-              tmp.push(encodeValue(operator, value[k].toString()));
-            }
-          });
-        }
-        if (isKeyOperator(operator)) {
-          result.push(encodeUnreserved(key) + "=" + tmp.join(","));
-        } else if (tmp.length !== 0) {
-          result.push(tmp.join(","));
-        }
+  extractYouTubeId(url) {
+    const patterns = [
+      /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/,
+      /youtube\.com\/watch\?.*v=([a-zA-Z0-9_-]{11})/
+    ];
+    for (const pattern of patterns) {
+      const match2 = url.match(pattern);
+      if (match2 && match2[1]) {
+        return match2[1];
       }
     }
-  } else {
-    if (operator === ";") {
-      if (isDefined(value)) {
-        result.push(encodeUnreserved(key));
-      }
-    } else if (value === "" && (operator === "&" || operator === "?")) {
-      result.push(encodeUnreserved(key) + "=");
-    } else if (value === "") {
-      result.push("");
-    }
-  }
-  return result;
-}
-function parseUrl(template) {
-  return {
-    expand: expand.bind(null, template)
-  };
-}
-function expand(template, context) {
-  var operators = ["+", "#", ".", "/", ";", "?", "&"];
-  return template.replace(
-    /\{([^\{\}]+)\}|([^\{\}]+)/g,
-    function(_, expression, literal) {
-      if (expression) {
-        let operator = "";
-        const values = [];
-        if (operators.indexOf(expression.charAt(0)) !== -1) {
-          operator = expression.charAt(0);
-          expression = expression.substr(1);
-        }
-        expression.split(/,/g).forEach(function(variable) {
-          var tmp = /([^:\*]*)(?::(\d+)|(\*))?/.exec(variable);
-          values.push(getValues(context, operator, tmp[1], tmp[2] || tmp[3]));
-        });
-        if (operator && operator !== "+") {
-          var separator = ",";
-          if (operator === "?") {
-            separator = "&";
-          } else if (operator !== "#") {
-            separator = operator;
-          }
-          return (values.length !== 0 ? operator : "") + values.join(separator);
-        } else {
-          return values.join(",");
-        }
-      } else {
-        return encodeReserved(literal);
-      }
-    }
-  );
-}
-function parse2(options) {
-  var _a2;
-  let method = options.method.toUpperCase();
-  let url = (options.url || "/").replace(/:([a-z]\w+)/g, "{$1}");
-  let headers = Object.assign({}, options.headers);
-  let body;
-  let parameters = omit(options, [
-    "method",
-    "baseUrl",
-    "url",
-    "headers",
-    "request",
-    "mediaType"
-  ]);
-  const urlVariableNames = extractUrlVariableNames(url);
-  url = parseUrl(url).expand(parameters);
-  if (!/^http/.test(url)) {
-    url = options.baseUrl + url;
-  }
-  const omittedParameters = Object.keys(options).filter((option) => urlVariableNames.includes(option)).concat("baseUrl");
-  const remainingParameters = omit(parameters, omittedParameters);
-  const isBinaryRequest = /application\/octet-stream/i.test(headers.accept);
-  if (!isBinaryRequest) {
-    if (options.mediaType.format) {
-      headers.accept = headers.accept.split(/,/).map(
-        (format) => format.replace(
-          /application\/vnd(\.\w+)(\.v3)?(\.\w+)?(\+json)?$/,
-          `application/vnd$1$2.${options.mediaType.format}`
-        )
-      ).join(",");
-    }
-    if (url.endsWith("/graphql")) {
-      if ((_a2 = options.mediaType.previews) == null ? void 0 : _a2.length) {
-        const previewsFromAcceptHeader = headers.accept.match(/[\w-]+(?=-preview)/g) || [];
-        headers.accept = previewsFromAcceptHeader.concat(options.mediaType.previews).map((preview) => {
-          const format = options.mediaType.format ? `.${options.mediaType.format}` : "+json";
-          return `application/vnd.github.${preview}-preview${format}`;
-        }).join(",");
-      }
-    }
-  }
-  if (["GET", "HEAD"].includes(method)) {
-    url = addQueryParameters(url, remainingParameters);
-  } else {
-    if ("data" in remainingParameters) {
-      body = remainingParameters.data;
-    } else {
-      if (Object.keys(remainingParameters).length) {
-        body = remainingParameters;
-      }
-    }
-  }
-  if (!headers["content-type"] && typeof body !== "undefined") {
-    headers["content-type"] = "application/json; charset=utf-8";
-  }
-  if (["PATCH", "PUT"].includes(method) && typeof body === "undefined") {
-    body = "";
-  }
-  return Object.assign(
-    { method, url, headers },
-    typeof body !== "undefined" ? { body } : null,
-    options.request ? { request: options.request } : null
-  );
-}
-function endpointWithDefaults(defaults2, route, options) {
-  return parse2(merge(defaults2, route, options));
-}
-function withDefaults(oldDefaults, newDefaults) {
-  const DEFAULTS2 = merge(oldDefaults, newDefaults);
-  const endpoint2 = endpointWithDefaults.bind(null, DEFAULTS2);
-  return Object.assign(endpoint2, {
-    DEFAULTS: DEFAULTS2,
-    defaults: withDefaults.bind(null, DEFAULTS2),
-    merge: merge.bind(null, DEFAULTS2),
-    parse: parse2
-  });
-}
-var endpoint = withDefaults(null, DEFAULTS);
-
-// node_modules/deprecation/dist-web/index.js
-var Deprecation = class extends Error {
-  constructor(message) {
-    super(message);
-    if (Error.captureStackTrace) {
-      Error.captureStackTrace(this, this.constructor);
-    }
-    this.name = "Deprecation";
-  }
-};
-
-// node_modules/@octokit/request-error/dist-web/index.js
-var import_once = __toESM(require_once());
-var logOnceCode = (0, import_once.default)((deprecation) => console.warn(deprecation));
-var logOnceHeaders = (0, import_once.default)((deprecation) => console.warn(deprecation));
-var RequestError = class extends Error {
-  constructor(message, statusCode, options) {
-    super(message);
-    if (Error.captureStackTrace) {
-      Error.captureStackTrace(this, this.constructor);
-    }
-    this.name = "HttpError";
-    this.status = statusCode;
-    let headers;
-    if ("headers" in options && typeof options.headers !== "undefined") {
-      headers = options.headers;
-    }
-    if ("response" in options) {
-      this.response = options.response;
-      headers = options.response.headers;
-    }
-    const requestCopy = Object.assign({}, options.request);
-    if (options.request.headers.authorization) {
-      requestCopy.headers = Object.assign({}, options.request.headers, {
-        authorization: options.request.headers.authorization.replace(
-          / .*$/,
-          " [REDACTED]"
-        )
-      });
-    }
-    requestCopy.url = requestCopy.url.replace(/\bclient_secret=\w+/g, "client_secret=[REDACTED]").replace(/\baccess_token=\w+/g, "access_token=[REDACTED]");
-    this.request = requestCopy;
-    Object.defineProperty(this, "code", {
-      get() {
-        logOnceCode(
-          new Deprecation(
-            "[@octokit/request-error] `error.code` is deprecated, use `error.status`."
-          )
-        );
-        return statusCode;
-      }
-    });
-    Object.defineProperty(this, "headers", {
-      get() {
-        logOnceHeaders(
-          new Deprecation(
-            "[@octokit/request-error] `error.headers` is deprecated, use `error.response.headers`."
-          )
-        );
-        return headers || {};
-      }
-    });
-  }
-};
-
-// node_modules/@octokit/request/dist-web/index.js
-var VERSION3 = "8.1.1";
-function getBufferResponse(response) {
-  return response.arrayBuffer();
-}
-function fetchWrapper(requestOptions) {
-  var _a2, _b, _c;
-  const log = requestOptions.request && requestOptions.request.log ? requestOptions.request.log : console;
-  const parseSuccessResponseBody = ((_a2 = requestOptions.request) == null ? void 0 : _a2.parseSuccessResponseBody) !== false;
-  if (isPlainObject(requestOptions.body) || Array.isArray(requestOptions.body)) {
-    requestOptions.body = JSON.stringify(requestOptions.body);
-  }
-  let headers = {};
-  let status;
-  let url;
-  let { fetch } = globalThis;
-  if ((_b = requestOptions.request) == null ? void 0 : _b.fetch) {
-    fetch = requestOptions.request.fetch;
-  }
-  if (!fetch) {
-    throw new Error(
-      "fetch is not set. Please pass a fetch implementation as new Octokit({ request: { fetch }}). Learn more at https://github.com/octokit/octokit.js/#fetch-missing"
-    );
-  }
-  return fetch(requestOptions.url, __spreadValues({
-    method: requestOptions.method,
-    body: requestOptions.body,
-    headers: requestOptions.headers,
-    signal: (_c = requestOptions.request) == null ? void 0 : _c.signal
-  }, requestOptions.body && { duplex: "half" })).then((response) => __async(this, null, function* () {
-    url = response.url;
-    status = response.status;
-    for (const keyAndValue of response.headers) {
-      headers[keyAndValue[0]] = keyAndValue[1];
-    }
-    if ("deprecation" in headers) {
-      const matches = headers.link && headers.link.match(/<([^>]+)>; rel="deprecation"/);
-      const deprecationLink = matches && matches.pop();
-      log.warn(
-        `[@octokit/request] "${requestOptions.method} ${requestOptions.url}" is deprecated. It is scheduled to be removed on ${headers.sunset}${deprecationLink ? `. See ${deprecationLink}` : ""}`
-      );
-    }
-    if (status === 204 || status === 205) {
-      return;
-    }
-    if (requestOptions.method === "HEAD") {
-      if (status < 400) {
-        return;
-      }
-      throw new RequestError(response.statusText, status, {
-        response: {
-          url,
-          status,
-          headers,
-          data: void 0
-        },
-        request: requestOptions
-      });
-    }
-    if (status === 304) {
-      throw new RequestError("Not modified", status, {
-        response: {
-          url,
-          status,
-          headers,
-          data: yield getResponseData(response)
-        },
-        request: requestOptions
-      });
-    }
-    if (status >= 400) {
-      const data = yield getResponseData(response);
-      const error = new RequestError(toErrorMessage(data), status, {
-        response: {
-          url,
-          status,
-          headers,
-          data
-        },
-        request: requestOptions
-      });
-      throw error;
-    }
-    return parseSuccessResponseBody ? yield getResponseData(response) : response.body;
-  })).then((data) => {
-    return {
-      status,
-      url,
-      headers,
-      data
-    };
-  }).catch((error) => {
-    if (error instanceof RequestError)
-      throw error;
-    else if (error.name === "AbortError")
-      throw error;
-    throw new RequestError(error.message, 500, {
-      request: requestOptions
-    });
-  });
-}
-function getResponseData(response) {
-  return __async(this, null, function* () {
-    const contentType = response.headers.get("content-type");
-    if (/application\/json/.test(contentType)) {
-      return response.json();
-    }
-    if (!contentType || /^text\/|charset=utf-8$/.test(contentType)) {
-      return response.text();
-    }
-    return getBufferResponse(response);
-  });
-}
-function toErrorMessage(data) {
-  if (typeof data === "string")
-    return data;
-  if ("message" in data) {
-    if (Array.isArray(data.errors)) {
-      return `${data.message}: ${data.errors.map(JSON.stringify).join(", ")}`;
-    }
-    return data.message;
-  }
-  return `Unknown error: ${JSON.stringify(data)}`;
-}
-function withDefaults2(oldEndpoint, newDefaults) {
-  const endpoint2 = oldEndpoint.defaults(newDefaults);
-  const newApi = function(route, parameters) {
-    const endpointOptions = endpoint2.merge(route, parameters);
-    if (!endpointOptions.request || !endpointOptions.request.hook) {
-      return fetchWrapper(endpoint2.parse(endpointOptions));
-    }
-    const request2 = (route2, parameters2) => {
-      return fetchWrapper(
-        endpoint2.parse(endpoint2.merge(route2, parameters2))
-      );
-    };
-    Object.assign(request2, {
-      endpoint: endpoint2,
-      defaults: withDefaults2.bind(null, endpoint2)
-    });
-    return endpointOptions.request.hook(request2, endpointOptions);
-  };
-  return Object.assign(newApi, {
-    endpoint: endpoint2,
-    defaults: withDefaults2.bind(null, endpoint2)
-  });
-}
-var request = withDefaults2(endpoint, {
-  headers: {
-    "user-agent": `octokit-request.js/${VERSION3} ${getUserAgent()}`
-  }
-});
-
-// node_modules/@octokit/graphql/dist-web/index.js
-var VERSION4 = "7.0.1";
-function _buildMessageForResponseErrors(data) {
-  return `Request failed due to following response errors:
-` + data.errors.map((e) => ` - ${e.message}`).join("\n");
-}
-var GraphqlResponseError = class extends Error {
-  constructor(request2, headers, response) {
-    super(_buildMessageForResponseErrors(response));
-    this.request = request2;
-    this.headers = headers;
-    this.response = response;
-    this.name = "GraphqlResponseError";
-    this.errors = response.errors;
-    this.data = response.data;
-    if (Error.captureStackTrace) {
-      Error.captureStackTrace(this, this.constructor);
-    }
-  }
-};
-var NON_VARIABLE_OPTIONS = [
-  "method",
-  "baseUrl",
-  "url",
-  "headers",
-  "request",
-  "query",
-  "mediaType"
-];
-var FORBIDDEN_VARIABLE_OPTIONS = ["query", "method", "url"];
-var GHES_V3_SUFFIX_REGEX = /\/api\/v3\/?$/;
-function graphql(request2, query, options) {
-  if (options) {
-    if (typeof query === "string" && "query" in options) {
-      return Promise.reject(
-        new Error(`[@octokit/graphql] "query" cannot be used as variable name`)
-      );
-    }
-    for (const key in options) {
-      if (!FORBIDDEN_VARIABLE_OPTIONS.includes(key))
-        continue;
-      return Promise.reject(
-        new Error(
-          `[@octokit/graphql] "${key}" cannot be used as variable name`
-        )
-      );
-    }
-  }
-  const parsedOptions = typeof query === "string" ? Object.assign({ query }, options) : query;
-  const requestOptions = Object.keys(
-    parsedOptions
-  ).reduce((result, key) => {
-    if (NON_VARIABLE_OPTIONS.includes(key)) {
-      result[key] = parsedOptions[key];
-      return result;
-    }
-    if (!result.variables) {
-      result.variables = {};
-    }
-    result.variables[key] = parsedOptions[key];
-    return result;
-  }, {});
-  const baseUrl = parsedOptions.baseUrl || request2.endpoint.DEFAULTS.baseUrl;
-  if (GHES_V3_SUFFIX_REGEX.test(baseUrl)) {
-    requestOptions.url = baseUrl.replace(GHES_V3_SUFFIX_REGEX, "/api/graphql");
-  }
-  return request2(requestOptions).then((response) => {
-    if (response.data.errors) {
-      const headers = {};
-      for (const key of Object.keys(response.headers)) {
-        headers[key] = response.headers[key];
-      }
-      throw new GraphqlResponseError(
-        requestOptions,
-        headers,
-        response.data
-      );
-    }
-    return response.data.data;
-  });
-}
-function withDefaults3(request2, newDefaults) {
-  const newRequest = request2.defaults(newDefaults);
-  const newApi = (query, options) => {
-    return graphql(newRequest, query, options);
-  };
-  return Object.assign(newApi, {
-    defaults: withDefaults3.bind(null, newRequest),
-    endpoint: newRequest.endpoint
-  });
-}
-var graphql2 = withDefaults3(request, {
-  headers: {
-    "user-agent": `octokit-graphql.js/${VERSION4} ${getUserAgent()}`
-  },
-  method: "POST",
-  url: "/graphql"
-});
-function withCustomRequest(customRequest) {
-  return withDefaults3(customRequest, {
-    method: "POST",
-    url: "/graphql"
-  });
-}
-
-// node_modules/@octokit/auth-token/dist-web/index.js
-var REGEX_IS_INSTALLATION_LEGACY = /^v1\./;
-var REGEX_IS_INSTALLATION = /^ghs_/;
-var REGEX_IS_USER_TO_SERVER = /^ghu_/;
-function auth(token) {
-  return __async(this, null, function* () {
-    const isApp = token.split(/\./).length === 3;
-    const isInstallation = REGEX_IS_INSTALLATION_LEGACY.test(token) || REGEX_IS_INSTALLATION.test(token);
-    const isUserToServer = REGEX_IS_USER_TO_SERVER.test(token);
-    const tokenType = isApp ? "app" : isInstallation ? "installation" : isUserToServer ? "user-to-server" : "oauth";
-    return {
-      type: "token",
-      token,
-      tokenType
-    };
-  });
-}
-function withAuthorizationPrefix(token) {
-  if (token.split(/\./).length === 3) {
-    return `bearer ${token}`;
-  }
-  return `token ${token}`;
-}
-function hook(token, request2, route, parameters) {
-  return __async(this, null, function* () {
-    const endpoint2 = request2.endpoint.merge(
-      route,
-      parameters
-    );
-    endpoint2.headers.authorization = withAuthorizationPrefix(token);
-    return request2(endpoint2);
-  });
-}
-var createTokenAuth = function createTokenAuth2(token) {
-  if (!token) {
-    throw new Error("[@octokit/auth-token] No token passed to createTokenAuth");
-  }
-  if (typeof token !== "string") {
-    throw new Error(
-      "[@octokit/auth-token] Token passed to createTokenAuth is not a string"
-    );
-  }
-  token = token.replace(/^(token|bearer) +/i, "");
-  return Object.assign(auth.bind(null, token), {
-    hook: hook.bind(null, token)
-  });
-};
-
-// node_modules/@octokit/core/dist-web/index.js
-var VERSION5 = "5.0.0";
-var _a;
-var Octokit = (_a = class {
-  static defaults(defaults2) {
-    const OctokitWithDefaults = class extends this {
-      constructor(...args) {
-        const options = args[0] || {};
-        if (typeof defaults2 === "function") {
-          super(defaults2(options));
-          return;
-        }
-        super(
-          Object.assign(
-            {},
-            defaults2,
-            options,
-            options.userAgent && defaults2.userAgent ? {
-              userAgent: `${options.userAgent} ${defaults2.userAgent}`
-            } : null
-          )
-        );
-      }
-    };
-    return OctokitWithDefaults;
-  }
-  /**
-   * Attach a plugin (or many) to your Octokit instance.
-   *
-   * @example
-   * const API = Octokit.plugin(plugin1, plugin2, plugin3, ...)
-   */
-  static plugin(...newPlugins) {
-    var _a2;
-    const currentPlugins = this.plugins;
-    const NewOctokit = (_a2 = class extends this {
-    }, _a2.plugins = currentPlugins.concat(
-      newPlugins.filter((plugin) => !currentPlugins.includes(plugin))
-    ), _a2);
-    return NewOctokit;
-  }
-  constructor(options = {}) {
-    const hook2 = new import_before_after_hook.Collection();
-    const requestDefaults = {
-      baseUrl: request.endpoint.DEFAULTS.baseUrl,
-      headers: {},
-      request: Object.assign({}, options.request, {
-        // @ts-ignore internal usage only, no need to type
-        hook: hook2.bind(null, "request")
-      }),
-      mediaType: {
-        previews: [],
-        format: ""
-      }
-    };
-    requestDefaults.headers["user-agent"] = [
-      options.userAgent,
-      `octokit-core.js/${VERSION5} ${getUserAgent()}`
-    ].filter(Boolean).join(" ");
-    if (options.baseUrl) {
-      requestDefaults.baseUrl = options.baseUrl;
-    }
-    if (options.previews) {
-      requestDefaults.mediaType.previews = options.previews;
-    }
-    if (options.timeZone) {
-      requestDefaults.headers["time-zone"] = options.timeZone;
-    }
-    this.request = request.defaults(requestDefaults);
-    this.graphql = withCustomRequest(this.request).defaults(requestDefaults);
-    this.log = Object.assign(
-      {
-        debug: () => {
-        },
-        info: () => {
-        },
-        warn: console.warn.bind(console),
-        error: console.error.bind(console)
-      },
-      options.log
-    );
-    this.hook = hook2;
-    if (!options.authStrategy) {
-      if (!options.auth) {
-        this.auth = () => __async(this, null, function* () {
-          return {
-            type: "unauthenticated"
-          };
-        });
-      } else {
-        const auth2 = createTokenAuth(options.auth);
-        hook2.wrap("request", auth2.hook);
-        this.auth = auth2;
-      }
-    } else {
-      const _a2 = options, { authStrategy } = _a2, otherOptions = __objRest(_a2, ["authStrategy"]);
-      const auth2 = authStrategy(
-        Object.assign(
-          {
-            request: this.request,
-            log: this.log,
-            // we pass the current octokit instance as well as its constructor options
-            // to allow for authentication strategies that return a new octokit instance
-            // that shares the same internal state as the current one. The original
-            // requirement for this was the "event-octokit" authentication strategy
-            // of https://github.com/probot/octokit-auth-probot.
-            octokit: this,
-            octokitOptions: otherOptions
-          },
-          options.auth
-        )
-      );
-      hook2.wrap("request", auth2.hook);
-      this.auth = auth2;
-    }
-    const classConstructor = this.constructor;
-    classConstructor.plugins.forEach((plugin) => {
-      Object.assign(this, plugin(this, options));
-    });
-  }
-}, _a.VERSION = VERSION5, _a.plugins = [], _a);
-
-// src/repositoryConnection/RepositoryConnection.ts
-var import_js_logger3 = __toESM(require_logger());
-var logger = import_js_logger3.default.get("repository-connection");
-var oktokitLogger = import_js_logger3.default.get("octokit");
-var IMAGE_PATH_BASE = "src/site/";
-var NOTE_PATH_BASE = "src/site/notes/";
-var RepositoryConnection = class {
-  constructor({
-    gardenRepository,
-    githubToken,
-    githubUserName
-  }) {
-    this.gardenRepository = gardenRepository;
-    this.githubUserName = githubUserName;
-    this.octokit = new Octokit({ auth: githubToken, log: oktokitLogger });
-  }
-  getRepositoryName() {
-    return this.githubUserName + "/" + this.gardenRepository;
-  }
-  getBasePayload() {
-    return {
-      owner: this.githubUserName,
-      repo: this.gardenRepository
-    };
-  }
-  /** Get filetree with path and sha of each file from repository */
-  getContent(branch) {
-    return __async(this, null, function* () {
-      try {
-        const response = yield this.octokit.request(
-          `GET /repos/{owner}/{repo}/git/trees/{tree_sha}`,
-          __spreadProps(__spreadValues({}, this.getBasePayload()), {
-            tree_sha: branch,
-            recursive: "true",
-            // invalidate cache
-            headers: {
-              "If-None-Match": ""
-            }
-          })
-        );
-        if (response.status === 200) {
-          return response.data;
-        }
-      } catch (error) {
-        throw new Error(
-          `Could not get file ${""} from repository ${this.getRepositoryName()}`
-        );
-      }
-    });
-  }
-  getFile(path, branch) {
-    return __async(this, null, function* () {
-      logger.info(
-        `Getting file ${path} from repository ${this.getRepositoryName()}`
-      );
-      try {
-        const response = yield this.octokit.request(
-          "GET /repos/{owner}/{repo}/contents/{path}",
-          __spreadProps(__spreadValues({}, this.getBasePayload()), {
-            path,
-            ref: branch
-          })
-        );
-        if (response.status === 200 && !Array.isArray(response.data) && response.data.type === "file") {
-          return response.data;
-        }
-      } catch (error) {
-        throw new Error(
-          `Could not get file ${path} from repository ${this.getRepositoryName()}`
-        );
-      }
-    });
-  }
-  deleteFile(_0, _1) {
-    return __async(this, arguments, function* (path, { branch, sha }) {
-      try {
-        sha != null ? sha : sha = yield this.getFile(path, branch).then((file) => file == null ? void 0 : file.sha);
-        if (!sha) {
-          console.error(
-            `cannot find file ${path} on github, not removing`
-          );
-          return false;
-        }
-        const payload = __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          path,
-          message: `Delete content ${path}`,
-          sha,
-          branch
-        });
-        const result = yield this.octokit.request(
-          "DELETE /repos/{owner}/{repo}/contents/{path}",
-          payload
-        );
-        import_js_logger3.default.info(
-          `Deleted file ${path} from repository ${this.getRepositoryName()}`
-        );
-        return result;
-      } catch (error) {
-        logger.error(error);
-        return false;
-      }
-    });
-  }
-  getLatestRelease() {
-    return __async(this, null, function* () {
-      try {
-        const release = yield this.octokit.request(
-          "GET /repos/{owner}/{repo}/releases/latest",
-          this.getBasePayload()
-        );
-        if (!release || !release.data) {
-          logger.error("Could not get latest release");
-        }
-        return release.data;
-      } catch (error) {
-        logger.error("Could not get latest release", error);
-      }
-    });
-  }
-  getLatestCommit() {
-    return __async(this, null, function* () {
-      try {
-        const latestCommit = yield this.octokit.request(
-          `GET /repos/{owner}/{repo}/commits/HEAD?cacheBust=${Date.now()}`,
-          this.getBasePayload()
-        );
-        if (!latestCommit || !latestCommit.data) {
-          logger.error("Could not get latest commit");
-        }
-        return latestCommit.data;
-      } catch (error) {
-        logger.error("Could not get latest commit", error);
-      }
-    });
-  }
-  updateFile(_0) {
-    return __async(this, arguments, function* ({ path, sha, content, branch, message }) {
-      const payload = __spreadProps(__spreadValues({}, this.getBasePayload()), {
-        path,
-        message: message != null ? message : `Update file ${path}`,
-        content,
-        sha,
-        branch
-      });
-      try {
-        return yield this.octokit.request(
-          "PUT /repos/{owner}/{repo}/contents/{path}",
-          payload
-        );
-      } catch (error) {
-        logger.error(error);
-      }
-    });
-  }
-  // NB: Do not use this, it does not work for some reason.
-  //TODO: Fix this. For now use deleteNote and deleteImage instead
-  deleteFiles(filePaths) {
-    return __async(this, null, function* () {
-      const latestCommit = yield this.getLatestCommit();
-      if (!latestCommit) {
-        logger.error("Could not get latest commit");
-        return;
-      }
-      const normalizePath = (path) => path.startsWith("/") ? path.slice(1) : path;
-      const filesToDelete = filePaths.map((path) => {
-        if (path.endsWith(".md")) {
-          return `${NOTE_PATH_BASE}${normalizePath(path)}`;
-        }
-        return `${IMAGE_PATH_BASE}${normalizePath(path)}`;
-      });
-      const repoDataPromise = this.octokit.request(
-        "GET /repos/{owner}/{repo}",
-        __spreadValues({}, this.getBasePayload())
-      );
-      const latestCommitSha = latestCommit.sha;
-      const baseTreeSha = latestCommit.commit.tree.sha;
-      const baseTree = yield this.octokit.request(
-        "GET /repos/{owner}/{repo}/git/trees/{tree_sha}?recursive=1",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          tree_sha: baseTreeSha
-        })
-      );
-      const newTreeEntries = baseTree.data.tree.filter(
-        (item) => !filesToDelete.includes(item.path)
-      ).map(
-        (item) => ({
-          path: item.path,
-          mode: item.mode,
-          type: item.type,
-          sha: item.sha
-        })
-      );
-      const newTree = yield this.octokit.request(
-        "POST /repos/{owner}/{repo}/git/trees",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          tree: newTreeEntries
-        })
-      );
-      const commitMessage = "Deleted multiple files";
-      const newCommit = yield this.octokit.request(
-        "POST /repos/{owner}/{repo}/git/commits",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          message: commitMessage,
-          tree: newTree.data.sha,
-          parents: [latestCommitSha]
-        })
-      );
-      const defaultBranch = (yield repoDataPromise).data.default_branch;
-      yield this.octokit.request(
-        "PATCH /repos/{owner}/{repo}/git/refs/{ref}",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          ref: `heads/${defaultBranch}`,
-          sha: newCommit.data.sha
-        })
-      );
-    });
-  }
-  updateFiles(files) {
-    return __async(this, null, function* () {
-      const latestCommit = yield this.getLatestCommit();
-      if (!latestCommit) {
-        logger.error("Could not get latest commit");
-        return;
-      }
-      const repoDataPromise = this.octokit.request(
-        "GET /repos/{owner}/{repo}",
-        __spreadValues({}, this.getBasePayload())
-      );
-      const latestCommitSha = latestCommit.sha;
-      const baseTreeSha = latestCommit.commit.tree.sha;
-      const normalizePath = (path) => path.startsWith("/") ? path.slice(1) : path;
-      const treePromises = files.map((file) => __async(this, null, function* () {
-        const [text2, _] = file.compiledFile;
-        try {
-          const blob = yield this.octokit.request(
-            "POST /repos/{owner}/{repo}/git/blobs",
-            __spreadProps(__spreadValues({}, this.getBasePayload()), {
-              content: text2,
-              encoding: "utf-8"
-            })
-          );
-          return {
-            path: `${NOTE_PATH_BASE}${normalizePath(file.getPath())}`,
-            mode: "100644",
-            type: "blob",
-            sha: blob.data.sha
-          };
-        } catch (error) {
-          logger.error(error);
-        }
-      }));
-      const treeAssetPromises = files.flatMap((x) => x.compiledFile[1].images).map((asset) => __async(this, null, function* () {
-        try {
-          const blob = yield this.octokit.request(
-            "POST /repos/{owner}/{repo}/git/blobs",
-            __spreadProps(__spreadValues({}, this.getBasePayload()), {
-              content: asset.content,
-              encoding: "base64"
-            })
-          );
-          return {
-            path: `${IMAGE_PATH_BASE}${normalizePath(asset.path)}`,
-            mode: "100644",
-            type: "blob",
-            sha: blob.data.sha
-          };
-        } catch (error) {
-          logger.error(error);
-        }
-      }));
-      treePromises.push(...treeAssetPromises);
-      const treeList = yield Promise.all(treePromises);
-      const tree = treeList.filter((x) => x !== void 0);
-      const newTree = yield this.octokit.request(
-        "POST /repos/{owner}/{repo}/git/trees",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          base_tree: baseTreeSha,
-          tree
-        })
-      );
-      const commitMessage = "Published multiple files";
-      const newCommit = yield this.octokit.request(
-        "POST /repos/{owner}/{repo}/git/commits",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          message: commitMessage,
-          tree: newTree.data.sha,
-          parents: [latestCommitSha]
-        })
-      );
-      const defaultBranch = (yield repoDataPromise).data.default_branch;
-      yield this.octokit.request(
-        "PATCH /repos/{owner}/{repo}/git/refs/heads/{branch}",
-        __spreadProps(__spreadValues({}, this.getBasePayload()), {
-          branch: defaultBranch,
-          sha: newCommit.data.sha
-        })
-      );
-    });
-  }
-  getRepositoryInfo() {
-    return __async(this, null, function* () {
-      const repoInfo = yield this.octokit.request("GET /repos/{owner}/{repo}", __spreadValues({}, this.getBasePayload())).catch((error) => {
-        logger.error(error);
-        logger.warn(
-          `Could not get repository info for ${this.getRepositoryName()}`
-        );
-        return void 0;
-      });
-      return repoInfo == null ? void 0 : repoInfo.data;
-    });
-  }
-  createBranch(branchName, sha) {
-    return __async(this, null, function* () {
-      yield this.octokit.request("POST /repos/{owner}/{repo}/git/refs", __spreadProps(__spreadValues({}, this.getBasePayload()), {
-        ref: `refs/heads/${branchName}`,
-        sha
-      }));
-    });
+    return null;
   }
 };
 
 // src/publisher/Publisher.ts
+var import_js_logger7 = __toESM(require_logger());
 var IMAGE_PATH_BASE2 = "src/site/img/user/";
 var NOTE_PATH_BASE2 = "src/site/notes/";
 var Publisher = class {
@@ -18860,14 +20355,85 @@ var Publisher = class {
     const frontMatter = (_a2 = this.metadataCache.getCache(file.path)) == null ? void 0 : _a2.frontmatter;
     return hasPublishFlag(frontMatter);
   }
+  /**
+   * Check if a canvas file should be published by reading its JSON metadata.
+   * Canvas files store frontmatter in the metadata.frontmatter field.
+   */
+  shouldPublishCanvas(file) {
+    return __async(this, null, function* () {
+      var _a2;
+      if (file.extension !== "canvas") {
+        return this.shouldPublish(file);
+      }
+      try {
+        const content = yield this.vault.cachedRead(file);
+        const canvasData = JSON.parse(content);
+        const frontMatter = (_a2 = canvasData == null ? void 0 : canvasData.metadata) == null ? void 0 : _a2.frontmatter;
+        return hasPublishFlag(frontMatter);
+      } catch (e) {
+        return false;
+      }
+    });
+  }
+  /**
+   * Extract asset paths (images and PDFs) from a canvas file.
+   * Canvas files can reference assets via file nodes and group backgrounds.
+   */
+  extractCanvasAssets(file) {
+    return __async(this, null, function* () {
+      var _a2, _b;
+      const images = [];
+      const imageExtensions = [
+        "png",
+        "jpg",
+        "jpeg",
+        "gif",
+        "webp",
+        "svg",
+        "bmp",
+        "pdf"
+      ];
+      try {
+        const content = yield this.vault.cachedRead(file);
+        const canvasData = JSON.parse(content);
+        if (!canvasData.nodes || !Array.isArray(canvasData.nodes)) {
+          return images;
+        }
+        for (const node of canvasData.nodes) {
+          if (node.type === "file" && node.file) {
+            const ext = (_a2 = node.file.split(".").pop()) == null ? void 0 : _a2.toLowerCase();
+            if (ext && imageExtensions.includes(ext)) {
+              images.push(node.file);
+            }
+          }
+          if (node.type === "group" && node.background) {
+            const ext = (_b = node.background.split(".").pop()) == null ? void 0 : _b.toLowerCase();
+            if (ext && imageExtensions.includes(ext)) {
+              images.push(node.background);
+            }
+          }
+        }
+      } catch (e) {
+        import_js_logger7.default.error(
+          `Failed to extract images from canvas ${file.path}`,
+          e
+        );
+      }
+      return images;
+    });
+  }
   getFilesMarkedForPublishing() {
     return __async(this, null, function* () {
-      const files = this.vault.getMarkdownFiles();
+      const markdownFiles = this.vault.getMarkdownFiles();
+      const allFiles = this.vault.getFiles();
+      const canvasFiles = allFiles.filter((f) => f.extension === "canvas");
+      const files = [...markdownFiles, ...canvasFiles];
       const notesToPublish = [];
       const imagesToPublish = /* @__PURE__ */ new Set();
       for (const file of files) {
         try {
-          if (this.shouldPublish(file)) {
+          const shouldPublish = file.extension === "canvas" ? yield this.shouldPublishCanvas(file) : this.shouldPublish(file);
+          if (shouldPublish) {
             const publishFile = new PublishFile({
               file,
               vault: this.vault,
@@ -18876,11 +20442,17 @@ var Publisher = class {
               settings: this.settings
             });
             notesToPublish.push(publishFile);
-            const images = yield publishFile.getImageLinks();
-            images.forEach((i) => imagesToPublish.add(i));
+            if (file.extension === "md") {
+              const images = yield publishFile.getImageLinks();
+              images.forEach((i) => imagesToPublish.add(i));
+            }
+            if (file.extension === "canvas") {
+              const assets = yield this.extractCanvasAssets(file);
+              assets.forEach((i) => imagesToPublish.add(i));
+            }
           }
         } catch (e) {
-          import_js_logger4.default.error(e);
+          import_js_logger7.default.error(e);
         }
       }
       return {
@@ -18905,11 +20477,11 @@ var Publisher = class {
   delete(path, sha) {
     return __async(this, null, function* () {
       this.validateSettings();
-      const userGardenConnection = new RepositoryConnection({
-        gardenRepository: this.settings.githubRepo,
-        githubUserName: this.settings.githubUserName,
-        githubToken: this.settings.githubToken
-      });
+      const userGardenConnection = new RepositoryConnection(
+        yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+          this.settings
+        )
+      );
       const deleted = yield userGardenConnection.deleteFile(path, {
         sha
       });
@@ -18923,10 +20495,14 @@ var Publisher = class {
       }
       try {
         const [text2, assets] = file.compiledFile;
+        const remoteImageHashes = yield this.getRemoteImageHashes();
         yield this.uploadText(file.getPath(), text2, file == null ? void 0 : file.remoteHash);
-        yield this.uploadAssets(assets);
+        yield this.uploadAssets(assets, remoteImageHashes);
         return true;
       } catch (error) {
+        if (error instanceof LimitReachedError) {
+          throw error;
+        }
         console.error(error);
         return false;
       }
@@ -18938,11 +20514,11 @@ var Publisher = class {
         return true;
       }
       try {
-        const userGardenConnection = new RepositoryConnection({
-          gardenRepository: this.settings.githubRepo,
-          githubUserName: this.settings.githubUserName,
-          githubToken: this.settings.githubToken
-        });
+        const userGardenConnection = new RepositoryConnection(
+          yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+            this.settings
+          )
+        );
         yield userGardenConnection.deleteFiles(filePaths);
         return true;
       } catch (error) {
@@ -18960,31 +20536,56 @@ var Publisher = class {
         return true;
       }
       try {
-        const userGardenConnection = new RepositoryConnection({
-          gardenRepository: this.settings.githubRepo,
-          githubUserName: this.settings.githubUserName,
-          githubToken: this.settings.githubToken
-        });
-        yield userGardenConnection.updateFiles(filesToPublish);
+        const userGardenConnection = new RepositoryConnection(
+          yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+            this.settings
+          )
+        );
+        const remoteImageHashes = yield this.getRemoteImageHashes();
+        yield userGardenConnection.updateFiles(
+          filesToPublish,
+          remoteImageHashes
+        );
         return true;
       } catch (error) {
+        if (error instanceof LimitReachedError) {
+          throw error;
+        }
         console.error(error);
         return false;
       }
+    });
+  }
+  getRemoteImageHashes() {
+    return __async(this, null, function* () {
+      const userGardenConnection = new RepositoryConnection(
+        yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+          this.settings
+        )
+      );
+      const contentTree = yield userGardenConnection.getContent("HEAD").catch(() => void 0);
+      if (!contentTree) {
+        return {};
+      }
+      const siteManager = new DigitalGardenSiteManager(
+        this.metadataCache,
+        this.settings
+      );
+      return siteManager.getImageHashes(contentTree);
     });
   }
   uploadToGithub(path, content, remoteFileHash) {
     return __async(this, null, function* () {
       this.validateSettings();
       let message = `Update content ${path}`;
-      const userGardenConnection = new RepositoryConnection({
-        gardenRepository: this.settings.githubRepo,
-        githubUserName: this.settings.githubUserName,
-        githubToken: this.settings.githubToken
-      });
+      const userGardenConnection = new RepositoryConnection(
+        yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+          this.settings
+        )
+      );
       if (!remoteFileHash) {
         const file = yield userGardenConnection.getFile(path).catch(() => {
-          import_js_logger4.default.info(`File ${path} does not exist, adding`);
+          import_js_logger7.default.info(`File ${path} does not exist, adding`);
         });
         remoteFileHash = file == null ? void 0 : file.sha;
         if (!remoteFileHash) {
@@ -19012,32 +20613,46 @@ var Publisher = class {
       yield this.uploadToGithub(path, content, sha);
     });
   }
-  uploadAssets(assets) {
-    return __async(this, null, function* () {
-      for (let idx = 0; idx < assets.images.length; idx++) {
-        const image = assets.images[idx];
-        yield this.uploadImage(image.path, image.content, image.remoteHash);
+  uploadAssets(_0) {
+    return __async(this, arguments, function* (assets, remoteImageHashes = {}) {
+      for (const image of assets.images) {
+        const hashKey = image.path.replace("/img/user/", "");
+        const remoteHash = remoteImageHashes[hashKey];
+        if (remoteHash && image.localHash && remoteHash === image.localHash) {
+          import_js_logger7.default.debug(`Skipping unchanged image: ${image.path}`);
+          continue;
+        }
+        yield this.uploadImage(image.path, image.content, remoteHash);
       }
     });
   }
   validateSettings() {
-    if (!this.settings.githubRepo) {
-      new import_obsidian4.Notice(
-        "Config error: You need to define a GitHub repo in the plugin settings"
-      );
-      throw {};
-    }
-    if (!this.settings.githubUserName) {
-      new import_obsidian4.Notice(
-        "Config error: You need to define a GitHub Username in the plugin settings"
-      );
-      throw {};
-    }
-    if (!this.settings.githubToken) {
-      new import_obsidian4.Notice(
-        "Config error: You need to define a GitHub Token in the plugin settings"
-      );
-      throw {};
+    if (this.settings.publishPlatform === "ForestryMd" /* ForestryMd */) {
+      if (!this.settings.forestrySettings.apiKey) {
+        new import_obsidian6.Notice(
+          "Config error: You need to define a Forestry.md Garden Key in the plugin settings"
+        );
+        throw {};
+      }
+    } else {
+      if (!this.settings.githubRepo) {
+        new import_obsidian6.Notice(
+          "Config error: You need to define a GitHub repo in the plugin settings"
+        );
+        throw {};
+      }
+      if (!this.settings.githubUserName) {
+        new import_obsidian6.Notice(
+          "Config error: You need to define a GitHub Username in the plugin settings"
+        );
+        throw {};
+      }
+      if (!this.settings.githubToken) {
+        new import_obsidian6.Notice(
+          "Config error: You need to define a GitHub Token in the plugin settings"
+        );
+        throw {};
+      }
     }
   }
 };
@@ -19069,10 +20684,14 @@ var PublishStatusBar = class {
 };
 
 // src/views/PublicationCenter/PublicationCenter.ts
-var import_obsidian7 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 
 // node_modules/svelte/src/runtime/internal/utils.js
 function noop() {
+}
+function is_promise(value) {
+  return !!value && (typeof value === "object" || typeof value === "function") && typeof /** @type {any} */
+  value.then === "function";
 }
 function run(fn2) {
   return fn2();
@@ -19239,6 +20858,9 @@ function set_data(text2, data) {
     return;
   text2.data = /** @type {string} */
   data;
+}
+function set_input_value(input, value) {
+  input.value = value == null ? "" : value;
 }
 function set_style(node, key, value, important) {
   if (value == null) {
@@ -19497,6 +21119,90 @@ function transition_out(block, local, detach2, callback) {
   }
 }
 
+// node_modules/svelte/src/runtime/internal/await_block.js
+function handle_promise(promise, info) {
+  const token = info.token = {};
+  function update2(type, index, key, value) {
+    if (info.token !== token)
+      return;
+    info.resolved = value;
+    let child_ctx = info.ctx;
+    if (key !== void 0) {
+      child_ctx = child_ctx.slice();
+      child_ctx[key] = value;
+    }
+    const block = type && (info.current = type)(child_ctx);
+    let needs_flush = false;
+    if (info.block) {
+      if (info.blocks) {
+        info.blocks.forEach((block2, i) => {
+          if (i !== index && block2) {
+            group_outros();
+            transition_out(block2, 1, 1, () => {
+              if (info.blocks[i] === block2) {
+                info.blocks[i] = null;
+              }
+            });
+            check_outros();
+          }
+        });
+      } else {
+        info.block.d(1);
+      }
+      block.c();
+      transition_in(block, 1);
+      block.m(info.mount(), info.anchor);
+      needs_flush = true;
+    }
+    info.block = block;
+    if (info.blocks)
+      info.blocks[index] = block;
+    if (needs_flush) {
+      flush();
+    }
+  }
+  if (is_promise(promise)) {
+    const current_component2 = get_current_component();
+    promise.then(
+      (value) => {
+        set_current_component(current_component2);
+        update2(info.then, 1, info.value, value);
+        set_current_component(null);
+      },
+      (error) => {
+        set_current_component(current_component2);
+        update2(info.catch, 2, info.error, error);
+        set_current_component(null);
+        if (!info.hasCatch) {
+          throw error;
+        }
+      }
+    );
+    if (info.current !== info.pending) {
+      update2(info.pending, 0);
+      return true;
+    }
+  } else {
+    if (info.current !== info.then) {
+      update2(info.then, 1, info.value, promise);
+      return true;
+    }
+    info.resolved = /** @type {T} */
+    promise;
+  }
+}
+function update_await_block_branch(info, ctx, dirty) {
+  const child_ctx = ctx.slice();
+  const { resolved } = info;
+  if (info.current === info.then) {
+    child_ctx[info.value] = resolved;
+  }
+  if (info.current === info.catch) {
+    child_ctx[info.error] = resolved;
+  }
+  info.block.p(child_ctx, dirty);
+}
+
 // node_modules/svelte/src/runtime/internal/each.js
 function ensure_array_like(array_like_or_iterator) {
   return (array_like_or_iterator == null ? void 0 : array_like_or_iterator.length) !== void 0 ? array_like_or_iterator : Array.from(array_like_or_iterator);
@@ -19571,7 +21277,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-function init(component, options, instance8, create_fragment8, not_equal, props, append_styles2, dirty = [-1]) {
+function init(component, options, instance9, create_fragment9, not_equal, props, append_styles2, dirty = [-1]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -19597,7 +21303,7 @@ function init(component, options, instance8, create_fragment8, not_equal, props,
   };
   append_styles2 && append_styles2($$.root);
   let ready = false;
-  $$.ctx = instance8 ? instance8(component, options.props || {}, (i, ret, ...rest) => {
+  $$.ctx = instance9 ? instance9(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
     if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
       if (!$$.skip_bound && $$.bound[i])
@@ -19610,7 +21316,7 @@ function init(component, options, instance8, create_fragment8, not_equal, props,
   $$.update();
   ready = true;
   run_all($$.before_update);
-  $$.fragment = create_fragment8 ? create_fragment8($$.ctx) : false;
+  $$.fragment = create_fragment9 ? create_fragment9($$.ctx) : false;
   if (options.target) {
     if (options.hydrate) {
       start_hydrating();
@@ -19914,14 +21620,14 @@ function __awaiter(thisArg, _arguments, P, generator) {
 }
 
 // src/views/PublicationCenter/PublicationCenter.svelte
-var import_obsidian6 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // src/ui/Icon.svelte
-var import_obsidian5 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 function create_fragment(ctx) {
   var _a2;
   let html_tag;
-  let raw_value = ((_a2 = (0, import_obsidian5.getIcon)(
+  let raw_value = ((_a2 = (0, import_obsidian7.getIcon)(
     /*name*/
     ctx[0]
   )) == null ? void 0 : _a2.outerHTML) + "";
@@ -19939,7 +21645,7 @@ function create_fragment(ctx) {
     p(ctx2, [dirty]) {
       var _a3;
       if (dirty & /*name*/
-      1 && raw_value !== (raw_value = ((_a3 = (0, import_obsidian5.getIcon)(
+      1 && raw_value !== (raw_value = ((_a3 = (0, import_obsidian7.getIcon)(
         /*name*/
         ctx2[0]
       )) == null ? void 0 : _a3.outerHTML) + ""))
@@ -19994,16 +21700,18 @@ function create_if_block_5(ctx) {
   );
   let t3;
   let t4;
+  let show_if = (
+    /*enableShowDiff*/
+    ctx[2] && !/*tree*/
+    ctx[0].path.endsWith(".canvas")
+  );
   let current;
   let mounted;
   let dispose;
   icon = new Icon_default({ props: { name: "file" } });
   let if_block0 = !/*readOnly*/
   ctx[1] && create_if_block_7(ctx);
-  let if_block1 = (
-    /*enableShowDiff*/
-    ctx[2] && create_if_block_6(ctx)
-  );
+  let if_block1 = show_if && create_if_block_6(ctx);
   return {
     c() {
       span2 = element("span");
@@ -20064,14 +21772,16 @@ function create_if_block_5(ctx) {
       1) && t3_value !== (t3_value = /*tree*/
       ctx2[0].name + ""))
         set_data(t3, t3_value);
-      if (
-        /*enableShowDiff*/
-        ctx2[2]
-      ) {
+      if (dirty & /*enableShowDiff, tree*/
+      5)
+        show_if = /*enableShowDiff*/
+        ctx2[2] && !/*tree*/
+        ctx2[0].path.endsWith(".canvas");
+      if (show_if) {
         if (if_block1) {
           if_block1.p(ctx2, dirty);
-          if (dirty & /*enableShowDiff*/
-          4) {
+          if (dirty & /*enableShowDiff, tree*/
+          5) {
             transition_in(if_block1, 1);
           }
         } else {
@@ -21117,21 +22827,21 @@ var TreeView_default = TreeView;
 
 // src/views/PublicationCenter/PublicationCenter.svelte
 function add_css2(target) {
-  append_styles(target, "svelte-ghd9h6", ".title-separator.svelte-ghd9h6{margin-top:0px;margin-bottom:15px}.footer-separator.svelte-ghd9h6{margin-top:15px;margin-bottom:15px}.footer.svelte-ghd9h6{display:flex;justify-content:flex-end}.loading-msg.svelte-ghd9h6{font-size:1.2rem;display:flex;align-items:center;flex-direction:column}button.svelte-ghd9h6{background-color:var(--interactive-accent);color:var(--text-on-accent);cursor:pointer;font-weight:bold}.loading-container.svelte-ghd9h6{width:100%;height:5px;margin-top:10px}.loading-bar.svelte-ghd9h6{background-color:var(--interactive-accent);height:100%;transition:all 0.5s ease-in-out}.published.svelte-ghd9h6{color:#8bff8b}.deleted.svelte-ghd9h6{color:#ff5757}.warning.svelte-ghd9h6{background-color:rgba(255, 150, 0, 0.1);border:1px solid rgba(255, 150, 0, 0.2);border-radius:4px;padding:10px;margin-bottom:15px}.callout-title.svelte-ghd9h6{font-weight:bold;margin-bottom:8px}.problematic-file.svelte-ghd9h6{display:flex;flex-direction:column;margin:5px 0;padding:5px 0;border-bottom:1px solid rgba(255, 150, 0, 0.1)}.file-path.svelte-ghd9h6{font-family:monospace;color:var(--text-muted)}.file-issue.svelte-ghd9h6{font-size:0.9em;margin-top:2px}");
+  append_styles(target, "svelte-1eqmrov", ".title-separator.svelte-1eqmrov{margin-top:0px;margin-bottom:15px}.footer-separator.svelte-1eqmrov{margin-top:15px;margin-bottom:15px}.footer.svelte-1eqmrov{display:flex;justify-content:flex-end}.loading-msg.svelte-1eqmrov{font-size:1.2rem;display:flex;align-items:center;flex-direction:column}button.svelte-1eqmrov{background-color:var(--interactive-accent);color:var(--text-on-accent);cursor:pointer;font-weight:bold}.loading-container.svelte-1eqmrov{width:100%;height:5px;margin-top:10px}.loading-bar.svelte-1eqmrov{background-color:var(--interactive-accent);height:100%;transition:all 0.5s ease-in-out}.published.svelte-1eqmrov{color:#8bff8b}.deleted.svelte-1eqmrov{color:#ff5757}.warning.svelte-1eqmrov{background-color:rgba(255, 150, 0, 0.1);border:1px solid rgba(255, 150, 0, 0.2);border-radius:4px;padding:10px;margin-bottom:15px}.info.svelte-1eqmrov{background-color:rgba(0, 150, 255, 0.1);border:1px solid rgba(0, 150, 255, 0.2);border-radius:4px;padding:10px;margin-bottom:15px}.callout-header.svelte-1eqmrov{display:flex;justify-content:space-between;align-items:center}.dismiss-btn.svelte-1eqmrov{background:none;border:none;cursor:pointer;color:var(--text-muted);padding:2px;display:flex;align-items:center}.dismiss-btn.svelte-1eqmrov:hover{color:var(--text-normal)}.callout-title.svelte-1eqmrov{font-weight:bold;margin-bottom:8px}.problematic-file.svelte-1eqmrov{display:flex;flex-direction:column;margin:5px 0;padding:5px 0;border-bottom:1px solid rgba(255, 150, 0, 0.1)}.file-path.svelte-1eqmrov{font-family:monospace;color:var(--text-muted)}.file-issue.svelte-1eqmrov{font-size:0.9em;margin-top:2px}");
 }
 function get_each_context_1(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[28] = list[i];
+  child_ctx[32] = list[i];
   return child_ctx;
 }
 function get_each_context_2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[31] = list[i];
+  child_ctx[35] = list[i];
   return child_ctx;
 }
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[25] = list[i];
+  child_ctx[29] = list[i];
   return child_ctx;
 }
 function create_else_block2(ctx) {
@@ -21162,7 +22872,7 @@ function create_else_block2(ctx) {
   let dispose;
   let if_block = (
     /*failedPublish*/
-    ctx[17].length > 0 && create_if_block_10(ctx)
+    ctx[21].length > 0 && create_if_block_122(ctx)
   );
   let each_value_2 = ensure_array_like(
     /*unpublishedToPublish*/
@@ -21219,18 +22929,18 @@ function create_else_block2(ctx) {
       button = element("button");
       button.textContent = "DONE";
       attr(div0, "class", "callout-title-inner");
-      attr(div2, "class", "loading-bar svelte-ghd9h6");
+      attr(div2, "class", "loading-bar svelte-1eqmrov");
       set_style(
         div2,
         "width",
         /*publishProgress*/
-        ctx[13] + "%"
+        ctx[15] + "%"
       );
-      attr(div3, "class", "loading-container svelte-ghd9h6");
+      attr(div3, "class", "loading-container svelte-1eqmrov");
       attr(div4, "class", "callout");
-      attr(hr, "class", "footer-separator svelte-ghd9h6");
-      attr(button, "class", "svelte-ghd9h6");
-      attr(div5, "class", "footer svelte-ghd9h6");
+      attr(hr, "class", "footer-separator svelte-1eqmrov");
+      attr(button, "class", "svelte-1eqmrov");
+      attr(div5, "class", "footer svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, div6, anchor);
@@ -21285,20 +22995,20 @@ function create_else_block2(ctx) {
         set_data(t2, t2_value);
       if (
         /*failedPublish*/
-        ctx[17].length > 0
+        ctx[21].length > 0
       )
         if_block.p(ctx, dirty);
       if (!current || dirty[0] & /*publishProgress*/
-      8192) {
+      32768) {
         set_style(
           div2,
           "width",
           /*publishProgress*/
-          ctx[13] + "%"
+          ctx[15] + "%"
         );
       }
       if (dirty[0] & /*publishedPaths, unpublishedToPublish, changedToPublish, rotatingCog, processingPaths, failedPublish*/
-      164440) {
+      2623576) {
         each_value_2 = ensure_array_like(
           /*unpublishedToPublish*/
           ctx[3].concat(
@@ -21326,7 +23036,7 @@ function create_else_block2(ctx) {
         check_outros();
       }
       if (dirty[0] & /*publishedPaths, pathsToDelete, rotatingCog, processingPaths*/
-      33376) {
+      526432) {
         each_value_1 = ensure_array_like(
           /*pathsToDelete*/
           ctx[5]
@@ -21389,32 +23099,42 @@ function create_else_block2(ctx) {
 function create_if_block_12(ctx) {
   var _a2, _b, _c, _d;
   let t0;
-  let treeview0;
   let t1;
-  let treeview1;
   let t2;
-  let treeview2;
+  let treeview0;
   let t3;
-  let treeview3;
+  let treeview1;
   let t4;
-  let hr;
+  let treeview2;
   let t5;
+  let treeview3;
+  let t6;
+  let hr;
+  let t7;
   let div;
   let button;
   let current;
   let mounted;
   let dispose;
-  let if_block = (
+  let if_block0 = (
     /*problematicFiles*/
-    ctx[8].length > 0 && create_if_block_22(ctx)
+    ctx[8].length > 0 && create_if_block_42(ctx)
+  );
+  let if_block1 = (
+    /*showImageFixNotice*/
+    ctx[9] && create_if_block_32(ctx)
+  );
+  let if_block2 = (
+    /*showBasesNotice*/
+    ctx[10] && create_if_block_22(ctx)
   );
   treeview0 = new TreeView_default({
     props: {
       tree: (
         /*unpublishedNoteTree*/
-        (_a2 = ctx[12]) != null ? _a2 : (
+        (_a2 = ctx[14]) != null ? _a2 : (
           /*emptyNode*/
-          ctx[19]
+          ctx[23]
         )
       ),
       showDiff: (
@@ -21427,9 +23147,9 @@ function create_if_block_12(ctx) {
     props: {
       tree: (
         /*changedNotesTree*/
-        (_b = ctx[11]) != null ? _b : (
+        (_b = ctx[13]) != null ? _b : (
           /*emptyNode*/
-          ctx[19]
+          ctx[23]
         )
       ),
       showDiff: (
@@ -21443,9 +23163,9 @@ function create_if_block_12(ctx) {
     props: {
       tree: (
         /*deletedNoteTree*/
-        (_c = ctx[10]) != null ? _c : (
+        (_c = ctx[12]) != null ? _c : (
           /*emptyNode*/
-          ctx[19]
+          ctx[23]
         )
       ),
       showDiff: (
@@ -21459,9 +23179,9 @@ function create_if_block_12(ctx) {
       readOnly: true,
       tree: (
         /*publishedNotesTree*/
-        (_d = ctx[14]) != null ? _d : (
+        (_d = ctx[16]) != null ? _d : (
           /*emptyNode*/
-          ctx[19]
+          ctx[23]
         )
       ),
       showDiff: (
@@ -21472,40 +23192,52 @@ function create_if_block_12(ctx) {
   });
   return {
     c() {
-      if (if_block)
-        if_block.c();
+      if (if_block0)
+        if_block0.c();
       t0 = space();
-      create_component(treeview0.$$.fragment);
+      if (if_block1)
+        if_block1.c();
       t1 = space();
-      create_component(treeview1.$$.fragment);
+      if (if_block2)
+        if_block2.c();
       t2 = space();
-      create_component(treeview2.$$.fragment);
+      create_component(treeview0.$$.fragment);
       t3 = space();
-      create_component(treeview3.$$.fragment);
+      create_component(treeview1.$$.fragment);
       t4 = space();
-      hr = element("hr");
+      create_component(treeview2.$$.fragment);
       t5 = space();
+      create_component(treeview3.$$.fragment);
+      t6 = space();
+      hr = element("hr");
+      t7 = space();
       div = element("div");
       button = element("button");
       button.textContent = "PUBLISH SELECTED";
-      attr(hr, "class", "footer-separator svelte-ghd9h6");
-      attr(button, "class", "svelte-ghd9h6");
-      attr(div, "class", "footer svelte-ghd9h6");
+      attr(hr, "class", "footer-separator svelte-1eqmrov");
+      attr(button, "class", "svelte-1eqmrov");
+      attr(div, "class", "footer svelte-1eqmrov");
     },
     m(target, anchor) {
-      if (if_block)
-        if_block.m(target, anchor);
+      if (if_block0)
+        if_block0.m(target, anchor);
       insert(target, t0, anchor);
-      mount_component(treeview0, target, anchor);
+      if (if_block1)
+        if_block1.m(target, anchor);
       insert(target, t1, anchor);
-      mount_component(treeview1, target, anchor);
+      if (if_block2)
+        if_block2.m(target, anchor);
       insert(target, t2, anchor);
-      mount_component(treeview2, target, anchor);
+      mount_component(treeview0, target, anchor);
       insert(target, t3, anchor);
-      mount_component(treeview3, target, anchor);
+      mount_component(treeview1, target, anchor);
       insert(target, t4, anchor);
-      insert(target, hr, anchor);
+      mount_component(treeview2, target, anchor);
       insert(target, t5, anchor);
+      mount_component(treeview3, target, anchor);
+      insert(target, t6, anchor);
+      insert(target, hr, anchor);
+      insert(target, t7, anchor);
       insert(target, div, anchor);
       append(div, button);
       current = true;
@@ -21514,7 +23246,7 @@ function create_if_block_12(ctx) {
           button,
           "click",
           /*publishMarkedNotes*/
-          ctx[18]
+          ctx[22]
         );
         mounted = true;
       }
@@ -21525,24 +23257,70 @@ function create_if_block_12(ctx) {
         /*problematicFiles*/
         ctx2[8].length > 0
       ) {
-        if (if_block) {
-          if_block.p(ctx2, dirty);
+        if (if_block0) {
+          if_block0.p(ctx2, dirty);
         } else {
-          if_block = create_if_block_22(ctx2);
-          if_block.c();
-          if_block.m(t0.parentNode, t0);
+          if_block0 = create_if_block_42(ctx2);
+          if_block0.c();
+          if_block0.m(t0.parentNode, t0);
         }
-      } else if (if_block) {
-        if_block.d(1);
-        if_block = null;
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
+      }
+      if (
+        /*showImageFixNotice*/
+        ctx2[9]
+      ) {
+        if (if_block1) {
+          if_block1.p(ctx2, dirty);
+          if (dirty[0] & /*showImageFixNotice*/
+          512) {
+            transition_in(if_block1, 1);
+          }
+        } else {
+          if_block1 = create_if_block_32(ctx2);
+          if_block1.c();
+          transition_in(if_block1, 1);
+          if_block1.m(t1.parentNode, t1);
+        }
+      } else if (if_block1) {
+        group_outros();
+        transition_out(if_block1, 1, 1, () => {
+          if_block1 = null;
+        });
+        check_outros();
+      }
+      if (
+        /*showBasesNotice*/
+        ctx2[10]
+      ) {
+        if (if_block2) {
+          if_block2.p(ctx2, dirty);
+          if (dirty[0] & /*showBasesNotice*/
+          1024) {
+            transition_in(if_block2, 1);
+          }
+        } else {
+          if_block2 = create_if_block_22(ctx2);
+          if_block2.c();
+          transition_in(if_block2, 1);
+          if_block2.m(t2.parentNode, t2);
+        }
+      } else if (if_block2) {
+        group_outros();
+        transition_out(if_block2, 1, 1, () => {
+          if_block2 = null;
+        });
+        check_outros();
       }
       const treeview0_changes = {};
       if (dirty[0] & /*unpublishedNoteTree*/
-      4096)
+      16384)
         treeview0_changes.tree = /*unpublishedNoteTree*/
-        (_a3 = ctx2[12]) != null ? _a3 : (
+        (_a3 = ctx2[14]) != null ? _a3 : (
           /*emptyNode*/
-          ctx2[19]
+          ctx2[23]
         );
       if (dirty[0] & /*showDiff*/
       1)
@@ -21551,11 +23329,11 @@ function create_if_block_12(ctx) {
       treeview0.$set(treeview0_changes);
       const treeview1_changes = {};
       if (dirty[0] & /*changedNotesTree*/
-      2048)
+      8192)
         treeview1_changes.tree = /*changedNotesTree*/
-        (_b2 = ctx2[11]) != null ? _b2 : (
+        (_b2 = ctx2[13]) != null ? _b2 : (
           /*emptyNode*/
-          ctx2[19]
+          ctx2[23]
         );
       if (dirty[0] & /*showDiff*/
       1)
@@ -21564,11 +23342,11 @@ function create_if_block_12(ctx) {
       treeview1.$set(treeview1_changes);
       const treeview2_changes = {};
       if (dirty[0] & /*deletedNoteTree*/
-      1024)
+      4096)
         treeview2_changes.tree = /*deletedNoteTree*/
-        (_c2 = ctx2[10]) != null ? _c2 : (
+        (_c2 = ctx2[12]) != null ? _c2 : (
           /*emptyNode*/
-          ctx2[19]
+          ctx2[23]
         );
       if (dirty[0] & /*showDiff*/
       1)
@@ -21577,11 +23355,11 @@ function create_if_block_12(ctx) {
       treeview2.$set(treeview2_changes);
       const treeview3_changes = {};
       if (dirty[0] & /*publishedNotesTree*/
-      16384)
+      65536)
         treeview3_changes.tree = /*publishedNotesTree*/
-        (_d2 = ctx2[14]) != null ? _d2 : (
+        (_d2 = ctx2[16]) != null ? _d2 : (
           /*emptyNode*/
-          ctx2[19]
+          ctx2[23]
         );
       if (dirty[0] & /*showDiff*/
       1)
@@ -21592,6 +23370,8 @@ function create_if_block_12(ctx) {
     i(local) {
       if (current)
         return;
+      transition_in(if_block1);
+      transition_in(if_block2);
       transition_in(treeview0.$$.fragment, local);
       transition_in(treeview1.$$.fragment, local);
       transition_in(treeview2.$$.fragment, local);
@@ -21599,6 +23379,8 @@ function create_if_block_12(ctx) {
       current = true;
     },
     o(local) {
+      transition_out(if_block1);
+      transition_out(if_block2);
       transition_out(treeview0.$$.fragment, local);
       transition_out(treeview1.$$.fragment, local);
       transition_out(treeview2.$$.fragment, local);
@@ -21612,12 +23394,18 @@ function create_if_block_12(ctx) {
         detach(t2);
         detach(t3);
         detach(t4);
-        detach(hr);
         detach(t5);
+        detach(t6);
+        detach(hr);
+        detach(t7);
         detach(div);
       }
-      if (if_block)
-        if_block.d(detaching);
+      if (if_block0)
+        if_block0.d(detaching);
+      if (if_block1)
+        if_block1.d(detaching);
+      if (if_block2)
+        if_block2.d(detaching);
       destroy_component(treeview0, detaching);
       destroy_component(treeview1, detaching);
       destroy_component(treeview2, detaching);
@@ -21633,7 +23421,7 @@ function create_if_block2(ctx) {
   let html_tag;
   let raw_value = (
     /*bigRotatingCog*/
-    ((_a2 = ctx[16]()) == null ? void 0 : _a2.outerHTML) + ""
+    ((_a2 = ctx[20]()) == null ? void 0 : _a2.outerHTML) + ""
   );
   let t0;
   let div0;
@@ -21643,9 +23431,9 @@ function create_if_block2(ctx) {
       html_tag = new HtmlTag(false);
       t0 = space();
       div0 = element("div");
-      div0.textContent = "Calculating publication status from GitHub";
+      div0.textContent = "Calculating publication status";
       html_tag.a = t0;
-      attr(div1, "class", "loading-msg svelte-ghd9h6");
+      attr(div1, "class", "loading-msg svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, div1, anchor);
@@ -21663,13 +23451,13 @@ function create_if_block2(ctx) {
     }
   };
 }
-function create_if_block_10(ctx) {
+function create_if_block_122(ctx) {
   let div;
   return {
     c() {
       div = element("div");
       div.textContent = `${`(${/*failedPublish*/
-      ctx[17].length} failed)`}`;
+      ctx[21].length} failed)`}`;
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -21710,7 +23498,7 @@ function create_else_block_2(ctx) {
     }
   };
 }
-function create_if_block_9(ctx) {
+function create_if_block_11(ctx) {
   let icon;
   let current;
   icon = new Icon_default({ props: { name: "cross" } });
@@ -21738,7 +23526,7 @@ function create_if_block_9(ctx) {
     }
   };
 }
-function create_if_block_8(ctx) {
+function create_if_block_10(ctx) {
   let icon;
   let current;
   icon = new Icon_default({ props: { name: "check" } });
@@ -21766,12 +23554,12 @@ function create_if_block_8(ctx) {
     }
   };
 }
-function create_if_block_72(ctx) {
+function create_if_block_9(ctx) {
   var _a2;
   let html_tag;
   let raw_value = (
     /*rotatingCog*/
-    ((_a2 = ctx[15]()) == null ? void 0 : _a2.outerHTML) + ""
+    ((_a2 = ctx[19]()) == null ? void 0 : _a2.outerHTML) + ""
   );
   let html_anchor;
   return {
@@ -21795,13 +23583,13 @@ function create_if_block_72(ctx) {
     }
   };
 }
-function create_if_block_62(ctx) {
+function create_if_block_8(ctx) {
   let span;
   return {
     c() {
       span = element("span");
       span.textContent = "- PUBLISHED";
-      attr(span, "class", "published svelte-ghd9h6");
+      attr(span, "class", "published svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, span, anchor);
@@ -21823,7 +23611,7 @@ function create_each_block_2(ctx) {
   let t0;
   let t1_value = (
     /*note*/
-    ctx[31].file.name + ""
+    ctx[35].file.name + ""
   );
   let t1;
   let t2;
@@ -21831,15 +23619,15 @@ function create_each_block_2(ctx) {
     /*publishedPaths*/
     ctx[6].includes(
       /*note*/
-      ctx[31].getPath()
+      ctx[35].getPath()
     )
   );
   let current;
-  const if_block_creators = [create_if_block_72, create_if_block_8, create_if_block_9, create_else_block_2];
+  const if_block_creators = [create_if_block_9, create_if_block_10, create_if_block_11, create_else_block_2];
   const if_blocks = [];
   function select_block_type_1(ctx2, dirty) {
     if (dirty[0] & /*processingPaths, unpublishedToPublish, changedToPublish*/
-    536)
+    2072)
       show_if_1 = null;
     if (dirty[0] & /*publishedPaths, unpublishedToPublish, changedToPublish*/
     88)
@@ -21849,9 +23637,9 @@ function create_each_block_2(ctx) {
       show_if_3 = null;
     if (show_if_1 == null)
       show_if_1 = !!/*processingPaths*/
-      ctx2[9].includes(
+      ctx2[11].includes(
         /*note*/
-        ctx2[31].getPath()
+        ctx2[35].getPath()
       );
     if (show_if_1)
       return 0;
@@ -21859,15 +23647,15 @@ function create_each_block_2(ctx) {
       show_if_2 = !!/*publishedPaths*/
       ctx2[6].includes(
         /*note*/
-        ctx2[31].getPath()
+        ctx2[35].getPath()
       );
     if (show_if_2)
       return 1;
     if (show_if_3 == null)
       show_if_3 = !!/*failedPublish*/
-      ctx2[17].includes(
+      ctx2[21].includes(
         /*note*/
-        ctx2[31].getPath()
+        ctx2[35].getPath()
       );
     if (show_if_3)
       return 2;
@@ -21875,7 +23663,7 @@ function create_each_block_2(ctx) {
   }
   current_block_type_index = select_block_type_1(ctx, [-1, -1]);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-  let if_block1 = show_if && create_if_block_62(ctx);
+  let if_block1 = show_if && create_if_block_8(ctx);
   return {
     c() {
       div = element("div");
@@ -21920,19 +23708,19 @@ function create_each_block_2(ctx) {
       }
       if ((!current || dirty[0] & /*unpublishedToPublish, changedToPublish*/
       24) && t1_value !== (t1_value = /*note*/
-      ctx2[31].file.name + ""))
+      ctx2[35].file.name + ""))
         set_data(t1, t1_value);
       if (dirty[0] & /*publishedPaths, unpublishedToPublish, changedToPublish*/
       88)
         show_if = /*publishedPaths*/
         ctx2[6].includes(
           /*note*/
-          ctx2[31].getPath()
+          ctx2[35].getPath()
         );
       if (show_if) {
         if (if_block1) {
         } else {
-          if_block1 = create_if_block_62(ctx2);
+          if_block1 = create_if_block_8(ctx2);
           if_block1.c();
           if_block1.m(div, null);
         }
@@ -21989,7 +23777,7 @@ function create_else_block_1(ctx) {
     }
   };
 }
-function create_if_block_52(ctx) {
+function create_if_block_72(ctx) {
   let icon;
   let current;
   icon = new Icon_default({ props: { name: "check" } });
@@ -22017,12 +23805,12 @@ function create_if_block_52(ctx) {
     }
   };
 }
-function create_if_block_42(ctx) {
+function create_if_block_62(ctx) {
   var _a2;
   let html_tag;
   let raw_value = (
     /*rotatingCog*/
-    ((_a2 = ctx[15]()) == null ? void 0 : _a2.outerHTML) + ""
+    ((_a2 = ctx[19]()) == null ? void 0 : _a2.outerHTML) + ""
   );
   let html_anchor;
   return {
@@ -22046,13 +23834,13 @@ function create_if_block_42(ctx) {
     }
   };
 }
-function create_if_block_32(ctx) {
+function create_if_block_52(ctx) {
   let span;
   return {
     c() {
       span = element("span");
       span.textContent = "- DELETED";
-      attr(span, "class", "deleted svelte-ghd9h6");
+      attr(span, "class", "deleted svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, span, anchor);
@@ -22073,7 +23861,7 @@ function create_each_block_1(ctx) {
   let t0;
   let t1_value = (
     /*path*/
-    ctx[28].split("/").last() + ""
+    ctx[32].split("/").last() + ""
   );
   let t1;
   let t2;
@@ -22081,24 +23869,24 @@ function create_each_block_1(ctx) {
     /*publishedPaths*/
     ctx[6].includes(
       /*path*/
-      ctx[28]
+      ctx[32]
     )
   );
   let current;
-  const if_block_creators = [create_if_block_42, create_if_block_52, create_else_block_1];
+  const if_block_creators = [create_if_block_62, create_if_block_72, create_else_block_1];
   const if_blocks = [];
   function select_block_type_2(ctx2, dirty) {
     if (dirty[0] & /*processingPaths, pathsToDelete*/
-    544)
+    2080)
       show_if_1 = null;
     if (dirty[0] & /*publishedPaths, pathsToDelete*/
     96)
       show_if_2 = null;
     if (show_if_1 == null)
       show_if_1 = !!/*processingPaths*/
-      ctx2[9].includes(
+      ctx2[11].includes(
         /*path*/
-        ctx2[28]
+        ctx2[32]
       );
     if (show_if_1)
       return 0;
@@ -22106,7 +23894,7 @@ function create_each_block_1(ctx) {
       show_if_2 = !!/*publishedPaths*/
       ctx2[6].includes(
         /*path*/
-        ctx2[28]
+        ctx2[32]
       );
     if (show_if_2)
       return 1;
@@ -22114,7 +23902,7 @@ function create_each_block_1(ctx) {
   }
   current_block_type_index = select_block_type_2(ctx, [-1, -1]);
   if_block0 = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
-  let if_block1 = show_if && create_if_block_32(ctx);
+  let if_block1 = show_if && create_if_block_52(ctx);
   return {
     c() {
       div = element("div");
@@ -22159,19 +23947,19 @@ function create_each_block_1(ctx) {
       }
       if ((!current || dirty[0] & /*pathsToDelete*/
       32) && t1_value !== (t1_value = /*path*/
-      ctx2[28].split("/").last() + ""))
+      ctx2[32].split("/").last() + ""))
         set_data(t1, t1_value);
       if (dirty[0] & /*publishedPaths, pathsToDelete*/
       96)
         show_if = /*publishedPaths*/
         ctx2[6].includes(
           /*path*/
-          ctx2[28]
+          ctx2[32]
         );
       if (show_if) {
         if (if_block1) {
         } else {
-          if_block1 = create_if_block_32(ctx2);
+          if_block1 = create_if_block_52(ctx2);
           if_block1.c();
           if_block1.m(div, null);
         }
@@ -22200,7 +23988,7 @@ function create_each_block_1(ctx) {
     }
   };
 }
-function create_if_block_22(ctx) {
+function create_if_block_42(ctx) {
   let div2;
   let div0;
   let t1;
@@ -22223,9 +24011,9 @@ function create_if_block_22(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(div0, "class", "callout-title svelte-ghd9h6");
+      attr(div0, "class", "callout-title svelte-1eqmrov");
       attr(div1, "class", "callout-content");
-      attr(div2, "class", "callout warning svelte-ghd9h6");
+      attr(div2, "class", "callout warning svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, div2, anchor);
@@ -22275,14 +24063,14 @@ function create_each_block2(ctx) {
   let span0;
   let t0_value = (
     /*file*/
-    ctx[25].path + ""
+    ctx[29].path + ""
   );
   let t0;
   let t1;
   let span1;
   let t2_value = (
     /*file*/
-    ctx[25].issue + ""
+    ctx[29].issue + ""
   );
   let t2;
   let t3;
@@ -22295,9 +24083,9 @@ function create_each_block2(ctx) {
       span1 = element("span");
       t2 = text(t2_value);
       t3 = space();
-      attr(span0, "class", "file-path svelte-ghd9h6");
-      attr(span1, "class", "file-issue svelte-ghd9h6");
-      attr(div, "class", "problematic-file svelte-ghd9h6");
+      attr(span0, "class", "file-path svelte-1eqmrov");
+      attr(span1, "class", "file-issue svelte-1eqmrov");
+      attr(div, "class", "problematic-file svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -22311,17 +24099,165 @@ function create_each_block2(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*problematicFiles*/
       256 && t0_value !== (t0_value = /*file*/
-      ctx2[25].path + ""))
+      ctx2[29].path + ""))
         set_data(t0, t0_value);
       if (dirty[0] & /*problematicFiles*/
       256 && t2_value !== (t2_value = /*file*/
-      ctx2[25].issue + ""))
+      ctx2[29].issue + ""))
         set_data(t2, t2_value);
     },
     d(detaching) {
       if (detaching) {
         detach(div);
       }
+    }
+  };
+}
+function create_if_block_32(ctx) {
+  let div3;
+  let div1;
+  let div0;
+  let t1;
+  let button;
+  let icon;
+  let t2;
+  let div2;
+  let current;
+  let mounted;
+  let dispose;
+  icon = new Icon_default({ props: { name: "x" } });
+  return {
+    c() {
+      div3 = element("div");
+      div1 = element("div");
+      div0 = element("div");
+      div0.textContent = "Image handling improved";
+      t1 = space();
+      button = element("button");
+      create_component(icon.$$.fragment);
+      t2 = space();
+      div2 = element("div");
+      div2.innerHTML = `Images with size parameters (e.g. <code>![[image.png|200]]</code>) are now handled differently to fix rendering in tables.
+					This may cause notes with images to show up as changed. This
+					is expected and safe to publish.`;
+      attr(div0, "class", "callout-title svelte-1eqmrov");
+      attr(button, "class", "dismiss-btn svelte-1eqmrov");
+      attr(button, "aria-label", "Dismiss notice");
+      attr(div1, "class", "callout-header svelte-1eqmrov");
+      attr(div2, "class", "callout-content");
+      attr(div3, "class", "callout info svelte-1eqmrov");
+    },
+    m(target, anchor) {
+      insert(target, div3, anchor);
+      append(div3, div1);
+      append(div1, div0);
+      append(div1, t1);
+      append(div1, button);
+      mount_component(icon, button, null);
+      append(div3, t2);
+      append(div3, div2);
+      current = true;
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*dismissImageFixNotice*/
+          ctx[17]
+        );
+        mounted = true;
+      }
+    },
+    p: noop,
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div3);
+      }
+      destroy_component(icon);
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_if_block_22(ctx) {
+  let div3;
+  let div1;
+  let div0;
+  let t1;
+  let button;
+  let icon;
+  let t2;
+  let div2;
+  let current;
+  let mounted;
+  let dispose;
+  icon = new Icon_default({ props: { name: "x" } });
+  return {
+    c() {
+      div3 = element("div");
+      div1 = element("div");
+      div0 = element("div");
+      div0.textContent = "Bases support added";
+      t1 = space();
+      button = element("button");
+      create_component(icon.$$.fragment);
+      t2 = space();
+      div2 = element("div");
+      div2.textContent = "Frontmatter properties are now nested differently to support\n					Obsidian Bases. This may cause notes to show up as changed.\n					This is expected and safe to publish. You must update your\n					site template to use Bases.";
+      attr(div0, "class", "callout-title svelte-1eqmrov");
+      attr(button, "class", "dismiss-btn svelte-1eqmrov");
+      attr(button, "aria-label", "Dismiss notice");
+      attr(div1, "class", "callout-header svelte-1eqmrov");
+      attr(div2, "class", "callout-content");
+      attr(div3, "class", "callout info svelte-1eqmrov");
+    },
+    m(target, anchor) {
+      insert(target, div3, anchor);
+      append(div3, div1);
+      append(div1, div0);
+      append(div1, t1);
+      append(div1, button);
+      mount_component(icon, button, null);
+      append(div3, t2);
+      append(div3, div2);
+      current = true;
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*dismissBasesNotice*/
+          ctx[18]
+        );
+        mounted = true;
+      }
+    },
+    p: noop,
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div3);
+      }
+      destroy_component(icon);
+      mounted = false;
+      dispose();
     }
   };
 }
@@ -22351,7 +24287,7 @@ function create_fragment4(ctx) {
       hr = element("hr");
       t = space();
       if_block.c();
-      attr(hr, "class", "title-separator svelte-ghd9h6");
+      attr(hr, "class", "title-separator svelte-1eqmrov");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -22400,6 +24336,8 @@ function create_fragment4(ctx) {
     }
   };
 }
+var IMAGE_FIX_NOTICE_KEY = "dg-dismissed-image-fix-notice";
+var BASES_NOTICE_KEY = "dg-dismissed-bases-support-notice";
 function insertIntoTree(tree, pathComponents) {
   let currentNode = tree;
   for (let i = 0; i < pathComponents.length; i++) {
@@ -22448,6 +24386,16 @@ function instance4($$self, $$props, $$invalidate) {
   let publishStatus;
   let showPublishingView = false;
   let problematicFiles = [];
+  let showImageFixNotice = !localStorage.getItem(IMAGE_FIX_NOTICE_KEY);
+  let showBasesNotice = !localStorage.getItem(BASES_NOTICE_KEY);
+  function dismissImageFixNotice() {
+    $$invalidate(9, showImageFixNotice = false);
+    localStorage.setItem(IMAGE_FIX_NOTICE_KEY, "true");
+  }
+  function dismissBasesNotice() {
+    $$invalidate(10, showBasesNotice = false);
+    localStorage.setItem(BASES_NOTICE_KEY, "true");
+  }
   function getPublishStatus() {
     return __awaiter(this, void 0, void 0, function* () {
       $$invalidate(2, publishStatus = yield publishStatusManager.getPublishStatus());
@@ -22474,13 +24422,13 @@ function instance4($$self, $$props, $$invalidate) {
   }
   onMount(getPublishStatus);
   const rotatingCog = () => {
-    let cog = (0, import_obsidian6.getIcon)("cog");
+    let cog = (0, import_obsidian8.getIcon)("cog");
     cog === null || cog === void 0 ? void 0 : cog.classList.add("dg-rotate");
     cog === null || cog === void 0 ? void 0 : cog.style.setProperty("margin-right", "3px");
     return cog;
   };
   const bigRotatingCog = () => {
-    let cog = (0, import_obsidian6.getIcon)("cog");
+    let cog = (0, import_obsidian8.getIcon)("cog");
     cog === null || cog === void 0 ? void 0 : cog.classList.add("dg-rotate");
     cog === null || cog === void 0 ? void 0 : cog.style.setProperty("margin-right", "3px");
     cog === null || cog === void 0 ? void 0 : cog.style.setProperty("width", "40px");
@@ -22522,24 +24470,24 @@ function instance4($$self, $$props, $$invalidate) {
     $$invalidate(4, changedToPublish = (_b = publishStatus === null || publishStatus === void 0 ? void 0 : publishStatus.changedNotes.filter((note) => changedPaths.includes(note.getPath()))) !== null && _b !== void 0 ? _b : []);
     $$invalidate(7, showPublishingView = true);
     const allNotesToPublish = unpublishedToPublish.concat(changedToPublish);
-    $$invalidate(9, processingPaths = [...allNotesToPublish.map((note) => note.getPath())]);
+    $$invalidate(11, processingPaths = [...allNotesToPublish.map((note) => note.getPath())]);
     yield publisher.publishBatch(allNotesToPublish);
     $$invalidate(6, publishedPaths = [...processingPaths]);
-    $$invalidate(9, processingPaths = []);
+    $$invalidate(11, processingPaths = []);
     for (const path of notesToDelete) {
-      $$invalidate(9, processingPaths = [...processingPaths, path]);
+      $$invalidate(11, processingPaths = [...processingPaths, path]);
       yield publisher.deleteNote(path);
-      $$invalidate(9, processingPaths = processingPaths.filter((p) => p !== path));
+      $$invalidate(11, processingPaths = processingPaths.filter((p) => p !== path));
       $$invalidate(6, publishedPaths = [...publishedPaths, path]);
     }
     for (const path of imagesToDelete) {
-      $$invalidate(9, processingPaths = [...processingPaths, path]);
+      $$invalidate(11, processingPaths = [...processingPaths, path]);
       yield publisher.deleteImage(path);
-      $$invalidate(9, processingPaths = processingPaths.filter((p) => p !== path));
+      $$invalidate(11, processingPaths = processingPaths.filter((p) => p !== path));
       $$invalidate(6, publishedPaths = [...publishedPaths, path]);
     }
     $$invalidate(6, publishedPaths = [...publishedPaths, ...processingPaths]);
-    $$invalidate(9, processingPaths = []);
+    $$invalidate(11, processingPaths = []);
   });
   const emptyNode = {
     name: "",
@@ -22550,9 +24498,9 @@ function instance4($$self, $$props, $$invalidate) {
   };
   $$self.$$set = ($$props2) => {
     if ("publishStatusManager" in $$props2)
-      $$invalidate(20, publishStatusManager = $$props2.publishStatusManager);
+      $$invalidate(24, publishStatusManager = $$props2.publishStatusManager);
     if ("publisher" in $$props2)
-      $$invalidate(21, publisher = $$props2.publisher);
+      $$invalidate(25, publisher = $$props2.publisher);
     if ("showDiff" in $$props2)
       $$invalidate(0, showDiff = $$props2.showDiff);
     if ("close" in $$props2)
@@ -22562,27 +24510,27 @@ function instance4($$self, $$props, $$invalidate) {
     if ($$self.$$.dirty[0] & /*publishStatus*/
     4) {
       $:
-        $$invalidate(14, publishedNotesTree = publishStatus && filePathsToTree(publishStatus.publishedNotes.map((note) => note.getPath()), "Published Notes"));
+        $$invalidate(16, publishedNotesTree = publishStatus && filePathsToTree(publishStatus.publishedNotes.map((note) => note.getPath()), "Published Notes"));
     }
     if ($$self.$$.dirty[0] & /*publishStatus*/
     4) {
       $:
-        $$invalidate(11, changedNotesTree = publishStatus && filePathsToTree(publishStatus.changedNotes.map((note) => note.getPath()), "Changed Notes"));
+        $$invalidate(13, changedNotesTree = publishStatus && filePathsToTree(publishStatus.changedNotes.map((note) => note.getPath()), "Changed Notes"));
     }
     if ($$self.$$.dirty[0] & /*publishStatus*/
     4) {
       $:
-        $$invalidate(10, deletedNoteTree = publishStatus && filePathsToTree([...publishStatus.deletedNotePaths, ...publishStatus.deletedImagePaths].map((path) => path.path), "Deleted Notes"));
+        $$invalidate(12, deletedNoteTree = publishStatus && filePathsToTree([...publishStatus.deletedNotePaths, ...publishStatus.deletedImagePaths].map((path) => path.path), "Deleted Notes"));
     }
     if ($$self.$$.dirty[0] & /*publishStatus*/
     4) {
       $:
-        $$invalidate(12, unpublishedNoteTree = publishStatus && filePathsToTree(publishStatus.unpublishedNotes.map((note) => note.getPath()), "Unpublished Notes"));
+        $$invalidate(14, unpublishedNoteTree = publishStatus && filePathsToTree(publishStatus.unpublishedNotes.map((note) => note.getPath()), "Unpublished Notes"));
     }
     if ($$self.$$.dirty[0] & /*publishedPaths, unpublishedToPublish, changedToPublish, pathsToDelete*/
     120) {
       $:
-        $$invalidate(13, publishProgress = (publishedPaths.length + failedPublish.length) / (unpublishedToPublish.length + changedToPublish.length + pathsToDelete.length) * 100);
+        $$invalidate(15, publishProgress = (publishedPaths.length + failedPublish.length) / (unpublishedToPublish.length + changedToPublish.length + pathsToDelete.length) * 100);
     }
   };
   return [
@@ -22595,12 +24543,16 @@ function instance4($$self, $$props, $$invalidate) {
     publishedPaths,
     showPublishingView,
     problematicFiles,
+    showImageFixNotice,
+    showBasesNotice,
     processingPaths,
     deletedNoteTree,
     changedNotesTree,
     unpublishedNoteTree,
     publishProgress,
     publishedNotesTree,
+    dismissImageFixNotice,
+    dismissBasesNotice,
     rotatingCog,
     bigRotatingCog,
     failedPublish,
@@ -22620,8 +24572,8 @@ var PublicationCenter = class extends SvelteComponent {
       create_fragment4,
       safe_not_equal,
       {
-        publishStatusManager: 20,
-        publisher: 21,
+        publishStatusManager: 24,
+        publisher: 25,
         showDiff: 0,
         close: 1
       },
@@ -23259,13 +25211,13 @@ var PublicationCenter2 = class {
           metadataCache: this.publisher.metadataCache,
           settings: this.settings
         });
-        if (localFile instanceof import_obsidian7.TFile) {
+        if (localFile instanceof import_obsidian9.TFile) {
           const [localContent, _] = yield this.publisher.compiler.generateMarkdown(
             localPublishFile
           );
           const diff2 = diffLines(remoteContent, localContent);
           let diffView;
-          const diffModal = new import_obsidian7.Modal(this.modal.app);
+          const diffModal = new import_obsidian9.Modal(this.modal.app);
           diffModal.titleEl.createEl("span", { text: `${localFile.basename}` }).prepend(this.getIcon("file-diff"));
           diffModal.onOpen = () => {
             diffView = new DiffView_default({
@@ -23304,17 +25256,50 @@ var PublicationCenter2 = class {
       };
       this.modal.open();
     };
-    this.modal = new import_obsidian7.Modal(app);
+    this.modal = new import_obsidian9.Modal(app);
     this.settings = settings;
     this.publishStatusManager = publishStatusManager;
     this.publisher = publisher;
     this.siteManager = siteManager;
     this.vault = app.vault;
     this.modal.titleEl.createEl("span", { text: "Publication Center" }).prepend(this.getIcon("book-up"));
+    this.addPlatformLink();
+  }
+  addPlatformLink() {
+    const linkInfo = this.getPlatformLinkInfo();
+    if (!linkInfo)
+      return;
+    const repoLink = this.modal.titleEl.createEl("a", {
+      cls: "publication-center-repo-link",
+      href: linkInfo.url,
+      attr: {
+        target: "_blank",
+        rel: "noopener noreferrer"
+      }
+    });
+    repoLink.appendChild(this.getIcon("external-link"));
+    repoLink.style.marginLeft = "8px";
+    repoLink.style.opacity = "0.7";
+    repoLink.title = linkInfo.tooltip;
+  }
+  getPlatformLinkInfo() {
+    if (this.settings.publishPlatform === "ForestryMd" /* ForestryMd */) {
+      return {
+        url: "https://dashboard.forestry.md",
+        tooltip: "Open Forestry dashboard"
+      };
+    }
+    if (this.settings.githubUserName && this.settings.githubRepo) {
+      return {
+        url: `https://github.com/${this.settings.githubUserName}/${this.settings.githubRepo}`,
+        tooltip: `Open ${this.settings.githubUserName}/${this.settings.githubRepo} on GitHub`
+      };
+    }
+    return null;
   }
   getIcon(name) {
     var _a2;
-    const icon = (_a2 = (0, import_obsidian7.getIcon)(name)) != null ? _a2 : document.createElement("span");
+    const icon = (_a2 = (0, import_obsidian9.getIcon)(name)) != null ? _a2 : document.createElement("span");
     if (icon instanceof SVGSVGElement) {
       icon.style.marginRight = "4px";
     }
@@ -23353,7 +25338,7 @@ var PublishStatusManager = class {
       const unpublishedNotes = [];
       const publishedNotes = [];
       const changedNotes = [];
-      const contentTree = yield this.siteManager.userGardenConnection.getContent("HEAD");
+      const contentTree = yield (yield this.siteManager.getUserGardenConnection()).getContent("HEAD");
       if (!contentTree) {
         throw new Error("Could not get content tree from base garden");
       }
@@ -23398,442 +25383,8 @@ var PublishStatusManager = class {
   }
 };
 
-// src/publishFile/ObsidianFrontMatterEngine.ts
-var ObsidianFrontMatterEngine = class {
-  constructor(vault, metadataCache, file) {
-    this.generatedFrontMatter = {};
-    this.metadataCache = metadataCache;
-    this.vault = vault;
-    this.file = file;
-  }
-  set(key, value) {
-    this.generatedFrontMatter[key] = value;
-    return this;
-  }
-  remove(key) {
-    this.generatedFrontMatter[key] = void 0;
-    return this;
-  }
-  get(key) {
-    return this.getFrontMatterSnapshot()[key];
-  }
-  apply() {
-    return __async(this, null, function* () {
-      const newFrontMatter = this.getFrontMatterSnapshot();
-      const content = yield this.vault.cachedRead(this.file);
-      const yaml = this.frontMatterToYaml(newFrontMatter);
-      let newContent = "";
-      if (content.match(FRONTMATTER_REGEX)) {
-        newContent = content.replace(FRONTMATTER_REGEX, (_match) => {
-          return yaml;
-        });
-      } else {
-        newContent = `${yaml}
-${content}`;
-      }
-      yield this.vault.modify(this.file, newContent);
-    });
-  }
-  frontMatterToYaml(frontMatter) {
-    for (const key of Object.keys(frontMatter)) {
-      if (frontMatter[key] === void 0) {
-        delete frontMatter[key];
-      }
-    }
-    if (Object.keys(frontMatter).length === 0) {
-      return "";
-    }
-    let yaml = "---\n";
-    for (const key of Object.keys(frontMatter)) {
-      yaml += `${key}: ${frontMatter[key]}
-`;
-    }
-    yaml += "---";
-    return yaml;
-  }
-  getFrontMatterSnapshot() {
-    var _a2, _b;
-    const cachedFrontMatter = __spreadValues({}, (_b = this.metadataCache.getCache((_a2 = this.file) == null ? void 0 : _a2.path)) == null ? void 0 : _b.frontmatter);
-    delete cachedFrontMatter["position"];
-    return __spreadValues(__spreadValues({}, cachedFrontMatter), this.generatedFrontMatter);
-  }
-};
-
-// src/repositoryConnection/DigitalGardenSiteManager.ts
-var import_obsidian8 = require("obsidian");
-var import_js_logger6 = __toESM(require_logger());
-
-// src/repositoryConnection/TemplateManager.ts
-var import_js_logger5 = __toESM(require_logger());
-var logger2 = import_js_logger5.default.get("digital-garden-site-manager");
-var TemplateUpdateChecker = class {
-  constructor({
-    baseGardenConnection,
-    userGardenConnection
-  }) {
-    this.baseGardenConnection = baseGardenConnection;
-    this.userGardenConnection = userGardenConnection;
-  }
-  getFileInfoFromContent(content, path) {
-    const file = content == null ? void 0 : content.tree.find((x) => x.path === path);
-    if (!file) {
-      return null;
-    }
-    return file;
-  }
-  getFilesToDelete(pluginInfo, userFileList) {
-    const filesToDelete = [];
-    for (const file of pluginInfo.filesToDelete) {
-      const currentFile = this.getFileInfoFromContent(userFileList, file);
-      if (currentFile) {
-        filesToDelete.push({ path: file, sha: currentFile.sha });
-      }
-    }
-    return filesToDelete;
-  }
-  getPathsToModify(pluginInfo, baseGardenFileList, userFileList) {
-    const filesToUpdate = [];
-    for (const file of pluginInfo.filesToModify) {
-      const currentFile = this.getFileInfoFromContent(userFileList, file);
-      const baseFile = this.getFileInfoFromContent(
-        baseGardenFileList,
-        file
-      );
-      if (!currentFile || (currentFile == null ? void 0 : currentFile.sha) !== (baseFile == null ? void 0 : baseFile.sha)) {
-        filesToUpdate.push({ path: file, sha: currentFile == null ? void 0 : currentFile.sha });
-      }
-    }
-    return filesToUpdate;
-  }
-  getFilesToAdd(pluginInfo, userFileList) {
-    const filesToAdd = [];
-    for (const file of pluginInfo.filesToAdd) {
-      const currentFile = this.getFileInfoFromContent(userFileList, file);
-      if (!currentFile) {
-        filesToAdd.push({ path: file });
-      }
-    }
-    return filesToAdd;
-  }
-  getTemplateVersion() {
-    return __async(this, null, function* () {
-      const latestRelease = yield this.baseGardenConnection.getLatestRelease();
-      if (!latestRelease) {
-        throw new Error(
-          "Unable to get latest release from oleeskid repository"
-        );
-      }
-      return latestRelease.tag_name;
-    });
-  }
-  checkForUpdates() {
-    return __async(this, null, function* () {
-      const [updateInfo, templateVersion] = yield Promise.all([
-        this.getFilesToUpdate(),
-        this.getTemplateVersion()
-      ]);
-      if (!templateVersion) {
-        throw new Error("Unable to get update info");
-      }
-      if (!updateInfo) {
-        this.newestTemplateVersion = templateVersion;
-        return this;
-      }
-      this.newestTemplateVersion = templateVersion;
-      return new TemplateUpdater({
-        baseGardenConnection: this.baseGardenConnection,
-        userGardenConnection: this.userGardenConnection,
-        filesToChange: updateInfo,
-        defaultBranch: this.defaultBranch,
-        newestTemplateVersion: templateVersion
-      });
-    });
-  }
-  getFilesToUpdate() {
-    return __async(this, null, function* () {
-      const { baseGardenFileList, pluginInfo } = yield this.getPluginInfo(
-        this.baseGardenConnection
-      );
-      if (!baseGardenFileList) {
-        throw new Error("Unable to get base garden file list");
-      }
-      const repoInfo = yield this.baseGardenConnection.getRepositoryInfo();
-      const defaultBranch = repoInfo == null ? void 0 : repoInfo.default_branch;
-      if (!defaultBranch) {
-        throw new Error("Unable to get default branch");
-      }
-      this.defaultBranch = defaultBranch;
-      const userFileList = yield this.userGardenConnection.getContent(defaultBranch);
-      if (!userFileList) {
-        throw new Error("Unable to get user file list");
-      }
-      const filesToDelete = this.getFilesToDelete(pluginInfo, userFileList);
-      const filesToUpdate = this.getPathsToModify(
-        pluginInfo,
-        baseGardenFileList,
-        userFileList
-      );
-      const filesToAdd = this.getFilesToAdd(pluginInfo, userFileList);
-      if (filesToDelete.length === 0 && filesToUpdate.length === 0 && filesToAdd.length === 0) {
-        return null;
-      }
-      return {
-        filesToDelete,
-        filesToUpdate,
-        filesToAdd
-      };
-    });
-  }
-  getPluginInfo(baseGardenConnection) {
-    return __async(this, null, function* () {
-      logger2.info("Getting plugin info");
-      const pluginInfoResponse = yield baseGardenConnection.getFile("plugin-info.json");
-      const baseGardenFileList = yield baseGardenConnection.getContent("main");
-      if (!pluginInfoResponse) {
-        throw new Error("Unable to get plugin info");
-      }
-      return {
-        pluginInfo: JSON.parse(gBase64.decode(pluginInfoResponse.content)),
-        baseGardenFileList
-      };
-    });
-  }
-};
-var TemplateUpdater = class {
-  constructor({
-    baseGardenConnection,
-    userGardenConnection,
-    filesToChange,
-    defaultBranch,
-    newestTemplateVersion
-  }) {
-    this.filesToChange = filesToChange;
-    this.defaultBranch = defaultBranch;
-    this.baseGardenConnection = baseGardenConnection;
-    this.userGardenConnection = userGardenConnection;
-    this.newestTemplateVersion = newestTemplateVersion;
-  }
-  updateTemplate() {
-    return __async(this, null, function* () {
-      var _a2;
-      const { filesToDelete, filesToUpdate, filesToAdd } = this.filesToChange;
-      const { branchName } = yield this.createNewBranch();
-      logger2.info("Deleting files");
-      yield this.deleteFiles(filesToDelete, branchName);
-      logger2.info("Updating files");
-      yield this.addOrUpdateFiles(
-        [...filesToUpdate, ...filesToAdd],
-        branchName
-      );
-      logger2.info("Adding files");
-      yield this.addOrUpdateFiles(filesToAdd, branchName);
-      try {
-        const pr = yield this.userGardenConnection.octokit.request(
-          "POST /repos/{owner}/{repo}/pulls",
-          __spreadProps(__spreadValues({}, this.userGardenConnection.getBasePayload()), {
-            title: `Update template to version ${this.newestTemplateVersion}`,
-            head: branchName,
-            base: this.defaultBranch,
-            body: `Update to latest template version.
- [Release Notes](https://github.com/oleeskild/digitalgarden/releases/tag/${this.newestTemplateVersion})`
-          })
-        );
-        return (_a2 = pr == null ? void 0 : pr.data) == null ? void 0 : _a2.html_url;
-      } catch (e) {
-        return "";
-      }
-    });
-  }
-  createNewBranch() {
-    return __async(this, null, function* () {
-      const uuid = crypto.randomUUID();
-      const branchName = "update-template-to-v" + this.newestTemplateVersion + "-" + uuid;
-      const latestCommit = yield this.userGardenConnection.getLatestCommit();
-      if (!latestCommit) {
-        throw new Error("Unable to get latest commit");
-      }
-      yield this.userGardenConnection.createBranch(
-        branchName,
-        latestCommit.sha
-      );
-      return { branchName };
-    });
-  }
-  deleteFiles(filesToDelete, branch) {
-    return __async(this, null, function* () {
-      for (const file of filesToDelete) {
-        yield this.userGardenConnection.deleteFile(file.path, {
-          branch,
-          sha: file.sha
-        });
-      }
-    });
-  }
-  addOrUpdateFiles(filesToAdd, branch) {
-    return __async(this, null, function* () {
-      for (const file of filesToAdd) {
-        const baseTemplateFile = yield this.baseGardenConnection.getFile(
-          file.path
-        );
-        if (!baseTemplateFile) {
-          throw new Error(`Unable to get file ${file}`);
-        }
-        yield this.userGardenConnection.updateFile({
-          content: baseTemplateFile.content,
-          path: file.path,
-          branch,
-          sha: file.sha,
-          message: "Update files"
-        });
-      }
-    });
-  }
-};
-var hasUpdates = (updater) => updater.filesToChange !== void 0;
-
-// src/repositoryConnection/DigitalGardenSiteManager.ts
-var logger3 = import_js_logger6.default.get("digital-garden-site-manager");
-var DigitalGardenSiteManager = class {
-  constructor(metadataCache, settings) {
-    this.settings = settings;
-    this.metadataCache = metadataCache;
-    this.rewriteRules = getRewriteRules(settings.pathRewriteRules);
-    this.baseGardenConnection = new RepositoryConnection({
-      githubToken: settings.githubToken,
-      githubUserName: "oleeskild",
-      gardenRepository: "digitalgarden"
-    });
-    this.userGardenConnection = new RepositoryConnection({
-      githubToken: settings.githubToken,
-      githubUserName: settings.githubUserName,
-      gardenRepository: settings.githubRepo
-    });
-    this.templateUpdater = new TemplateUpdateChecker({
-      baseGardenConnection: this.baseGardenConnection,
-      userGardenConnection: this.userGardenConnection
-    });
-  }
-  updateEnv() {
-    return __async(this, null, function* () {
-      var _a2;
-      const theme = JSON.parse(this.settings.theme);
-      const baseTheme = this.settings.baseTheme;
-      const siteName = this.settings.siteName;
-      const mainLanguage = this.settings.mainLanguage;
-      let gardenBaseUrl = "";
-      if (this.settings.gardenBaseUrl && !this.settings.gardenBaseUrl.startsWith("ghp_") && !this.settings.gardenBaseUrl.startsWith("github_pat") && this.settings.gardenBaseUrl.contains(".")) {
-        gardenBaseUrl = this.settings.gardenBaseUrl;
-      }
-      const envValues = {
-        SITE_NAME_HEADER: siteName,
-        SITE_MAIN_LANGUAGE: mainLanguage,
-        SITE_BASE_URL: gardenBaseUrl,
-        SHOW_CREATED_TIMESTAMP: this.settings.showCreatedTimestamp,
-        TIMESTAMP_FORMAT: this.settings.timestampFormat,
-        SHOW_UPDATED_TIMESTAMP: this.settings.showUpdatedTimestamp,
-        NOTE_ICON_DEFAULT: this.settings.defaultNoteIcon,
-        NOTE_ICON_TITLE: this.settings.showNoteIconOnTitle,
-        NOTE_ICON_FILETREE: this.settings.showNoteIconInFileTree,
-        NOTE_ICON_INTERNAL_LINKS: this.settings.showNoteIconOnInternalLink,
-        NOTE_ICON_BACK_LINKS: this.settings.showNoteIconOnBackLink,
-        STYLE_SETTINGS_CSS: this.settings.styleSettingsCss,
-        STYLE_SETTINGS_BODY_CLASSES: this.settings.styleSettingsBodyClasses,
-        USE_FULL_RESOLUTION_IMAGES: this.settings.useFullResolutionImages
-      };
-      if (theme.name !== "default") {
-        envValues["THEME"] = theme.cssUrl;
-        envValues["BASE_THEME"] = baseTheme;
-      }
-      const keysToSet = __spreadValues(__spreadValues({}, envValues), this.settings.defaultNoteSettings);
-      const envSettings = Object.entries(keysToSet).map(([key, value]) => `${key}=${value}`).join("\n");
-      const base64Settings = gBase64.encode(envSettings);
-      const currentFile = yield this.userGardenConnection.getFile(".env");
-      const decodedCurrentFile = gBase64.decode((_a2 = currentFile == null ? void 0 : currentFile.content) != null ? _a2 : "");
-      if (decodedCurrentFile === envSettings) {
-        logger3.info("No changes to .env file");
-        new import_obsidian8.Notice("Settings already up to date!");
-        return;
-      }
-      yield this.userGardenConnection.updateFile({
-        path: ".env",
-        content: base64Settings,
-        message: "Update settings",
-        sha: currentFile == null ? void 0 : currentFile.sha
-      });
-    });
-  }
-  getNoteUrl(file) {
-    var _a2;
-    if (!this.settings.gardenBaseUrl) {
-      new import_obsidian8.Notice("Please set the garden base url in the settings");
-      throw new Error("Garden base url not set");
-    }
-    const baseUrl = `https://${extractBaseUrl(
-      this.settings.gardenBaseUrl
-    )}`;
-    const noteUrlPath = generateUrlPath(
-      getGardenPathForNote(file.path, this.rewriteRules),
-      this.settings.slugifyEnabled
-    );
-    let urlPath = `/${noteUrlPath}`;
-    const frontMatter = (_a2 = this.metadataCache.getCache(file.path)) == null ? void 0 : _a2.frontmatter;
-    if (frontMatter && frontMatter["dg-home"] === true) {
-      urlPath = "/";
-    } else if (frontMatter == null ? void 0 : frontMatter.permalink) {
-      urlPath = `/${frontMatter.permalink}`;
-    } else if (frontMatter == null ? void 0 : frontMatter["dg-permalink"]) {
-      urlPath = `/${frontMatter["dg-permalink"]}`;
-    }
-    return `${baseUrl}${urlPath}`;
-  }
-  getNoteContent(path) {
-    return __async(this, null, function* () {
-      if (path.startsWith("/")) {
-        path = path.substring(1);
-      }
-      const response = yield this.userGardenConnection.getFile(
-        NOTE_PATH_BASE2 + path
-      );
-      if (!response) {
-        return "";
-      }
-      const content = gBase64.decode(response.content);
-      return content;
-    });
-  }
-  getNoteHashes(contentTree) {
-    return __async(this, null, function* () {
-      const files = contentTree.tree;
-      const notes = files.filter(
-        (x) => typeof x.path === "string" && x.path.startsWith(NOTE_PATH_BASE2) && x.type === "blob" && x.path !== `${NOTE_PATH_BASE2}notes.json`
-      );
-      const hashes = {};
-      for (const note of notes) {
-        const vaultPath = note.path.replace(NOTE_PATH_BASE2, "");
-        hashes[vaultPath] = note.sha;
-      }
-      return hashes;
-    });
-  }
-  getImageHashes(contentTree) {
-    return __async(this, null, function* () {
-      var _a2;
-      const files = (_a2 = contentTree.tree) != null ? _a2 : [];
-      const images = files.filter(
-        (x) => typeof x.path === "string" && x.path.startsWith(IMAGE_PATH_BASE2) && x.type === "blob"
-      );
-      const hashes = {};
-      for (const img of images) {
-        const vaultPath = img.path.replace(IMAGE_PATH_BASE2, "");
-        hashes[vaultPath] = img.sha;
-      }
-      return hashes;
-    });
-  }
-};
-
 // src/views/DigitalGardenSettingTab.ts
-var import_obsidian15 = require("obsidian");
+var import_obsidian17 = require("obsidian");
 
 // node_modules/axios/lib/helpers/bind.js
 function bind(fn2, thisArg) {
@@ -25896,13 +27447,13 @@ var HttpStatusCode_default = HttpStatusCode;
 // node_modules/axios/lib/axios.js
 function createInstance(defaultConfig) {
   const context = new Axios_default(defaultConfig);
-  const instance8 = bind(Axios_default.prototype.request, context);
-  utils_default.extend(instance8, Axios_default.prototype, context, { allOwnKeys: true });
-  utils_default.extend(instance8, context, null, { allOwnKeys: true });
-  instance8.create = function create(instanceConfig) {
+  const instance9 = bind(Axios_default.prototype.request, context);
+  utils_default.extend(instance9, Axios_default.prototype, context, { allOwnKeys: true });
+  utils_default.extend(instance9, context, null, { allOwnKeys: true });
+  instance9.create = function create(instanceConfig) {
     return createInstance(mergeConfig(defaultConfig, instanceConfig));
   };
-  return instance8;
+  return instance9;
 }
 var axios = createInstance(defaults_default);
 axios.Axios = Axios_default;
@@ -25947,10 +27498,10 @@ var {
 } = axios_default;
 
 // src/views/SettingsView/SettingView.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 
 // src/ui/suggest/file-suggest.ts
-var import_obsidian10 = require("obsidian");
+var import_obsidian11 = require("obsidian");
 
 // node_modules/@popperjs/core/lib/enums.js
 var top = "top";
@@ -26487,26 +28038,26 @@ var passive = {
   passive: true
 };
 function effect3(_ref) {
-  var state = _ref.state, instance8 = _ref.instance, options = _ref.options;
+  var state = _ref.state, instance9 = _ref.instance, options = _ref.options;
   var _options$scroll = options.scroll, scroll = _options$scroll === void 0 ? true : _options$scroll, _options$resize = options.resize, resize = _options$resize === void 0 ? true : _options$resize;
   var window2 = getWindow(state.elements.popper);
   var scrollParents = [].concat(state.scrollParents.reference, state.scrollParents.popper);
   if (scroll) {
     scrollParents.forEach(function(scrollParent) {
-      scrollParent.addEventListener("scroll", instance8.update, passive);
+      scrollParent.addEventListener("scroll", instance9.update, passive);
     });
   }
   if (resize) {
-    window2.addEventListener("resize", instance8.update, passive);
+    window2.addEventListener("resize", instance9.update, passive);
   }
   return function() {
     if (scroll) {
       scrollParents.forEach(function(scrollParent) {
-        scrollParent.removeEventListener("scroll", instance8.update, passive);
+        scrollParent.removeEventListener("scroll", instance9.update, passive);
       });
     }
     if (resize) {
-      window2.removeEventListener("resize", instance8.update, passive);
+      window2.removeEventListener("resize", instance9.update, passive);
     }
   };
 }
@@ -27301,7 +28852,7 @@ function popperGenerator(generatorOptions) {
     };
     var effectCleanupFns = [];
     var isDestroyed = false;
-    var instance8 = {
+    var instance9 = {
       state,
       setOptions: function setOptions(setOptionsAction) {
         var options2 = typeof setOptionsAction === "function" ? setOptionsAction(state.options) : setOptionsAction;
@@ -27316,7 +28867,7 @@ function popperGenerator(generatorOptions) {
           return m.enabled;
         });
         runModifierEffects();
-        return instance8.update();
+        return instance9.update();
       },
       // Sync update – it will always be executed, even if not necessary. This
       // is useful for low frequency updates where sync behavior simplifies the
@@ -27352,7 +28903,7 @@ function popperGenerator(generatorOptions) {
               state,
               options: _options,
               name,
-              instance: instance8
+              instance: instance9
             }) || state;
           }
         }
@@ -27361,7 +28912,7 @@ function popperGenerator(generatorOptions) {
       // not necessary (debounced to run at most once-per-tick)
       update: debounce(function() {
         return new Promise(function(resolve) {
-          instance8.forceUpdate();
+          instance9.forceUpdate();
           resolve(state);
         });
       }),
@@ -27371,9 +28922,9 @@ function popperGenerator(generatorOptions) {
       }
     };
     if (!areValidElements(reference2, popper2)) {
-      return instance8;
+      return instance9;
     }
-    instance8.setOptions(options).then(function(state2) {
+    instance9.setOptions(options).then(function(state2) {
       if (!isDestroyed && options.onFirstUpdate) {
         options.onFirstUpdate(state2);
       }
@@ -27385,7 +28936,7 @@ function popperGenerator(generatorOptions) {
           var cleanupFn = effect4({
             state,
             name,
-            instance: instance8,
+            instance: instance9,
             options: options2
           });
           var noopFn = function noopFn2() {
@@ -27400,7 +28951,7 @@ function popperGenerator(generatorOptions) {
       });
       effectCleanupFns = [];
     }
-    return instance8;
+    return instance9;
   };
 }
 
@@ -27411,7 +28962,7 @@ var createPopper = /* @__PURE__ */ popperGenerator({
 });
 
 // src/ui/suggest/suggest.ts
-var import_obsidian9 = require("obsidian");
+var import_obsidian10 = require("obsidian");
 var Suggest = class {
   constructor(owner, containerEl, scope) {
     this.owner = owner;
@@ -27495,7 +29046,7 @@ var TextInputSuggest = class {
   constructor(app, inputEl) {
     this.app = app;
     this.inputEl = inputEl;
-    this.scope = new import_obsidian9.Scope();
+    this.scope = new import_obsidian10.Scope();
     this.suggestEl = createDiv("suggestion-container");
     const suggestion = this.suggestEl.createDiv("suggestion");
     this.suggest = new Suggest(this, suggestion, this.scope);
@@ -27528,13 +29079,13 @@ var TextInputSuggest = class {
         {
           name: "sameWidth",
           enabled: true,
-          fn: ({ state, instance: instance8 }) => {
+          fn: ({ state, instance: instance9 }) => {
             const targetWidth = `${state.rects.reference.width}px`;
             if (state.styles.popper.width === targetWidth) {
               return;
             }
             state.styles.popper.width = targetWidth;
-            instance8.update();
+            instance9.update();
           },
           phase: "beforeWrite",
           requires: ["computeStyles"]
@@ -27558,7 +29109,29 @@ var SvgFileSuggest = class extends TextInputSuggest {
     const files = [];
     const lowerCaseInputStr = inputStr.toLowerCase();
     abstractFiles.forEach((file) => {
-      if (file instanceof import_obsidian10.TFile && file.extension === "svg" && file.path.toLowerCase().contains(lowerCaseInputStr)) {
+      if (file instanceof import_obsidian11.TFile && file.extension === "svg" && file.path.toLowerCase().contains(lowerCaseInputStr)) {
+        files.push(file);
+      }
+    });
+    return files;
+  }
+  renderSuggestion(file, el) {
+    el.setText(file.path);
+  }
+  selectSuggestion(file) {
+    this.inputEl.value = file.path;
+    this.inputEl.trigger("input");
+    this.close();
+  }
+};
+var ImageFileSuggest = class extends TextInputSuggest {
+  getSuggestions(inputStr) {
+    const abstractFiles = this.app.vault.getAllLoadedFiles();
+    const files = [];
+    const lowerCaseInputStr = inputStr.toLowerCase();
+    const imageExtensions = ["png", "jpg", "jpeg", "gif", "svg", "webp"];
+    abstractFiles.forEach((file) => {
+      if (file instanceof import_obsidian11.TFile && imageExtensions.includes(file.extension.toLowerCase()) && file.path.toLowerCase().contains(lowerCaseInputStr)) {
         files.push(file);
       }
     });
@@ -27575,14 +29148,14 @@ var SvgFileSuggest = class extends TextInputSuggest {
 };
 
 // src/views/SettingsView/addFilterInput.ts
-var import_obsidian11 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 function addFilterInput(filter2, el, idx, plugin) {
   const item = el.createEl("li", {
     attr: {
       style: "list-style-type: none; position: relative; margin: 5px 0; padding-right: 45px"
     }
   });
-  const patternField = new import_obsidian11.TextComponent(el);
+  const patternField = new import_obsidian12.TextComponent(el);
   patternField.setPlaceholder("regex pattern").setValue(filter2.pattern).onChange((value) => __async(this, null, function* () {
     if (!value) {
       return;
@@ -27593,7 +29166,7 @@ function addFilterInput(filter2, el, idx, plugin) {
   const patternEl = patternField.inputEl;
   patternEl.style.width = "250px";
   item.appendChild(patternEl);
-  const replaceField = new import_obsidian11.TextComponent(el);
+  const replaceField = new import_obsidian12.TextComponent(el);
   replaceField.setPlaceholder("replacement").setValue(filter2.replace).onChange((value) => __async(this, null, function* () {
     if (!value) {
       return;
@@ -27605,7 +29178,7 @@ function addFilterInput(filter2, el, idx, plugin) {
   replaceEl.style.width = "250px";
   replaceEl.style.marginLeft = "5px";
   item.appendChild(replaceEl);
-  const flagField = new import_obsidian11.TextComponent(el);
+  const flagField = new import_obsidian12.TextComponent(el);
   flagField.setPlaceholder("flags").setValue(filter2.flags).onChange((value) => __async(this, null, function* () {
     if (!value) {
       return;
@@ -27617,7 +29190,7 @@ function addFilterInput(filter2, el, idx, plugin) {
   flagEl.style.width = "50px";
   flagEl.style.marginLeft = "5px";
   item.appendChild(flagEl);
-  const removeButton = new import_obsidian11.ButtonComponent(el);
+  const removeButton = new import_obsidian12.ButtonComponent(el);
   removeButton.setIcon("minus");
   removeButton.setTooltip("Remove filter");
   removeButton.onClick(() => __async(this, null, function* () {
@@ -27636,11 +29209,11 @@ function addFilterInput(filter2, el, idx, plugin) {
 }
 
 // src/views/SettingsView/GithubSettings.ts
-var import_obsidian12 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 var GithubSettings = class {
   constructor(settings, settingsRootElement) {
+    this.connectionStatusMessage = "";
     this.initializeHeader = () => {
-      this.connectionStatusElement.style.cssText = "margin-left: 10px;";
       this.checkConnectionAndSaveSettings();
       const githubSettingsHeader = createEl("h3", {
         text: "GitHub Authentication (required)"
@@ -27654,41 +29227,71 @@ var GithubSettings = class {
       this.debouncedUpdateConnectionStatus();
     });
     this.updateConnectionStatus = () => __async(this, null, function* () {
-      var _a2;
-      const oktokit = new Octokit({
-        auth: this.settings.settings.githubToken
-      });
+      const { githubToken, githubUserName, githubRepo } = this.settings.settings;
+      if (!githubToken || !githubUserName || !githubRepo) {
+        this.setConnectionError("Please fill in all required fields");
+        return;
+      }
+      this.connectionStatus = "loading";
+      this.connectionStatusMessage = "";
+      this.updateConnectionStatusIndicator();
+      const octokit = new Octokit({ auth: githubToken });
       try {
-        const response = yield oktokit.request(
+        const repoResponse = yield octokit.request(
           "GET /repos/{owner}/{repo}",
-          {
-            owner: this.settings.settings.githubUserName,
-            repo: this.settings.settings.githubRepo
-          }
+          { owner: githubUserName, repo: githubRepo }
         );
-        if ((_a2 = response.data.permissions) == null ? void 0 : _a2.admin) {
-          this.connectionStatus = "connected";
+        const hasWriteAccess = this.checkWritePermissions(
+          repoResponse.data.permissions
+        );
+        if (hasWriteAccess) {
+          this.setConnectionSuccess("Connected with full access");
+        } else {
+          yield this.validateContentAccess(
+            octokit,
+            githubUserName,
+            githubRepo,
+            repoResponse.data.default_branch
+          );
         }
       } catch (error) {
-        this.connectionStatus = "error";
+        this.handleConnectionError(error, githubUserName, githubRepo);
       }
       this.updateConnectionStatusIndicator();
     });
-    this.debouncedUpdateConnectionStatus = (0, import_obsidian12.debounce)(
+    this.debouncedUpdateConnectionStatus = (0, import_obsidian13.debounce)(
       this.updateConnectionStatus,
       500,
       true
     );
     this.updateConnectionStatusIndicator = () => {
+      this.connectionStatusElement.empty();
+      let iconName;
+      let statusText;
+      let statusClass;
       if (this.connectionStatus === "loading") {
-        this.connectionStatusElement.innerText = "\u23F3";
+        iconName = "loader";
+        statusText = "Checking connection...";
+        statusClass = "connection-status-loading";
+      } else if (this.connectionStatus === "connected") {
+        iconName = "check";
+        statusText = this.connectionStatusMessage || "Connected";
+        statusClass = "connection-status-connected";
+      } else {
+        iconName = "x";
+        statusText = this.connectionStatusMessage || "Connection error";
+        statusClass = "connection-status-error";
       }
-      if (this.connectionStatus === "connected") {
-        this.connectionStatusElement.innerText = "\u2705";
+      const icon = (0, import_obsidian13.getIcon)(iconName);
+      if (icon) {
+        icon.addClass("connection-status-icon");
+        this.connectionStatusElement.appendChild(icon);
       }
-      if (this.connectionStatus === "error") {
-        this.connectionStatusElement.innerText = "\u274C";
-      }
+      this.connectionStatusElement.createSpan({
+        text: statusText,
+        cls: "connection-status-text"
+      });
+      this.connectionStatusElement.className = `connection-status ${statusClass}`;
     };
     this.settings = settings;
     this.settingsRootElement = settingsRootElement;
@@ -27704,8 +29307,50 @@ var GithubSettings = class {
     this.initializeGitHubUserNameSetting();
     this.initializeGitHubTokenSetting();
   }
+  checkWritePermissions(permissions) {
+    return !!(permissions && (permissions.admin || permissions.push));
+  }
+  validateContentAccess(octokit, owner, repo, branch) {
+    return __async(this, null, function* () {
+      try {
+        yield octokit.request("GET /repos/{owner}/{repo}/git/ref/{ref}", {
+          owner,
+          repo,
+          ref: `heads/${branch}`
+        });
+        this.setConnectionSuccess("Connected");
+      } catch (e) {
+        this.setConnectionError(
+          "Token lacks content permissions. For fine-grained PATs, ensure 'Contents' has read and write access."
+        );
+      }
+    });
+  }
+  handleConnectionError(error, userName, repo) {
+    if (!(error instanceof Error) || !("status" in error)) {
+      this.setConnectionError("Connection failed. Check your settings.");
+      return;
+    }
+    const status = error.status;
+    const errorMessages = {
+      401: "Invalid token. Please check your GitHub token.",
+      403: "Access forbidden. Token may lack required permissions or rate limit exceeded.",
+      404: `Repository '${userName}/${repo}' not found. Check username and repo name, or ensure token has repository access.`
+    };
+    this.setConnectionError(
+      errorMessages[status] || `Connection failed (${status})`
+    );
+  }
+  setConnectionSuccess(message) {
+    this.connectionStatus = "connected";
+    this.connectionStatusMessage = message;
+  }
+  setConnectionError(message) {
+    this.connectionStatus = "error";
+    this.connectionStatusMessage = message;
+  }
   initializeGitHubRepoSetting() {
-    new import_obsidian12.Setting(this.settingsRootElement).setName("GitHub repo name").setDesc("The name of the GitHub repository").addText(
+    new import_obsidian13.Setting(this.settingsRootElement).setName("GitHub repo name").setDesc("The name of the GitHub repository").addText(
       (text2) => text2.setPlaceholder("mydigitalgarden").setValue(this.settings.settings.githubRepo).onChange((value) => __async(this, null, function* () {
         this.settings.settings.githubRepo = value;
         yield this.checkConnectionAndSaveSettings();
@@ -27713,7 +29358,7 @@ var GithubSettings = class {
     );
   }
   initializeGitHubUserNameSetting() {
-    new import_obsidian12.Setting(this.settingsRootElement).setName("GitHub Username").setDesc("Your GitHub Username").addText(
+    new import_obsidian13.Setting(this.settingsRootElement).setName("GitHub Username").setDesc("Your GitHub Username").addText(
       (text2) => text2.setPlaceholder("myusername").setValue(this.settings.settings.githubUserName).onChange((value) => __async(this, null, function* () {
         this.settings.settings.githubUserName = value;
         yield this.checkConnectionAndSaveSettings();
@@ -27729,7 +29374,7 @@ var GithubSettings = class {
         link.innerText = "here!";
       });
     });
-    new import_obsidian12.Setting(this.settingsRootElement).setName("GitHub token").setDesc(desc).addText(
+    new import_obsidian13.Setting(this.settingsRootElement).setName("GitHub token").setDesc(desc).addText(
       (text2) => text2.setPlaceholder("Secret Token").setValue(this.settings.settings.githubToken).onChange((value) => __async(this, null, function* () {
         this.settings.settings.githubToken = value;
         yield this.checkConnectionAndSaveSettings();
@@ -28359,11 +30004,1105 @@ var RewriteSettings = class extends SvelteComponent {
 var RewriteSettings_default = RewriteSettings;
 
 // src/views/SettingsView/SettingView.ts
-var import_js_logger7 = __toESM(require_logger());
+var import_js_logger9 = __toESM(require_logger());
+
+// src/forestry/ForestryApi.ts
+var import_js_logger8 = __toESM(require_logger());
+var ForestryApi = class {
+  constructor(apiKey) {
+    const baseUrl = "https://api.forestry.md/app";
+    this.client = axios_default.create({
+      baseURL: baseUrl,
+      headers: {
+        Authorization: `Bearer ${apiKey}`
+      }
+    });
+  }
+  getPageInfo() {
+    return __async(this, null, function* () {
+      try {
+        const response = yield this.client.get(
+          "pages/info"
+        );
+        if (response.status !== 200) {
+          return null;
+        }
+        return response.data;
+      } catch (e) {
+        import_js_logger8.default.error(e);
+        return null;
+      }
+    });
+  }
+  getUserLimits() {
+    return __async(this, null, function* () {
+      try {
+        const response = yield this.client.get(
+          "user/limits"
+        );
+        if (response.status !== 200) {
+          return null;
+        }
+        return response.data;
+      } catch (e) {
+        import_js_logger8.default.error(e);
+        return null;
+      }
+    });
+  }
+};
+
+// src/views/SettingsView/ForestrySettings.svelte
+var import_obsidian14 = require("obsidian");
+function create_else_block5(ctx) {
+  let await_block_anchor;
+  let promise;
+  let current;
+  let info = {
+    ctx,
+    current: null,
+    token: null,
+    hasCatch: true,
+    pending: create_pending_block,
+    then: create_then_block,
+    catch: create_catch_block,
+    value: 12,
+    blocks: [, , ,]
+  };
+  handle_promise(promise = /*getPageInfo*/
+  ctx[7](), info);
+  return {
+    c() {
+      await_block_anchor = empty();
+      info.block.c();
+    },
+    m(target, anchor) {
+      insert(target, await_block_anchor, anchor);
+      info.block.m(target, info.anchor = anchor);
+      info.mount = () => await_block_anchor.parentNode;
+      info.anchor = await_block_anchor;
+      current = true;
+    },
+    p(new_ctx, dirty) {
+      ctx = new_ctx;
+      update_await_block_branch(info, ctx, dirty);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(info.block);
+      current = true;
+    },
+    o(local) {
+      for (let i = 0; i < 3; i += 1) {
+        const block = info.blocks[i];
+        transition_out(block);
+      }
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(await_block_anchor);
+      }
+      info.block.d(detaching);
+      info.token = null;
+      info = null;
+    }
+  };
+}
+function create_if_block6(ctx) {
+  let div4;
+  let div2;
+  let t5;
+  let div3;
+  let input;
+  let t6;
+  let button;
+  let mounted;
+  let dispose;
+  return {
+    c() {
+      div4 = element("div");
+      div2 = element("div");
+      div2.innerHTML = `<div class="setting-item-name">Garden Key</div> <div class="setting-item-description">Enter your Garden Key from <a href="https://dashboard.forestry.md">Forestry.md</a> to connect your digital garden</div>`;
+      t5 = space();
+      div3 = element("div");
+      input = element("input");
+      t6 = space();
+      button = element("button");
+      button.textContent = "Connect";
+      attr(div2, "class", "setting-item-info");
+      attr(input, "type", "text");
+      attr(input, "placeholder", "Enter your Garden Key");
+      set_style(input, "margin-right", "8px");
+      set_style(input, "min-width", "250px");
+      attr(button, "class", "mod-cta");
+      attr(div3, "class", "setting-item-control");
+      attr(div4, "class", "setting-item");
+    },
+    m(target, anchor) {
+      insert(target, div4, anchor);
+      append(div4, div2);
+      append(div4, t5);
+      append(div4, div3);
+      append(div3, input);
+      set_input_value(
+        input,
+        /*apiKey*/
+        ctx[2]
+      );
+      append(div3, t6);
+      append(div3, button);
+      if (!mounted) {
+        dispose = [
+          listen(
+            input,
+            "input",
+            /*input_input_handler*/
+            ctx[10]
+          ),
+          listen(
+            button,
+            "click",
+            /*connect*/
+            ctx[5]
+          )
+        ];
+        mounted = true;
+      }
+    },
+    p(ctx2, dirty) {
+      if (dirty & /*apiKey*/
+      4 && input.value !== /*apiKey*/
+      ctx2[2]) {
+        set_input_value(
+          input,
+          /*apiKey*/
+          ctx2[2]
+        );
+      }
+    },
+    i: noop,
+    o: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(div4);
+      }
+      mounted = false;
+      run_all(dispose);
+    }
+  };
+}
+function create_catch_block(ctx) {
+  let div4;
+  let div2;
+  let t3;
+  let div3;
+  let button;
+  let mounted;
+  let dispose;
+  return {
+    c() {
+      div4 = element("div");
+      div2 = element("div");
+      div2.innerHTML = `<div class="setting-item-name" style="color: var(--text-error);">Connection Error</div> <div class="setting-item-description">Something went wrong when connecting to Forestry.md</div>`;
+      t3 = space();
+      div3 = element("div");
+      button = element("button");
+      button.textContent = "Disconnect";
+      attr(div2, "class", "setting-item-info");
+      attr(div3, "class", "setting-item-control");
+      attr(div4, "class", "setting-item");
+    },
+    m(target, anchor) {
+      insert(target, div4, anchor);
+      append(div4, div2);
+      append(div4, t3);
+      append(div4, div3);
+      append(div3, button);
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*disconnect*/
+          ctx[6]
+        );
+        mounted = true;
+      }
+    },
+    p: noop,
+    i: noop,
+    o: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(div4);
+      }
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_then_block(ctx) {
+  let current_block_type_index;
+  let if_block;
+  let if_block_anchor;
+  let current;
+  const if_block_creators = [create_if_block_15, create_else_block_12];
+  const if_blocks = [];
+  function select_block_type_1(ctx2, dirty) {
+    if (
+      /*pageInfo*/
+      ctx2[12]
+    )
+      return 0;
+    return 1;
+  }
+  current_block_type_index = select_block_type_1(ctx, -1);
+  if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+  return {
+    c() {
+      if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if_blocks[current_block_type_index].m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      if_block.p(ctx2, dirty);
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(if_block_anchor);
+      }
+      if_blocks[current_block_type_index].d(detaching);
+    }
+  };
+}
+function create_else_block_12(ctx) {
+  let div4;
+  let div2;
+  let t3;
+  let div3;
+  let button;
+  let mounted;
+  let dispose;
+  return {
+    c() {
+      div4 = element("div");
+      div2 = element("div");
+      div2.innerHTML = `<div class="setting-item-name" style="color: var(--text-error);">Connection Error</div> <div class="setting-item-description">Something went wrong when connecting to
+								Forestry.md</div>`;
+      t3 = space();
+      div3 = element("div");
+      button = element("button");
+      button.textContent = "Disconnect";
+      attr(div2, "class", "setting-item-info");
+      attr(div3, "class", "setting-item-control");
+      attr(div4, "class", "setting-item");
+    },
+    m(target, anchor) {
+      insert(target, div4, anchor);
+      append(div4, div2);
+      append(div4, t3);
+      append(div4, div3);
+      append(div3, button);
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*disconnect*/
+          ctx[6]
+        );
+        mounted = true;
+      }
+    },
+    p: noop,
+    i: noop,
+    o: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(div4);
+      }
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_if_block_15(ctx) {
+  var _a2;
+  let div4;
+  let div2;
+  let div0;
+  let icon0;
+  let t0;
+  let t1_value = (
+    /*pageInfo*/
+    ((_a2 = ctx[12].value.pageName) != null ? _a2 : "Unknown") + ""
+  );
+  let t1;
+  let t2;
+  let div1;
+  let t4;
+  let div3;
+  let button;
+  let t6;
+  let div5;
+  let a;
+  let icon1;
+  let t7;
+  let t8;
+  let if_block_anchor;
+  let current;
+  let mounted;
+  let dispose;
+  icon0 = new Icon_default({ props: { name: "check-circle" } });
+  icon1 = new Icon_default({ props: { name: "external-link" } });
+  function select_block_type_2(ctx2, dirty) {
+    if (
+      /*limitsLoading*/
+      ctx2[4]
+    )
+      return create_if_block_25;
+    if (
+      /*limits*/
+      ctx2[3]
+    )
+      return create_if_block_33;
+  }
+  let current_block_type = select_block_type_2(ctx, -1);
+  let if_block = current_block_type && current_block_type(ctx);
+  return {
+    c() {
+      div4 = element("div");
+      div2 = element("div");
+      div0 = element("div");
+      create_component(icon0.$$.fragment);
+      t0 = text(" Connected to: ");
+      t1 = text(t1_value);
+      t2 = space();
+      div1 = element("div");
+      div1.textContent = "Your digital garden is connected to Forestry.md";
+      t4 = space();
+      div3 = element("div");
+      button = element("button");
+      button.textContent = "Disconnect";
+      t6 = space();
+      div5 = element("div");
+      a = element("a");
+      create_component(icon1.$$.fragment);
+      t7 = text(" Open Forestry.md Dashboard");
+      t8 = space();
+      if (if_block)
+        if_block.c();
+      if_block_anchor = empty();
+      attr(div0, "class", "setting-item-name");
+      set_style(div0, "display", "flex");
+      set_style(div0, "align-items", "center");
+      set_style(div0, "gap", "8px");
+      attr(div1, "class", "setting-item-description");
+      attr(div2, "class", "setting-item-info");
+      attr(div3, "class", "setting-item-control");
+      attr(div4, "class", "setting-item");
+      attr(a, "href", "https://dashboard.forestry.md");
+      attr(a, "target", "_blank");
+      set_style(a, "display", "inline-flex");
+      set_style(a, "align-items", "center");
+      set_style(a, "gap", "4px");
+      set_style(div5, "margin-top", "12px");
+      set_style(div5, "margin-left", "0");
+    },
+    m(target, anchor) {
+      insert(target, div4, anchor);
+      append(div4, div2);
+      append(div2, div0);
+      mount_component(icon0, div0, null);
+      append(div0, t0);
+      append(div0, t1);
+      append(div2, t2);
+      append(div2, div1);
+      append(div4, t4);
+      append(div4, div3);
+      append(div3, button);
+      insert(target, t6, anchor);
+      insert(target, div5, anchor);
+      append(div5, a);
+      mount_component(icon1, a, null);
+      append(a, t7);
+      insert(target, t8, anchor);
+      if (if_block)
+        if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+      current = true;
+      if (!mounted) {
+        dispose = listen(
+          button,
+          "click",
+          /*disconnect*/
+          ctx[6]
+        );
+        mounted = true;
+      }
+    },
+    p(ctx2, dirty) {
+      if (current_block_type === (current_block_type = select_block_type_2(ctx2, dirty)) && if_block) {
+        if_block.p(ctx2, dirty);
+      } else {
+        if (if_block)
+          if_block.d(1);
+        if_block = current_block_type && current_block_type(ctx2);
+        if (if_block) {
+          if_block.c();
+          if_block.m(if_block_anchor.parentNode, if_block_anchor);
+        }
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon0.$$.fragment, local);
+      transition_in(icon1.$$.fragment, local);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon0.$$.fragment, local);
+      transition_out(icon1.$$.fragment, local);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div4);
+        detach(t6);
+        detach(div5);
+        detach(t8);
+        detach(if_block_anchor);
+      }
+      destroy_component(icon0);
+      destroy_component(icon1);
+      if (if_block) {
+        if_block.d(detaching);
+      }
+      mounted = false;
+      dispose();
+    }
+  };
+}
+function create_if_block_33(ctx) {
+  let div5;
+  let div0;
+  let t0;
+  let t1_value = (
+    /*limits*/
+    ctx[3].plan + ""
+  );
+  let t1;
+  let t2;
+  let t3;
+  let div4;
+  let div1;
+  let span0;
+  let t5;
+  let span1;
+  let t6_value = (
+    /*limits*/
+    ctx[3].builds.monthlyLimit - /*limits*/
+    ctx[3].builds.monthlyRemaining + ""
+  );
+  let t6;
+  let t7;
+  let t8_value = (
+    /*limits*/
+    ctx[3].builds.monthlyLimit + ""
+  );
+  let t8;
+  let t9;
+  let t10;
+  let div2;
+  let span2;
+  let t12;
+  let span3;
+  let t13_value = (
+    /*limits*/
+    ctx[3].storage.usedFormatted + ""
+  );
+  let t13;
+  let t14;
+  let t15_value = (
+    /*limits*/
+    ctx[3].storage.limitFormatted + ""
+  );
+  let t15;
+  let t16;
+  let div3;
+  let span4;
+  let t18;
+  let span5;
+  let t19_value = (
+    /*limits*/
+    ctx[3].sites.current + ""
+  );
+  let t19;
+  let t20;
+  let t21_value = (
+    /*limits*/
+    ctx[3].sites.limit + ""
+  );
+  let t21;
+  let t22;
+  let if_block0 = (
+    /*limits*/
+    ctx[3].builds.starterCreditsRemaining > 0 && create_if_block_53(ctx)
+  );
+  let if_block1 = (
+    /*limits*/
+    (ctx[3].builds.monthlyRemaining === 0 || /*limits*/
+    ctx[3].storage.usedBytes >= /*limits*/
+    ctx[3].storage.limitBytes) && create_if_block_43(ctx)
+  );
+  return {
+    c() {
+      div5 = element("div");
+      div0 = element("div");
+      t0 = text("Usage \u2014 ");
+      t1 = text(t1_value);
+      t2 = text(" plan");
+      t3 = space();
+      div4 = element("div");
+      div1 = element("div");
+      span0 = element("span");
+      span0.textContent = "Builds this month";
+      t5 = space();
+      span1 = element("span");
+      t6 = text(t6_value);
+      t7 = text(" / ");
+      t8 = text(t8_value);
+      t9 = space();
+      if (if_block0)
+        if_block0.c();
+      t10 = space();
+      div2 = element("div");
+      span2 = element("span");
+      span2.textContent = "Storage";
+      t12 = space();
+      span3 = element("span");
+      t13 = text(t13_value);
+      t14 = text(" / ");
+      t15 = text(t15_value);
+      t16 = space();
+      div3 = element("div");
+      span4 = element("span");
+      span4.textContent = "Sites";
+      t18 = space();
+      span5 = element("span");
+      t19 = text(t19_value);
+      t20 = text(" / ");
+      t21 = text(t21_value);
+      t22 = space();
+      if (if_block1)
+        if_block1.c();
+      set_style(div0, "font-weight", "600");
+      set_style(div0, "margin-bottom", "8px");
+      set_style(
+        span1,
+        "color",
+        /*limits*/
+        ctx[3].builds.monthlyRemaining === 0 ? "var(--text-error)" : "var(--text-normal)"
+      );
+      set_style(div1, "display", "flex");
+      set_style(div1, "justify-content", "space-between");
+      set_style(
+        span3,
+        "color",
+        /*limits*/
+        ctx[3].storage.usedBytes >= /*limits*/
+        ctx[3].storage.limitBytes ? "var(--text-error)" : "var(--text-normal)"
+      );
+      set_style(div2, "display", "flex");
+      set_style(div2, "justify-content", "space-between");
+      set_style(div3, "display", "flex");
+      set_style(div3, "justify-content", "space-between");
+      set_style(div4, "display", "flex");
+      set_style(div4, "flex-direction", "column");
+      set_style(div4, "gap", "6px");
+      set_style(div4, "font-size", "0.9em");
+      set_style(div4, "color", "var(--text-muted)");
+      set_style(div5, "margin-top", "16px");
+      set_style(div5, "padding", "12px");
+      set_style(div5, "background", "var(--background-secondary)");
+      set_style(div5, "border-radius", "8px");
+    },
+    m(target, anchor) {
+      insert(target, div5, anchor);
+      append(div5, div0);
+      append(div0, t0);
+      append(div0, t1);
+      append(div0, t2);
+      append(div5, t3);
+      append(div5, div4);
+      append(div4, div1);
+      append(div1, span0);
+      append(div1, t5);
+      append(div1, span1);
+      append(span1, t6);
+      append(span1, t7);
+      append(span1, t8);
+      append(div4, t9);
+      if (if_block0)
+        if_block0.m(div4, null);
+      append(div4, t10);
+      append(div4, div2);
+      append(div2, span2);
+      append(div2, t12);
+      append(div2, span3);
+      append(span3, t13);
+      append(span3, t14);
+      append(span3, t15);
+      append(div4, t16);
+      append(div4, div3);
+      append(div3, span4);
+      append(div3, t18);
+      append(div3, span5);
+      append(span5, t19);
+      append(span5, t20);
+      append(span5, t21);
+      append(div5, t22);
+      if (if_block1)
+        if_block1.m(div5, null);
+    },
+    p(ctx2, dirty) {
+      if (dirty & /*limits*/
+      8 && t1_value !== (t1_value = /*limits*/
+      ctx2[3].plan + ""))
+        set_data(t1, t1_value);
+      if (dirty & /*limits*/
+      8 && t6_value !== (t6_value = /*limits*/
+      ctx2[3].builds.monthlyLimit - /*limits*/
+      ctx2[3].builds.monthlyRemaining + ""))
+        set_data(t6, t6_value);
+      if (dirty & /*limits*/
+      8 && t8_value !== (t8_value = /*limits*/
+      ctx2[3].builds.monthlyLimit + ""))
+        set_data(t8, t8_value);
+      if (dirty & /*limits*/
+      8) {
+        set_style(
+          span1,
+          "color",
+          /*limits*/
+          ctx2[3].builds.monthlyRemaining === 0 ? "var(--text-error)" : "var(--text-normal)"
+        );
+      }
+      if (
+        /*limits*/
+        ctx2[3].builds.starterCreditsRemaining > 0
+      ) {
+        if (if_block0) {
+          if_block0.p(ctx2, dirty);
+        } else {
+          if_block0 = create_if_block_53(ctx2);
+          if_block0.c();
+          if_block0.m(div4, t10);
+        }
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
+      }
+      if (dirty & /*limits*/
+      8 && t13_value !== (t13_value = /*limits*/
+      ctx2[3].storage.usedFormatted + ""))
+        set_data(t13, t13_value);
+      if (dirty & /*limits*/
+      8 && t15_value !== (t15_value = /*limits*/
+      ctx2[3].storage.limitFormatted + ""))
+        set_data(t15, t15_value);
+      if (dirty & /*limits*/
+      8) {
+        set_style(
+          span3,
+          "color",
+          /*limits*/
+          ctx2[3].storage.usedBytes >= /*limits*/
+          ctx2[3].storage.limitBytes ? "var(--text-error)" : "var(--text-normal)"
+        );
+      }
+      if (dirty & /*limits*/
+      8 && t19_value !== (t19_value = /*limits*/
+      ctx2[3].sites.current + ""))
+        set_data(t19, t19_value);
+      if (dirty & /*limits*/
+      8 && t21_value !== (t21_value = /*limits*/
+      ctx2[3].sites.limit + ""))
+        set_data(t21, t21_value);
+      if (
+        /*limits*/
+        ctx2[3].builds.monthlyRemaining === 0 || /*limits*/
+        ctx2[3].storage.usedBytes >= /*limits*/
+        ctx2[3].storage.limitBytes
+      ) {
+        if (if_block1) {
+        } else {
+          if_block1 = create_if_block_43(ctx2);
+          if_block1.c();
+          if_block1.m(div5, null);
+        }
+      } else if (if_block1) {
+        if_block1.d(1);
+        if_block1 = null;
+      }
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div5);
+      }
+      if (if_block0)
+        if_block0.d();
+      if (if_block1)
+        if_block1.d();
+    }
+  };
+}
+function create_if_block_25(ctx) {
+  let div2;
+  return {
+    c() {
+      div2 = element("div");
+      div2.innerHTML = `<div class="setting-item-info"><div class="setting-item-name">Loading usage info...</div></div>`;
+      attr(div2, "class", "setting-item");
+      set_style(div2, "margin-top", "12px");
+    },
+    m(target, anchor) {
+      insert(target, div2, anchor);
+    },
+    p: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(div2);
+      }
+    }
+  };
+}
+function create_if_block_53(ctx) {
+  let div;
+  let span0;
+  let t1;
+  let span1;
+  let t2_value = (
+    /*limits*/
+    ctx[3].builds.starterCreditsRemaining + ""
+  );
+  let t2;
+  return {
+    c() {
+      div = element("div");
+      span0 = element("span");
+      span0.textContent = "Starter credits remaining";
+      t1 = space();
+      span1 = element("span");
+      t2 = text(t2_value);
+      set_style(div, "display", "flex");
+      set_style(div, "justify-content", "space-between");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      append(div, span0);
+      append(div, t1);
+      append(div, span1);
+      append(span1, t2);
+    },
+    p(ctx2, dirty) {
+      if (dirty & /*limits*/
+      8 && t2_value !== (t2_value = /*limits*/
+      ctx2[3].builds.starterCreditsRemaining + ""))
+        set_data(t2, t2_value);
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
+    }
+  };
+}
+function create_if_block_43(ctx) {
+  let div;
+  return {
+    c() {
+      div = element("div");
+      div.innerHTML = `You&#39;ve reached your usage limit. <a href="https://dashboard.forestry.md/settings" target="_blank">Upgrade your plan</a> to continue publishing.`;
+      set_style(div, "margin-top", "8px");
+      set_style(div, "padding", "8px");
+      set_style(div, "background", "var(--background-modifier-error)");
+      set_style(div, "border-radius", "4px");
+      set_style(div, "font-size", "0.85em");
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
+    }
+  };
+}
+function create_pending_block(ctx) {
+  let div2;
+  return {
+    c() {
+      div2 = element("div");
+      div2.innerHTML = `<div class="setting-item-info"><div class="setting-item-name">Loading Forestry.md settings...</div></div>`;
+      attr(div2, "class", "setting-item");
+    },
+    m(target, anchor) {
+      insert(target, div2, anchor);
+    },
+    p: noop,
+    i: noop,
+    o: noop,
+    d(detaching) {
+      if (detaching) {
+        detach(div2);
+      }
+    }
+  };
+}
+function create_key_block(ctx) {
+  let current_block_type_index;
+  let if_block;
+  let if_block_anchor;
+  let current;
+  const if_block_creators = [create_if_block6, create_else_block5];
+  const if_blocks = [];
+  function select_block_type(ctx2, dirty) {
+    if (!/*settings*/
+    ctx2[0].forestrySettings.apiKey)
+      return 0;
+    return 1;
+  }
+  current_block_type_index = select_block_type(ctx, -1);
+  if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+  return {
+    c() {
+      if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if_blocks[current_block_type_index].m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+      current = true;
+    },
+    p(ctx2, dirty) {
+      let previous_block_index = current_block_type_index;
+      current_block_type_index = select_block_type(ctx2, dirty);
+      if (current_block_type_index === previous_block_index) {
+        if_blocks[current_block_type_index].p(ctx2, dirty);
+      } else {
+        group_outros();
+        transition_out(if_blocks[previous_block_index], 1, 1, () => {
+          if_blocks[previous_block_index] = null;
+        });
+        check_outros();
+        if_block = if_blocks[current_block_type_index];
+        if (!if_block) {
+          if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx2);
+          if_block.c();
+        } else {
+          if_block.p(ctx2, dirty);
+        }
+        transition_in(if_block, 1);
+        if_block.m(if_block_anchor.parentNode, if_block_anchor);
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(if_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(if_block);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(if_block_anchor);
+      }
+      if_blocks[current_block_type_index].d(detaching);
+    }
+  };
+}
+function create_fragment8(ctx) {
+  let div;
+  let h3;
+  let icon;
+  let t0;
+  let t1;
+  let previous_key = (
+    /*unique*/
+    ctx[1]
+  );
+  let current;
+  icon = new Icon_default({ props: { name: "trees" } });
+  let key_block = create_key_block(ctx);
+  return {
+    c() {
+      div = element("div");
+      h3 = element("h3");
+      create_component(icon.$$.fragment);
+      t0 = text("Forestry.md Settings");
+      t1 = space();
+      key_block.c();
+    },
+    m(target, anchor) {
+      insert(target, div, anchor);
+      append(div, h3);
+      mount_component(icon, h3, null);
+      append(h3, t0);
+      append(div, t1);
+      key_block.m(div, null);
+      current = true;
+    },
+    p(ctx2, [dirty]) {
+      if (dirty & /*unique*/
+      2 && safe_not_equal(previous_key, previous_key = /*unique*/
+      ctx2[1])) {
+        group_outros();
+        transition_out(key_block, 1, 1, noop);
+        check_outros();
+        key_block = create_key_block(ctx2);
+        key_block.c();
+        transition_in(key_block, 1);
+        key_block.m(div, null);
+      } else {
+        key_block.p(ctx2, dirty);
+      }
+    },
+    i(local) {
+      if (current)
+        return;
+      transition_in(icon.$$.fragment, local);
+      transition_in(key_block);
+      current = true;
+    },
+    o(local) {
+      transition_out(icon.$$.fragment, local);
+      transition_out(key_block);
+      current = false;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div);
+      }
+      destroy_component(icon);
+      key_block.d(detaching);
+    }
+  };
+}
+function instance8($$self, $$props, $$invalidate) {
+  let unique = {};
+  let { settings } = $$props;
+  let { saveSettings } = $$props;
+  let { onConnect } = $$props;
+  let apiKey = settings.forestrySettings.apiKey;
+  let limits = null;
+  let limitsLoading = false;
+  const connect = () => __awaiter(void 0, void 0, void 0, function* () {
+    let pageInfo = yield getPageInfo();
+    if (!pageInfo) {
+      new import_obsidian14.Notice("Invalid Garden Key");
+      return;
+    }
+    $$invalidate(0, settings.forestrySettings.forestryPageName = pageInfo.value.pageName, settings);
+    $$invalidate(0, settings.forestrySettings.baseUrl = pageInfo.value.baseUrl, settings);
+    $$invalidate(0, settings.forestrySettings.apiKey = apiKey, settings);
+    yield saveSettings();
+    $$invalidate(1, unique = {});
+    onConnect();
+  });
+  const disconnect = () => __awaiter(void 0, void 0, void 0, function* () {
+    $$invalidate(0, settings.forestrySettings.apiKey = "", settings);
+    $$invalidate(0, settings.forestrySettings.forestryPageName = "", settings);
+    yield saveSettings();
+    $$invalidate(2, apiKey = "");
+    $$invalidate(3, limits = null);
+  });
+  const getPageInfo = () => __awaiter(void 0, void 0, void 0, function* () {
+    let pageInfo = yield new ForestryApi(apiKey).getPageInfo();
+    return pageInfo;
+  });
+  const fetchLimits = () => __awaiter(void 0, void 0, void 0, function* () {
+    if (!settings.forestrySettings.apiKey)
+      return;
+    $$invalidate(4, limitsLoading = true);
+    try {
+      $$invalidate(3, limits = yield new ForestryApi(settings.forestrySettings.apiKey).getUserLimits());
+    } catch (_a2) {
+      $$invalidate(3, limits = null);
+    }
+    $$invalidate(4, limitsLoading = false);
+  });
+  function input_input_handler() {
+    apiKey = this.value;
+    $$invalidate(2, apiKey);
+  }
+  $$self.$$set = ($$props2) => {
+    if ("settings" in $$props2)
+      $$invalidate(0, settings = $$props2.settings);
+    if ("saveSettings" in $$props2)
+      $$invalidate(8, saveSettings = $$props2.saveSettings);
+    if ("onConnect" in $$props2)
+      $$invalidate(9, onConnect = $$props2.onConnect);
+  };
+  $$self.$$.update = () => {
+    if ($$self.$$.dirty & /*settings*/
+    1) {
+      $:
+        if (settings.forestrySettings.apiKey) {
+          fetchLimits();
+        }
+    }
+  };
+  return [
+    settings,
+    unique,
+    apiKey,
+    limits,
+    limitsLoading,
+    connect,
+    disconnect,
+    getPageInfo,
+    saveSettings,
+    onConnect,
+    input_input_handler
+  ];
+}
+var ForestrySettings = class extends SvelteComponent {
+  constructor(options) {
+    super();
+    init(this, options, instance8, create_fragment8, safe_not_equal, {
+      settings: 0,
+      saveSettings: 8,
+      onConnect: 9
+    });
+  }
+};
+var ForestrySettings_default = ForestrySettings;
+
+// src/views/SettingsView/SettingView.ts
 var OBSIDIAN_THEME_URL = "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json";
 var SettingView = class {
   constructor(app, settingsRootElement, settings, saveSettings) {
-    this.debouncedSaveAndUpdate = (0, import_obsidian13.debounce)(
+    this.debouncedSaveAndUpdate = (0, import_obsidian15.debounce)(
       this.saveSiteSettingsAndUpdateEnv,
       500,
       true
@@ -28376,10 +31115,16 @@ var SettingView = class {
   }
   getIcon(name) {
     var _a2;
-    return (_a2 = (0, import_obsidian13.getIcon)(name)) != null ? _a2 : document.createElement("span");
+    return (_a2 = (0, import_obsidian15.getIcon)(name)) != null ? _a2 : document.createElement("span");
+  }
+  reInitializeSettings() {
+    if (this.prModal) {
+      this.initialize(this.prModal);
+    }
   }
   initialize(prModal) {
     return __async(this, null, function* () {
+      this.prModal = prModal;
       this.settingsRootElement.empty();
       this.settingsRootElement.createEl("h1", {
         text: "Digital Garden Settings"
@@ -28394,10 +31139,36 @@ var SettingView = class {
         text: "here.",
         href: "https://dg-docs.ole.dev/getting-started/01-getting-started/"
       });
-      const githubSettings = this.settingsRootElement.createEl("div", {
-        cls: "connection-status"
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Publish Platform").addDropdown((dd) => {
+        dd.addOption("SelfHosted" /* SelfHosted */, "GitHub/Self Hosted");
+        dd.addOption("ForestryMd" /* ForestryMd */, "Forestry.md");
+        if (this.settings.publishPlatform === "SelfHosted" /* SelfHosted */) {
+          dd.setValue("SelfHosted" /* SelfHosted */);
+        } else {
+          dd.setValue("ForestryMd" /* ForestryMd */);
+        }
+        dd.onChange((val) => __async(this, null, function* () {
+          switch (val) {
+            case "SelfHosted" /* SelfHosted */:
+              this.settings.publishPlatform = "SelfHosted" /* SelfHosted */;
+              break;
+            case "ForestryMd" /* ForestryMd */:
+              this.settings.publishPlatform = "ForestryMd" /* ForestryMd */;
+              break;
+          }
+          yield this.saveSettings();
+          this.initializePublishPlatformSettings(
+            publishPlatformSettings
+          );
+        }));
       });
-      new GithubSettings(this, githubSettings);
+      const publishPlatformSettings = this.settingsRootElement.createEl(
+        "div",
+        {
+          cls: "publish-platform-settings"
+        }
+      );
+      this.initializePublishPlatformSettings(publishPlatformSettings);
       this.settingsRootElement.createEl("h3", { text: "URL" }).prepend(this.getIcon("link"));
       this.initializeGitHubBaseURLSetting();
       this.initializeSlugifySetting();
@@ -28405,8 +31176,10 @@ var SettingView = class {
       this.initializeDefaultNoteSettings();
       this.settingsRootElement.createEl("h3", { text: "Appearance" }).prepend(this.getIcon("brush"));
       this.initializeThemesSettings();
+      this.settingsRootElement.createEl("h3", { text: "Localization" }).prepend(this.getIcon("languages"));
+      this.initializeUIStringsSettings();
       this.settingsRootElement.createEl("h3", { text: "Advanced" }).prepend(this.getIcon("cog"));
-      new import_obsidian13.Setting(this.settingsRootElement).setName("Path Rewrite Rules").setDesc(
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Path Rewrite Rules").setDesc(
         "Define rules to rewrite note folder structure in the garden. See the modal for more information."
       ).addButton((cb) => {
         cb.setButtonText("Manage Rewrite Rules");
@@ -28415,12 +31188,40 @@ var SettingView = class {
         });
       });
       this.initializeCustomFilterSettings();
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Enable debug logging").setDesc(
+        "Show detailed logs in the developer console. Useful for troubleshooting."
+      ).addToggle((toggle) => {
+        toggle.setValue(this.settings.logLevel === import_js_logger9.default.DEBUG).onChange((value) => __async(this, null, function* () {
+          this.settings.logLevel = value ? import_js_logger9.default.DEBUG : void 0;
+          import_js_logger9.default.setLevel(value ? import_js_logger9.default.DEBUG : import_js_logger9.default.WARN);
+          yield this.saveSettings();
+        }));
+      });
       prModal.titleEl.createEl("h1", "Site template settings");
     });
   }
+  initializePublishPlatformSettings(target) {
+    target.empty();
+    if (this.settings.publishPlatform === "SelfHosted" /* SelfHosted */) {
+      new GithubSettings(this, target);
+    } else {
+      new ForestrySettings_default({
+        target,
+        props: {
+          settings: this.settings,
+          saveSettings: this.saveSettings,
+          onConnect: () => __async(this, null, function* () {
+            this.reInitializeSettings();
+          })
+        }
+      });
+    }
+  }
   initializeDefaultNoteSettings() {
     return __async(this, null, function* () {
-      const noteSettingsModal = new import_obsidian13.Modal(this.app);
+      const noteSettingsModal = new import_obsidian15.Modal(this.app);
+      let hasUnsavedChanges = false;
+      const toggles = {};
       noteSettingsModal.titleEl.createEl("h1", {
         text: "Default Note Settings"
       });
@@ -28432,165 +31233,680 @@ var SettingView = class {
         text: "here.",
         href: "https://dg-docs.ole.dev/getting-started/03-note-settings/"
       });
-      new import_obsidian13.Setting(this.settingsRootElement).setName("Global Note Settings").setDesc(
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Global Note Settings").setDesc(
         `Default settings for each published note. These can be overwritten per note via frontmatter.`
       ).addButton((cb) => {
         cb.setButtonText("Manage note settings");
         cb.onClick(() => __async(this, null, function* () {
+          hasUnsavedChanges = false;
+          updateApplyButton();
           noteSettingsModal.open();
+          yield loadRemoteSettings();
         }));
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show home link (dg-home-link)").setDesc(
+      const markAsChanged = () => {
+        hasUnsavedChanges = true;
+        updateApplyButton();
+      };
+      const applyContainer = noteSettingsModal.contentEl.createDiv({
+        cls: "dg-apply-settings-container"
+      });
+      const statusEl = applyContainer.createDiv({
+        cls: "dg-apply-settings-status"
+      });
+      const applyButton = applyContainer.createEl("button", {
+        text: "Apply changes to site",
+        cls: "mod-cta dg-apply-settings-button"
+      });
+      applyButton.addEventListener("click", () => __async(this, null, function* () {
+        if (!hasUnsavedChanges)
+          return;
+        yield this.saveSiteSettingsAndUpdateEnv(
+          this.app.metadataCache,
+          this.settings,
+          this.saveSettings
+        );
+        hasUnsavedChanges = false;
+        updateApplyButton();
+      }));
+      const updateApplyButton = () => {
+        if (hasUnsavedChanges) {
+          statusEl.setText("You have unsaved changes");
+          statusEl.style.color = "var(--text-warning)";
+          applyContainer.classList.add("has-changes");
+          applyButton.disabled = false;
+        } else {
+          statusEl.setText("Change a setting to apply");
+          statusEl.style.color = "var(--text-muted)";
+          applyContainer.classList.remove("has-changes");
+          applyButton.disabled = true;
+        }
+      };
+      const loadRemoteSettings = () => __async(this, null, function* () {
+        statusEl.setText("Loading settings from site...");
+        applyContainer.classList.remove("has-changes");
+        try {
+          const gardenManager = new DigitalGardenSiteManager(
+            this.app.metadataCache,
+            this.settings
+          );
+          const connection = yield gardenManager.getUserGardenConnection();
+          const envFile = yield connection.getFile(".env");
+          if (envFile == null ? void 0 : envFile.content) {
+            const envContent = gBase64.decode(envFile.content);
+            const remoteSettings = this.parseEnvSettings(envContent);
+            for (const [key, toggle] of Object.entries(toggles)) {
+              if (key in remoteSettings) {
+                const remoteValue = remoteSettings[key] === "true";
+                toggle.setValue(remoteValue);
+                this.settings.defaultNoteSettings[key] = remoteValue;
+              }
+            }
+          }
+          hasUnsavedChanges = false;
+          updateApplyButton();
+        } catch (error) {
+          console.error("Failed to load remote settings:", error);
+          statusEl.setText("Could not load remote settings");
+          statusEl.style.color = "var(--text-error)";
+          setTimeout(() => {
+            statusEl.style.color = "";
+            hasUnsavedChanges = false;
+            updateApplyButton();
+          }, 3e3);
+        }
+      });
+      updateApplyButton();
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show home link (dg-home-link)").setDesc(
         "Determines whether to show a link back to the homepage or not."
       ).addToggle((t) => {
+        toggles["dgHomeLink"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgHomeLink);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgHomeLink = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show local graph for notes (dg-show-local-graph)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show local graph for notes (dg-show-local-graph)").setDesc(
         "When turned on, notes will show its local graph in a sidebar on desktop and at the bottom of the page on mobile."
       ).addToggle((t) => {
+        toggles["dgShowLocalGraph"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowLocalGraph);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowLocalGraph = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show backlinks for notes (dg-show-backlinks)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show backlinks for notes (dg-show-backlinks)").setDesc(
         "When turned on, notes will show backlinks in a sidebar on desktop and at the bottom of the page on mobile."
       ).addToggle((t) => {
+        toggles["dgShowBacklinks"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowBacklinks);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowBacklinks = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show a table of content for notes (dg-show-toc)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show a table of content for notes (dg-show-toc)").setDesc(
         "When turned on, notes will show all headers as a table of content in a sidebar on desktop. It will not be shown on mobile devices."
       ).addToggle((t) => {
+        toggles["dgShowToc"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowToc);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowToc = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show inline title (dg-show-inline-title)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show inline title (dg-show-inline-title)").setDesc(
         "When turned on, the title of the note will show on top of the page."
       ).addToggle((t) => {
+        toggles["dgShowInlineTitle"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowInlineTitle);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowInlineTitle = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show filetree sidebar (dg-show-file-tree)").setDesc("When turned on, a filetree will be shown on your site.").addToggle((t) => {
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show filetree sidebar (dg-show-file-tree)").setDesc("When turned on, a filetree will be shown on your site.").addToggle((t) => {
+        toggles["dgShowFileTree"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowFileTree);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowFileTree = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Enable search (dg-enable-search)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Enable search (dg-enable-search)").setDesc(
         "When turned on, users will be able to search through the content of your site."
       ).addToggle((t) => {
+        toggles["dgEnableSearch"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgEnableSearch);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgEnableSearch = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Enable link preview (dg-link-preview)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Enable link preview (dg-link-preview)").setDesc(
         "When turned on, hovering over links to notes in your garden shows a scrollable preview."
       ).addToggle((t) => {
+        toggles["dgLinkPreview"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgLinkPreview);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgLinkPreview = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Show Tags (dg-show-tags)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Show Tags (dg-show-tags)").setDesc(
         "When turned on, tags in your frontmatter will be displayed on each note. If search is enabled, clicking on a tag will bring up a search for all notes containing that tag."
       ).addToggle((t) => {
+        toggles["dgShowTags"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgShowTags);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgShowTags = val;
-          this.saveSiteSettingsAndUpdateEnv(
-            this.app.metadataCache,
-            this.settings,
-            this.saveSettings
-          );
+          markAsChanged();
         });
       });
-      new import_obsidian13.Setting(noteSettingsModal.contentEl).setName("Let all frontmatter through (dg-pass-frontmatter)").setDesc(
+      new import_obsidian15.Setting(noteSettingsModal.contentEl).setName("Let all frontmatter through (dg-pass-frontmatter)").setDesc(
         "THIS WILL BREAK YOUR SITE IF YOU DON'T KNOW WHAT YOU ARE DOING! (But disabling will fix it). Determines whether to let all frontmatter data through to the site template. Be aware that this could break your site if you have data in a format not recognized by the template engine, 11ty."
       ).addToggle((t) => {
+        toggles["dgPassFrontmatter"] = t;
         t.setValue(this.settings.defaultNoteSettings.dgPassFrontmatter);
         t.onChange((val) => {
           this.settings.defaultNoteSettings.dgPassFrontmatter = val;
-          this.saveSiteSettingsAndUpdateEnv(
+          markAsChanged();
+        });
+      });
+    });
+  }
+  initializeUIStringsSettings() {
+    return __async(this, null, function* () {
+      const uiStringsModal = new import_obsidian15.Modal(this.app);
+      uiStringsModal.containerEl.addClass("dg-settings");
+      let hasUnsavedChanges = false;
+      const textControls = {};
+      uiStringsModal.titleEl.createEl("h1", {
+        text: "UI Text Settings"
+      });
+      const descDiv = uiStringsModal.contentEl.createEl("div", {
+        attr: { style: "margin-bottom: 20px;" }
+      });
+      descDiv.createEl("span", {
+        text: "Customize text displayed on your garden. Leave empty to use defaults."
+      });
+      new import_obsidian15.Setting(this.settingsRootElement).setName("UI Text / Localization").setDesc(
+        "Customize labels and messages shown on your garden (Search, Backlinks, etc.)"
+      ).addButton((cb) => {
+        cb.setButtonText("Manage UI text");
+        cb.onClick(() => __async(this, null, function* () {
+          hasUnsavedChanges = false;
+          updateApplyButton();
+          uiStringsModal.open();
+          yield loadRemoteSettings();
+        }));
+      });
+      const markAsChanged = () => {
+        hasUnsavedChanges = true;
+        updateApplyButton();
+      };
+      const applyContainer = uiStringsModal.contentEl.createDiv({
+        cls: "dg-apply-settings-container"
+      });
+      const statusEl = applyContainer.createDiv({
+        cls: "dg-apply-settings-status"
+      });
+      const applyButton = applyContainer.createEl("button", {
+        text: "Apply changes to site",
+        cls: "mod-cta dg-apply-settings-button"
+      });
+      applyButton.addEventListener("click", () => __async(this, null, function* () {
+        if (!hasUnsavedChanges)
+          return;
+        yield this.saveSiteSettingsAndUpdateEnv(
+          this.app.metadataCache,
+          this.settings,
+          this.saveSettings
+        );
+        hasUnsavedChanges = false;
+        updateApplyButton();
+      }));
+      const updateApplyButton = () => {
+        if (hasUnsavedChanges) {
+          statusEl.setText("You have unsaved changes");
+          statusEl.style.color = "var(--text-warning)";
+          applyContainer.classList.add("has-changes");
+          applyButton.disabled = false;
+        } else {
+          statusEl.setText("Change a setting to apply");
+          statusEl.style.color = "var(--text-muted)";
+          applyContainer.classList.remove("has-changes");
+          applyButton.disabled = true;
+        }
+      };
+      const uiStringsMap = [
+        {
+          envKey: "UI_BACKLINK_HEADER",
+          controlKey: "backlinkHeader",
+          settingsKey: "backlinkHeader"
+        },
+        {
+          envKey: "UI_NO_BACKLINKS_MESSAGE",
+          controlKey: "noBacklinksMessage",
+          settingsKey: "noBacklinksMessage"
+        },
+        {
+          envKey: "UI_SEARCH_BUTTON_TEXT",
+          controlKey: "searchButtonText",
+          settingsKey: "searchButtonText"
+        },
+        {
+          envKey: "UI_SEARCH_PLACEHOLDER",
+          controlKey: "searchPlaceholder",
+          settingsKey: "searchPlaceholder"
+        },
+        {
+          envKey: "UI_SEARCH_ENTER_HINT",
+          controlKey: "searchEnterHint",
+          settingsKey: "searchEnterHint"
+        },
+        {
+          envKey: "UI_SEARCH_NAVIGATE_HINT",
+          controlKey: "searchNavigateHint",
+          settingsKey: "searchNavigateHint"
+        },
+        {
+          envKey: "UI_SEARCH_CLOSE_HINT",
+          controlKey: "searchCloseHint",
+          settingsKey: "searchCloseHint"
+        },
+        {
+          envKey: "UI_SEARCH_NO_RESULTS",
+          controlKey: "searchNoResults",
+          settingsKey: "searchNoResults"
+        },
+        {
+          envKey: "UI_SEARCH_PREVIEW_PLACEHOLDER",
+          controlKey: "searchPreviewPlaceholder",
+          settingsKey: "searchPreviewPlaceholder"
+        },
+        {
+          envKey: "UI_SEARCH_NOT_STARTED_TEXT",
+          controlKey: "searchNotStarted",
+          settingsKey: "searchNotStarted"
+        },
+        {
+          envKey: "UI_SEARCH_ENTER_HOTKEY",
+          controlKey: "searchEnterHotkey",
+          settingsKey: "searchEnterHotkey"
+        },
+        {
+          envKey: "UI_SEARCH_NAVIGATE_HOTKEY",
+          controlKey: "searchNavigateHotkey",
+          settingsKey: "searchNavigateHotkey"
+        },
+        {
+          envKey: "UI_SEARCH_CLOSE_HOTKEY",
+          controlKey: "searchCloseHotkey",
+          settingsKey: "searchCloseHotkey"
+        },
+        {
+          envKey: "UI_CANVAS_DRAG_HINT",
+          controlKey: "canvasDragHint",
+          settingsKey: "canvasDragHint"
+        },
+        {
+          envKey: "UI_CANVAS_ZOOM_HINT",
+          controlKey: "canvasZoomHint",
+          settingsKey: "canvasZoomHint"
+        },
+        {
+          envKey: "UI_CANVAS_RESET_HINT",
+          controlKey: "canvasResetHint",
+          settingsKey: "canvasResetHint"
+        }
+      ];
+      const loadRemoteSettings = () => __async(this, null, function* () {
+        statusEl.setText("Loading settings from site...");
+        applyContainer.classList.remove("has-changes");
+        try {
+          const gardenManager = new DigitalGardenSiteManager(
             this.app.metadataCache,
-            this.settings,
-            this.saveSettings
+            this.settings
           );
+          const connection = yield gardenManager.getUserGardenConnection();
+          const envFile = yield connection.getFile(".env");
+          if (envFile == null ? void 0 : envFile.content) {
+            const envContent = gBase64.decode(envFile.content);
+            const remoteSettings = this.parseEnvSettings(envContent);
+            for (const mapping of uiStringsMap) {
+              const control = textControls[mapping.controlKey];
+              if (mapping.envKey in remoteSettings && control) {
+                const value = remoteSettings[mapping.envKey];
+                control.setValue(value);
+                this.settings.uiStrings[mapping.settingsKey] = value;
+              }
+            }
+          }
+          hasUnsavedChanges = false;
+          updateApplyButton();
+        } catch (error) {
+          console.error("Failed to load remote UI strings:", error);
+          statusEl.setText("Could not load remote settings");
+          statusEl.style.color = "var(--text-error)";
+          setTimeout(() => {
+            statusEl.style.color = "";
+            hasUnsavedChanges = false;
+            updateApplyButton();
+          }, 3e3);
+        }
+      });
+      updateApplyButton();
+      uiStringsModal.contentEl.createEl("h3", { text: "Backlinks" }).prepend(this.getIcon("link"));
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Backlink header").setDesc('Default: "Pages mentioning this page"').addText((text2) => {
+        var _a2, _b;
+        textControls["backlinkHeader"] = text2;
+        text2.setPlaceholder("Pages mentioning this page").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.backlinkHeader) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.backlinkHeader = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("No backlinks message").setDesc('Default: "No other pages mentions this page"').addText((text2) => {
+        var _a2, _b;
+        textControls["noBacklinksMessage"] = text2;
+        text2.setPlaceholder("No other pages mentions this page").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.noBacklinksMessage) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.noBacklinksMessage = val;
+          markAsChanged();
+        });
+      });
+      uiStringsModal.contentEl.createEl("h3", { text: "Search" }).prepend(this.getIcon("search"));
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Search button text").setDesc('Default: "Search"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchButtonText"] = text2;
+        text2.setPlaceholder("Search").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchButtonText) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchButtonText = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Search placeholder").setDesc('Default: "Start typing..."').addText((text2) => {
+        var _a2, _b;
+        textControls["searchPlaceholder"] = text2;
+        text2.setPlaceholder("Start typing...").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchPlaceholder) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchPlaceholder = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Enter to select hint").setDesc('Default: "Enter to select"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchEnterHint"] = text2;
+        text2.setPlaceholder("Enter to select").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchEnterHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchEnterHint = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Navigate hint").setDesc('Default: "to navigate"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchNavigateHint"] = text2;
+        text2.setPlaceholder("to navigate").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchNavigateHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchNavigateHint = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Close hint").setDesc('Default: "ESC to close"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchCloseHint"] = text2;
+        text2.setPlaceholder("ESC to close").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchCloseHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchCloseHint = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("No results message").setDesc('Default: "No results for"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchNoResults"] = text2;
+        text2.setPlaceholder("No results for").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchNoResults) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchNoResults = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Preview placeholder text").setDesc('Default: "Select a result to preview"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchPreviewPlaceholder"] = text2;
+        text2.setPlaceholder("Select a result to preview").setValue(
+          (_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchPreviewPlaceholder) != null ? _b : ""
+        ).onChange((val) => {
+          this.settings.uiStrings.searchPreviewPlaceholder = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Search not started text").setDesc('Default: "Enter your search text in the box above"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchNotStarted"] = text2;
+        text2.setPlaceholder("Enter your search text in the box above").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchNotStarted) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchNotStarted = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Enter hotkey label").setDesc('Default: "Enter"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchEnterHotkey"] = text2;
+        text2.setPlaceholder("Enter").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchEnterHotkey) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchEnterHotkey = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Navigate hotkey label").setDesc('Default: "\u21C5"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchNavigateHotkey"] = text2;
+        text2.setPlaceholder("\u21C5").setValue(
+          (_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchNavigateHotkey) != null ? _b : ""
+        ).onChange((val) => {
+          this.settings.uiStrings.searchNavigateHotkey = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Close hotkey label").setDesc('Default: "ESC"').addText((text2) => {
+        var _a2, _b;
+        textControls["searchCloseHotkey"] = text2;
+        text2.setPlaceholder("ESC").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.searchCloseHotkey) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.searchCloseHotkey = val;
+          markAsChanged();
+        });
+      });
+      uiStringsModal.contentEl.createEl("h3", { text: "Canvas" }).addClass("dg-ui-strings-section-header");
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Drag hint").setDesc('Default: "Drag to pan"').addText((text2) => {
+        var _a2, _b;
+        textControls["canvasDragHint"] = text2;
+        text2.setPlaceholder("Drag to pan").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.canvasDragHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.canvasDragHint = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Zoom hint").setDesc('Default: "Scroll to zoom"').addText((text2) => {
+        var _a2, _b;
+        textControls["canvasZoomHint"] = text2;
+        text2.setPlaceholder("Scroll to zoom").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.canvasZoomHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.canvasZoomHint = val;
+          markAsChanged();
+        });
+      });
+      new import_obsidian15.Setting(uiStringsModal.contentEl).setName("Reset hint").setDesc('Default: "Double-click to reset"').addText((text2) => {
+        var _a2, _b;
+        textControls["canvasResetHint"] = text2;
+        text2.setPlaceholder("Double-click to reset").setValue((_b = (_a2 = this.settings.uiStrings) == null ? void 0 : _a2.canvasResetHint) != null ? _b : "").onChange((val) => {
+          this.settings.uiStrings.canvasResetHint = val;
+          markAsChanged();
         });
       });
     });
   }
   initializeThemesSettings() {
     return __async(this, null, function* () {
-      const themeModal = new import_obsidian13.Modal(this.app);
+      const themeModal = new import_obsidian15.Modal(this.app);
       themeModal.containerEl.addClass("dg-settings");
       themeModal.titleEl.createEl("h1", { text: "Appearance Settings" });
+      const controls = {
+        baseTheme: null,
+        siteName: null,
+        mainLanguage: null,
+        useFullResolutionImages: null,
+        timestampFormat: null,
+        showCreatedTimestamp: null,
+        showUpdatedTimestamp: null,
+        defaultNoteIcon: null,
+        showNoteIconOnTitle: null,
+        showNoteIconInFileTree: null,
+        showNoteIconOnInternalLink: null,
+        showNoteIconOnBackLink: null
+      };
+      const statusEl = themeModal.contentEl.createDiv({
+        cls: "dg-appearance-status"
+      });
+      const settingsMap = [
+        {
+          envKey: "BASE_THEME",
+          controlKey: "baseTheme",
+          settingsKey: "baseTheme",
+          isBoolean: false
+        },
+        {
+          envKey: "SITE_NAME_HEADER",
+          controlKey: "siteName",
+          settingsKey: "siteName",
+          isBoolean: false
+        },
+        {
+          envKey: "SITE_MAIN_LANGUAGE",
+          controlKey: "mainLanguage",
+          settingsKey: "mainLanguage",
+          isBoolean: false
+        },
+        {
+          envKey: "USE_FULL_RESOLUTION_IMAGES",
+          controlKey: "useFullResolutionImages",
+          settingsKey: "useFullResolutionImages",
+          isBoolean: true
+        },
+        {
+          envKey: "TIMESTAMP_FORMAT",
+          controlKey: "timestampFormat",
+          settingsKey: "timestampFormat",
+          isBoolean: false
+        },
+        {
+          envKey: "SHOW_CREATED_TIMESTAMP",
+          controlKey: "showCreatedTimestamp",
+          settingsKey: "showCreatedTimestamp",
+          isBoolean: true
+        },
+        {
+          envKey: "SHOW_UPDATED_TIMESTAMP",
+          controlKey: "showUpdatedTimestamp",
+          settingsKey: "showUpdatedTimestamp",
+          isBoolean: true
+        },
+        {
+          envKey: "NOTE_ICON_DEFAULT",
+          controlKey: "defaultNoteIcon",
+          settingsKey: "defaultNoteIcon",
+          isBoolean: false
+        },
+        {
+          envKey: "NOTE_ICON_TITLE",
+          controlKey: "showNoteIconOnTitle",
+          settingsKey: "showNoteIconOnTitle",
+          isBoolean: true
+        },
+        {
+          envKey: "NOTE_ICON_FILETREE",
+          controlKey: "showNoteIconInFileTree",
+          settingsKey: "showNoteIconInFileTree",
+          isBoolean: true
+        },
+        {
+          envKey: "NOTE_ICON_INTERNAL_LINKS",
+          controlKey: "showNoteIconOnInternalLink",
+          settingsKey: "showNoteIconOnInternalLink",
+          isBoolean: true
+        },
+        {
+          envKey: "NOTE_ICON_BACK_LINKS",
+          controlKey: "showNoteIconOnBackLink",
+          settingsKey: "showNoteIconOnBackLink",
+          isBoolean: true
+        }
+      ];
+      const loadRemoteSettings = () => __async(this, null, function* () {
+        statusEl.setText("Loading settings from site...");
+        try {
+          const gardenManager = new DigitalGardenSiteManager(
+            this.app.metadataCache,
+            this.settings
+          );
+          const connection = yield gardenManager.getUserGardenConnection();
+          const envFile = yield connection.getFile(".env");
+          if (envFile == null ? void 0 : envFile.content) {
+            const envContent = gBase64.decode(envFile.content);
+            const remoteSettings = this.parseEnvSettings(envContent);
+            for (const mapping of settingsMap) {
+              const control = controls[mapping.controlKey];
+              if (mapping.envKey in remoteSettings && control) {
+                const rawValue = remoteSettings[mapping.envKey];
+                const value = mapping.isBoolean ? rawValue === "true" : rawValue;
+                control.setValue(value);
+                this.settings[mapping.settingsKey] = value;
+              }
+            }
+            statusEl.setText("Settings loaded from site");
+            setTimeout(() => {
+              statusEl.setText("");
+            }, 2e3);
+          }
+        } catch (error) {
+          console.error(
+            "Failed to load remote appearance settings:",
+            error
+          );
+          statusEl.setText("Could not load settings from site");
+          statusEl.addClass("is-error");
+          setTimeout(() => {
+            statusEl.setText("");
+            statusEl.removeClass("is-error");
+          }, 3e3);
+        }
+      });
       const handleSaveSettingsButton = (cb) => {
         cb.setButtonText("Apply settings to site");
-        cb.setClass("mod-cta");
+        cb.setCta();
         cb.onClick((_ev) => __async(this, null, function* () {
-          const octokit = new Octokit({
-            auth: this.settings.githubToken
-          });
-          new import_obsidian13.Notice("Applying settings to site...");
+          new import_obsidian15.Notice("Applying settings to site...");
           yield this.saveSettingsAndUpdateEnv();
-          yield this.addFavicon(octokit);
+          const connection = yield PublishPlatformConnectionFactory.createPublishPlatformConnection(
+            this.settings
+          );
+          const octokit = connection.octoKit;
+          const owner = connection.userName;
+          const repo = connection.pageName;
+          try {
+            yield this.addFavicon(octokit, owner, repo);
+          } catch (error) {
+            import_js_logger9.default.error("Failed to update favicon", error);
+            new import_obsidian15.Notice(
+              "Failed to update favicon. Check the developer console for details."
+            );
+          }
+          try {
+            yield this.addLogo(octokit, owner, repo);
+          } catch (error) {
+            import_js_logger9.default.error("Failed to update logo", error);
+            new import_obsidian15.Notice(
+              "Failed to update logo. Check the developer console for details."
+            );
+          }
+          new import_obsidian15.Notice("Settings applied to site!");
         }));
       };
-      new import_obsidian13.Setting(this.settingsRootElement).setName("Appearance").setDesc("Manage themes, sitename and styling on your site").addButton((cb) => {
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Appearance").setDesc("Manage themes, sitename and styling on your site").addButton((cb) => {
         cb.setButtonText("Manage appearance");
         cb.onClick(() => __async(this, null, function* () {
           themeModal.open();
+          yield loadRemoteSettings();
         }));
       });
       try {
@@ -28599,21 +31915,24 @@ var SettingView = class {
           this.app.plugins && // @ts-expect-error see above
           this.app.plugins.plugins["obsidian-style-settings"]._loaded
         ) {
-          themeModal.contentEl.createEl("h2", { text: "Style Settings Plugin" }).prepend(this.getIcon("paintbrush"));
-          new import_obsidian13.Setting(themeModal.contentEl).setName("Apply current style settings to site").setDesc(
+          const styleSettingsSection = themeModal.contentEl.createDiv({
+            cls: "dg-settings-section"
+          });
+          styleSettingsSection.createEl("h3", { text: "Style Settings Plugin" }).prepend(this.getIcon("paintbrush"));
+          new import_obsidian15.Setting(styleSettingsSection).setName("Apply current style settings to site").setDesc(
             "Click the apply button to use the current style settings from the Style Settings Plugin on your site. (The plugin looks at the currently APPLIED settings. Meaning you need to have the theme you are using in the garden selected in Obsidian before applying)"
           ).addButton((btn) => {
             btn.setButtonText("Apply Style Settings");
-            btn.setClass("mod-cta");
+            btn.setCta();
             btn.onClick((_ev) => __async(this, null, function* () {
               var _a2;
-              new import_obsidian13.Notice("Applying Style Settings...");
+              new import_obsidian15.Notice("Applying Style Settings...");
               const styleSettingsNode = document.querySelector(
                 "#css-settings-manager"
               );
               const bodyClasses = (_a2 = document.querySelector("body")) == null ? void 0 : _a2.className;
               if (!styleSettingsNode && !bodyClasses) {
-                new import_obsidian13.Notice("No Style Settings found");
+                new import_obsidian15.Notice("No Style Settings found");
                 return;
               }
               if (styleSettingsNode == null ? void 0 : styleSettingsNode.innerHTML) {
@@ -28623,7 +31942,7 @@ var SettingView = class {
                 this.settings.styleSettingsBodyClasses = `${bodyClasses}`;
               }
               if (!this.settings.styleSettingsCss && !this.settings.styleSettingsBodyClasses) {
-                new import_obsidian13.Notice("No Style Settings found");
+                new import_obsidian15.Notice("No Style Settings found");
                 return;
               }
               yield this.saveSiteSettingsAndUpdateEnv(
@@ -28631,7 +31950,7 @@ var SettingView = class {
                 this.settings,
                 this.saveSettings
               );
-              new import_obsidian13.Notice("Style Settings applied to site");
+              new import_obsidian15.Notice("Style Settings applied to site");
             }));
           }).addButton((btn) => {
             btn.setButtonText("Clear");
@@ -28643,35 +31962,108 @@ var SettingView = class {
                 this.settings,
                 this.saveSettings
               );
-              new import_obsidian13.Notice("Style Settings removed from site");
+              new import_obsidian15.Notice("Style Settings removed from site");
             }));
           });
         }
       } catch (e) {
         console.error("Error loading style settings plugin");
       }
-      themeModal.contentEl.createEl("h2", { text: "Theme Settings" }).prepend(this.getIcon("palette"));
-      const themesListResponse = yield axios_default.get(OBSIDIAN_THEME_URL);
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Theme").addDropdown((dd) => {
-        dd.addOption('{"name": "default", "modes": ["dark"]}', "Default");
-        const sortedThemes = themesListResponse.data.sort(
-          (a, b) => a.name.localeCompare(b.name)
-        );
-        sortedThemes.map((x) => {
-          dd.addOption(
-            JSON.stringify(__spreadProps(__spreadValues({}, x), {
-              cssUrl: `https://raw.githubusercontent.com/${x.repo}/${x.branch || "HEAD"}/${x.legacy ? "obsidian.css" : "theme.css"}`
-            })),
-            x.name
-          );
-          dd.setValue(this.settings.theme);
-          dd.onChange((val) => __async(this, null, function* () {
-            this.settings.theme = val;
-            yield this.saveSettings();
-          }));
-        });
+      const themeSection = themeModal.contentEl.createDiv({
+        cls: "dg-settings-section"
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Base theme").addDropdown((dd) => {
+      themeSection.createEl("h3", { text: "Theme Settings" }).prepend(this.getIcon("palette"));
+      const themesListResponse = yield axios_default.get(OBSIDIAN_THEME_URL);
+      const sortedThemes = themesListResponse.data.sort(
+        (a, b) => a.name.localeCompare(b.name)
+      );
+      const themePickerContainer = themeSection.createDiv({
+        cls: "dg-theme-picker-container"
+      });
+      const currentThemeDisplay = themePickerContainer.createDiv({
+        cls: "dg-current-theme"
+      });
+      const updateCurrentThemeDisplay = () => {
+        const currentTheme = JSON.parse(this.settings.theme);
+        currentThemeDisplay.empty();
+        currentThemeDisplay.createEl("span", { text: "Current theme: " });
+        currentThemeDisplay.createEl("strong", { text: currentTheme.name });
+      };
+      updateCurrentThemeDisplay();
+      const searchInput = themePickerContainer.createEl("input", {
+        type: "text",
+        placeholder: "Search themes...",
+        cls: "dg-theme-search"
+      });
+      const themeGrid = themePickerContainer.createDiv({
+        cls: "dg-theme-grid"
+      });
+      const createThemeCard = (theme, isDefault = false) => {
+        const themeValue = isDefault ? '{"name": "default", "modes": ["dark"]}' : JSON.stringify(__spreadProps(__spreadValues({}, theme), {
+          cssUrl: `https://raw.githubusercontent.com/${theme.repo}/${theme.branch || "HEAD"}/${theme.legacy ? "obsidian.css" : "theme.css"}`
+        }));
+        const isSelected = this.settings.theme === themeValue;
+        const card = themeGrid.createDiv({
+          cls: `dg-theme-card${isSelected ? " is-selected" : ""}`
+        });
+        const imgContainer = card.createDiv({ cls: "dg-theme-card-image" });
+        if (isDefault) {
+          imgContainer.createDiv({
+            cls: "dg-theme-card-placeholder",
+            text: "Default"
+          });
+        } else {
+          const img = imgContainer.createEl("img", {
+            attr: {
+              src: `https://raw.githubusercontent.com/${theme.repo}/${theme.branch || "HEAD"}/${theme.screenshot}`,
+              loading: "lazy"
+            }
+          });
+          img.onerror = () => {
+            img.style.display = "none";
+            imgContainer.createDiv({
+              cls: "dg-theme-card-placeholder",
+              text: "No preview"
+            });
+          };
+        }
+        card.createDiv({
+          cls: "dg-theme-card-name",
+          text: isDefault ? "Default" : theme.name
+        });
+        card.addEventListener("click", () => __async(this, null, function* () {
+          this.settings.theme = themeValue;
+          yield this.saveSettings();
+          updateCurrentThemeDisplay();
+          themeGrid.querySelectorAll(".dg-theme-card").forEach((c) => c.removeClass("is-selected"));
+          card.addClass("is-selected");
+        }));
+        return card;
+      };
+      const renderThemes = (filter2 = "") => {
+        themeGrid.empty();
+        const defaultTheme2 = {
+          name: "Default",
+          author: "",
+          screenshot: "",
+          modes: ["dark"],
+          repo: "",
+          legacy: false
+        };
+        if ("default".includes(filter2.toLowerCase())) {
+          createThemeCard(defaultTheme2, true);
+        }
+        sortedThemes.filter(
+          (t) => t.name.toLowerCase().includes(filter2.toLowerCase())
+        ).forEach((theme) => createThemeCard(theme));
+      };
+      renderThemes();
+      searchInput.addEventListener("input", (e) => {
+        const target = e.target;
+        renderThemes(target.value);
+      });
+      new import_obsidian15.Setting(themeSection).setName("Base theme").addDropdown((dd) => {
+        controls.baseTheme = dd;
         dd.addOption("dark", "Dark");
         dd.addOption("light", "Light");
         dd.setValue(this.settings.baseTheme);
@@ -28680,23 +32072,40 @@ var SettingView = class {
           yield this.saveSettings();
         }));
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Sitename").setDesc(
+      new import_obsidian15.Setting(themeSection).setName("Sitename").setDesc(
         "The name of your site. This will be displayed as the site header."
-      ).addText(
-        (text2) => text2.setValue(this.settings.siteName).onChange((value) => __async(this, null, function* () {
-          this.settings.siteName = value;
+      ).addText((text2) => {
+        controls.siteName = text2;
+        text2.setValue(this.settings.siteName).onChange(
+          (value) => __async(this, null, function* () {
+            this.settings.siteName = value;
+            yield this.saveSettings();
+          })
+        );
+      });
+      new import_obsidian15.Setting(themeSection).setName("Logo").setDesc(
+        "Path to an image in your vault to use as a logo instead of the sitename. Leave blank to show sitename text."
+      ).addText((tc) => {
+        tc.setPlaceholder("mylogo.png");
+        tc.setValue(this.settings.logoPath);
+        tc.onChange((val) => __async(this, null, function* () {
+          this.settings.logoPath = val;
           yield this.saveSettings();
-        }))
-      );
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Main language").setDesc(
+        }));
+        new ImageFileSuggest(this.app, tc.inputEl);
+      });
+      new import_obsidian15.Setting(themeSection).setName("Main language").setDesc(
         "Language code (ISO 639-1) for the main language of your site. This is used to set the correct language on your site to assist search engines and browsers."
-      ).addText(
-        (text2) => text2.setValue(this.settings.mainLanguage).onChange((value) => __async(this, null, function* () {
-          this.settings.mainLanguage = value;
-          yield this.saveSettings();
-        }))
-      );
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Favicon").setDesc(
+      ).addText((text2) => {
+        controls.mainLanguage = text2;
+        text2.setValue(this.settings.mainLanguage).onChange(
+          (value) => __async(this, null, function* () {
+            this.settings.mainLanguage = value;
+            yield this.saveSettings();
+          })
+        );
+      });
+      new import_obsidian15.Setting(themeSection).setName("Favicon").setDesc(
         "Path to an svg in your vault you wish to use as a favicon. Leave blank to use default. Must be square! (eg. 16x16)"
       ).addText((tc) => {
         tc.setPlaceholder("myfavicon.svg");
@@ -28707,26 +32116,34 @@ var SettingView = class {
         }));
         new SvgFileSuggest(this.app, tc.inputEl);
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Use full resolution images").setDesc(
+      new import_obsidian15.Setting(themeSection).setName("Use full resolution images").setDesc(
         "By default, the images on your site are compressed to make your site load faster. If you instead want to use the full resolution images, enable this setting."
       ).addToggle((toggle) => {
+        controls.useFullResolutionImages = toggle;
         toggle.setValue(this.settings.useFullResolutionImages);
         toggle.onChange((val) => __async(this, null, function* () {
           this.settings.useFullResolutionImages = val;
           yield this.saveSettings();
         }));
       });
-      new import_obsidian13.Setting(themeModal.contentEl).addButton(handleSaveSettingsButton);
-      themeModal.contentEl.createEl("h2", { text: "Timestamps Settings" }).prepend(this.getIcon("calendar-clock"));
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Timestamp format").setDesc(
+      new import_obsidian15.Setting(themeSection).setClass("dg-apply-button-container").addButton(handleSaveSettingsButton);
+      const timestampsSection = themeModal.contentEl.createDiv({
+        cls: "dg-settings-section"
+      });
+      timestampsSection.createEl("h3", { text: "Timestamps Settings" }).prepend(this.getIcon("calendar-clock"));
+      new import_obsidian15.Setting(timestampsSection).setName("Timestamp format").setDesc(
         "The format string to render timestamp on the garden. Must be luxon compatible"
-      ).addText(
-        (text2) => text2.setValue(this.settings.timestampFormat).onChange((value) => __async(this, null, function* () {
-          this.settings.timestampFormat = value;
-          yield this.saveSettings();
-        }))
-      );
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show created timestamp").addToggle((t) => {
+      ).addText((text2) => {
+        controls.timestampFormat = text2;
+        text2.setValue(this.settings.timestampFormat).onChange(
+          (value) => __async(this, null, function* () {
+            this.settings.timestampFormat = value;
+            yield this.saveSettings();
+          })
+        );
+      });
+      new import_obsidian15.Setting(timestampsSection).setName("Show created timestamp").addToggle((t) => {
+        controls.showCreatedTimestamp = t;
         t.setValue(this.settings.showCreatedTimestamp).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showCreatedTimestamp = value;
@@ -28734,7 +32151,7 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Created timestamp Frontmatter Key").setDesc(
+      new import_obsidian15.Setting(timestampsSection).setName("Created timestamp Frontmatter Key").setDesc(
         "Key to get the created timestamp from the frontmatter. Leave blank to get the value from file creation time. The value can be any value that luxon Datetime.fromISO can parse."
       ).addText(
         (text2) => text2.setValue(this.settings.createdTimestampKey).onChange((value) => __async(this, null, function* () {
@@ -28742,7 +32159,8 @@ var SettingView = class {
           yield this.saveSettings();
         }))
       );
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show updated timestamp").addToggle((t) => {
+      new import_obsidian15.Setting(timestampsSection).setName("Show updated timestamp").addToggle((t) => {
+        controls.showUpdatedTimestamp = t;
         t.setValue(this.settings.showUpdatedTimestamp).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showUpdatedTimestamp = value;
@@ -28750,7 +32168,7 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Updated timestamp Frontmatter Key").setDesc(
+      new import_obsidian15.Setting(timestampsSection).setName("Updated timestamp Frontmatter Key").setDesc(
         "Key to get the updated timestamp from the frontmatter. Leave blank to get the value from file update time. The value can be any value that luxon Datetime.fromISO can parse."
       ).addText(
         (text2) => text2.setValue(this.settings.updatedTimestampKey).onChange((value) => __async(this, null, function* () {
@@ -28758,9 +32176,12 @@ var SettingView = class {
           yield this.saveSettings();
         }))
       );
-      new import_obsidian13.Setting(themeModal.contentEl).addButton(handleSaveSettingsButton);
-      themeModal.contentEl.createEl("h2", { text: "CSS settings" }).prepend(this.getIcon("code"));
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Body Classes Key").setDesc(
+      new import_obsidian15.Setting(timestampsSection).setClass("dg-apply-button-container").addButton(handleSaveSettingsButton);
+      const cssSection = themeModal.contentEl.createDiv({
+        cls: "dg-settings-section"
+      });
+      cssSection.createEl("h3", { text: "CSS settings" }).prepend(this.getIcon("code"));
+      new import_obsidian15.Setting(cssSection).setName("Body Classes Key").setDesc(
         "Key for setting css-classes to the note body from the frontmatter."
       ).addText(
         (text2) => text2.setValue(this.settings.contentClassesKey).onChange((value) => __async(this, null, function* () {
@@ -28768,19 +32189,23 @@ var SettingView = class {
           yield this.saveSettings();
         }))
       );
-      new import_obsidian13.Setting(themeModal.contentEl).addButton(handleSaveSettingsButton);
-      themeModal.contentEl.createEl("h2", { text: "Note icons Settings" }).prepend(this.getIcon("image"));
-      themeModal.contentEl.createEl("div", { attr: { style: "margin-bottom: 10px;" } }).createEl("a", {
+      new import_obsidian15.Setting(cssSection).setClass("dg-apply-button-container").addButton(handleSaveSettingsButton);
+      const noteIconsSection = themeModal.contentEl.createDiv({
+        cls: "dg-settings-section"
+      });
+      noteIconsSection.createEl("h3", { text: "Note icons Settings" }).prepend(this.getIcon("image"));
+      noteIconsSection.createEl("div", { cls: "dg-docs-link" }).createEl("a", {
         text: "Documentation on note icons",
         href: "https://dg-docs.ole.dev/advanced/note-specific-settings/#note-icons"
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Note icon Frontmatter Key").setDesc("Key to get the note icon value from the frontmatter").addText(
+      new import_obsidian15.Setting(noteIconsSection).setName("Note icon Frontmatter Key").setDesc("Key to get the note icon value from the frontmatter").addText(
         (text2) => text2.setValue(this.settings.noteIconKey).onChange((value) => __async(this, null, function* () {
           this.settings.noteIconKey = value;
           yield this.saveSettings();
         }))
       );
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Default note icon Value").setDesc("The default value for note icon if not specified").addText((text2) => {
+      new import_obsidian15.Setting(noteIconsSection).setName("Default note icon Value").setDesc("The default value for note icon if not specified").addText((text2) => {
+        controls.defaultNoteIcon = text2;
         text2.setValue(this.settings.defaultNoteIcon).onChange(
           (value) => __async(this, null, function* () {
             this.settings.defaultNoteIcon = value;
@@ -28788,7 +32213,8 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show note icon on Title").addToggle((t) => {
+      new import_obsidian15.Setting(noteIconsSection).setName("Show note icon on Title").addToggle((t) => {
+        controls.showNoteIconOnTitle = t;
         t.setValue(this.settings.showNoteIconOnTitle).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showNoteIconOnTitle = value;
@@ -28796,7 +32222,8 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show note icon in FileTree").addToggle((t) => {
+      new import_obsidian15.Setting(noteIconsSection).setName("Show note icon in FileTree").addToggle((t) => {
+        controls.showNoteIconInFileTree = t;
         t.setValue(this.settings.showNoteIconInFileTree).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showNoteIconInFileTree = value;
@@ -28804,7 +32231,8 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show note icon on Internal Links").addToggle((t) => {
+      new import_obsidian15.Setting(noteIconsSection).setName("Show note icon on Internal Links").addToggle((t) => {
+        controls.showNoteIconOnInternalLink = t;
         t.setValue(this.settings.showNoteIconOnInternalLink).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showNoteIconOnInternalLink = value;
@@ -28812,7 +32240,8 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).setName("Show note icon on Backlinks").addToggle((t) => {
+      new import_obsidian15.Setting(noteIconsSection).setName("Show note icon on Backlinks").addToggle((t) => {
+        controls.showNoteIconOnBackLink = t;
         t.setValue(this.settings.showNoteIconOnBackLink).onChange(
           (value) => __async(this, null, function* () {
             this.settings.showNoteIconOnBackLink = value;
@@ -28820,7 +32249,7 @@ var SettingView = class {
           })
         );
       });
-      new import_obsidian13.Setting(themeModal.contentEl).addButton(handleSaveSettingsButton);
+      new import_obsidian15.Setting(noteIconsSection).setClass("dg-apply-button-container").addButton(handleSaveSettingsButton);
     });
   }
   saveSettingsAndUpdateEnv() {
@@ -28828,7 +32257,7 @@ var SettingView = class {
       const theme = JSON.parse(this.settings.theme);
       const baseTheme = this.settings.baseTheme;
       if (theme.modes.indexOf(baseTheme) < 0) {
-        new import_obsidian13.Notice(
+        new import_obsidian15.Notice(
           `The ${theme.name} theme doesn't support ${baseTheme} mode.`
         );
         return;
@@ -28838,12 +32267,12 @@ var SettingView = class {
         this.settings
       );
       yield gardenManager.updateEnv();
-      new import_obsidian13.Notice("Successfully applied settings");
+      new import_obsidian15.Notice("Successfully applied settings");
     });
   }
   saveSiteSettingsAndUpdateEnv(metadataCache, settings, saveSettings) {
     return __async(this, null, function* () {
-      new import_obsidian13.Notice("Updating settings...");
+      new import_obsidian15.Notice("Updating settings...");
       let updateFailed = false;
       try {
         const gardenManager = new DigitalGardenSiteManager(
@@ -28852,36 +32281,50 @@ var SettingView = class {
         );
         yield gardenManager.updateEnv();
       } catch (e) {
-        new import_obsidian13.Notice(
+        new import_obsidian15.Notice(
           "Failed to update settings. Make sure you have an internet connection."
         );
         updateFailed = true;
       }
       if (!updateFailed) {
-        new import_obsidian13.Notice("Settings successfully updated!");
+        new import_obsidian15.Notice("Settings successfully updated!");
         yield saveSettings();
       }
     });
   }
-  addFavicon(octokit) {
+  parseEnvSettings(envContent) {
+    const settings = {};
+    for (const line of envContent.split("\n")) {
+      const trimmedLine = line.trim();
+      if (!trimmedLine || trimmedLine.startsWith("#"))
+        continue;
+      const [key, ...valueParts] = trimmedLine.split("=");
+      if (key) {
+        settings[key.trim()] = valueParts.join("=").trim();
+      }
+    }
+    return settings;
+  }
+  addFavicon(octokit, owner, repo) {
     return __async(this, null, function* () {
       let base64SettingsFaviconContent = "";
       if (this.settings.faviconPath) {
         const faviconFile = this.app.vault.getAbstractFileByPath(
           this.settings.faviconPath
         );
-        if (!(faviconFile instanceof import_obsidian13.TFile)) {
-          new import_obsidian13.Notice(`${this.settings.faviconPath} is not a valid file.`);
+        if (!(faviconFile instanceof import_obsidian15.TFile)) {
+          new import_obsidian15.Notice(`${this.settings.faviconPath} is not a valid file.`);
           return;
         }
         const faviconContent = yield this.app.vault.readBinary(faviconFile);
         base64SettingsFaviconContent = arrayBufferToBase64(faviconContent);
       } else {
-        const defaultFavicon = yield octokit.request(
+        const baseConnection = PublishPlatformConnectionFactory.createBaseGardenConnection();
+        const defaultFavicon = yield baseConnection.octoKit.request(
           "GET /repos/{owner}/{repo}/contents/{path}",
           {
-            owner: "oleeskild",
-            repo: "digitalgarden",
+            owner: baseConnection.userName,
+            repo: baseConnection.pageName,
             path: "src/site/favicon.svg"
           }
         );
@@ -28894,15 +32337,15 @@ var SettingView = class {
         currentFaviconOnSite = yield octokit.request(
           "GET /repos/{owner}/{repo}/contents/{path}",
           {
-            owner: this.settings.githubUserName,
-            repo: this.settings.githubRepo,
+            owner,
+            repo,
             path: "src/site/favicon.svg"
           }
         );
         faviconsAreIdentical = // @ts-expect-error TODO: abstract octokit response
-        currentFaviconOnSite.data.content === base64SettingsFaviconContent;
+        currentFaviconOnSite.data.content.replace(/\n/g, "") === base64SettingsFaviconContent;
         if (faviconsAreIdentical) {
-          import_js_logger7.default.info("Favicons are identical, skipping update");
+          import_js_logger9.default.info("Favicons are identical, skipping update");
           return;
         }
       } catch (error) {
@@ -28910,8 +32353,8 @@ var SettingView = class {
       }
       if (!faviconExists || !faviconsAreIdentical) {
         yield octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
-          owner: this.settings.githubUserName,
-          repo: this.settings.githubRepo,
+          owner,
+          repo,
           path: "src/site/favicon.svg",
           message: `Update favicon.svg`,
           content: base64SettingsFaviconContent,
@@ -28921,22 +32364,134 @@ var SettingView = class {
       }
     });
   }
-  initializeGitHubBaseURLSetting() {
-    new import_obsidian13.Setting(this.settingsRootElement).setName("Base URL").setDesc(
-      `This is optional, but recommended. It is used for the "Copy Garden URL" command, generating a sitemap.xml for better SEO and an RSS feed located at /feed.xml. `
-    ).addText(
-      (text2) => text2.setPlaceholder("https://my-garden.vercel.app").setValue(this.settings.gardenBaseUrl).onChange((value) => __async(this, null, function* () {
-        this.settings.gardenBaseUrl = value;
-        this.debouncedSaveAndUpdate(
-          this.app.metadataCache,
-          this.settings,
-          this.saveSettings
+  addLogo(octokit, owner, repo) {
+    return __async(this, null, function* () {
+      var _a2;
+      import_js_logger9.default.info(
+        `addLogo called, logoPath setting: "${this.settings.logoPath}", owner: "${owner}", repo: "${repo}"`
+      );
+      const logoBasePath = "src/site/logo";
+      const logoExtensions = ["png", "jpg", "jpeg", "gif", "svg", "webp"];
+      for (const ext of logoExtensions) {
+        try {
+          const existingLogo = yield octokit.request(
+            "GET /repos/{owner}/{repo}/contents/{path}",
+            {
+              owner,
+              repo,
+              path: `${logoBasePath}.${ext}`
+            }
+          );
+          if (existingLogo.data) {
+            const currentPath = this.settings.logoPath;
+            const currentExt = currentPath ? (_a2 = currentPath.split(".").pop()) == null ? void 0 : _a2.toLowerCase() : null;
+            if (!currentPath || currentExt !== ext) {
+              yield octokit.request(
+                "DELETE /repos/{owner}/{repo}/contents/{path}",
+                {
+                  owner,
+                  repo,
+                  path: `${logoBasePath}.${ext}`,
+                  message: `Remove logo.${ext}`,
+                  // @ts-expect-error TODO: abstract octokit response
+                  sha: existingLogo.data.sha
+                }
+              );
+            }
+          }
+        } catch (e) {
+        }
+      }
+      if (!this.settings.logoPath) {
+        return;
+      }
+      const logoFile = this.app.vault.getAbstractFileByPath(
+        this.settings.logoPath
+      );
+      if (!(logoFile instanceof import_obsidian15.TFile)) {
+        new import_obsidian15.Notice(`${this.settings.logoPath} is not a valid file.`);
+        return;
+      }
+      const logoContent = yield this.app.vault.readBinary(logoFile);
+      const base64LogoContent = arrayBufferToBase64(logoContent);
+      const logoExtension = logoFile.extension.toLowerCase();
+      const logoPath = `${logoBasePath}.${logoExtension}`;
+      import_js_logger9.default.info(
+        `Uploading logo from ${this.settings.logoPath} to ${logoPath}`
+      );
+      let logoExists = true;
+      let logosAreIdentical = false;
+      let currentLogoOnSite = null;
+      try {
+        currentLogoOnSite = yield octokit.request(
+          "GET /repos/{owner}/{repo}/contents/{path}",
+          {
+            owner,
+            repo,
+            path: logoPath
+          }
         );
-      }))
+        logosAreIdentical = // @ts-expect-error TODO: abstract octokit response
+        currentLogoOnSite.data.content.replace(/\n/g, "") === base64LogoContent;
+        if (logosAreIdentical) {
+          import_js_logger9.default.info("Logos are identical, skipping update");
+          return;
+        }
+      } catch (e) {
+        logoExists = false;
+      }
+      if (!logoExists || !logosAreIdentical) {
+        try {
+          const requestPayload = __spreadValues({
+            owner,
+            repo,
+            path: logoPath,
+            message: `Update logo.${logoExtension}`,
+            content: base64LogoContent
+          }, logoExists ? { sha: currentLogoOnSite.data.sha } : {});
+          yield octokit.request(
+            "PUT /repos/{owner}/{repo}/contents/{path}",
+            requestPayload
+          );
+        } catch (error) {
+          import_js_logger9.default.error("Failed to upload logo", error);
+          new import_obsidian15.Notice(
+            "Failed to upload logo. Check the developer console for details."
+          );
+        }
+      }
+    });
+  }
+  initializeGitHubBaseURLSetting() {
+    const siteBaseUrl = new import_obsidian15.Setting(this.settingsRootElement).setName("Base URL").setDesc(
+      `This is optional, but recommended. It is used for the "Copy Garden URL" command, generating a sitemap.xml for better SEO and an RSS feed located at /feed.xml. `
     );
+    if (this.settings.publishPlatform === "ForestryMd" /* ForestryMd */) {
+      siteBaseUrl.addText(
+        (text2) => text2.setPlaceholder("https://my-garden.forestry.md").setValue(this.settings.forestrySettings.baseUrl).onChange((value) => __async(this, null, function* () {
+          this.settings.forestrySettings.baseUrl = value;
+          this.debouncedSaveAndUpdate(
+            this.app.metadataCache,
+            this.settings,
+            this.saveSettings
+          );
+        }))
+      );
+    } else {
+      siteBaseUrl.addText(
+        (text2) => text2.setPlaceholder("https://my-garden.vercel.app").setValue(this.settings.gardenBaseUrl).onChange((value) => __async(this, null, function* () {
+          this.settings.gardenBaseUrl = value;
+          this.debouncedSaveAndUpdate(
+            this.app.metadataCache,
+            this.settings,
+            this.saveSettings
+          );
+        }))
+      );
+    }
   }
   initializeSlugifySetting() {
-    new import_obsidian13.Setting(this.settingsRootElement).setName("Slugify Note URL").setDesc(
+    new import_obsidian15.Setting(this.settingsRootElement).setName("Slugify Note URL").setDesc(
       'Transform the URL from "/My Folder/My Note/" to "/my-folder/my-note". If your note titles contains non-English characters, this should be disabled.'
     ).addToggle(
       (toggle) => toggle.setValue(this.settings.slugifyEnabled).onChange((value) => __async(this, null, function* () {
@@ -28951,7 +32506,7 @@ var SettingView = class {
       this.app.metadataCache,
       this.settings
     );
-    const rewriteRulesModal = new import_obsidian13.Modal(this.app);
+    const rewriteRulesModal = new import_obsidian15.Modal(this.app);
     rewriteRulesModal.open();
     const modalContent = new RewriteSettings_default({
       target: rewriteRulesModal.contentEl,
@@ -28966,10 +32521,10 @@ var SettingView = class {
     };
   }
   initializeCustomFilterSettings() {
-    const customFilterModal = new import_obsidian13.Modal(this.app);
+    const customFilterModal = new import_obsidian15.Modal(this.app);
     customFilterModal.titleEl.createEl("h1", { text: "Custom Filters" });
     customFilterModal.modalEl.style.width = "fit-content";
-    new import_obsidian13.Setting(this.settingsRootElement).setName("Custom Filters").setDesc(
+    new import_obsidian15.Setting(this.settingsRootElement).setName("Custom Filters").setDesc(
       "Define custom rules to replace parts of the note before publishing."
     ).addButton((cb) => {
       cb.setButtonText("Manage Custom Filters");
@@ -28999,7 +32554,7 @@ var SettingView = class {
       }
     }).innerHTML = `Example: filter [<code>:smile:</code>, <code>\u{1F600}</code>, <code>g</code>] will replace text with real emojis`;
     const customFilters = this.settings.customFilters;
-    new import_obsidian13.Setting(rewriteSettingsContainer).setName("Filters").addButton((button) => {
+    new import_obsidian15.Setting(rewriteSettingsContainer).setName("Filters").addButton((button) => {
       button.setButtonText("Add");
       button.setTooltip("Add a filter");
       button.setIcon("plus");
@@ -29024,20 +32579,21 @@ var SettingView = class {
   renderCreatePr(modal, handlePR, siteManager) {
     return __async(this, null, function* () {
       var _a2;
-      this.settingsRootElement.createEl("h3", { text: "Update site" }).prepend((_a2 = (0, import_obsidian13.getIcon)("sync")) != null ? _a2 : "");
-      import_js_logger7.default.time("checkForUpdate");
-      const updater = yield siteManager.templateUpdater.checkForUpdates();
-      import_js_logger7.default.timeEnd("checkForUpdate");
+      this.settingsRootElement.createEl("h3", { text: "Update site" }).prepend((_a2 = (0, import_obsidian15.getIcon)("sync")) != null ? _a2 : "");
+      import_js_logger9.default.time("checkForUpdate");
+      const updater = yield (yield siteManager.getTemplateUpdater()).checkForUpdates();
+      import_js_logger9.default.timeEnd("checkForUpdate");
       const updateAvailable = hasUpdates(updater);
-      new import_obsidian13.Setting(this.settingsRootElement).setName("Site Template").setDesc(
+      new import_obsidian15.Setting(this.settingsRootElement).setName("Site Template").setDesc(
         "Manage updates to the base template. You should try updating the template when you update the plugin to make sure your garden support all features."
       ).addButton((button) => __async(this, null, function* () {
         button.setButtonText(`Checking...`);
-        import_js_logger7.default.time("checkForUpdate");
+        import_js_logger9.default.time("checkForUpdate");
         if (updateAvailable) {
           button.setButtonText(
             `Update to ${updater.newestTemplateVersion}`
           );
+          button.setCta();
         } else {
           button.setButtonText("Already up to date!");
           button.setDisabled(true);
@@ -29046,17 +32602,44 @@ var SettingView = class {
           modal.open();
         });
       }));
-      modal.titleEl.createEl("h2", { text: "Update site" });
-      new import_obsidian13.Setting(modal.contentEl).setName("Update site to latest template").setDesc(
-        `
-				This will create a pull request with the latest template changes, which you'll need to use all plugin features. 
-				It will not publish any changes before you approve them.
-			`
-      ).addButton(
-        (button) => button.setButtonText("Create PR").onClick(
-          () => handlePR(button, updater)
-        )
-      );
+      modal.titleEl.empty();
+      const titleContainer = modal.titleEl.createDiv({
+        cls: "dg-modal-title"
+      });
+      const syncIcon = (0, import_obsidian15.getIcon)("refresh-cw");
+      if (syncIcon) {
+        titleContainer.appendChild(syncIcon);
+      }
+      titleContainer.createSpan({ text: "Update Site Template" });
+      const updateSection = modal.contentEl.createDiv({
+        cls: "dg-update-section"
+      });
+      const infoContainer = updateSection.createDiv({
+        cls: "dg-update-info"
+      });
+      const infoIcon = (0, import_obsidian15.getIcon)("info");
+      if (infoIcon) {
+        infoContainer.appendChild(infoIcon);
+      }
+      infoContainer.createDiv({
+        cls: "dg-update-info-text",
+        text: "This will create a pull request with the latest template changes. Your site won't be updated until you approve the PR."
+      });
+      const buttonContainer = updateSection.createDiv({
+        cls: "dg-update-button-container"
+      });
+      const createPrButton = buttonContainer.createEl("button", {
+        text: "Create Pull Request",
+        cls: "mod-cta"
+      });
+      createPrButton.addEventListener("click", () => {
+        handlePR(
+          {
+            setDisabled: (d) => createPrButton.disabled = d
+          },
+          updater
+        );
+      });
       this.settingsRootElement.createEl("h3", { text: "Support" }).prepend(this.getIcon("heart"));
       this.settingsRootElement.createDiv({
         attr: {
@@ -29076,86 +32659,161 @@ var SettingView = class {
     if (previousPrUrls.length === 0) {
       return;
     }
-    const header = modal.contentEl.createEl("h2", {
-      text: "\u2795 Recent Pull Request History"
+    const historySection = modal.contentEl.createDiv({
+      cls: "dg-pr-history"
     });
-    const prsContainer = modal.contentEl.createEl("ul", {});
+    const header = historySection.createDiv({
+      cls: "dg-pr-history-header"
+    });
+    const chevronIcon = (0, import_obsidian15.getIcon)("chevron-right");
+    if (chevronIcon) {
+      header.appendChild(chevronIcon);
+    }
+    header.createSpan({ text: "Recent Pull Requests" });
+    const prsContainer = historySection.createDiv({
+      cls: "dg-pr-history-list"
+    });
     prsContainer.hide();
-    header.onClickEvent(() => {
+    header.addEventListener("click", () => {
+      const chevron = header.querySelector(".svg-icon");
       if (prsContainer.isShown()) {
         prsContainer.hide();
-        header.textContent = "\u2795  Recent Pull Request History";
+        chevron == null ? void 0 : chevron.removeClass("is-expanded");
       } else {
         prsContainer.show();
-        header.textContent = "\u2796 Recent Pull Request History";
+        chevron == null ? void 0 : chevron.addClass("is-expanded");
       }
     });
-    previousPrUrls.map((prUrl) => {
-      const li = prsContainer.createEl("li", {
-        attr: { style: "margin-bottom: 10px" }
+    previousPrUrls.forEach((prUrl) => {
+      var _a2;
+      const prItem = prsContainer.createDiv({
+        cls: "dg-pr-history-item"
       });
-      const prUrlElement = document.createElement("a");
-      prUrlElement.href = prUrl;
-      prUrlElement.textContent = prUrl;
-      li.appendChild(prUrlElement);
+      const gitPrIcon = (0, import_obsidian15.getIcon)("git-pull-request");
+      if (gitPrIcon) {
+        prItem.appendChild(gitPrIcon);
+      }
+      const prNumber = (_a2 = prUrl.match(/\/pull\/(\d+)/)) == null ? void 0 : _a2[1];
+      const displayText = prNumber ? `Pull Request #${prNumber}` : prUrl;
+      prItem.createEl("a", {
+        text: displayText,
+        href: prUrl,
+        cls: "dg-pr-history-link"
+      });
     });
   }
 };
 
 // src/views/UpdateGardenRepositoryModal.ts
-var import_obsidian14 = require("obsidian");
-var UpdateGardenRepositoryModal = class extends import_obsidian14.Modal {
+var import_obsidian16 = require("obsidian");
+var UpdateGardenRepositoryModal = class extends import_obsidian16.Modal {
   constructor(app) {
     super(app);
-    this.progressViewTop = this.contentEl.createDiv();
+    this.modalEl.addClass("dg-update-modal");
+    this.progressViewTop = this.contentEl.createDiv({
+      cls: "dg-update-progress"
+    });
   }
   renderLoading() {
-    var _a2;
-    this.loading = this.progressViewTop.createDiv();
+    this.loading = this.progressViewTop.createDiv({
+      cls: "dg-update-loading"
+    });
     this.loading.show();
-    const text2 = "Creating PR. This should take about 30-60 seconds";
-    const loadingText = (_a2 = this.loading) == null ? void 0 : _a2.createEl("h5", { text: text2 });
+    const spinnerContainer = this.loading.createDiv({
+      cls: "dg-update-spinner"
+    });
+    const spinnerIcon = (0, import_obsidian16.getIcon)("loader-2");
+    if (spinnerIcon) {
+      spinnerContainer.appendChild(spinnerIcon);
+    }
+    const loadingText = this.loading.createEl("p", {
+      cls: "dg-update-loading-text",
+      text: "Creating pull request..."
+    });
+    this.loading.createEl("p", {
+      cls: "dg-update-loading-subtext",
+      text: "This usually takes 30-60 seconds"
+    });
+    let dots = 0;
     this.loadingInterval = setInterval(() => {
-      if (loadingText.innerText === `${text2}`) {
-        loadingText.innerText = `${text2}.`;
-      } else if (loadingText.innerText === `${text2}.`) {
-        loadingText.innerText = `${text2}..`;
-      } else if (loadingText.innerText === `${text2}..`) {
-        loadingText.innerText = `${text2}...`;
-      } else {
-        loadingText.innerText = `${text2}`;
-      }
+      dots = (dots + 1) % 4;
+      loadingText.textContent = "Creating pull request" + ".".repeat(dots);
     }, 400);
   }
   renderSuccess(prUrl) {
     var _a2;
     (_a2 = this.loading) == null ? void 0 : _a2.remove();
     clearInterval(this.loadingInterval);
-    const successmessage = prUrl ? { text: `\u{1F389} Done! Approve your PR to make the changes go live.` } : {
-      text: "You already have the latest template \u{1F389} No need to create a PR."
-    };
-    const linkText = { text: `${prUrl}`, href: prUrl };
-    this.progressViewTop.createEl("h2", successmessage);
-    if (prUrl) {
-      this.progressViewTop.createEl("a", linkText);
+    const successContainer = this.progressViewTop.createDiv({
+      cls: "dg-update-success"
+    });
+    const iconContainer = successContainer.createDiv({
+      cls: "dg-update-icon dg-update-icon-success"
+    });
+    const checkIcon = (0, import_obsidian16.getIcon)("check-circle");
+    if (checkIcon) {
+      iconContainer.appendChild(checkIcon);
     }
-    this.progressViewTop.createEl("br");
+    if (prUrl) {
+      successContainer.createEl("h3", {
+        text: "Pull request created!",
+        cls: "dg-update-title"
+      });
+      successContainer.createEl("p", {
+        text: "Approve the PR to make the changes go live.",
+        cls: "dg-update-message"
+      });
+      const linkContainer = successContainer.createDiv({
+        cls: "dg-update-link-container"
+      });
+      const link = linkContainer.createEl("a", {
+        text: "Open Pull Request",
+        href: prUrl,
+        cls: "dg-update-link"
+      });
+      const externalIcon = (0, import_obsidian16.getIcon)("external-link");
+      if (externalIcon) {
+        link.appendChild(externalIcon);
+      }
+    } else {
+      successContainer.createEl("h3", {
+        text: "Already up to date!",
+        cls: "dg-update-title"
+      });
+      successContainer.createEl("p", {
+        text: "Your site template is already on the latest version.",
+        cls: "dg-update-message"
+      });
+    }
   }
   renderError() {
     var _a2;
     (_a2 = this.loading) == null ? void 0 : _a2.remove();
     clearInterval(this.loadingInterval);
-    const errorMsg = {
-      text: "\u274C Something went wrong. Try deleting the branch in GitHub.",
-      attr: {}
-    };
-    this.progressViewTop.createEl("p", errorMsg);
+    const errorContainer = this.progressViewTop.createDiv({
+      cls: "dg-update-error"
+    });
+    const iconContainer = errorContainer.createDiv({
+      cls: "dg-update-icon dg-update-icon-error"
+    });
+    const alertIcon = (0, import_obsidian16.getIcon)("alert-circle");
+    if (alertIcon) {
+      iconContainer.appendChild(alertIcon);
+    }
+    errorContainer.createEl("h3", {
+      text: "Something went wrong",
+      cls: "dg-update-title"
+    });
+    errorContainer.createEl("p", {
+      text: 'Try deleting the "update-template" branch in your GitHub repository and try again.',
+      cls: "dg-update-message"
+    });
   }
 };
 
 // src/views/DigitalGardenSettingTab.ts
-var import_js_logger8 = __toESM(require_logger());
-var DigitalGardenSettingTab = class extends import_obsidian15.PluginSettingTab {
+var import_js_logger10 = __toESM(require_logger());
+var DigitalGardenSettingTab = class extends import_obsidian17.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -29195,9 +32853,9 @@ var DigitalGardenSettingTab = class extends import_obsidian15.PluginSettingTab {
           return;
         }
         try {
-          import_js_logger8.default.time("update");
+          import_js_logger10.default.time("update");
           const prUrl = yield updater.updateTemplate();
-          import_js_logger8.default.timeEnd("update");
+          import_js_logger10.default.timeEnd("update");
           if (prUrl) {
             this.plugin.settings.prHistory.push(prUrl);
             yield this.plugin.saveSettings();
@@ -29208,17 +32866,19 @@ var DigitalGardenSettingTab = class extends import_obsidian15.PluginSettingTab {
           prModal.renderError();
         }
       });
-      settingView.renderCreatePr(prModal, handlePR, siteManager);
-      settingView.renderPullRequestHistory(
-        prModal,
-        this.plugin.settings.prHistory.reverse().slice(0, 10)
-      );
+      if (this.plugin.settings.publishPlatform === "SelfHosted" /* SelfHosted */) {
+        settingView.renderCreatePr(prModal, handlePR, siteManager);
+        settingView.renderPullRequestHistory(
+          prModal,
+          this.plugin.settings.prHistory.reverse().slice(0, 10)
+        );
+      }
     });
   }
 };
 
 // main.ts
-var import_js_logger9 = __toESM(require_logger());
+var import_js_logger11 = __toESM(require_logger());
 var defaultTheme = {
   name: "Red Graphite",
   author: "SeanWcom",
@@ -29237,6 +32897,7 @@ var DEFAULT_SETTINGS = {
   // Stringify to be backwards compatible with older versions
   theme: JSON.stringify(defaultTheme),
   faviconPath: "",
+  logoPath: "",
   useFullResolutionImages: false,
   noteSettingsIsInitialized: false,
   siteName: "Digital Garden",
@@ -29259,7 +32920,13 @@ var DEFAULT_SETTINGS = {
   styleSettingsBodyClasses: "",
   pathRewriteRules: "",
   customFilters: [],
+  publishPlatform: "SelfHosted" /* SelfHosted */,
   contentClassesKey: "dg-content-classes",
+  forestrySettings: {
+    forestryPageName: "",
+    apiKey: "",
+    baseUrl: ""
+  },
   defaultNoteSettings: {
     dgHomeLink: true,
     dgPassFrontmatter: false,
@@ -29272,28 +32939,50 @@ var DEFAULT_SETTINGS = {
     dgLinkPreview: false,
     dgShowTags: false
   },
+  uiStrings: {
+    backlinkHeader: "",
+    noBacklinksMessage: "",
+    searchButtonText: "",
+    searchPlaceholder: "",
+    searchNotStarted: "",
+    searchEnterHotkey: "",
+    searchEnterHint: "",
+    searchNavigateHotkey: "",
+    searchNavigateHint: "",
+    searchCloseHotkey: "",
+    searchCloseHint: "",
+    searchNoResults: "",
+    searchPreviewPlaceholder: "",
+    canvasDragHint: "",
+    canvasZoomHint: "",
+    canvasResetHint: ""
+  },
   logLevel: void 0
 };
-import_js_logger9.default.useDefaults({
-  defaultLevel: import_js_logger9.default.WARN,
+import_js_logger11.default.useDefaults({
+  defaultLevel: import_js_logger11.default.WARN,
   formatter: function(messages, _context) {
     messages.unshift((/* @__PURE__ */ new Date()).toUTCString());
     messages.unshift("DG: ");
   }
 });
-var DigitalGarden = class extends import_obsidian17.Plugin {
+var DigitalGarden = class extends import_obsidian19.Plugin {
+  constructor() {
+    super(...arguments);
+    this.isPublishing = false;
+  }
   onload() {
     return __async(this, null, function* () {
       this.appVersion = this.manifest.version;
       console.log("Initializing DigitalGarden plugin v" + this.appVersion);
       yield this.loadSettings();
-      this.settings.logLevel && import_js_logger9.default.setLevel(this.settings.logLevel);
-      import_js_logger9.default.info(
-        "Digital garden log level set to " + import_js_logger9.default.getLevel().name
+      this.settings.logLevel && import_js_logger11.default.setLevel(this.settings.logLevel);
+      import_js_logger11.default.info(
+        "Digital garden log level set to " + import_js_logger11.default.getLevel().name
       );
       this.addSettingTab(new DigitalGardenSettingTab(this.app, this));
       yield this.addCommands();
-      (0, import_obsidian17.addIcon)("digital-garden-icon", seedling);
+      (0, import_obsidian19.addIcon)("digital-garden-icon", seedling);
       this.addRibbonIcon(
         "digital-garden-icon",
         "Digital Garden Publication Center",
@@ -29325,7 +33014,7 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
         id: "quick-publish-and-share-note",
         name: "Quick Publish And Share Note",
         callback: () => __async(this, null, function* () {
-          new import_obsidian17.Notice("Adding publish flag to note and publishing it.");
+          new import_obsidian19.Notice("Adding publish flag to note and publishing it.");
           yield this.setPublishFlagValue(true);
           const activeFile = this.app.workspace.getActiveFile();
           const event = this.app.metadataCache.on(
@@ -29347,13 +33036,13 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
       });
       this.addCommand({
         id: "publish-note",
-        name: "Publish Single Note",
+        name: "Publish Active Note",
         callback: () => __async(this, null, function* () {
           yield this.publishSingleNote();
         })
       });
-      if (this.settings["ENABLE_DEVELOPER_TOOLS"] && import_obsidian17.Platform.isDesktop) {
-        import_js_logger9.default.info("Developer tools enabled");
+      if (this.settings["ENABLE_DEVELOPER_TOOLS"] && import_obsidian19.Platform.isDesktop) {
+        import_js_logger11.default.info("Developer tools enabled");
         const publisher = new Publisher(
           this.app.vault,
           this.app.metadataCache,
@@ -29371,17 +33060,24 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
             })
           });
         }).catch((e) => {
-          import_js_logger9.default.error("Unable to load generateGardenSnapshot", e);
+          import_js_logger11.default.error("Unable to load generateGardenSnapshot", e);
         });
       }
       this.addCommand({
         id: "publish-multiple-notes",
-        name: "Publish Multiple Notes",
+        name: "Publish All Notes Marked for Publish",
         // TODO: move to publisher?
         callback: () => __async(this, null, function* () {
+          if (this.isPublishing) {
+            new import_obsidian19.Notice(
+              "A publish operation is already in progress. Please wait for it to complete."
+            );
+            return;
+          }
+          this.isPublishing = true;
           const statusBarItem = this.addStatusBarItem();
           try {
-            new import_obsidian17.Notice("Processing files to publish...");
+            new import_obsidian19.Notice("Processing files to publish...");
             const { vault, metadataCache } = this.app;
             const publisher = new Publisher(
               vault,
@@ -29405,15 +33101,16 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
             const imagesToDelete = publishStatus.deletedImagePaths;
             const totalItems = filesToPublish.length + filesToDelete.length + imagesToDelete.length;
             if (totalItems === 0) {
-              new import_obsidian17.Notice("Garden is already fully synced!");
+              new import_obsidian19.Notice("Garden is already fully synced!");
               statusBarItem.remove();
+              this.isPublishing = false;
               return;
             }
             const statusBar = new PublishStatusBar(
               statusBarItem,
               filesToPublish.length + filesToDelete.length + imagesToDelete.length
             );
-            new import_obsidian17.Notice(
+            new import_obsidian19.Notice(
               `Publishing ${filesToPublish.length} notes, deleting ${filesToDelete.length} notes and ${imagesToDelete.length} images. See the status bar in lower right corner for progress.`,
               8e3
             );
@@ -29428,23 +33125,29 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
               statusBar.increment();
             }
             statusBar.finish(8e3);
-            new import_obsidian17.Notice(
+            new import_obsidian19.Notice(
               `Successfully published ${filesToPublish.length} notes to your garden.`
             );
             if (filesToDelete.length > 0) {
-              new import_obsidian17.Notice(
+              new import_obsidian19.Notice(
                 `Successfully deleted ${filesToDelete.length} notes from your garden.`
               );
             }
             if (imagesToDelete.length > 0) {
-              new import_obsidian17.Notice(
+              new import_obsidian19.Notice(
                 `Successfully deleted ${imagesToDelete.length} images from your garden.`
               );
             }
+            this.isPublishing = false;
           } catch (e) {
             statusBarItem.remove();
+            this.isPublishing = false;
+            if (e instanceof LimitReachedError) {
+              this.showLimitNotice(e);
+              return;
+            }
             console.error(e);
-            new import_obsidian17.Notice(
+            new import_obsidian19.Notice(
               "Unable to publish multiple notes, something went wrong."
             );
           }
@@ -29485,12 +33188,19 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
           this.togglePublishFlag();
         })
       });
+      this.addCommand({
+        id: "dg-set-as-home-page",
+        name: "Set as Garden Home Page",
+        callback: () => __async(this, null, function* () {
+          yield this.setAsHomePage();
+        })
+      });
     });
   }
   getActiveFile(workspace) {
     const activeFile = workspace.getActiveFile();
     if (!activeFile) {
-      new import_obsidian17.Notice(
+      new import_obsidian19.Notice(
         "No file is open/active. Please open a file and try again."
       );
       return null;
@@ -29511,10 +33221,10 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
         );
         const fullUrl = siteManager.getNoteUrl(activeFile);
         yield navigator.clipboard.writeText(fullUrl);
-        new import_obsidian17.Notice(`Note URL copied to clipboard`);
+        new import_obsidian19.Notice(`Note URL copied to clipboard`);
       } catch (e) {
         console.log(e);
-        new import_obsidian17.Notice(
+        new import_obsidian19.Notice(
           "Unable to copy note URL to clipboard, something went wrong."
         );
       }
@@ -29529,13 +33239,13 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
         if (!activeFile) {
           return;
         }
-        if (activeFile.extension !== "md") {
-          new import_obsidian17.Notice(
-            "The current file is not a markdown file. Please open a markdown file and try again."
+        if (activeFile.extension !== "md" && activeFile.extension !== "canvas") {
+          new import_obsidian19.Notice(
+            "The current file is not a markdown or canvas file. Please open a supported file and try again."
           );
           return;
         }
-        new import_obsidian17.Notice("Publishing note...");
+        new import_obsidian19.Notice("Publishing note...");
         const publisher = new Publisher(
           vault,
           metadataCache,
@@ -29551,12 +33261,18 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
         }).compile();
         const publishSuccessful = yield publisher.publish(publishFile);
         if (publishSuccessful) {
-          new import_obsidian17.Notice(`Successfully published note to your garden.`);
+          new import_obsidian19.Notice(`Successfully published note to your garden.`);
+        } else {
+          new import_obsidian19.Notice("Unable to publish note, something went wrong.");
         }
         return publishSuccessful;
       } catch (e) {
+        if (e instanceof LimitReachedError) {
+          this.showLimitNotice(e);
+          return false;
+        }
         console.error(e);
-        new import_obsidian17.Notice("Unable to publish note, something went wrong.");
+        new import_obsidian19.Notice("Unable to publish note, something went wrong.");
         return false;
       }
     });
@@ -29567,12 +33283,12 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
       if (!activeFile) {
         return;
       }
-      const engine = new ObsidianFrontMatterEngine(
-        this.app.vault,
-        this.app.metadataCache,
-        activeFile
+      yield this.app.fileManager.processFrontMatter(
+        activeFile,
+        (frontmatter) => {
+          frontmatter["dg-publish" /* PUBLISH */] = value;
+        }
       );
-      engine.set("dg-publish" /* PUBLISH */, value).apply();
     });
   }
   togglePublishFlag() {
@@ -29581,44 +33297,181 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
       if (!activeFile) {
         return;
       }
-      const engine = new ObsidianFrontMatterEngine(
-        this.app.vault,
-        this.app.metadataCache,
-        activeFile
+      yield this.app.fileManager.processFrontMatter(
+        activeFile,
+        (frontmatter) => {
+          frontmatter["dg-publish" /* PUBLISH */] = !frontmatter["dg-publish" /* PUBLISH */];
+        }
       );
-      engine.set(
-        "dg-publish" /* PUBLISH */,
-        !engine.get("dg-publish" /* PUBLISH */)
-      ).apply();
     });
   }
-  openPublishModal() {
-    if (!this.publishModal) {
-      const siteManager = new DigitalGardenSiteManager(
-        this.app.metadataCache,
-        this.settings
+  setAsHomePage() {
+    return __async(this, null, function* () {
+      var _a2, _b;
+      const activeFile = this.getActiveFile(this.app.workspace);
+      if (!activeFile) {
+        return;
+      }
+      const currentFileCache = this.app.metadataCache.getFileCache(activeFile);
+      if ((_a2 = currentFileCache == null ? void 0 : currentFileCache.frontmatter) == null ? void 0 : _a2["dg-home" /* HOME */]) {
+        new import_obsidian19.Notice("This note is already set as the garden home page.");
+        return;
+      }
+      const existingHomePages = [];
+      for (const file of this.app.vault.getMarkdownFiles()) {
+        const cache = this.app.metadataCache.getFileCache(file);
+        if ((_b = cache == null ? void 0 : cache.frontmatter) == null ? void 0 : _b["dg-home" /* HOME */]) {
+          existingHomePages.push(file);
+        }
+      }
+      if (existingHomePages.length === 0) {
+        yield this.app.fileManager.processFrontMatter(
+          activeFile,
+          (frontmatter) => {
+            frontmatter["dg-home" /* HOME */] = true;
+            frontmatter["dg-publish" /* PUBLISH */] = true;
+          }
+        );
+        new import_obsidian19.Notice(
+          `${activeFile.basename} is now your garden's home page and has been marked for publishing.`
+        );
+      } else {
+        new HomePageConfirmationModal(
+          this.app,
+          activeFile,
+          existingHomePages[0],
+          (shouldUpdate) => __async(this, null, function* () {
+            if (shouldUpdate) {
+              yield this.app.fileManager.processFrontMatter(
+                existingHomePages[0],
+                (frontmatter) => {
+                  delete frontmatter["dg-home" /* HOME */];
+                }
+              );
+              yield this.app.fileManager.processFrontMatter(
+                activeFile,
+                (frontmatter) => {
+                  frontmatter["dg-home" /* HOME */] = true;
+                  frontmatter["dg-publish" /* PUBLISH */] = true;
+                }
+              );
+              new import_obsidian19.Notice(
+                `${activeFile.basename} is now your garden's home page and has been marked for publishing.`
+              );
+            }
+          })
+        ).open();
+      }
+    });
+  }
+  showLimitNotice(error) {
+    var _a2, _b;
+    if (error.errorType === "build_limit_reached") {
+      const used = (_a2 = error.buildsUsed) != null ? _a2 : 0;
+      const limit = (_b = error.monthlyLimit) != null ? _b : 0;
+      new import_obsidian19.Notice(
+        `Publishing blocked: You've used all ${used}/${limit} builds this month. Upgrade to Pro for 1000 builds/month at dashboard.forestry.md/settings`,
+        1e4
       );
-      const publisher = new Publisher(
-        this.app.vault,
-        this.app.metadataCache,
-        this.settings
-      );
-      const publishStatusManager = new PublishStatusManager(
-        siteManager,
-        publisher
-      );
-      this.publishModal = new PublicationCenter2(
-        this.app,
-        publishStatusManager,
-        publisher,
-        siteManager,
-        this.settings
+    } else {
+      new import_obsidian19.Notice(
+        `Publishing blocked: Storage limit exceeded. Free up space or upgrade at dashboard.forestry.md/settings`,
+        1e4
       );
     }
+  }
+  openPublishModal() {
+    const siteManager = new DigitalGardenSiteManager(
+      this.app.metadataCache,
+      this.settings
+    );
+    const publisher = new Publisher(
+      this.app.vault,
+      this.app.metadataCache,
+      this.settings
+    );
+    const publishStatusManager = new PublishStatusManager(
+      siteManager,
+      publisher
+    );
+    this.publishModal = new PublicationCenter2(
+      this.app,
+      publishStatusManager,
+      publisher,
+      siteManager,
+      this.settings
+    );
     this.publishModal.open();
   }
 };
+var HomePageConfirmationModal = class extends import_obsidian19.Modal {
+  constructor(app, newHomeFile, existingHomeFile, onConfirm) {
+    super(app);
+    this.newHomeFile = newHomeFile;
+    this.existingHomeFile = existingHomeFile;
+    this.onConfirm = onConfirm;
+  }
+  onOpen() {
+    const { contentEl } = this;
+    contentEl.createEl("h2", { text: "Replace Garden Home Page?" });
+    const messageDiv = contentEl.createDiv();
+    messageDiv.createEl("p", {
+      text: `${this.existingHomeFile.basename} is currently set as your garden home page.`
+    });
+    messageDiv.createEl("p", {
+      text: `This will remove the home page setting from ${this.existingHomeFile.basename} and set ${this.newHomeFile.basename} as the new home page.`
+    });
+    const warningDiv = contentEl.createDiv({
+      attr: {
+        style: "margin: 20px 0; padding: 12px; background: var(--background-secondary); border-radius: 4px;"
+      }
+    });
+    warningDiv.createEl("p", {
+      text: "\u26A0\uFE0F Important: Both notes should be published from the Publication Center to ensure your garden has a proper home page.",
+      attr: { style: "color: var(--text-warning); font-weight: bold;" }
+    });
+    const buttonContainer = contentEl.createDiv({
+      attr: {
+        style: "display: flex; gap: 10px; margin-top: 20px; justify-content: flex-end;"
+      }
+    });
+    const cancelButton = buttonContainer.createEl("button", {
+      text: "Cancel",
+      attr: {
+        style: "padding: 8px 16px; border-radius: 4px; cursor: pointer;"
+      }
+    });
+    cancelButton.onclick = () => {
+      this.onConfirm(false);
+      this.close();
+    };
+    const confirmButton = buttonContainer.createEl("button", {
+      text: "Replace Home Page",
+      attr: {
+        style: "padding: 8px 16px; border-radius: 4px; cursor: pointer; background: var(--interactive-accent); color: var(--text-on-accent);"
+      }
+    });
+    confirmButton.onclick = () => {
+      this.onConfirm(true);
+      this.close();
+    };
+    this.scope.register([], "Enter", () => {
+      this.onConfirm(true);
+      this.close();
+    });
+    this.scope.register([], "Escape", () => {
+      this.onConfirm(false);
+      this.close();
+    });
+  }
+  onClose() {
+    const { contentEl } = this;
+    contentEl.empty();
+  }
+};
 //!()[image.svg]
+//![[image.png]] or ![[file.pdf]]
+//![](image.png) or ![](file.pdf)
 //![[image.png]]
 //![](image.png)
 /*! Bundled license information:

@@ -249,7 +249,7 @@ Unbeknownst to the player, the tooth once belonged to a wolfir—a **werewolf** 
 
 The player who possesses the *wolf's tooth* should have strong, vivid reasons to believe that the tooth is the key to curing a particular wound, malady, or curse that ails them.
 
-***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Арка J - Украденный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Арка T - Три Святилища]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
+***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Арка J - Похищенный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Арка T - Три Святилища]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
 
 ## Duty—The Raven's Feather
 ![[Raven's Feather.png]]
@@ -303,7 +303,7 @@ The player who possesses the *stone crest* should have strong, vivid reasons to 
 
 ***Developments.*** When the player first approaches the exterior of Soldav in [[Arc R - Trials of the Mountain]], the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
 
-If the player shows the *stone crest* to Kavan in [[Арка J - Украденный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
+If the player shows the *stone crest* to Kavan in [[Арка J - Похищенный самоцвет]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
 ## Justice—The Broken Blade
 ![[Broken Blade.png]]
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
