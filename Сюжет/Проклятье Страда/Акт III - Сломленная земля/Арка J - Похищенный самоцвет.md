@@ -1212,12 +1212,15 @@ _**Веха.**_ Освобождение винодельни считается
 > [!abstract]+ **Пари Страда**
 > Если игрокам удаётся остановить ритуал, Страд ненадолго появляется верхом на Буцефале, зависая в **30 футах** над землёй на северо-западной стороне каменного круга. Как только игроки замечают его, Страд склоняет голову в сторону Стены тумана (стр. 200), подталкивает Буцефала в её направлении и вновь исчезает, когда **кошмар** уносится к ней галопом
 
-# J6. After the Ritual
-## J6a. Muriel’s Confession
-If the players confront Muriel after the fight, she is willing to share the following information:
+# J6. После Ритуала
+## J6a. Признание Муриэль
 
-* She, like all of the members of the Keepers of the Feather, is a **wereraven**—a lycanthrope cursed to assume the form of a raven beneath the light of the full moon. (If asked, Muriel can confirm that Elric Martikov was the Keeper who bestowed the curse upon her, and who initiated her into the Keepers of the Feather.)
-* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from Ludmilla’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
+Если игроки вступают в разговор с Муриэль после боя, она готова поделиться следующей информацией:
+
+- Она, как и все члены Хранителей Пера, является **вервороном** — ликантропом, проклятым принимать облик ворона под светом полной луны. (Если её спросить, Муриэль может подтвердить, что Элрик Мартиков был Хранителем, который наложил на неё это проклятие и посвятил её в Хранителей Пера)
+- Её ликантропия позволяет ей принимать облик ворона или гибрида ворона и гуманоида, а также даёт ей регенеративные способности и полёт, хотя серебряное оружие для неё смертельно. Если она получила урон от покрова тумана Людмилы, она сообщает, что некоторые виды тёмной магии, по-видимому, также смертельны для неё
+- Её жених, Элрик Мартиков, был вервороном, который сопровождал восстание Дору в облике ворона, стремясь направлять разрозненную толпу. Он так и не вернулся из замка Рэйвенлофт — очевидно, потому что Людмила убила его
+
 * Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
 
 If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
