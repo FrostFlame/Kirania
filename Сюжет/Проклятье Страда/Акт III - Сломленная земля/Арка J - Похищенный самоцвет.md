@@ -1221,15 +1221,14 @@ _**Веха.**_ Освобождение винодельни считается
 - Её ликантропия позволяет ей принимать облик ворона или гибрида ворона и гуманоида, а также даёт ей регенеративные способности и полёт, хотя серебряное оружие для неё смертельно. Если она получила урон от покрова тумана Людмилы, она сообщает, что некоторые виды тёмной магии, по-видимому, также смертельны для неё
 - Её жених, Элрик Мартиков, был вервороном, который сопровождал восстание Дору в облике ворона, стремясь направлять разрозненную толпу. Он так и не вернулся из замка Рэйвенлофт — очевидно, потому что Людмила убила его
 
-* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
+Если она потеряла контроль и напала на Людмилу, Муриэль искренне и с чувством стыда приносит извинения за это. ***«Всё казалось таким далёким»***, — тихо говорит она. ***«Я думала, что потеряю себя, я была так зла»***. Если игроки вернули её в чувство, она глубоко благодарна им за это
 
-If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
+Если игроки просят Муриэль проклясть их ликантропией верворона, она тихо смеётся и извиняется за то, что разочарует их. ***«Даже если бы я передала это вам, вы не смогли бы это контролировать — не без месяцев правильного обучения»***, — говорит она им. (Муриэль имеет в виду механизм, с помощью которого вервороны принимают своё проклятие, которое может быть обретено только неосознанно.) Муриэль извиняясь отказывается говорить об этом что-либо ещё, хотя с радостью заверяет игроков, что её отказ не связан с недостатком доверия
 
-If the players ask Muriel to curse them with wereraven lycanthropy, she laughs softly, and apologizes for disappointing them. “Even if I gave it to you, you couldn’t control it—not without months of proper training," she tells them. (Muriel is referring to the mechanism by which wereravens embrace their curse, which can only be achieved unknowingly.) Muriel apologetically refuses to say anything further on the subject, though she is glad to reassure the players that her refusal doesn’t arise from a lack of trust.
-## J6b. The Whispering Wall
+## J6b. Шепчущая стена
 
-> [!warning]+ **Player Dreams**
-> Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
+> [!warning]+ **Мечты игроков**
+> Перед проведением этой сцены попросите игроков предоставить информацию о глубочайших желаниях их персонажей, а затем используйте эту информацию, чтобы создать подходящую встречу, если этот персонаж войдёт в Шепчущую Стену
 
 This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
 
