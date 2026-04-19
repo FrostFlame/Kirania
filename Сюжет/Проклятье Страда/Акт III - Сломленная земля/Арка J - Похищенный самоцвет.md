@@ -1258,18 +1258,18 @@ _**Веха.**_ Освобождение винодельни считается
 
 Если любой или все игроки отказываются от испытания Страда, он хмурится, качает головой и отмечает своё разочарование в них. В противном случае игрок, вошедший в Шепчущую стену, оказывается в новом месте, неотличимом от реальности. Это место является отражением глубочайшего желания этого персонажа, вылепленным так, чтобы быть максимально реальным и притягательным. Место населено любыми обитателями, необходимыми для исполнения желания этого персонажа. И само место, и любые его обитатели являются иллюзорными, но для вошедших выглядят как твёрдые и реальные
 
-If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them. Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
+Спустя некоторое время — которое может ощущаться как минуты, часы или даже годы с момента входа — игрок получает «крючок»: приглашение, явное или тонкое, остаться. Таким крючком может быть, среди прочего, звон знакомого церковного колокола, ребёнок, просящий поиграть с ним, или любимый человек, умоляющий игрока остаться
 
-After a period of time — which may be subjective minutes, hours, or even years after they entered — the player receives a "hook": an invitation, subtle or direct, for that player to remain. A location's hook might be, among other things, the tolling of a familiar church bell, a child asking the player to play with them, or a loved one pleading the player to stay.
+Когда крючок впервые проявляется, в **10 футах** позади игрока, со стороны, откуда он пришёл, появляется высокая арка, сформированный из тумана и клубящейся дымки. Из неё раздаётся тихий звук, похожий на перезвон колокольчиков, и женский голос, далёкий и холодный, шепчет за спиной игрока: ***«Путь назад откроется лишь однажды»***. Арка начинает исчезать через **1 раунд**
 
-When the hook first manifests, a tall arch formed of fog and swirling mist appears ten feet behind the player, in the direction from whence they came. A faint sound similar to wind chimes echoes from its threshold, and a woman's voice, distant and cold, whispers from behind the player: "_The way back comes but once._" The arch begins to fade one round afterward.
+Через **3 раунда** арка исчезает навсегда, и персонаж оказывается заперт в Шепчущей стене навечно, без какой-либо возможности выбраться. (Персонаж может быть освобождён только если игроки восстановят память Сновидца в **Эпилоге**)
 
-After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
+> [!abstract]+ **Что видит Ирина**
+> Если Муриэль находится с игроками, она отказывается входить в Стену вместе с ними. ***«Я не приму даров от вон Заровича»***, — тихо говорит она. ***«И я и так знаю, что бы я там увидела»***. (Муриэль имеет в виду Элрика)
+>
+> Если Ирина находится с игроками, она входит в Стену, если как минимум половина игроков делает это (округляя вниз), и остаётся снаружи в противном случае. Если она входит, она видит восходящее солнце над открытой дорогой, которая проходит через живописный пейзаж к сияющему городу, виднеющемуся вдали. На дороге стоит крытая повозка, и женский голос тепло приглашает её войти: ***«потому что нас ждёт долгий путь»***. После выхода из Стены щёки Ирины блестят от слёз. (Она отказывается раскрывать содержание своего видения в присутствии Страда, но готова поделиться им позже, если её спросить)
 
-> [!abstract]+ **What Ireena Sees**
-> If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
-> 
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+
 
 To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
 
