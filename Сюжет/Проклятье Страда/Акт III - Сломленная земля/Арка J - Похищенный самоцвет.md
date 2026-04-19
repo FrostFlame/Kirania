@@ -1323,58 +1323,61 @@ _**Веха.**_ Освобождение винодельни считается
 - В закатные годы Кавана в долину вторгся тиран по имени король Дострон Адорожденный со своей армией, рассеяв Айил и уничтожив их дома. Он построил плотину на реке Луна, чтобы создать пахотные земли, и разрушил веру Айил в Леди Три. Когда Дострон умер, его армии отступили и оставили его крепость, но Айил остались разобщёнными и ослабленными
 - Когда Страд вторгся в долину сотни лет спустя, многие представители друидической касты — всё ещё разгневанные предательством Кавана и угнетением Дострона — обратились к нем за защитой. Великий раскол разделил Айил: те, кто выступил против Страда, отступили в Солдав, а те, кто поддержал Страда, остались в Сваличском лесу. Сегодня баровийцы знают их как Горный народ и Лесной народ
 - Земля Баровии, которую народ Айил когда-то называл «Гирвиса» — что означает «плодородная земля», — была искажена волей и магией Страда. Каван не понимает природы этого искажения Страда, но он знает, что Страд черпает силу из земли, и что эта нечистая связь причиняет великие страдания существам и самому ландшафту долины. Чтобы узнать, как очистить скверну Страда, игроки должны отправиться в септ Солдав, чтобы искать наставления старейшины веры Розаны среди Горного народа (Только старейшина веры Розаны способен создавать и поддерживать туман, который скрывает Солдав от чужаков)
-- Солдав скрыт где-то в горах Балинок, защищён завесой зачарованного тумана. Пока туман сохраняется, враги Солдава не смогут его найти, и не смогут вспомнить, где он находится. Каван помнит лишь ориентир, который отмечает его вход: место в горах, где сливаются два водопада «Без знака Леди, однако, — предупреждает он, — вы никогда не найдёте вход, и старейшины Солдава не дадут вам пройти»
+- Септ Солдав скрыт где-то в горах Балинок, защищён завесой зачарованного тумана. Пока туман сохраняется, враги Солдава не смогут его найти, и не смогут вспомнить, где он находится. Каван помнит лишь ориентир, который отмечает его вход: место в горах, где сливаются 2 водопада ***«Без знака Леди, однако***, — предупреждает он, — ***вы никогда не найдёте вход, и старейшины Солдава не дадут вам пройти»***
 
-* Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
+Если игроки спрашивают, почему Каван утаил эту информацию при их первой встрече, он честно отвечает, что хотел избежать раскрытия существования септа Солдав слугам или шпионам Страда. ***«Я однажды уже предал свой народ по собственной воле***, — глухо говорит он. — ***Я не предам их во второй раз из-за глупой неосторожности»***
 
-If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
+По мере того как разговор подходит к завершению, Каван сообщает игрокам, что, хотя он не может передать его им напрямую, он может сказать, где найти копьё, которое он украл из Лесного Святилища Охотницы и возвращение которого может убедить жителей Солдава позволить им войти. ***«Сила копья ослабла, когда я забрал его, и, без сомнения, с тех пор оно стало ещё слабее***, — говорит он. — ***Но если оно послужит вашим целям, вы найдёте его в гробнице короля Дострона, который забрал его из моего шатра, когда моё воинство рухнуло под натиском его армий»***
 
-As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
+Каван может сообщить игрокам, что гробница короля Дострона была высечена в камне под крепостью Дострона, которую тот построил в восточных горах — на том месте, что ныне называется Каменной Колонной Рэйвенлофта. Если они его найдут, Каван просит отнести его к святилищу Леди Трёх в Солдаве, чтобы заново освятить его там и искупить его прошлые ошибки
 
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it there and redeem his past mistakes.
+Когда игроки уходят, Каван прощается с ними, говоря: ***«Идите с благословением Леди Трёх, если они всё ещё слушают»***
 
-When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
-## J7b. Returning the Gem
-If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
+## J7b. Возвращение самоцвета
 
-If asked, Davian now willingly shares the following information:
+Если игроки возвращают драгоценный камень Давиану Мартикову в Винном Волшебнике, он глубоко благодарен и заметно теплеет к ним по сравнению со своим прежним колючим поведением (Разумеется, в глубине души он всё ещё ворчливый старик)
 
-* He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
-* Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
-* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
-* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
+Если его спросить, Давиан теперь охотно делится следующей информацией:
 
-Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
+- Он является лидером Хранителей Пера, тайного общества **верворонов**, посвятившего себя помощи тем, кто противостоит Страду вон Заровичу и его слугам (Давиан признаёт, что сам он **верворон**, как и все его дети и внуки)
+- Несмотря на способности, дарованные их проклятием, Хранители — шпионы, а не воины. Многие из них не обучены бою и боятся тёмной магии, которой владеет Страд
+- Хранители были впервые основаны Ливиусом Мартиковым, дедом Давиана и малоизвестным соратником паладина Лугданы, которая с помощью _Священного Символа Вороньего Рода_ искореняла гнёзда **порождений вампира** по всей долине 100 лет назад
+- В молодости Ливиус помог Лугдане и бургомистру Исмарку Антоновичу украсть _Священный Символ Вороньего Рода_, тогда называвшийся _Символом Солнца_, из замка Рэйвенлофт вскоре после того, как Страд впал в спячку (Ливиус украл его, а также _Том Страда_ из глубин катакомб, пока Исмарк и Лугдана отвлекали слуг и детей Страда)
+- Именно Исмарк Великий предложил переименовать _Символ_ в _Священный Символ Вороньего Рода_, чтобы вдохновить народ Баровии и скрыть его происхождение, создав легенду, в которой ангел в облике ворона передал реликвию Лугдане напрямую. (Ливиус всегда находил эту историю невероятно забавной) Лугдана продолжала использовать _Священный Символ_ до самой своей смерти в бою с Зелёным Богом Черновогом, великим демоном, вызванным безумной ведьмой Бабой Зеленной, на Холме Былого. _Священный Символ_ считался утраченным после падения Лугданы — казалось, навсегда
 
-In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
+Давиан категорически отказывается заражать кого-либо из игроков ликантропией **верворона**, с презрением отмечая, что им потребовались бы месяцы обучения, чтобы овладеть этой способностью. Он отказывается говорить об этом дальше
 
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+В благодарность за усилия игроков по возвращению камня с Холма Былого Давиан вручает им обсидиановый свисток, выполненный в форме ворона (Давиан может добавить, что это один из нескольких таких свистков, передаваемых в его семье из поколения в поколение)
 
-Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+Дэвиан также сообщает игрокам, что Муриэль, ключевой полевой агент Хранителей Пера, недавно подслушала тревожное пророчество, связанное со Страдом. Муриэль может рассказать игрокам, что это пророчество приняло форму гадания Тарокка, которое Мадам Ева передала Страду в день, когда игроки спасли Муриэль от **большого стрикса**
 
-<div class="description">
-<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
-<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
-<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
-<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
-<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
-</div>
+Хотя Муриэль была вынуждена уйти прежде, чем она смогла услышать конец предсказания, она может рассказать, что первая его часть звучала следующим образом:
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
-
-> [!item]+ **Keeper's Whistle**
-> The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
-> 
-> When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:
+>[!read]
+> ***«Тёмный властелин — повелитель теней, зверь в лабиринте, рвущий свои цепи»***
 >
->* **Scout** out a nearby environment, providing information on enemy numbers, traps, or layout. (The agent won’t get too close if the area is potentially dangerous, preferring to survey it from a distance.)
->* **Deliver** an item or message (either oral or written) to another creature in Barovia, assuming the agent knows of or can find that creature.
->* **Obtain** a small, light item from a nearby location or settlement, so long as it can be easily found, purchased, or otherwise retrieved.
->* **Distract** one or more nearby enemies (e.g., by using its ***mimicry*** ability). (The agent won’t put itself at risk of being grappled, and is wary of approaching any ranged combatants unless reassured that they wield neither silver weapons nor magic spells.)
->* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
+> ***«Шестёрка Звёзд, Призыватель — власть, которой ты жаждешь, сила, не укрощённая смертными руками, первородная и дикая, пылающая яростью»***
 >
->The agent departs after completing the requested task.
+> ***«Артефакт — знак, который ты ищешь, ключ к силе. Сердце божественности ждёт, но где?»***
+>
+> ***«Невинная. Я вижу деву с волосами цвета воронова крыла и сумеречными глазами. Она — один из путей к знаку»***
+>
+> ***«Но есть и другой — Сломленный. Путь жертвования открывает другую дверь. Стена, что шепчет, ждёт твоего подношения»***
+
+_**Веха.**_ Победа над друидами Холма Былого завершает сюжетную веху. Когда игроки возвращают украденный самоцвет Давиану Мартикову, наградите каждого игрока **2 500 XP** (Это должно привести игроков к 6 уровню)
+
+> [!item]+ **Свисток хранителей**
+> Свисток является магическим предметом, связанным с проклятием ликантропии **верворонов**. 1 раз в день игроки могут подуть в свисток, чтобы призвать ближайшего агента Хранителей Пера с ликантропией **верворона** в радиусе 8 км (если таковой имеется). (Агенту требуется разумное количество времени, чтобы добраться, прилетев из своего текущего местоположения к месту, где игроки подули в свисток)
+>
+> Когда агент прибывает (в форме **ворона**), игроки могут попросить его выполнить 1 из следующих задач, в пределах разумного:
+>
+> - **Разведать** ближайшую местность, предоставив информацию о численности врагов, ловушках или планировке (Агент не будет подходить слишком близко, если зона потенциально опасна, предпочитая наблюдать за ней с расстояния)
+> - **Доставить** лёгкий предмет или сообщение (устное или письменное) другому существу в Баровии, при условии, что агент знает о существовании этого существа или может его найти
+> - **Добыть** небольшой, лёгкий предмет из ближайшего места или поселения, если его можно легко найти, купить или иным способом получить
+> - **Отвлечь** одного или нескольких ближайших врагов (например, используя свою способность _**подражание**_). (Агент не станет подвергать себя риску захвата и с осторожностью будет приближаться к любым бойцам дальнего боя, если не будет уверен, что у них нет ни серебряного оружия, ни заклинаний)
+> - **Шпионить** за местом или персонажем, незаметно следуя за ними и сообщая об их действиях и связях по истечении заранее определённого времени (Агент не будет заходить внутрь зданий во время выполнения этой задачи)
+>
+> Агент уходит после выполнения запрошенной задачи
 
 ![[Keepers_Whistle.png]]
 
