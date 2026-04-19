@@ -41,6 +41,7 @@ _Приключение для 5 персонажей 5-го уровня_
 - [ ] 1 большой стрикс
 - [ ] 2 роя малый стриксов
 - [ ] Людмилла
+- [ ] [[Эмблема сумерек]]
 
 # J1. Таверна Синяя Вода
 ### J1a. Просьба Урвина
@@ -1269,36 +1270,21 @@ _**Веха.**_ Освобождение винодельни считается
 >
 > Если Ирина находится с игроками, она входит в Стену, если как минимум половина игроков делает это (округляя вниз), и остаётся снаружи в противном случае. Если она входит, она видит восходящее солнце над открытой дорогой, которая проходит через живописный пейзаж к сияющему городу, виднеющемуся вдали. На дороге стоит крытая повозка, и женский голос тепло приглашает её войти: ***«потому что нас ждёт долгий путь»***. После выхода из Стены щёки Ирины блестят от слёз. (Она отказывается раскрывать содержание своего видения в присутствии Страда, но готова поделиться им позже, если её спросить)
 
+Для стороннего наблюдателя игрок, покинувший Стену, возвращается не позднее чем через **1 раунд** после того, как он в неё вошёл, и в точно таком же состоянии. Когда все игроки либо вернулись из Стены, либо оказались в ней заперты, Страд достаёт из кармана своего плаща небольшой светящийся объект и поднимает его в воздух. (Объект, который Страд получил из Шепчущей стены в обмен на жертву его оживлённых доспехов и который он спрятал в плащ в начале разговора, напоминает искру света, сжатую в твёрдую форму)
 
+***«Как и было обещано»***, — говорит Страд, — ***«ваша награда»***. Он касается искрой края Шепчущей стены, а затем отводит её к себе. При этом из Стены вырываются несколько туманных щупалец и уплотняются в небольшие драгоценные камни, которые зависают в воздухе. Количество драгоценных камней равно числу игроков в группе, и каждый камень не больше ногтя. Половина камней (округляя вверх) серые, и половина камней (округляя вниз) серебряные
 
-To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
+Страд затем вручает драгоценные камни игрокам, позволяя им выбрать, какие они возьмут. Он может лишь сообщить, что серый драгоценный камень приведёт своего носителя к предмету его желания, а серебряный драгоценный камень перенесёт своего носителя в место, куда он хочет попасть. ***«Это, разумеется, не самые могущественные артефакты»***, — отмечает Страд. ***«Стена — продукт мёртвого бога, в конце концов»***
 
-"As promised," Strahd says, "your reward." He touches the spark to the edge of the Whispering Wall, and then draws it back toward him. As he does so, several tendrils of mist extrude from the Wall and condense into small gemstones which hover in the air. The number of gemstones is equal to the number of players in the party, and each gemstone is no larger than a fingernail. Half of the gemstones (rounded up) are gray, and half of the gemstones (rounded down) are silver.
+Существо может раздавить серый драгоценный камень желания **действием**, чтобы наложить _Поиск предмета_. Существо может раздавить серебряный драгоценный камень желания **бонусным действием**, чтобы наложить _Туманный шаг_
 
-Strahd then presents the gemstones to the players, allowing them to choose which they take. He can share only that a gray gemstone will lead its bearer to an object of their desire, and that a silver gemstones will take their bearer to a place they wish to go. "They are, of course, not the most powerful artifacts," Strahd notes. "The Wall is the product of a _dead_ god, after all."
+Если игроки спрашивают о природе искры, которую держит Страд, он поднимает её к свету и задумчиво замечает: ***«Глид — в некоторых культурах это называют драконьим оком. Искра силы, ставшая осязаемой»***. Если игроки спрашивают, как Страд её получил, он лишь с лёгкой, сдержанной улыбкой отмечает: ***«Некоторые вещи нужно заслужить»***
 
-A creature can crush a *gray gemstone of desire* as an action to cast _locate object._ A creature can crush a *silver gemstone of desire* as a bonus action to cast *misty step*.
-
-If the players ask about the nature of the spark Strahd holds, he holds it up to the light and remarks, thoughtfully, "A glede — a dragon's eye, it's called in some cultures. A spark of power, made tangible." If the players ask how Strahd obtained it, he offers a small, tight smile and notes only that, "Some things must be earned."
-
-When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
-
-> [!item]+ **Twilight Crest**
-> _Uncommon wondrous item_
-> 
-> This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
-> 
-> The crest has 3 charges, and regains 1 charge at dawn. 
-> 
-> During the day, the crest's wielder can spend 1 charge as an action to cast *aid*.
-> 
-> At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
-> 
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+Когда все игроки либо возвращаются из Шепчущей стены, либо отказываются сделать это, Страд вручает им награду за победу над Лесным народом: [[Эмблема сумерек|Эмблему сумерек]] (см. ниже). ***«Говорят, что божество, умершее здесь, чьё имя утрачено во времени, оставило после себя несколько реликвий. Это одна из них»***
 
 ![[Twilight_Crest.png]]
 
-<span class="credit">"Twilight Crest" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
