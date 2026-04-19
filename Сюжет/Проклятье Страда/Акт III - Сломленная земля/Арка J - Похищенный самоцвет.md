@@ -1299,18 +1299,21 @@ _**Веха.**_ Освобождение винодельни считается
 
 Через **1 минуту** после того, как игроки входят в рощу, их присутствие привлекает внимание **4** [[Игольчатая зараза|игольчатых зараз]], которые выходят из подлеска вокруг дерева. В следующем раунде к ним присоединяются ещё **4** [[Игольчатая зараза|игольчатых заразы]], **4** [[Вьющаяся зараза|вьющихся заразы]] и **4** [[Рой ветвистых зараз|роя ветвистых зараз]]. Если игроки остаются в роще, все заразы атакуют в **следующем раунде**
 
-# J7. Return to the Winery
-## J7a. Kavan’s Tale
-If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
+# J7. Возвращение на винодельню
+## J7a. История Кавана
 
-* Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
+Если игроки вернутся к кургану Кавана, неся жезл Сварога, и призовут Кавана, капая своей кровью в чашу, Каван может поделиться следующей дополнительной информацией о Лесном народе и своём собственном народе:
 
-Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
+- Давным-давно Каван был одним из вождей Лесного народа, чьи люди прибыли в долину задолго до рождения самого Кавана
+- Лесной народ почитал триаду богинь, известных как Розана, или Леди Три: Искательницу, Ткачиху и Охотницу. Друиды Лесного народа воздавали почести Леди в их священных местах — трёх святилищах, что находились в долине и были известны как Горное Святилище, Лесное Святилище и Болотное Святилище. В каждом Святилище хранился драгоценный камень, наделённый силой Ткачихи, который, как говорили, даровал жизнь и силу окружающей дикой природе. ***«Этот жезл, — мрачно замечает Каван, — некогда был в руках тех, кто связывал наш народ с Розаной»***
 
-Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
+Прежде чем продолжить дальше, Каван спрашивает игроков, предавали ли они когда-либо кого-то близкого или ранила ли их гордость того, кого они любили (Игрок должен преуспеть в проверке **Обмана Сл 16**, чтобы успешно солгать Кавану)
 
-* Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
+Были ли игроки виновны в предательстве или причиняли ли они кому-либо боль или нет, как только он убеждается, что игроки понимают тяжесть преступлений предательства и гордыни, Каван продолжает:
+
+- Почти 1000 лет назад Каван пришёл к власти как вождь своего племени. Высокомерный и гордый, он нарушил строгие запреты своего народа и отправился в Шёпчущую Стену — стену густого тумана, в которой, как говорили, покоится тело Пожирателя, древнего чудовища, убитого Леди задолго до этого
+- Находясь в Стене, Каван узнал страшные тайны — включая способ, с помощью которого он мог похитить священное копьё Охотницы из Лесного Святилища и присвоить его силу себе. Сделав это, он начал войну против других племён и объединил их под своим собственным знаменем
+
 * While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
 * The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
 * The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
