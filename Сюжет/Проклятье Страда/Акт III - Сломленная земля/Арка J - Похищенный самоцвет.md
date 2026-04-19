@@ -1284,21 +1284,21 @@ _**Веха.**_ Освобождение винодельни считается
 
 ![[Twilight_Crest.png]]
 
+Когда все игроки либо приняли, либо отклонили свои дары, Страд вновь садится на Буцефала, прощается с ними и отмечает, что с нетерпением ждёт встречи с ними за ужином. Затем он вместе с Буцефалом исчезает на Эфирный план
 
+## J6c. Древо Гилтиас
 
-When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
-## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+Игрокам не следует иметь причин посещать рощу Галтиасового Дерева в это время
 
-<div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
-</div>
+>[!read]
+> У южного края вершины холма лежит болезненный труп рощи из мёртвых деревьев и кустов, в сердце которого располагается огромное, искривлённое дерево. Кровь смолой сочится из его ствола. Круг грубых, зазубренных мегалитов стоит, пригнувшись, среди подлеска, опутанный гнилыми лозами и заросший крупными ежевичными кустами и мёртвыми кустарниками. Воздух здесь плотный и не по сезону тёплый, а болезненный, гнилостный запах душит всё вокруг
 
-These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
+Эти мегалиты обозначают границы Лесного Святилища: святилища Охотницы из Леди Трёх
 
-A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
+Персонаж, осматривающий 8 резных мегалитов, обнаруживает изображения следующих животных, высеченные на их каменных поверхностях, по часовой стрелке от севера: медведь, сова, козёл, волк, ястреб, лось, пантера и ворон
 
-One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
+Через **1 минуту** после того, как игроки входят в рощу, их присутствие привлекает внимание **4** [[Игольчатая зараза|кольчатых зараз]], которые выходят из подлеска вокруг дерева. В следующем раунде к ним присоединяются ещё **4** [[Игольчатая зараза|игольчатых заразы]], **4** [[Вьющаяся зараза|вьющихся заразы]] и **4** [[Рой ветвистых зараз|роя ветвистых зараз]]. Если игроки остаются в роще, все заразы атакуют в **следующем раунде**
+
 # J7. Return to the Winery
 ## J7a. Kavan’s Tale
 If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
