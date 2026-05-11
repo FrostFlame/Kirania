@@ -257,7 +257,7 @@
       "wrap": false
     }
   },
-  "Бестиарий/Звери/Нет ПО/Альмираж.md": {
+  "Бестиарий/Звери/ПО 0/Альмираж.md": {
     "8fcbdb3988f5b1e2ddf4f7fbb2afca41": {
       "position": "center",
       "width": "",
@@ -265,11 +265,19 @@
       "wrap": false
     }
   },
-  "Бестиарий/Звери/Нет ПО/Летающая обезьяна.md": {
+  "Бестиарий/Звери/ПО 0/Летающая обезьяна.md": {
     "d930f70280dbd18739df51ae7ce812e9": {
       "position": "center",
       "width": "425px",
       "height": "579px",
+      "wrap": false
+    }
+  },
+  "Бестиарий/Звери/ПО 0/Джакалоп.md": {
+    "27d2ae3fe1c80c4bae30050f0d3c21d8": {
+      "position": "center",
+      "width": "442px",
+      "height": "737px",
       "wrap": false
     }
   }
