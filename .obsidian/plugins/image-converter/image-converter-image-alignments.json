@@ -486,5 +486,21 @@
       "height": "",
       "wrap": false
     }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Шляпа дома.md": {
+    "d861408b7a3c06e9936f71ff9c66ac77": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Ушанка зимы.md": {
+    "12dc6909a0f1ea43cd7d236aac26a7e6": {
+      "position": "center",
+      "width": "327px",
+      "height": "392px",
+      "wrap": false
+    }
   }
 }
