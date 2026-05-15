@@ -454,5 +454,21 @@
       "height": "430px",
       "wrap": false
     }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Кепка глашатая.md": {
+    "52e5c7194c2c3fdad119f7482679a9a3": {
+      "position": "center",
+      "width": "435px",
+      "height": "326px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Кепи детектива.md": {
+    "a8015d08f6e2e570b3362f750b6e5e62": {
+      "position": "center",
+      "width": "340px",
+      "height": "453px",
+      "wrap": false
+    }
   }
 }
