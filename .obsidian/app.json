@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "attachmentFolderPath": "z_assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false
 }
