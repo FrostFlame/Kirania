@@ -83,13 +83,25 @@
   },
   "Классы/Варвар.md": {
     "22aad8564e95d8166546eb0d5496eb2c": {
-      "position": "left",
-      "width": "475px",
-      "height": "371px",
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "710de90e054f4c494ed53f98107f3d9b": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   },
   "Классы/Бард.md": {
+    "08d6b556e09445f5e8f16f7a0a08f9e4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
     "1faf8a34101176c01f4d8f7935935208": {
       "position": "center",
       "width": "",
@@ -127,6 +139,570 @@
       "wrap": false
     },
     "a9b6f43a25fdbfd6845fbee2ef71de49": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Колдун.md": {
+    "c24e963bf83c22c65e20222df736c670": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "763d9510d41c57b21a65365b62b49a4b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Паладин.md": {
+    "7f5db4de47bddd93b75265ecbb1b03fc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5671b3a413c0ee97cec2ad4315b97683": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "738642308f40ac66388153eb3fc856b7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Друид.md": {
+    "087574321e8c14dc2dd8de587af77708": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "08b99414db15dff287e0adfa4d672664": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Ведьма.md": {
+    "6db8a673e79b2cdf1bd12ddab9dfef04": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Жрец.md": {
+    "0aa7cb805481954e4d491f3226b8b8a8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Воин.md": {
+    "b1fcbf635b32e7c54f5129500eab7065": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Монах.md": {
+    "7ba830835efa30da2bebb8a8ace93fae": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Следопыт.md": {
+    "77328ce558299ada92d8cd7dba4fd4b9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Плут.md": {
+    "64a491e271150a453be3ef67c803be62": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Чародей.md": {
+    "87829a7d4a626bf58f61014a679aebe8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Классы/Волшебник.md": {
+    "9eff8b248de86563cfd32cbbbef06675": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Бестиарий/Звери/ПО 0/Джакалоп.md": {
+    "27d2ae3fe1c80c4bae30050f0d3c21d8": {
+      "position": "center",
+      "width": "442px",
+      "height": "737px",
+      "wrap": false
+    }
+  },
+  "Бестиарий/Конструкты/ПО 0/Погодная рыба.md": {
+    "56fe5ec92cb03b50d247bc42a41278ff": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Бестиарий/Конструкты/ПО 0,125/Останки собаки.md": {
+    "f8546b976044503339077bfc1e19389c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Дыхание лжеца.md": {
+    "1243e0d976d926952033c8cfaa31e87a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Бульон Лягушка-в-горле.md": {
+    "7585877e057560e5eea09f70acc32097": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "956787258ad0d72e0dcaed5541522ef1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Сироп обжоры.md": {
+    "404de4df2f4da274104be5255e60bd3f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Бальзам брони.md": {
+    "70b888cdf5808b0e8d03e9b82b4c8d9a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Кошачьи глазные капли.md": {
+    "af1fbba7247078db0a1f3a3653623402": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Панацея 2.md": {
+    "3fd681e95de4cf6d82cc42b97ea434b4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Эликсир незнакомца.md": {
+    "d85d06a99df87380ff3234861667b896": {
+      "position": "center",
+      "width": "271px",
+      "height": "568px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Зелья, яды и свитки/Зелья/Песня певчей птицы.md": {
+    "d943826c9ca9209747d4a87518f024c7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Пипидастр.md": {
+    "e0e78cb86213697b9c1be61a96d215bc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Палочка слов.md": {
+    "162b38a16f608b10d97d72c10b3173db": {
+      "position": "center",
+      "width": "412px",
+      "height": "592px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Артефакты/Палочка неугасимого адского пламени.md": {
+    "b8df00dd9d5de1a26bbbc138dc3bbebc": {
+      "position": "center",
+      "width": "459px",
+      "height": "612px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Обычные/Палочка подушек.md": {
+    "b1982b16519128216be9c406f0d53f44": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Палочка времён года.md": {
+    "eb88013e1ac813d438e950ae4a56dd44": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Секрет косметолога.md": {
+    "c1380bcb0a074fadef2716346410e4dc": {
+      "position": "center",
+      "width": "179px",
+      "height": "537px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Глаз художника.md": {
+    "17e0a9cad295653cbdf0c87621d239ea": {
+      "position": "center",
+      "width": "346px",
+      "height": "392px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Проклятие барда.md": {
+    "f7451612fbc752a2ea4abfa7c281002a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Палочка похитителя заклинаний.md": {
+    "cc1e74776602d3e023379c769bf630bc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Шляпка свахи.md": {
+    "5203432c6e6822db835ec5858c708750": {
+      "position": "center",
+      "width": "357px",
+      "height": "476px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Шляпа варшебника.md": {
+    "c0b91693374e8672c1fc52897d0d9db8": {
+      "position": "center",
+      "width": "429px",
+      "height": "379px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Обычные/Шапка комфорта.md": {
+    "835664c913cb67ba4d726af978599746": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Шляпка самозванца.md": {
+    "2456889216400898ad8e252984761b58": {
+      "position": "center",
+      "width": "294px",
+      "height": "430px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Кепка глашатая.md": {
+    "52e5c7194c2c3fdad119f7482679a9a3": {
+      "position": "center",
+      "width": "435px",
+      "height": "326px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Кепи детектива.md": {
+    "a8015d08f6e2e570b3362f750b6e5e62": {
+      "position": "center",
+      "width": "340px",
+      "height": "453px",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Козырёк ведьмы.md": {
+    "b8b1c18f3bab53818900a3936fe9f9d8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Артефакты/Шляпа Монстр.md": {
+    "88b45b7a985073311701d72778d4c693": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Шляпа дома.md": {
+    "d861408b7a3c06e9936f71ff9c66ac77": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Ушанка зимы.md": {
+    "12dc6909a0f1ea43cd7d236aac26a7e6": {
+      "position": "center",
+      "width": "327px",
+      "height": "392px",
+      "wrap": false
+    }
+  },
+  "Классы/Татуировщик.md": {
+    "770745f6ebcdbbc51937af1d734b63ac": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "afcefba0df8ddffa94ad4787c9f7dfad": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка подмастерья.md": {
+    "b4a499833e418740b44729ea410d862e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка привлекательности.md": {
+    "a2b877a21498a6536dd547a3e2c52db3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Обычные/Татуировка звериного чувства.md": {
+    "6026e7bbd044233ad44f876d75087a57": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка каннибала.md": {
+    "37242db1838f3e06085bee983c9d342c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка имитатора.md": {
+    "4e7a302252039c34921d705fdd881090": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Татуировка разборчивости.md": {
+    "ceb2f80bcd3f2fa8a0eba08af41396fd": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка двойного зрения.md": {
+    "133e9d4b934fbefda7d422d0e55cb8e2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка эмпата.md": {
+    "d0017110bd64e776638568964f64dbde": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка урагана.md": {
+    "6a3cb526da58f582ca29ef7c83cabb99": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка библиотекаря.md": {
+    "04d1a429e94daf4735cd8f6f5150ea14": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Татуировка магоубийцы.md": {
+    "91764349be9a81b370862bf6e4f78ad7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Татуировка Мидаса.md": {
+    "40a8ef4888ecfa120000c833f2cdeab5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка внушения.md": {
+    "cee471844b67d71d2d7f17d6a996adb6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка шахтёра.md": {
+    "1561a5ef726b7e6217caa61eafb11068": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка глашатая.md": {
+    "f2ecb7df6b95ae672052d762ff75ac7d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка трансляции.md": {
+    "cf3cfea7746a4c26927e0d5ec2f2a914": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Легендарные/Татуировка переработки.md": {
+    "477465f570e2bd14b0639a58d4d965c9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка отвращения.md": {
+    "6a23b7f74ecbd2aebc0fa7ea5ce8620f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка нюхача.md": {
+    "5f42e52d76e474ab5078fe8c71385de9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка несчастных возлюбленных.md": {
+    "514362303da88f86a8784b2de8f77678": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Редкие/Татуировка выжившего.md": {
+    "5d456e78b321d23d00835ccc49e10b3f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка избранного.md": {
+    "a8bbb66c1f7dac58b5291aeb5a8c327e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Очень редкие/Татуировка искателя истины.md": {
+    "c4bca2b4e72084c85ea679866b5bfddd": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Инвентарь/Волшебные предметы/Необычные/Татуировка земляного чернильника.md": {
+    "f5caec789425eb44e1b905ffdde7621e": {
       "position": "center",
       "width": "",
       "height": "",
