@@ -1,29 +1,38 @@
-_An adventure for five 5th- or 6th-level characters._
+*Приключение для 5 персонажей 5-го или 6-го уровня*
 
-In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
+В этой арке, получив доступ в Крезк, игроки должны подняться в Аббатство Святой Марковии, где им суждено встретить своего предсказанного союзника против Страда
 
-Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
+По их прибытии Аббат может провести для игроков краткую экскурсию и рассказать историю Аббатства, а также сообщить им, что охотница на монстров Вистани Эсмеральда д'Авенир была гостьей Аббатства в последние дни
 
-If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
-# K1. The Village of Krezk
-The players’ first journey to Krezk is as described in [[Арка I - Стены Крезка]]. However, if the players have already completed [[Арка J - Похищенный самоцвет]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+Если игроки прибыли до второй ночи после полнолуния (ночь с 10 на 11 ноября), Аббат сообщает игрокам, что Эсмеральда отсутствует и скоро вернётся. Если игроки прибыли в или после второй ночи после полнолуния, Аббат ведёт их к Эсмеральде, которая рада присоединиться к их усилиям — при условии, что они помогут ей спасти Крезк от безумия Аббата
 
-> [!profile]+ **Profile: Baron Dmitri Krezkov**
-> **Roleplaying Information.**
-> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
-> 
-> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
-> 
-> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
-> 
-> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
-> 
-> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
-> 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+# Подготовка
+
+- 
+
+# K1. Деревня Крезк
+
+Первое путешествие игроков в Крезк описано в [[Арка I - Стены Крезка]]. Однако, если игроки уже завершили [[Арка J - Похищенный самоцвет]] и Мартиковы доставили партию вина в деревню, барон Крезков уже слышал о подвигах игроков и с радостью разрешает им войти. (Семьи Крезковых и Мартиковых издавна близки, с тех пор как наследник клана Мартиковых женился на члене семьи Крезковых и унаследовал винодельню «Винный Волшебник». Если игроки помогли Мартиковым, барон Крезков чувствует себя обязанным им личной благодарностью)
+
+> [!profile]+ **Профиль: Барон Дмитрий Крезков**
+> **Информация для отыгрыша**
+> **Резонанс**. Дмитрий должен вызывать уют своей тихой уверенностью и лидерством, сочувствие — своей тревогой и горем после исчезновения сына, и лёгкое раздражение — своим упрямством и привычной подозрительностью к чужакам
+>
+> **Эмоции**. Дмитрий чаще всего чувствует обеспокоенность, меланхолию, мрачность, решимость, настороженность, упрямство или благодарность
+>
+> **Мотивации**. Дмитрий хочет защитить свою деревню и сохранить свою семью
+>
+> **Вдохновения**. Отыгрывая Дмитрия, ориентируйтесь на Эддарда Старка («Игра престолов»), короля Теодена («Властелин колец») и Стоика Обширного («Как приручить дракона»)
+>
+> Информация о персонаже
+>
+> **Персона**. Для мира Дмитрий — мрачный, но тёплый лидер. Для тех, кому он доверяет, Дмитрий — тёплый и любящий отец, муж и друг. Только Дмитрий знает глубину своего горя, тревоги и вины в отношении проклятия своей семьи и судьбы своих детей и жены
+>
+> **Боевой дух**. В бою Дмитрий будет действовать только для защиты себя или своих близких, начиная с предупреждения противнику отступить, а затем яростно сражаясь, пока противник не уступит или не будет повержен
+>
+> **Отношения**. Дмитрий, тайный оборотень, является мужем баронессы Анны Крезковой, братом жрицы-оборотня Матери Ночи Зулейки Торанеску, отцом Калы и Ильи Крезковых и бургомистром деревни Крезк
+
+
 
 The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
 
