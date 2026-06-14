@@ -169,22 +169,22 @@
 
 ### Сад
 
-When the players enter this area, read:
+Когда игроки входят в эту область, прочитайте:
 
-<div class="description">
-<p>Rows of vegetables—cabbages, carrots, and hardy turnips—grow in organized plots, their leaves a vibrant green against the dark, tilled soil. A wooden fence encloses the garden, its posts adorned with simple talismans—feathers, small stones, and bits of twine—that sway gently in the breeze. </p>
-<p>A small, lonely graveyard sits in the shadow of the cottage just beyond the fence.</p>
-</div>
+>[!read]
+> Ряды овощей — капусты, моркови и выносливой репы — растут на организованных грядках, их листья ярко-зелёные на фоне тёмной, вспаханной земли. Деревянный забор окружает сад, его столбы украшены простыми талисманами — перьями, маленькими камнями и кусочками бечёвки — что мягко покачиваются на ветру
+>
+> Маленькое, одинокое кладбище сидит в тени коттеджа прямо за забором
 
-If the players enter the garden during the day, add:
+Если игроки входят в сад днём, добавьте:
 
-<div class="description">
-<p>A young girl sits atop a boulder in the cemetery, staring at something just out of sight.</p>
-</div>
+>[!read]
+> Юная девочка сидит на вершине валуна на кладбище, глядя на что-то вне поля зрения
 
-The girl is Kala Krezkova. She doesn’t respond if the players call out to her.
+Девочка — Кала Крезкова. Она не отвечает, если игроки окликают её
 
-### Graveyard
+### Rkfl,bot
+
 When the players enter this area, read:
 
 <div class="description">
