@@ -207,18 +207,18 @@
 
 ### Обеденный зал и Гостиная
 
-The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
+Столовая делит пространство с гостиной, и стена их не разделяет. Когда игроки входят в эту область, прочитайте:
 
-<div class="description">
-<p>This large room is divided into two halves: a dining room and a living room. In the dining room, walls of aged pine softly absorb the flickering light from an wrought-iron chandelier that hangs overhead, its candles casting a cozy glow. A sideboard against one wall holds a variety of ceramic dishes and wooden utensils, as well as a few clay jars that might contain preserves or spices. The center of the room is dominated by a wooden table crafted of solid oak, its sides carved with patterns of forest leaves curled around crescents, circles, and oblong shapes. Six hand-carved wooden chairs sit around the table.</p>
-<p>A stone fireplace dominates a wall on the opposite side of the chamber, crackling softly as it bathes the space in a warm, flickering glow. A few well-worn chairs and a sofa huddle around a low wooden coffee table nearby, and shelves along the walls hold an assortment of books, family portraits, and small whittled wooden sculptures.</p>
-</div>
+>[!read]
+> Эта большая комната разделена на две половины: столовую и гостиную. В столовой стены из выдержанной сосны мягко поглощают мерцающий свет от кованой железной люстры, что висит над головой, её свечи отбрасывают уютное свечение. Буфет у одной стены держит разнообразные керамические тарелки и деревянную утварь, а также несколько глиняных кувшинов, что могут содержать варенья или специи. Центр комнаты занимает деревянный стол из цельного дуба, его бока украшены резьбой с узорами лесных листьев, закрученных вокруг полумесяцев, кругов и продолговатых форм. Шесть деревянных стульев ручной резьбы стоят вокруг стола
+>
+> Каменный камин доминирует над стеной на противоположной стороне зала, тихо потрескивая и омывая пространство тёплым, мерцающим светом. Несколько поношенных кресел и диван теснятся вокруг низкого деревянного журнального столика поблизости, а полки вдоль стен держат набор книг, семейных портретов и маленьких вырезанных из дерева скульптур
 
-Close inspection of the patterns on the table reveals that they depict the phases of the moon. The whittled sculptures depict an assortment of small wooden wolves and ravens, as well as a carved wooden sun and moon.
+При близком рассмотрении узоров на столе видно, что они изображают фазы луны. Вырезанные скульптуры изображают набор маленьких деревянных волков и воронов, а также резные деревянные солнце и луну
 
-Dinner consists of borscht (warm beetroot soup with carrots and potatoes), crusty rye bread with butter, and spiced milk with nutmeg (purchased from a Vistani caravan). If there aren’t enough chairs for both the Krezkovs and the players to sit at the dining table, any remaining players can take their meals in the living room.
+Ужин состоит из борща, хрустящего ржаного хлеба с маслом и пряного молока с мускатным орехом (купленного у каравана Вистани). Если стульев недостаточно, чтобы и Крезковы, и игроки могли сесть за обеденный стол, любые оставшиеся игроки могут принять свою трапезу в гостиной
 
-Midway through dinner, there comes a knock at the door. When Anna goes to answer it, a woman with the voice and appearance of Kretyana Dolvof greets her. When Anna greets her in return, with some small amount of surprise, and asks her business, read:
+Посередине ужина раздаётся стук в дверь. Когда Анна идёт открыть её, женщина с голосом и внешностью Кретьяны Долвоф приветствует её. Когда Анна приветствует её в ответ, с некоторым удивлением, и спрашивает о её деле, прочитайте:
 
 <div class="description">
 <p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
