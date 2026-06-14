@@ -183,31 +183,30 @@
 
 Девочка — Кала Крезкова. Она не отвечает, если игроки окликают её
 
-### Rkfl,bot
+### Кладбище
 
-When the players enter this area, read:
+Когда игроки входят в эту область, прочитайте:
 
-<div class="description">
-<p>Tombstones, some weathered by time and others freshly carved, mark the resting places of the Krezkov family in this small, snow-dusted graveyard. A small grave, freshly dug but vacant, stands apart from the others. </p>
-</div>
+>[!read]
+> Надгробия, некоторые потрёпанные временем, а другие свежевырезанные, отмечают места упокоения семьи Крезковых на этом маленьком, припорошенном снегом кладбище. Маленькая могила, свежевыкопанная, но пустая, стоит поодаль от других
 
-If the players enter the graveyard during the day, add:
+Если игроки входят на кладбище днём, добавьте:
 
-<div class="description">
-<p>A young, dark-haired girl sits atop a boulder nearby, her hands hugging her knees to her chest as she stares silently at a small grave. She wears a thin tunic and no shoes, her small body so still that she seems almost to be a statue.</p>
-</div>
+>[!read]
+> Юная темноволосая девочка сидит на вершине валуна поблизости, её руки обнимают колени, прижатые к груди, пока она молча смотрит на маленькую могилу. Она босая, одета в тонкую тунику, её маленькое тело настолько неподвижно, что она кажется почти статуей
 
 ![[Kala Krezkova.png]]
-<span class="credit">"Kala Krezkova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The girl is Kala Krezkova. She doesn’t immediately respond if the players speak to her. If the players approach, however, she abruptly asks them: "Have you ever had a bad dream you couldn't wake up from?" 
+Девочка — Кала Крезкова. Она не сразу отвечает, если игроки заговаривают с ней. Если игроки приближаются, однако, она внезапно спрашивает их: *«У вас когда-нибудь был плохой сон, от которого вы не могли проснуться?»*
 
-If the players answer her question with thoughtfulness and compassion, she asks: "If something bad happened, but then went away, is it like it never happened?"
+Если игроки отвечают на её вопрос с задумчивостью и состраданием, она спрашивает: *«Если случилось что-то плохое, но потом это ушло, значит ли это, что этого как будто и не было?»*
 
-If the players again answer her question with thoughtfulness and compassion, Kala looks them in the eyes and whispers, "I don't think bad dreams ever really go away." Despite her young age, her eyes look haunted and weary.
+Если игроки снова отвечают на её вопрос с задумчивостью и состраданием, Кала смотрит им в глаза и шепчет: *«Я не думаю, что плохие сны когда-нибудь по-настоящему уходят»*. Несмотря на свой юный возраст, её глаза выглядят преследуемыми и усталыми
 
-Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are, Kala! You can’t go outside without a coat or boots; you’ll catch cold." She then scoops Kala up and brings her inside. (If asked, Anna awkwardly apologizes for Kala’s macabre thoughts, and claims that Kala has been like this ever since she “took ill" a few days ago. A successful DC 12 Wisdom (Medicine) check suggests that Kala has no apparent illness, while a successful DC 12 Wisdom (Insight) check suggests that Anna is not telling the entire truth. Anna refuses to elaborate and doubles down on her claim if challenged.)
-### Dining Room & Living Room
+Баронесса Анна Крезкова приходит вскоре после этого и восклицает: «Вот ты где, Кала! Тебе нельзя выходить на улицу без пальто или сапог; ты простудишься». Затем она подхватывает Калу и уносит её внутрь. (Если спросить, Анна неловко извиняется за мрачные мысли Калы и утверждает, что Кала была такой с тех пор, как она «заболела» несколько дней назад. Успешная **проверка Медицины Сл 12** предполагает, что у Калы нет явной болезни, в то время как успешная **проверка Проницательности Сл 12** предполагает, что Анна говорит не всю правду. Анна отказывается вдаваться в подробности и стоит на своём, если ей бросают вызов)
+
+### Обеденный зал и Гостиная
+
 The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
 
 <div class="description">
