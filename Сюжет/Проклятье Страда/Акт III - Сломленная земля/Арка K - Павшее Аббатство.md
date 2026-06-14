@@ -77,11 +77,14 @@
 > 
 > Аббат немедленно воскресил Калу в знак доброй воли. Затем, в попытке проявить милосердие, он дал баронессе 1 месяц, чтобы попрощаться, прежде чем вернуться в Аббатство и отдать своё сердце. Если она не вернётся, предупредил он её, он сам придёт за платой — и вся её деревня заплатит эту цену
 
-## K1a. The Krezkovs’ Cottage
-As the players approach the Krezkovs’ cottage, read:
+## K1a. Коттедж Крезковых
 
-<div class="description">
-<p>The cottage before you is the largest structure you’ve seen within the village, but still modest in its design. Its outer walls are constructed of sturdy pine logs, weathered by time but well-maintained. A thick thatch roof slopes gently above, crowned by a stone chimney from which a thin wisp of smoke rises into the air. The windows are small but adorned with simple lace curtains, offering a glimpse of a warmer interior. </p>
+Когда игроки приближаются к дому Крезковых, прочитайте:
+
+>[!read]
+> Коттедж перед вами — самое большое строение, что вы видели в деревне, но всё же скромное по своему дизайну. Его внешние стены построены из крепких сосновых брёвен, потрёпанных временем, но ухоженных. Толстая соломенная крыша мягко наклонена сверху, увенчанная каменной трубой, из которой тонкая струйка дыма поднимается в воздух. Окна маленькие, но украшены простыми кружевными занавесками, дающими проблеск более тёплого интерьера
+>
+> Неподалёку огороженная территория открывает небольшой сад, земля в котором недавно перевёрнута и приносит множество трав и овощей. С одной стороны коттеджа узкая тропинка ведёт к маленькому семейному кладбищу, чьи надгробия отбрасывают длинные тени в сером свете
 <p>Nearby, a fenced-in area reveals a small garden, the earth freshly turned and bearing a variety of herbs and vegetables. To one side of the cottage, a narrow path leads to a small family graveyard, its tombstones casting long shadows in the grey light.</p>
 </div>
 
