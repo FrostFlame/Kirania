@@ -271,18 +271,18 @@
 * Кала затем вспоминает, что была где-то тёмном, наполненном туманом и далёкими криками. *«Мне казалось, что я должна была куда-то идти*, — бормочет она, — *но туман остановил меня. Каждый раз, когда я пыталась уйти, он возвращал меня обратно в крики и темноту»*
 * В конце концов она снова проснулась в своём теле — исцелённая и целая, без всякой боли. Её родители забрали её домой и осыпали любовью и заботой, но Кала могла сказать, что они нервничали и боялись, как будто одно неверное движение могло сломать её
 
-Kala has had nightmares ever since her resurrection—dreams of the monster that killed her, and of the dark place she went to when she died. She believes that confronting the monster will allow the nightmares to stop.
+С момента своего воскрешения Калу мучают кошмары — сны о монстре, который убил её, и о тёмном месте, куда она попала, когда умерла. Она верит, что встреча с монстром позволит кошмарам прекратиться
 
-Kala informs the player that she had snuck outside to play in the garden on the night that she died—and that the monster came from the wine cellar beneath the house. She asks the player to wait until her parents are asleep, then bring her there and keep her safe, so that she can either see the monster for herself or confirm that it has gone forever.
+Кала сообщает игроку, что она тайком выбралась на улицу поиграть в саду в ночь своей смерти — и что монстр пришёл из винного погреба под домом. Она просит игрока подождать, пока её родители уснут, затем отвести её туда и защитить, чтобы она могла либо увидеть монстра своими глазами, либо убедиться, что он исчез навсегда
 
-If the player attempts to dissuade Kala from venturing down to the cellar, she replies, "I need to see for myself. I don't want to be afraid of the dark anymore."
+Если игрок пытается отговорить Калу спускаться в погреб, она отвечает: *«Мне нужно увидеть самой. Я не хочу больше бояться темноты»*
 
 ### Спальня Ильи
-When the players enter this area, read:
 
-<div class="description">
-<p>The bed in this modest bedroom is neatly made, covered with a hand-stitched quilt. A wooden shelf above the desk holds an assortment of curios—a feather, a small rock crystal, and what appears to be a wolf's tooth. A small weapon rack hangs on the wall, currently holding a short sword and a hunting bow with a quiver of arrows beneath it. A round window with simple lace curtains lets in a sliver of natural light, illuminating a hand-drawn map tacked to the wall beside it.</p>
-</div>
+Когда игроки входят в эту область, прочитайте:
+
+>[!read]
+> Кровать в этой скромной спальне аккуратно застелена, покрыта сшитым вручную стёганым одеялом. Деревянная полка над столом держит набор диковин — перо, маленький горный хрусталь и что-то, похожее на волчий зуб. Небольшая оружейная стойка висит на стене, в настоящее время держа короткий меч и охотничий лук с колчаном стрел под ним. Круглое окно с простыми кружевными занавесками впускает тонкий луч естественного света, освещая нарисованную от руки карту, приколотую к стене рядом с ним
 
 The map depicts the local woods around Krezk, extending as far south as the Wizard of Wines and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
 
