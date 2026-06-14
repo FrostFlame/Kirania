@@ -337,21 +337,23 @@
 
 Дмитрий извиняется перед игроками за сокрытие этой информации от них и выражает своё понимание, если игроки напуганы или расстроены
 
-> [!abstract]+ **The Players' Choice**
-> The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2c. The East Wing]].)
+> [!abstract]+ **Выбор игроков**
+> Крезковы, самодостаточные и гордые, никогда бы не мечтали просить игроков найти Илью или остановить Аббата за них. Если игроки предлагают сделать это, однако, Крезковы смирённы и тронуты до слёз благодарностью, хотя они извиняются, что им нечего предложить в благодарность. (Даже если игроки не предлагают сделать это, Эсмеральда д'Авенир завербует их спасти Илью и победить Аббата после встречи с Эсмеральдой в K2c. Восточное Крыло)
 > 
-> The Krezkovs also have additional aid in locating Ilya: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of him. (See **Ezmerelda’s Visit** below for more information.)
+> У Крезковых также есть дополнительная помощь в поиске Ильи: Эсмеральда д'Авенир, охотница на монстров и подруга Крезковых, прочёсывает Сваличский лес последние несколько дней в поисках его
 
-> [!lore]+ **Ezmerelda’s Visit**
-> Five years ago, shortly after she and Dr. Rudolph van Richten parted ways, Ezmerelda d’Avenir was grievously wounded in a werewolf attack in the western woods of Barovia, losing her lower right leg to the jaws of Kiril Stoyanovich—the werewolf that now leads the Barovian pack. 
+> [!lore]+ **Визит Эсмеральды**
+> 5 лет назад, вскоре после того как она и доктор Рудольф ван Рихтен расстались, Эсмеральда д'Авенир была тяжело ранена в атаке оборотня в западных лесах Баровии, потеряв свою нижнюю правую ногу в челюстях Кирила Стояновича — оборотня, который теперь возглавляет баровианскую стаю
 > 
-> Dmitri and Anna, traversing the woods with a hunting party, scared Kiril off and found Ezmerelda unconscious and near-death amidst the trees. They brought Ezmerelda back to Krezk and nursed her back to health. As she regained her strength, Ezmerelda regaled Anna and the young Ilya Krezkov with tales of her adventures in the lands beyond the mists, filling Ilya’s head with dreams of hunting monsters as she did.
+> Дмитрий и Анна, проходившие через лес с охотничьим отрядом, отпугнули Кирила и нашли Эсмеральду без сознания и при смерти среди деревьев. Они принесли Эсмеральду обратно в Крезк и выходили её до выздоровления. Восстанавливая силы, Эсмеральда развлекала Анну и юного Илью Крезкова рассказами о своих приключениях в землях за туманами, наполняя голову Ильи мечтами об охоте на монстров, как она
 > 
-> When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. (Although Baron Vallakovich's edicts prohibited Vistani from entering the town's walls, Baroness Krezkova's steely will and diplomatic manner were sufficient to bypass any such restrictions.) Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
+> Когда рана Эсмеральды полностью зажила, Анна и отряд из трёх крезкийцев сопроводили её в соседний Валлаки, где Эсмеральда заказала свой протез ноги у игрушечника Гадофа Блинского. (Хотя указы барона Валлаковича запрещали Вистани входить в стены города, стальная воля и дипломатичная манера баронессы Крезковой были достаточны, чтобы обойти любые такие ограничения). Эсмеральда горячо поблагодарила Крезковых за их доброту и поклялась помогать и защищать их, если им когда-либо это потребуется
 > 
-> When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Арка I - Стены Крезка]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
+> Когда Эсмеральда вернулась в Баровию в поисках доктора Ван Рихтена, она вновь нашла приют у семьи Крезковых — и узнала о судьбе Ильи и сделке Анны. Воспылав праведной яростью, Эсмеральда поклялась вернуть Илью домой, а также найти способ отговорить Аббата от получения его платы. С тех пор она проводит большую часть дней и ночей, prowling по местному Сваличскому лесу в поисках следов Ильи и — если игроки завершили [[Арка I - Стены Крезка]] — логова оборотней, что забрали его, используя свой фургон как передвижную базу у берегов озера Бараток
 > 
-> Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
+> Эсмеральда, малый ясновидящий, также почувствовала, что духи внутри Аббатства потревожены и беспокойны. Хотя у неё ещё не было возможности сделать это, она планирует провести спиритический сеанс по возвращении из Сваличского леса в надежде связаться с духом, обладающим большей информацией об Аббате и его планах
+
+
 # K2. The Abbey of Saint Markovia
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
 ## K2a. Entering the Abbey
