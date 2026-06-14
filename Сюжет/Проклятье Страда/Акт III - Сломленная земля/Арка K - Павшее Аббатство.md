@@ -38,50 +38,45 @@
 Как только игроки окажутся в стенах деревни, барон Крезков с радостью поделится любой или всей информацией, представленной в следующем разделе
 
 > [!Лор Крезка]
-> -
+> - Жители никогда не покидают деревню, потому что боятся нападений волков, лютоволков и оборотней. Примерно раз в месяц из Винного Волшебника, виноградника и винокурни, расположенных на юге, в деревню доставляют вино. Предприятием владеет и управляет семья Мартиковых
+> - Омут в северной части деревни круглый год дает жителям чистую воду. Рядом с ним предки теперешних селян построили святилище Утреннему Лорду в газебо. Его называют Святилищем Белого Солнца
+> - Аббатство Святой Марковии названо в честь жрицы Утреннего Лорда, которая восстала против дьявола-Страда. После отчаянного бунта, Марковия и ее самые верные последователи пошли на штурм замка Равенлофт и погибли
+> - Когда-то аббатство было больницей и монастырем, но после того, как землю поглотили туманы, для него настали тяжелые времена. Одни жрецы стали жертвами Страда, другие заморили себя голодом или стали каннибалами
+> - Глава аббатства, известный только как Аббат, прибыл в деревню более ста лет назад, но с тех пор не постарел ни на день. Он иногда посещает Святилище Белого Солнца, но он немногословен. Никто не знает его настоящего имени и откуда он пришел, и многие считают, что он слуга Страда или сам переодетый вампир, однако покойный дед Дмитрия однажды говорил о времени, когда Аббат был добрым и сострадательным и заботился о больных и страждущих Баровии. (Дмитрий не уверен, верит ли он в это или нет)
+> - Никто из деревни больше не ходит в аббатство. Звон колокола не соответствует времени, а само место наполнено чудовищными криками и ужасным, нечеловеческим смехом, который разносится по деревне
 > - Единственные двое детей Дмитрия — тринадцатилетний Илья и восьмилетняя Кала. Илья недавно пропал после нападения оборотня
-> - Аббат не требует дань в виде вина. Кроме того, хотя многие верят, что Аббат — это Страд или один из слуг Страда, покойный дед Дмитрия однажды говорил о времени, когда Аббат был добрым и сострадательным и заботился о больных и страждущих Баровии. (Дмитрий не уверен, верит ли он в это или нет)
 
 Если игроки упомянут о своём интересе к Аббатству Святой Марковии, выражение лица барона Крезкова становится каменным и холодным. Он предупреждает игроков, что Аббат — жестокое и капризное создание, и далее делится мрачной историей Аббатства и странными слухами, окружающими Аббата
 
 Если игроки завершили [[Арка J - Похищенный самоцвет]] и ищут ночлег в Крезке, барон чувствует себя в долгу перед игроками, учитывая давнюю дружбу его семьи с Мартиковыми, и приглашает игроков остановиться в качестве гостей в доме его семьи
 
+> [!lore]+ **Печаль Барона**
+> У семьи Крезковых есть тайна: с тех пор как оборотень укусил наследника Крезковых 80 лет назад, некоторые из прямых потомков семьи были рождены ликантропами. Поскольку эти потомки не являются результатом союза двух оборотней, они рождаются без преимуществ своего проклятия, которое проявляется только в ночь первого полнолуния после их 13 дня рождения
+>
+> Сегодня барон Дмитрий Крезков является **оборотнем**, как и его 13-летний сын, Илья Крезков. Баронесса Анна Крезкова, вышедшая замуж в эту семью, не разделяет проклятия. Их 8-летняя дочь, Кала Крезкова, слишком юна, чтобы знать, разделяет ли она проклятие. (У барона Крезкова также есть старшая сестра, Зулейка Торанеску урождённая Крезкова, **оборотень**, которая отреклась от своего положения наследницы, чтобы присоединиться к своему возлюбленному, **оборотню** Эмилю Торанеску, как член стаи оборотней озера Бараток 14 лет назад)
+> 
+> Каждые 2 недели, в ночь полнолуния, баронесса Крезкова собирает цветок аконита с берегов благословенного пруда Крезка и варит *зелье аконита*, которое она даёт барону Крезкову, чтобы подавить агрессию проклятия. Затем она запирает барона в серебряные кандалы в скрытом подвале под их домом, где он превращается в послушного волка с восходом луны. До недавнего времени и Илья, и Кала не знали об истинной природе их семьи, которую их родители тщательно скрывали как от деревни, так и от своих детей
+> 
+> Месяц назад, создавая **голема плоти** Васильку, Аббат Аббатства Святой Марковии решил, что его творению требуется живое человеческое сердце, отданное добровольно, чтобы усилить его действенность в «сердечных делах». Просмотрев семейные кладбища в деревне, Аббат узнал, что баронесса Крезкова была, на самом деле, прямым потомком рода Федеровна и дальней родственницей Татьяны Федеровны. Он решил, что, будучи кровным потомком первой любви Страда, она, следовательно, будет идеальным кандидатом для завершения Васильки
+> 
+> Однако Аббат знал, что баронесса никогда не отдаст ему своё сердце добровольно — и поэтому он разработал тёмный и хитрый план
+> 
+> Будучи небожителем, Аббат мог чувствовать запах ликантропии на бароне Крезкове и его сыне, Илье. Используя свою способность ***смена облика***, Аббат явился Илье в облике его давно отсутствующей тёти, Зулейки
+> 
+> «Зулейка» открыла Илье, что он и линия его отца были оборотнями — непонятыми созданиями, которых некогда боялись и уважали как врагов Страда. Она утверждала, однако, что Страд испортил их кровную линию, убедив его предков отравить себя аконитом и серебром, устранив одних из своих самых могущественных врагов
+> 
+> «Зулейка» рассказала Илье, что она покинула Крезк, потому что отказалась принимать семейный яд, опасаясь, что Страд может однажды восстать вновь. Она сказала Илье, что он разделяет кровь великих воинов и что, приняв своё проклятие, он сможет защитить свою семью и соседей в бедствии пробуждения Страда
+> 
+> Для этого, сказала ему «Зулейка», он должен притвориться, что выпил зелье, которое его мать давала ему в ночь полнолуния, и тайно вылить его содержимое, чтобы обмануть её. Она предупредила его никому не рассказывать об их разговоре — и особенно его родителям
+> 
+> Илья, не желая верить, что он или его родители были оборотнями, отверг историю «Зулейки» с гневом и недоверием. Но когда, несколько дней спустя, его родители рассказали ему о его ликантропическом наследии, его мир был разрушен — и слова Аббата заполнили пустоту, заняв её место
+> 
+> В ночь полнолуния Илья обманул свою мать, заставив её поверить, что он выпил *зелье аконита*, но тайно вылил его в землю семейного сада. В ту ночь он превратился в ужасающего и агрессивного оборотня, разрушив свои оковы и учинив буйство по деревне — убив свою младшую сестру, Калу, в процессе. К полуночи Илья исчез из деревни, спасаясь от оружия жителей и перебираясь через стены, чтобы скрыться в Сваличском лесу
+> 
+> На следующее утро посланники Аббата — Отто и Зигфрек Белвью — приблизились к скорбящим Крезковым и пригласили их на аудиенцию в Аббатство. Там Аббат пообещал вернуть Калу к жизни — при условии, что баронесса отдаст своё собственное сердце Аббату в обмен. Барон Крезков, в ужасе, беспомощно наблюдал, как его жена с готовностью приняла предложение Аббата
+> 
+> Аббат немедленно воскресил Калу в знак доброй воли. Затем, в попытке проявить милосердие, он дал баронессе 1 месяц, чтобы попрощаться, прежде чем вернуться в Аббатство и отдать своё сердце. Если она не вернётся, предупредил он её, он сам придёт за платой — и вся её деревня заплатит эту цену
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
-
-* Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
-* The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
-
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
-
-If the players have completed [[Арка J - Похищенный самоцвет]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home.
-
-> [!lore]+ **The Baron's Grief**
-> The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
-> 
-> Today, Baron Dmitri Krezkov is a **werewolf**, as is his thirteen-year-old son, Ilya Krezkov. Baroness Anna Krezkova, who married into the family, does not share the curse. Their eight-year-old daughter, Kala Krezkova, is too young to know whether she also shares the curse. (Baron Krezkov also has an elder sister, Zuleika Toranescu née Krezkova, a **werewolf** who abdicated her position as heir to join her lover, the **werewolf** Emil Toranescu, as a member of the Lake Baratok werewolf pack fourteen years ago.)
-> 
-> Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
-> 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion.
-> 
-> The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
-> 
-> As a celestial, the Abbot could sense the scent of lycanthropy upon Baron Krezkov and his son, Ilya. Through the use of his ***change shape*** ability, the Abbot appeared to Ilya in the form of Ilya’s long-absent aunt, Zuleika. 
-> 
-> "Zuleika" revealed to Ilya that he and his father's line were werewolves—misunderstood creatures once feared and respected as enemies of Strahd.  She claimed, however, that Strahd had corrupted their bloodline by convincing his ancestors to poison themselves with wolfsbane and silver, removing some of his most powerful foes.
-> 
-> "Zuleika" told Ilya that she had abandoned Krezk because she refused to accept the family's poison, fearing that Strahd might one day rise again. She told Ilya that he shared the blood of great warriors, and that, by embracing his curse, he could protect his family and neighbors in the calamity of Strahd's reawakening.
-> 
-> To do so, "Zuleika" told him, he must pretend to drink the potion his mother provided him on the night of the full moon, and secretly discard its contents to fool her. She warned him to tell no one of their conversation—and especially not his parents.
-> 
-> Ilya, unwilling to believe that he or his parents were werewolves, rejected “Zuleika’s" story with anger and disbelief. But when, several days later, his parents informed him of his lycanthropic heritage, his world was shattered—and the Abbot's words filled the void to take its place.
-> 
-> On the night of the full moon, Ilya fooled his mother into believing he had drunk the *potion of wolfsbane*, but secretly poured it out in the earth of the family garden. That night, he transformed into a fearsome and aggressive werewolf, destroying his restraints and embarking on a rampage across the village—killing his younger sister, Kala, in the process. By midnight, Ilya had vanished from the village, fleeing the villagers' weapons and clambering across the walls to escape into the Svalich Wood.
-> 
-> The following morning, the Abbot's messengers—Otto and Zygfrek Belview—approached the grieving Krezkovs and invited them to an audience at the Abbey. There, the Abbot promised to restore Kala's life—on the condition that the Baroness offer her own heart to the Abbot in trade. Baron Krezkov, horrified, watched helplessly as his wife gladly accepted the Abbot's offer.
-> 
-> The Abbot resurrected Kala immediately as a sign of good faith. Then, in an attempted act of mercy, he allowed the Baroness one month to bid her goodbyes before returning to the Abbey to surrender her heart. Should she fail to return, he warned her, he would come himself to collect—and her entire village would pay the price.
 ## K1a. The Krezkovs’ Cottage
 As the players approach the Krezkovs’ cottage, read:
 
