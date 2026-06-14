@@ -122,14 +122,14 @@
 
 Хотя в коттедже Крезковых не так много места, игроки могут оставить свои рюкзаки и спальные мешки в загонах для животных и единственной пустой спальне строения (смотрите [[#Спальня Ильи]] ниже)
 
-### Animal Pens
-Behind a partition in the rear of the cottage are the animal pens. When the players enter this area, read:
+### Загоны для животных
 
-<div class="description">
-<p>The grunting of pigs and clucking of chickens fill this area. Straw covers the floor, and wooden fences separate a pair of pens, which lie next to a trio of large chicken coops. A few lanterns hang from the ceiling, providing dim light, and a thick barn-style door leads out into the yard beyond.</p>
-</div>
+За перегородкой в задней части коттеджа находятся загоны для животных. Когда игроки входят в эту область, прочитайте:
 
-### Kitchen
+>[!read]
+> Похрюкивание свиней и кудахтанье кур наполняют это пространство. Солома покрывает пол, а деревянные ограды разделяют пару загонов, которые находятся рядом с тремя большими курятниками. Несколько фонарей свисают с потолка, обеспечивая тусклый свет, и толстая дверь в амбарном стиле ведёт наружу, во двор за пределами
+
+### Кухня
 When the players enter this area, read:
 
 <div class="description">
