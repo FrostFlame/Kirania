@@ -354,37 +354,64 @@
 > Эсмеральда, малый ясновидящий, также почувствовала, что духи внутри Аббатства потревожены и беспокойны. Хотя у неё ещё не было возможности сделать это, она планирует провести спиритический сеанс по возвращении из Сваличского леса в надежде связаться с духом, обладающим большей информацией об Аббате и его планах
 
 
-# K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
-## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+# K2. Аббатство Святой Марковии
 
-> [!profile]+ **Profile: Otto & Zygfrek**
-> ***Roleplaying Information***
-> ***Resonance.*** Otto and Zygfrek should make the players feel amused with their antics, eccentricities, and squabbles, uncomfortable with Otto's lack of personal space and Zygfrek's bluntness, sympathetic to Zygfrek's discomfort with her appearance and voice, endeared to Otto's boundless positivity, and mildly irritated with Zygfrek's rudeness.
-> 
-> ***Emotions.*** Otto most often feels curious, excited, annoyed, or satisfied. Zygfrek most often feels annoyed, suspicious, insulted, melancholy, or thoughtful.
-> 
-> ***Motivations.*** Otto is primarily motivated by his desire for food and attention. Zygfrek is primarily motivated by her bitterness and self-loathing. Both are motivated by their loyalty to the Abbot and desire for the Abbot's "perfection."
-> 
-> ***Inspirations.*** When roleplaying Otto, channel Dobby (*Harry Potter*), Gollum (*Lord of the Rings*), Jar-Jar Binks (*Star Wars*), and Pinky (*Pinky and the Brain*). When roleplaying Zygfrek, channel Squidward Tentacles (*Spongebob SquarePants*), Marvin the Paranoid Android (*The Hitchhiker's Guide to the Galaxy*), and Oscar the Grouch (*Sesame Street*).
-> 
-> ***Character Information***
-> ***Persona.*** To the world, Otto is a braying, over-enthusiastic loudmouth with a fascination for interesting things, while Zygfrek is a brooding, grumpy cynic who can always find something to insult or complain about. To those she trusts, Zygfrek is a quiet, melancholy, self-loathing woman who desperately longs for the "perfection" the Abbot promises.
-> 
-> ***Morale.*** If attacked, Otto would gallantly declare his intent to fight, then immediately back down, while Zygfrek would demand her attacker cease, and plead for mercy if denied.
-> 
-> ***Relationships.*** Otto and Zygfrek are servants of the Abbot, cousins of Clovin Belview, and the grand-niece and -nephew of Strahd's butler, Cyrus Belview.
+>[!Дорога к Аббатству]
+> Извилистая дорога, поднимающаяся по скале на 400 футов, шириной 10 футов и покрыта галькой и битым камнем. Подъем будет медленным и относительно опасным, а воздух становится холоднее по мере приближения к вершине
 
-If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
+## K2a. Вход в Аббатство
 
-* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
-* **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
+>[!Вход в Аббатство]
+> Дорога из деревни поднимается над туманом и ведет к широкому уступу, на котором расположено аббатство. Легкий налет снега покрывает деревья и каменистую землю
+>
+> Покрытая гравием дорога проходит между двумя небольшими каменными зданиями, от которых отходят стены высотой в 5 и шириной в три фута. Стены сделаны из камней, скрепленных строительным раствором. Дорогу перекрывают железные ворота, подвешенные на ржавые петли. Похоже, что ворота не заперты. За ними тихо стоит каменное аббатство. Его два крыла соединены пятнадцатифутовой стеной. На крыше северного крыла, ближайшего к персонажам, видна колокольня, а также труба, из которой идет серый дым
 
-> [!info]+ **Where's Ezmerelda?**
-> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
+Железные ворота не заперты и громко скрипят, когда кто-нибудь их открывает
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
+Двое стражников сейчас на вахте, но спят, когда персонажи приходят к воротам. Персонажи, которые успешно пройдут **проверку Скрытности Сл 12**, могут перелезть через низкую внешнюю стену, не разбудив их. Если хотя бы один персонаж **провалит проверку**, или откроет ворота, стражники проснутся, и, спотыкаясь, выйдут навстречу нарушителям
+
+Стражники – Отто и Зигфрек Белвью, двое полукровок. Они спят под кучами грязных шкур. Оба они верно служат Аббату, но охранники из них не самые лучшие. Если персонажи выглядят мирно настроенными, полукровки ведут их во двор (область S12) и просят подождать, пока они приведут Аббата (область S13). Если персонажи ведут себя агрессивно, полукровки впускают их, но добровольно с ними не пойдут
+
+На внутренней стене каждого сторожевого поста висит лопата и сеть, увешанная ветками и сосновыми иглами. Отто и Зигфрек укрываются этими сетями, когда ночью рыщут по деревне в поисках свежих могил
+
+>[!Отто Белвью]
+> Отто ростом в 145 см, и скорее полусидит, чем стоит ровно. Он выглядит, как безбородый дварф, лицо и тело которого покрыто участками ослиной кожи. Одно его ухо – человеческое, второе – волчье. У него также вытянутая волчья морда и клыки. Его руки – человеческие, но ноги – львиные. Кроме того, у него есть ослиный хвост. Он почти не говорит на Общем, а его смех звучит как ослиный рев. Он носит простой шерстяной плащ
+>
+> Отто обладает способностью Прыжок с места. Его безумие воплощено в следующем утверждении: *«Я самый умный, мудрый, сильный, быстрый и красивый из всех, кого я знаю»*
+
+>[!Зигфрек Белвью]
+> Зигфрек ростом в 140 см. Левая сторона ее тела и лица покрыта чешуей ящерицы, правая – клочками серой волчьей шерсти. Между этими клочками находится бледная человеческая кожа. Один из ее глаз – кошачий, а ее кисти напоминают кошачьи лапы с противопоставленным большим пальцем. У нее грубый голос, а одета она в серый плащ, отороченный черной шерстью
+>
+> Зигфрек обладает способностью Темное зрение. Ее безумие воплощено в следующем утверждении: *«Мне не нравится, что люди все время меня осуждают»*
+
+Прежде чем проводить игроков в Аббатство, Отто и Зигфрек требуют знать, зачем они пришли
+
+> [!profile]+ **Профиль: Отто и Зигфрек**
+> ***Информация для отыгрыша***
+> **Резонанс**. Отто и Зигфрек должны вызывать у игроков веселье своими выходками, чудачествами и перебранками, неловкость из-за отсутствия у Отто личного пространства и прямолинейности Зигфрек, сочувствие к дискомфорту Зигфрек по поводу её внешности и голоса, привязанность к безграничному позитиву Отто и лёгкое раздражение грубостью Зигфрек
+> 
+> **Эмоции**. Отто чаще всего чувствует любопытство, воодушевление, раздражение или удовлетворение. Зигфрек чаще всего чувствует раздражение, подозрительность, оскорблённость, меланхолию или задумчивость
+> 
+> **Мотивации**. Отто в первую очередь мотивирован своим желанием еды и внимания. Зигфрек в первую очередь мотивирована своей горечью и отвращением к себе. Оба мотивированы своей верностью Аббату и желанием «совершенства» Аббата
+> 
+> **Вдохновения**. При отыгрыше Отто ориентируйтесь на Добби («Гарри Поттер»), Голлума («Властелин колец»), Джа-Джа Бинкса («Звёздные войны») и Пинки («Пинки и Брейн»). При отыгрыше Зигфрек ориентируйтесь на Сквидварда Тентаклса («Губка Боб Квадратные Штаны»), Марвина Параноидного Андроида («Автостопом по галактике») и Оскара Ворчуна («Улица Сезам»)
+> 
+> ***Информация о персонаже***
+> **Персона**. Для мира Отто — крикливый, чрезмерно восторженный горлопан с увлечением всем интересным, в то время как Зигфрек — мрачный, сварливый циник, который всегда может найти что-то, чтобы оскорбить или на что пожаловаться. Для тех, кому она доверяет, Зигфрек — тихая, меланхоличная, ненавидящая себя женщина, отчаянно тоскующая по «совершенству», которое обещает Аббат
+> 
+> **Боевой дух**. Если на них нападут, Отто галантно заявит о своём намерении сражаться, затем немедленно отступит, в то время как Зигфрек потребует от своего атакующего прекратить и будет умолять о пощаде, если ей откажут
+> 
+> **Отношения**. Отто и Зигфрек — слуги Аббата, кузены Кловина Белвью и внучатые племянник и племянница дворецкого Страда, Сайруса Белвью
+
+Если сказать, что игроки ищут Вистани, которая остановилась в Аббатстве, Зигфрек отвечает следующим образом:
+
+* **Если Эсмеральда ещё не вернулась**, Зигфрек сообщает игрокам, что Вистани по имени Эсмеральда д'Авенир отсутствует по делам и ожидается, что она вернётся на второй день после полнолуния (11 ноября). (Зигфрек не знает, где Эсмеральда, и пожимает плечами с ворчанием, когда её спрашивают, куда она ушла)
+* **Если Эсмеральда вернулась** (11 ноября), Зигфрек предлагает отвести игроков к Аббату, который знает, где остановилась Эсмеральда
+
+> [!info]+ **Где эсмеральда?**
+> В дни, предшествующие первому полнолунию игроков в Валлаки, Эсмеральда ищет в Сваличском лесу близ Крезка следы пропавшего Ильи Крезкова, а также логово стаи оборотней, что охотится в этих лесах. Она не планирует возвращаться в Аббатство до второго дня после первого полнолуния (11 ноября) игроков в Валлаки
+
+Миновав северные врата, игроки проходят <span class="citation">S7. Кладбище (стр. 148)</span> и приближаются к <span class="citation">S10. Вход в Аббатство (стр. 148)</span>
 
 If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
 
