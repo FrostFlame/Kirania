@@ -423,9 +423,21 @@
 
 «Стражники» на стене – всего лишь пугала, одетые в прогнившие кольчуги и вооруженные ржавыми копьями. Персонаж, успешно прошедший **проверку Восприятия Сл 10** раскрывает обман
 
-If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+Если Отто и Зигфрек сопровождают игроков, Отто прыгает к деревянным дверям и стучит 3 раза, ржа в приветствии. Несколько мгновений спустя Кловин Белвью открывает дверь и приветствует его скептически, замечая с раздражением: *«Вам не положено покидать свои посты»*
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Отто извиняется за это, и Зигфрек представляет игроков и их цель (если они поделились). Кловин затем осматривает игроков мгновение, затем поворачивается и приглашает их следовать за ним в S12. Внутренний Двор, к главному залу, где ожидает Аббат. (Если они это делают, Отто и Зигфрек затем возвращаются на свои посты — и к своей дрёме)
+
+>[!Кловин Белвью]
+> Кловин ростом 140 см, а его торс формой напоминает бочку. Его правая голова полностью сформирована и совмещает человеческие и козлиные черты, включая короткие рога и клочковатые волосы. Его левая голова примерно в два раза меньше нормы. У нее ангельское личико, частично покрытое крокодильей чешуей. Вместо левой кисти у Кловина клешня краба, а вместо правой ступни – медвежья лапа. Он носит плохо сшитую монашескую рясу с поясом из пеньковой веревки
+>
+> Кловин служит Аббату надсмотрщиком над другими полукровками, за что те его презирают и обвиняют в том, что он недодает им еды и морит голодом. Он бы действительно уморил их, но Аббат запретил это
+>
+> Кловин обладает способностью «Двухголовый». Его безумие выражается следующей фразой: *«Когда я пьян, тогда разумен»*. Он пьян почти всегда, но не настолько, чтобы это повредило его боеспособности, а его исполнительские способности только выигрывают от опьянения
+>
+> Все разговоры ведет большая голова. У маленькой головы язык раздвоен, как у змеи. Она может только шипеть и издавать другие ужасные звуки
+
+>[!Внутренний двор]
+> 
 
 > [!lore]+ **The Belviews' Perfection**
 > When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
