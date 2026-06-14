@@ -101,26 +101,27 @@
 
 ![[Anna_and_Dmitri_Krezkov_transparent.png]]
 
-> [!profile]+ **Profile: Baroness Anna Krezkova**
-> **Roleplaying Information**
-> ***Resonance.*** Anna should inspire gratitude and comfort with her kindness and hospitality, mild irritation with her no-nonsense attitude, and (when the players learn of it) sympathy and endearment for her promise to the Abbot.
+> [!profile]+ **Профиль: Баронесса Анна Крезкова**
+> **Информация для отыгрыша**
+> **Резонанс**. Анна должна вызывать благодарность и уют своей добротой и гостеприимством, лёгкое раздражение своим деловым отношением и (когда игроки узнают об этом) сочувствие и нежность из-за её обещания Аббату
 > 
-> ***Emotions.*** Anna most often feels compassionate, worried, determined, skeptical, thoughtful, sorrowful, or melancholy.
+> **Эмоции**. Анна чаще всего чувствует сострадание, беспокойство, решимость, скептицизм, задумчивость, печаль или меланхолию
 > 
-> ***Motivations.*** Anna wants to help Dmitri lead and support the people of Krezk, keep her children safe and happy, and see Ilya safely returned to Krezk.
+> **Мотивации**. Анна хочет помогать Дмитрию руководить и поддерживать жителей Крезка, сохранять своих детей в безопасности и счастье и видеть Илью безопасно возвращённым в Крезк
 > 
-> ***Inspirations.*** When playing Anna, channel Catelyn Stark (_Game of Thrones_), Molly Weasley (_Harry Potter_), and Joyce Byers (_Stranger Things_).
+> **Вдохновения**. Отыгрывая Анну, ориентируйтесь на Кейтилин Старк («Игра престолов»), Молли Уизли («Гарри Поттер») и Джойс Байерс («Очень странные дела»)
 > 
-> **Character Information**
-> ***Persona.*** To the world, Anna is a compassionate and strong-willed leader dedicated to the safety of Krezk. To those she trusts, she is a caring woman who has resigned herself to the Abbot's bargain—and who grieves the thought of her children growing up without a mother.
+> **Информация о персонаже**
+> **Персона**. Для мира Анна — сострадательный и волевой лидер, преданный безопасности Крезка. Для тех, кому она доверяет, она — заботливая женщина, которая смирилась со сделкой с Аббатом — и которая скорбит о мысли, что её дети вырастут без матери
 > 
-> ***Morale.*** In a fight, Anna would take up her battleaxe and command any opponents to lay down their weapons, but wouldn't hesitate to fight to defend herself, her family, or her neighbors.
+> **Боевой дух**. В бою Анна схватит свою боевую секиру и прикажет любым противникам сложить оружие, но не колеблясь будет сражаться, чтобы защитить себя, свою семью или своих соседей
 > 
-> ***Relationships.*** Anna is the wife of Baron Dmitri Krezkov, the mother of Ilya and Kala Krezkov, and the sister-in-law of the **werewolf** Zuleika Toranescu. In exchange for Kala's resurrection, Anna has also promised to allow the Abbot to remove the heart from her chest.
+> **Отношения**. Анна — жена барона Дмитрия Крезкова, мать Ильи и Калы Крезковых и невестка оборотня Зулейки Торанеску. В обмен на воскрешение Калы Анна также пообещала позволить Аббату извлечь сердце из её груди
 
-If the players intend on staying the night, Anna asks the players to assist her in completing a series of chores before dinner: feeding the chickens, mucking out the pig pen, weeding the vegetable garden, and (most importantly) obtaining a bucket of milk from the cow of Kretyana Dolvof—a widow whose cottage lies just southwest of the village’s freshwater pool. Anna also welcomes the players’ help in the kitchen as she prepares an evening meal.
+Если игроки намерены остаться на ночь, Анна просит игроков помочь ей завершить ряд дел перед ужином: покормить кур, почистить свинарник, прополоть огород и (что самое важное) добыть ведро молока от коровы Кретьяны Долвоф — вдовы, чей коттедж лежит к юго-западу от пресноводного пруда деревни. Анна также приветствует помощь игроков на кухне, пока она готовит вечернюю трапезу
 
-Though the Krezkovs’ cottage doesn’t have much space, the players are welcome to set down their packs and bedrolls in the animal pens and the structure’s only empty bedroom (see [[#Ilya’s Bedroom]] below).
+Хотя в коттедже Крезковых не так много места, игроки могут оставить свои рюкзаки и спальные мешки в загонах для животных и единственной пустой спальне строения (смотрите [[#Спальня Ильи]] ниже)
+
 ### Animal Pens
 Behind a partition in the rear of the cottage are the animal pens. When the players enter this area, read:
 
@@ -276,7 +277,8 @@ Kala has had nightmares ever since her resurrection—dreams of the monster that
 Kala informs the player that she had snuck outside to play in the garden on the night that she died—and that the monster came from the wine cellar beneath the house. She asks the player to wait until her parents are asleep, then bring her there and keep her safe, so that she can either see the monster for herself or confirm that it has gone forever.
 
 If the player attempts to dissuade Kala from venturing down to the cellar, she replies, "I need to see for myself. I don't want to be afraid of the dark anymore."
-### Ilya’s Bedroom
+
+### Спальня Ильи
 When the players enter this area, read:
 
 <div class="description">
