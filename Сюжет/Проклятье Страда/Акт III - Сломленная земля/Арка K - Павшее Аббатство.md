@@ -220,57 +220,56 @@
 
 Посередине ужина раздаётся стук в дверь. Когда Анна идёт открыть её, женщина с голосом и внешностью Кретьяны Долвоф приветствует её. Когда Анна приветствует её в ответ, с некоторым удивлением, и спрашивает о её деле, прочитайте:
 
-<div class="description">
-<p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
-</div>
+>[!read]
+> Одно мгновение облик пожилой женщины стоит перед вами. В следующий миг, без тени перехода или зрелища, она исчезает — и на её месте стоит красивый молодой человек в коричневой монашеской рясе, с раскрашенным деревянным символом, изображающим солнце, висящим на цепи вокруг его шеи. Он держится с безвозрастной грацией, а его глаза несут тихую, холодную безмятежность
 
-This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player with a passive Wisdom (Insight) score of 13 or higher notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
+Это Аббат. Анна и Дмитрий реагируют на его появление с потрясением, и игрок с **пассивной Проницательностью 13** или выше замечает, что они кажутся напуганными. Тихим голосом Дмитрий приказывает Кале идти в свою спальню — приказ, которому она молча подчиняется
 
-The Abbot greets Dmitri, Anna, and the players cordially, and notes with mild interest that the Krezkovs have guests. 
+Аббат приветствует Дмитрия, Анну и игроков сердечно и с лёгким интересом замечает, что у Крезковых гости
 
-Dmitri nervously asks to know why the Abbot has come to visit them. In response, as he steps toward the shelves above the hearth to inspect the whittled statues there, the Abbot asks whether it is a sin to visit the home of his friends and neighbors—"especially," he notes, with a glance toward Anna, “friends and neighbors who may soon be family?"
+Дмитрий нервно спрашивает, зачем Аббат пришёл навестить их. В ответ, шагая к полкам над очагом, чтобы осмотреть резные статуэтки там, Аббат спрашивает, является ли грехом навещать дом своих друзей и соседей — *«особенно*, — замечает он, бросив взгляд на Анну, — *друзей и соседей, что скоро могут стать семьёй?»*
 
-As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about Krezk, but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
+По ходу разговора Аббат задаёт игрокам следующие вопросы — якобы чтобы узнать их мысли о Крезке, но на самом деле призванные донести зловещее предупреждение Крезковым о последствиях предательства:
 
-* "How do you like the village? A quaint and quiet settlement, no?" (*The village is safe and quiet—for now.*)
-* "The children of Krezk have always seemed healthy and well-protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
-* "I see by your weapons that you're no strangers to the dangers outside these walls. It's good that the good people of Krezk are protected, isn't it, from the threats that lurk beyond?" (*Krezk’s mighty walls will not protect you from my wrath.*)
-* "Isn't it beautiful how such a small, fragile thing can exist on the corners of Strahd's domain?" (*You exist because I allow it—and you will end if I demand it.*)
+* «Как вам деревня? Старинное и тихое поселение, не так ли?» (_Деревня в безопасности и тиха — пока что_)
+* «Дети Крезка всегда казались здоровыми и хорошо защищёнными. Крезковы были хорошими управителями этой земли, не правда ли?» (_Я дал вашему ребёнку здоровье. Она и ваши соседи сохранят свои жизни и средства к существованию — если вы выполните свою часть сделки_)
+* «Судя по вашему оружию, вы не чужие опасностям за этими стенами. Хорошо, что добрые люди Крезка защищены, не так ли, от угроз, что таятся снаружи?» (_Могучие стены Крезка не защитят вас от моего гнева_)
+* «Разве не прекрасно, как нечто столь маленькое и хрупкое может существовать на окраинах владений Страда?» (_Вы существуете, потому что я позволяю это — и вы прекратите существовать, если я потребую этого_)
 
-If asked why the Krezkovs appear to be afraid of him, the Abbot insists that they have nothing to be afraid of. “There is no fear in doing one’s duty," he says serenely, “nor shame or sin in accepting one’s fate. Like the sun, moon, and stars, we all have our parts to play, and theirs is a blessed one." (The Abbot won’t share the Krezkovs’ “duty," insisting that one’s relationship with the gods is a private matter, to be shared only as one chooses. If addressed, the Krezkovs appear paralyzed with fear, and Dmitri only shakes his head instead of responding.)
+Если спросить, почему Крезковы, кажется, боятся его, Аббат настаивает, что им нечего бояться. *«Нет страха в исполнении своего долга*, — говорит он безмятежно, — *ни стыда, ни греха в принятии своей судьбы. Подобно солнцу, луне и звёздам, у всех нас есть свои роли, и их роль — благословенная»*. (Аббат не станет делиться «долгом» Крезковых, настаивая, что отношения с богами — это личное дело каждого, которым делятся лишь по своему выбору. Если обратиться к ним, Крезковы выглядят парализованными страхом, и Дмитрий лишь качает головой вместо ответа)
 
-If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
+Если обратиться к нему дальше, Аббат выглядит на мгновение удручённым и печально добавляет, осматривая резную фигурку волка на каминной полке: *«Это правда, что многие инструменты богов сначала отвергали своё призвание. Но разве не сказано в писаниях, что те, кто отказывается служить божественному, становятся орудиями божественного, в то время как те, кто служит божественному сами, сами становятся божественным?»* Он бормочет скорбно: *«Выбор, боюсь, никогда не бывает лёгким»*
 
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. "You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+Если его не остановить, Аббат почтительно склоняет голову в сторону Дмитрия и Анны, извиняется за прерывание их трапезы и желает им доброй ночи. *«Надеюсь, вы обдумаете мои слова этой ночью»*, — говорит он, глубоко кланяясь. — *«Да пребудет с вами свет Утреннего Владыки»*. Затем он покидает коттедж. Прочитайте:
 
-<div class="description">
-<p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>
-</div>
+>[!read]
+> Сквозь переднюю дверь коттеджа, под свежепадающим снегом, молчаливый силуэт молодого человека стоит, отлитый в ореоле тёмного лунного света. Затем, во мгновение ока, человек просто перестаёт существовать, на его месте стоит орёл выше человека ростом, его перья сливаются с падающими снежинками. С мощным взмахом крыльев существо возносится, взмывая в ночное небо, пока не исчезает в глубинах баровийской тьмы
 
-Dmitri and Anna then collapse onto their knees, holding one another and crying quietly. If comforted, they can share the following information:
+Дмитрий и Анна затем падают на колени, держа друг друга и тихо плача. Если их утешить, они могут поделиться следующей информацией:
 
-* Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
-* The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Арка I - Стены Крезка]], Dmitri adds that, until recently, they feared him to be dead as well.)
-* The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
-* The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
-* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
-* Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
-### Kala’s Bedroom
-If the players enter this area, read:
+* Недавно оборотень напал на деревню Крезк, каким-то образом сумев обойти её стены. В своём буйстве он ранил многих и убил Калу. (*«Я держал её в своих руках, пока она умирала*, — рыдает Дмитрий. — *У неё половины бока не было. Она продолжала шептать "папа" и "мама" снова и снова, пока наконец не затихла»*)
+* Сын Крезковых, Илья, исчез в хаосе, и его не видели уже несколько дней. (Если игроки обнаружили Илью в [[Арка I - Стены Крезка]], Дмитрий добавляет, что до недавнего времени они боялись, что он тоже мёртв)
+* Крезковы молились Утреннему Владыке о руководстве и избавлении, умоляя о милости и спасении — и Аббат ответил
+* На следующее утро звериные слуги Аббата — пара существ, назвавшихся Отто и Зигфреком — пригласили скорбящих Крезковых в Аббатство. Там Аббат предложил сделку, пообещав воскресить Калу в полном здравии, если Анна пообещает пожертвовать своё сердце мерзкому творению Аббата: **голему плоти**, которого он зовёт Василька. К ужасу Дмитрия, Анна согласилась — и Аббат вернул Калу к жизни
+* Аббат дал Анне один месяц времени, чтобы проститься с семьёй и соседями — акт, который он назвал «милостью Утреннего Владыки». У Крезковых осталось не так много времени. (Срок Аббата истекает через 2 недели и 1 день после первого полнолуния игроков в Валлаки)
+* Кала не была прежней с момента её воскрешения. Дмитрий и Анна не спрашивали, но они в ужасе, что она помнит опыт умирания — и что то, что она увидела за завесой смертности, навсегда оставило на ней шрам. Жизнь и смех покинули её, и она проводит большую часть времени, глядя на могилу, которую её родители однажды приготовили для неё
 
-<div class="description">
-<p>A small bed sits against one wall of this small, muted bedroom, its quilt a patchwork of floral patterns and faded pastels. A shelf above a nearby dresser displays a few simple toys: a stuffed bear with button eyes, a whittled wooden horse, and a small, tattered book of Barovian folk tales. On the windowsill rests a small ceramic pot that holds a wilting flower, its petal drooping in the shadowed light.</p>
-</div>
+### Спальня Калы
 
-If Kala has been dismissed to her room, she can be found here, sitting on her bed with her knees clutched to her chest and staring at the wilted flower on the windowsill.
+Если игроки входят в эту область, прочитайте:
 
-If a player speaks kindly to Kala, she asks them whether they’ve ever seen a “monster" before. She then asks, “Why do monsters like the dark so much?"
+>[!read]
+> Маленькая кровать стоит у одной стены этой маленькой, приглушённой спальни, её стёганое одеяло — лоскутная работа из цветочных узоров и выцветшей пастели. Полка над комодом поблизости показывает несколько простых игрушек: плюшевого медведя с глазами-пуговицами, вырезанную из дерева лошадку и маленькую, потрёпанную книгу баровианских народных сказок. На подоконнике стоит маленький керамический горшок с увядающим цветком, чей лепесток поник в затенённом свете
 
-As the conversation continues, Kala hesitates, then asks the player if they will help her. If the player agrees to do so, she insists that they keep her request from her parents, “because I don’t want to make them sad." If the player agrees again, she can share the following information:
+Если Кала была отослана в свою комнату, её можно найти здесь, сидящей на своей кровати с коленями, прижатыми к груди, и смотрящей на увядший цветок на подоконнике
 
-* Her parents won’t tell her, but she thinks she died—and that the Abbot had something to do with her coming back. She doesn’t remember exactly what happened: only a flash of teeth and claws, and blood and pain. 
-* Kala then remembers being somewhere dark, filled with mist and distant screams. “I felt like I was supposed to go somewhere," she mumbles, “but the mist stopped me. Every time I tried to leave, it brought me back into the screams and the darkness." 
-* Eventually, she awoke once more into her body—healed and whole, without any more pain. Her parents took her home and lavished her with love and care, but Kala could tell that they were nervous and afraid, as if one wrong move could break her.
+Если игрок говорит с Калой по-доброму, она спрашивает его, видел ли он когда-нибудь «монстра». Затем она спрашивает: *«Почему монстры так любят темноту?»*
+
+По ходу разговора Кала колеблется, затем спрашивает игрока, поможет ли он ей. Если игрок соглашается, она настаивает, чтобы он сохранил её просьбу в тайне от родителей, «потому что я не хочу их расстраивать». Если игрок снова соглашается, она может поделиться следующей информацией:
+
+* Её родители не говорят ей, но она думает, что она умерла — и что Аббат имел какое-то отношение к её возвращению. Она не помнит точно, что произошло: только зубы и когти, и кровь, и боль
+* Кала затем вспоминает, что была где-то тёмном, наполненном туманом и далёкими криками. *«Мне казалось, что я должна была куда-то идти*, — бормочет она, — *но туман остановил меня. Каждый раз, когда я пыталась уйти, он возвращал меня обратно в крики и темноту»*
+* В конце концов она снова проснулась в своём теле — исцелённая и целая, без всякой боли. Её родители забрали её домой и осыпали любовью и заботой, но Кала могла сказать, что они нервничали и боялись, как будто одно неверное движение могло сломать её
 
 Kala has had nightmares ever since her resurrection—dreams of the monster that killed her, and of the dark place she went to when she died. She believes that confronting the monster will allow the nightmares to stop.
 
