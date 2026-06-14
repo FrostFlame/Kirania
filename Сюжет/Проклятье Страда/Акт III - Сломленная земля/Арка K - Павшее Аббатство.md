@@ -130,43 +130,44 @@
 > Похрюкивание свиней и кудахтанье кур наполняют это пространство. Солома покрывает пол, а деревянные ограды разделяют пару загонов, которые находятся рядом с тремя большими курятниками. Несколько фонарей свисают с потолка, обеспечивая тусклый свет, и толстая дверь в амбарном стиле ведёт наружу, во двор за пределами
 
 ### Кухня
-When the players enter this area, read:
 
-<div class="description">
-<p>A large wooden table stands at the center, surrounded by chairs and covered with a simple checkered tablecloth. Copper pots and pans hang from hooks above a stone hearth, and a variety of herbs dry from a wooden rack on the wall. An open window allows a cool breeze into the space, and a small pile of birdseed rests upon the windowsill.</p>
-</div>
+Когда игроки входят в эту область, прочитайте:
 
-If the players linger here, they notice that a musty, acrid odor emits from a mortar and pestle atop one of the higher shelves. If retrieved, the mortar contains a faint ground powder colored a vibrant shade of purple, identifiable as wolfsbane with a DC 13 Intelligence (Nature) check.
+>[!read]
+> Большой деревянный стол стоит в центре, окружённый стульями и покрытый простой клетчатой скатертью. Медные кастрюли и сковороды висят на крюках над каменным очагом, а разнообразные травы сушатся на деревянной стойке на стене. Открытое окно впускает прохладный ветерок в пространство, и маленькая кучка птичьего корма лежит на подоконнике
 
-At some point before dinner, Dmitri and Anna meet in the kitchen for a quiet conversation, asking any players present to excuse themselves from the room for a moment of privacy. A player who eavesdrops on the conversation sees the following: 
+Если игроки задерживаются здесь, они замечают, что затхлый, едкий запах исходит от ступки и пестика на одной из верхних полок. Если её достать, ступка содержит слабый молотый порошок яркого фиолетового оттенка, опознаваемый как аконит при успешной **проверке Природы Сл 13**
 
-<div class="description">
-<p>A small robin flutters down to the windowsill, pecking quietly at the birdseed, as Dmitri and Anna huddle closer together and begin to speak in hushed voices.</p>
-</div>
+В какой-то момент перед ужином Дмитрий и Анна встречаются на кухне для тихого разговора, прося любых присутствующих игроков удалиться из комнаты для минутного уединения. Игрок, подслушивающий разговор, видит следующее:
 
-The robin is the Abbot in disguise.
+>[!read]
+> Маленькая малиновка слетает вниз на подоконник, тихо клюя птичий корм, пока Дмитрий и Анна теснее прижимаются друг к другу и начинают говорить приглушёнными голосами
 
-A player can make a DC 14 Wisdom (Perception) check to attempt to eavesdrop on the conversation. On a success, they hear the following:
+Малиновка — это Аббат под маскировкой
 
-<div class="description">
-<p>“I know you said you’d made up your mind," Dmitri murmurs. “But please, Anna — you have to reconsider."</p>
-<p>“Dmitri—" Anna begins.</p>
-<p>Dmitri clasps her hands, his voice strained and desperate. “Gargosh, Ivan, and Falkon will help us. They won't ask questions; they know how dangerous it is to travel the roads. Ivan can lend us his mules—we can make a new life for you in Vallaki."</p>
-<p>Anna jerks her hands away. “No," she whispers. “I made my choice—for Kala and our people. How <em>dare</em> you ask me to flee like a coward?"</p>
-</div>
+Игрок может совершить **проверку Восприятия Сл 14**, чтобы попытаться подслушать разговор. При **успехе** он слышит следующее:
 
-Dmitri flinches, then reflexively checks over his shoulder to ensure that no one is listening. A player must succeed on a DC 16 Dexterity (Stealth) check to remain unobserved; otherwise, Dmitri hears and smells them through the use of his ***keen hearing and smell*** feature. (Dmitri sharply asks the player whether they were eavesdropping, and tells them to forget what they heard and tell no one if they admit to doing so.)
+>[!read]
+> *«Я знаю, ты сказала, что приняла решение*, — бормочет Дмитрий. — *Но прошу, Анна — ты должна передумать»*
+>
+> *«Дмитрий...»* — начинает Анна
+>
+> Дмитрий сжимает её руки, его голос напряжённый и отчаянный: *«Гаргош, Иван и Фалькон помогут нам. Они не будут задавать вопросов; они знают, как опасно путешествовать по дорогам. Иван может одолжить нам своих мулов — мы можем начать новую жизнь для тебя в Валлаки»*
+>
+> Анна вырывает свои руки прочь. *«Нет*, — шепчет она. — *Я сделала свой выбор — ради Калы и наших людей. Как ты смеешь просить меня бежать, как трусиха?»*
 
-If the eavesdropping player escapes detection, read:
+Дмитрий вздрагивает, затем рефлекторно оглядывается через плечо, чтобы убедиться, что никто не подслушивает. Игрок должен преуспеть в проверке Скрытности Сл 16, чтобы остаться незамеченным; иначе Дмитрий слышит и чует их благодаря использованию своей черты ***острое обоняние и слух***. (Дмитрий резко спрашивает игрока, подслушивал ли он, и говорит ему забыть то, что он услышал, и никому не рассказывать, если тот признается в этом)
 
-<div class="description">
-<p>Dmitri closes his eyes and swallows. “I’m sorry," he says. “I just don’t want to lose you. With Ilya gone, and Kala in so much pain . . ." You hear the sound of a half-stifled sob. “I can’t do this on my own. I can’t do this without you."</p>
-<p>Anna embraces him. “We’ll figure this out," she whispers. “We always do."</p>
-</div>
+Если подслушивающий игрок избегает обнаружения, прочитайте:
 
-The robin on the windowsill flies away shortly thereafter.
+>[!read]
+> Дмитрий закрывает глаза и сглатывает. *«Прости*, — говорит он. — *Я просто не хочу потерять тебя. Илья пропал, и Кала в такой боли...»* Вы слышите звук полуподавленного рыдания. *«Я не могу справиться с этим в одиночку. Я не могу без тебя»*
+>
+> Анна обнимает его. *«Мы разберёмся с этим*, — шепчет она. — *Мы всегда разбираемся»*
 
-### Garden
+Малиновка на подоконнике улетает вскоре после этого
+
+### Сад
 
 When the players enter this area, read:
 
