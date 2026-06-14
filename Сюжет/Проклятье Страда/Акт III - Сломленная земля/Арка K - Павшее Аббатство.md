@@ -284,21 +284,21 @@
 >[!read]
 > Кровать в этой скромной спальне аккуратно застелена, покрыта сшитым вручную стёганым одеялом. Деревянная полка над столом держит набор диковин — перо, маленький горный хрусталь и что-то, похожее на волчий зуб. Небольшая оружейная стойка висит на стене, в настоящее время держа короткий меч и охотничий лук с колчаном стрел под ним. Круглое окно с простыми кружевными занавесками впускает тонкий луч естественного света, освещая нарисованную от руки карту, приколотую к стене рядом с ним
 
-The map depicts the local woods around Krezk, extending as far south as the Wizard of Wines and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
+Карта изображает местные леса вокруг Крезка, простирающиеся так далеко на юг, как Винный Волшебник, и так далеко на восток, как озеро Бараток. (Она не включает логово оборотней или башню на озере Бараток)
 
-A player who inspects the map observes a small piece of parchment tucked away behind it. If removed, the parchment contains a charcoal sketch of a woman, described as follows:
+Игрок, осматривающий карту, замечает маленький кусочек пергамента, спрятанный за ней. Если его извлечь, пергамент содержит угольный набросок женщины, описанной следующим образом:
 
-<div class="description">
-<p>The sketch depicts a woman with narrowed, low-set eyes, whose lips seem to unconsciously curl into a snarl. A gray bandana ties back a set of thick, short-cropped dreadlocks behind her head, and a half-shredded black tunic lies beneath a set of worn leather armor upon her chest.</p>
-</div>
+>[!read]
+> Набросок изображает женщину с прищуренными, низко посаженными глазами, чьи губы, кажется, неосознанно скручиваются в оскал. Серая бандана стягивает назад копну густых, коротко остриженных дредов за её головой, а наполовину изодранная чёрная туника лежит под набором поношенного кожаного доспеха на её груди
 
-The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
+Женщина — Зулейка Торанеску, старшая сестра Дмитрия. Игрок с **пассивным Восприятием 13** или выше замечает, что она имеет поразительное сходство с бургомистром Дмитрием Крезковым
 
 ![[Sketch of Zuleika.png]]
-<span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)
-### Wine Cellar
+Если показать картинку, лицо Дмитрия бледнеет, и он спрашивает игрока, где тот её нашёл. Если сказать, что игрок нашёл её в комнате Ильи, он настаивает, что это невозможно. *«Это рисунок моей старшей сестры, Зулейки,* — говорит он хрипло, — *и её не видели в Крезке почти 13 лет»*. (Если спросить, почему Зулейка ушла, Дмитрий делится лишь тем, что она поссорилась с ним и их больным отцом по поводу личных семейных дел, и что он не видел и не слышал её с тех пор, как она ушла)
+
+### Винный погреб
+
 A heavy wooden bulkhead door stands against the cottage, on the side facing the garden. Close inspection reveals that two of its hinges are broken, and the lock is battered and broken. The center of the door bulges slightly outward, as though struck from the inside by a great force.
 
 The door opens to a descending set of stone stairs that open into the wine cellar. When the players enter this room, read:
