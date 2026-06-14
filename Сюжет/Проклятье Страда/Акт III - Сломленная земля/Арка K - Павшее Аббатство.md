@@ -318,17 +318,16 @@
 
 ### Скрытый подвал
 
-This area is unlit. When the players first enter it, read:
+Эта область неосвещена. Когда игроки впервые входят в неё, прочитайте:
 
-<div class="description">
-<p>The air here is thick and musty. Three sets of heavy silver shackles are bolted to the stone walls, with two surrounded by disturbed half-circles of salt. Claw marks mar the walls and floor, and the silver shackles bolted to the east wall have been heavily damaged, with one shackle burst open and the other torn from the wall entirely.</p>
-</div>
+>[!read]
+> Воздух здесь густой и затхлый. 3 набора тяжёлых серебряных кандалов приболчены к каменным стенам, два из которых окружены потревоженными полукругами соли. Отметины когтей портят стены и пол, а серебряные кандалы, приболченные к восточной стене, были сильно повреждены: один кандал лопнул, а другой полностью вырван из стены
 
-If the players haven’t taken special steps to prevent or watch for the Krezkovs’ appearance, Dmitri and Anna find Kala missing from her bedroom, exit into the garden, and descend the wine cellar steps upon noticing the players’ footsteps in the snow, finding the players at the door to the hidden basement.
+Если игроки не приняли особых мер, чтобы предотвратить или следить за появлением Крезковых, Дмитрий и Анна обнаруживают, что Кала пропала из своей спальни, выходят в сад и спускаются по ступеням винного погреба, заметив следы игроков на снегу, находя игроков у двери в скрытый подвал
 
-“I’m sure you have questions," Dmitri says, quietly, when he first arrives. His eyes are haunted and sad, and his gaze lingers somberly on Kala’s face. “I ask only that you not judge us too harshly when you hear the answers."
+*«Я уверен, у вас есть вопросы»*, — тихо говорит Дмитрий, когда он впервые приходит. Его глаза печальны, и его взгляд мрачно задерживается на лице Калы. *«Я прошу лишь, чтобы вы не судили нас слишком строго, когда услышите ответы»*
 
-Dmitri can share the following information if asked:
+Дмитрий может поделиться следующей информацией, если его спросят:
 
 * Eighty years ago, his grandfather was bitten by a werewolf. His ancestor survived, but the curse of lycanthropy remained with him until his death—and was passed down, intermittently, within the Krezkov line. The curse emerges on the first full moon after an infected Krezkov’s thirteenth birthday, transforming their body into a powerful, violent beast on that night and each full moon thereafter.
 * Since then, the Krezkov family has kept the curse under control by binding themselves in silver on the nights of the full moon and imbibing a *potion of wolfsbane*, which keeps the spirit of the wolf docile and calm.
