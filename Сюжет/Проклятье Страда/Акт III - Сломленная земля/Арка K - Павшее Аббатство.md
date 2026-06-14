@@ -299,23 +299,25 @@
 
 ### Винный погреб
 
-A heavy wooden bulkhead door stands against the cottage, on the side facing the garden. Close inspection reveals that two of its hinges are broken, and the lock is battered and broken. The center of the door bulges slightly outward, as though struck from the inside by a great force.
+Тяжёлая деревянная погребная дверь стоит у коттеджа, на стороне, выходящей в сад. При близком осмотре видно, что две её петли сломаны, а замок побит и сломан. Центр двери слегка выгнут наружу, словно по нему ударили изнутри с огромной силой
 
-The door opens to a descending set of stone stairs that open into the wine cellar. When the players enter this room, read:
+Дверь открывается в нисходящий ряд каменных ступеней, ведущих в винный погреб. Когда игроки входят в эту комнату, прочитайте:
 
-<div class="description">
-<p>The room is chilly, and the walls are lined with empty wooden racks that once held bottles of wine. The scent of damp earth is pervasive.</p>
-<p>The floor bears a trail of deep gouges and claw marks. The marks lead to a bare spot between two wooden racks, covering a portion of the far stone wall approximately three feet across.</p>
-</div>
+>[!read]
+> В комнате холодно, и стены облицованы пустыми деревянными стойками, некогда державшими бутылки вина. Здесь пахнет сырой землёй
+>
+> Пол несёт след глубоких борозд и отметин когтей. Следы ведут к голому месту между двумя деревянными стойками, покрывая часть дальней каменной стены шириной около 3 футов
 
-A DC 12 Wisdom (Nature) check reveals that the marks and gouges were left by a large, lupine beast.
+**Проверка Природы Сл 12** показывает, что отметины и борозды были оставлены крупным волчьим зверем
 
-The bare spot on the wall hides a secret door. No check is required to spot the secret door, which can’t be closed completely due to Ilya’s damage, leaving a thin crack in the wall from the floor to a point six feet above the ground.
+Голое место на стене скрывает потайную дверь. Проверка не требуется, чтобы заметить потайную дверь, которая не может быть закрыта полностью из-за повреждений Ильи, оставляя тонкую трещину в стене от пола до точки в 1,8 м над землёй
 
-A player can force the secret door open with a successful DC 20 Strength check. Alternatively, the player can find the mechanism that unlocks the door—a disguised lever on the wine rack—with a successful DC 15 Intelligence (Investigation) check, succeeding automatically with 1 full minute of searching. Once the lever is pulled, the lock on the door releases and the door drifts slightly forward, revealing handholds along its side that can be used to pull it fully open.
+Игрок может силой открыть потайную дверь с успешной **проверкой Силы Сл 20**. Вместо этого игрок может найти механизм, отпирающий дверь — замаскированный рычаг на винной стойке — с успешной **проверкой Расследования Сл 15**, преуспевая автоматически при 1 полной минуте поисков. Как только рычаг потянут, замок на двери освобождается, и дверь слегка уходит вперёд, открывая рукоятки по бокам, которые можно использовать, чтобы полностью её открыть
 
-The secret door leads to the hidden basement (see below).
-### Hidden Basement
+Потайная дверь ведёт в скрытый подвал
+
+### Скрытый подвал
+
 This area is unlit. When the players first enter it, read:
 
 <div class="description">
