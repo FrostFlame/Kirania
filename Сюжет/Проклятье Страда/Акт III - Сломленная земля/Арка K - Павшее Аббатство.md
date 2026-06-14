@@ -84,23 +84,22 @@
 >[!read]
 > Коттедж перед вами — самое большое строение, что вы видели в деревне, но всё же скромное по своему дизайну. Его внешние стены построены из крепких сосновых брёвен, потрёпанных временем, но ухоженных. Толстая соломенная крыша мягко наклонена сверху, увенчанная каменной трубой, из которой тонкая струйка дыма поднимается в воздух. Окна маленькие, но украшены простыми кружевными занавесками, дающими проблеск более тёплого интерьера
 >
-> Неподалёку огороженная территория открывает небольшой сад, земля в котором недавно перевёрнута и приносит множество трав и овощей. С одной стороны коттеджа узкая тропинка ведёт к маленькому семейному кладбищу, чьи надгробия отбрасывают длинные тени в сером свете
-<p>Nearby, a fenced-in area reveals a small garden, the earth freshly turned and bearing a variety of herbs and vegetables. To one side of the cottage, a narrow path leads to a small family graveyard, its tombstones casting long shadows in the grey light.</p>
-</div>
+> Неподалёку огороженная территория открывает небольшой сад, земля в котором недавно вскопана и приносит множество трав и овощей. С одной стороны коттеджа узкая тропинка ведёт к маленькому семейному кладбищу, чьи надгробия отбрасывают длинные тени в сером свете
 
-The front door to the cottage leads to the entryway.
-### Entryway
-When the players enter the cottage’s front door, read:
+Передняя дверь коттеджа ведёт в прихожую
 
-<div class="description">
-<p>The heavy wooden door creaks open to reveal an entryway with a worn rug underfoot. The scent of pine wood mingles with the earthy aroma of burning logs from a nearby fireplace, and a simple wooden table sits beside the door, holding a bowl filled with small trinkets.</p>
-<p>A mounted hand-carved board holds two hanging coats—one sized for an adult and one for a young child—with two pairs of boots hanging beneath the coats. Two additional empty pegs jut out from the board beside them.</p>
-</div>
+### Прихожая
 
-Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
+Когда игроки входят в переднюю дверь коттеджа, прочитайте:
+
+>[!read]
+> Тяжёлая деревянная дверь со скрипом открывается, являя прихожую с потёртым ковром под ногами. Запах сосновой древесины смешивается с землистым ароматом горящих поленьев из ближайшего камина, а простой деревянный стол стоит у двери, держа чашу, наполненную мелкими безделушками
+>
+> Настенная доска ручной резьбы держит 2 висящих пальто — 1 размером для взрослого и 1 для маленького ребёнка — с двумя парами ботинок, висящих под пальто. 2 дополнительных пустых колышка торчат из доски рядом с ними
+
+При входе барон Крезков — который настаивает, чтобы игроки звали его Дмитрием, пока они гости в его доме — вешает своё пальто на 1 из колышков на стене и снимает сапоги. Затем он зовёт свою жену, баронессу Анну Крезкову, которая выходит из кухни, чтобы тепло поприветствовать игроков
 
 ![[Anna_and_Dmitri_Krezkov_transparent.png]]
-<span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Baroness Anna Krezkova**
 > **Roleplaying Information**
