@@ -460,12 +460,13 @@
 > 
 > Белвью, однако, никогда не потерпели бы потерю своего «патриарха». Чтобы развеять их беспокойство, Аббат сказал им, что Сайрус достиг «новой стадии» в своём путешествии, что эта стадия откроет двери «спасения и преобразования», и что Сайрус был избран для «особой роли в замке Рэйвенлофт» в результате. Он не уточнил, однако, что «спасение и преобразование», о которых шла речь, были только для Страда, или что эта «особая роль» была ролью слуги, позволяя Белвью предположить, что Сайрус был возвышен благодаря своему «совершенству»
 
-If the players appear disturbed or amused by the Belviews’ condition, Clovin asks as they walk whether they are surprised by his family’s appearance. If asked, he can share the following information:
+Если игроки выглядят встревоженными или позабавленными состоянием Белвью, Кловин спрашивает, пока они идут, удивлены ли они внешностью его семьи. Если спросить, он может поделиться следующей информацией:
 
-* Long ago, Clovin’s ancestors came to the Abbey seeking a cure for a strange and mysterious illness. The Abbot healed them by perfecting their bodies, giving them new parts and traits that elevated them beyond their former, pitiful condition.
-* The Abbot’s work, however, is not yet finished. The Belviews patiently await the day when their “blessed perfection" shall be complete—a day that Clovin believes is fast approaching. (If asked why, Clovin says only that his father, Cyrus, has only recently been perfected. Clovin shares that he is confident his turn shall come next, given his own long-standing loyalty and service to the Abbot.)
+* Давным-давно предки Кловина пришли в Аббатство в поисках исцеления от странной и таинственной болезни. Аббат исцелил их, усовершенствовав их тела, дав им новые части и черты, которые возвысили их над их прежним, жалким состоянием
+* Работа Аббата, однако, ещё не завершена. Белвью терпеливо ожидают дня, когда их «благословенное совершенство» будет завершено — день, который, как верит Кловин, быстро приближается. (Если спросить, почему, Кловин говорит лишь, что его отец, Сайрус, только недавно был сделан совершенным. Кловин делится, что он уверен, что его черёд наступит следующим, учитывая его собственную давнюю верность и службу Аббату)
 
-If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
+Если игроки спрашивают Кловина о Вистани, описанной в чтении мадам Евы, он замечает лишь (и с лёгким раздражением), что Аббат ответит на их вопросы
+
 ## K2b. Main Hall
 This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
