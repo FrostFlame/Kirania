@@ -463,29 +463,42 @@
 Если игроки выглядят встревоженными или позабавленными состоянием Белвью, Кловин спрашивает, пока они идут, удивлены ли они внешностью его семьи. Если спросить, он может поделиться следующей информацией:
 
 * Давным-давно предки Кловина пришли в Аббатство в поисках исцеления от странной и таинственной болезни. Аббат исцелил их, усовершенствовав их тела, дав им новые части и черты, которые возвысили их над их прежним, жалким состоянием
+
 * Работа Аббата, однако, ещё не завершена. Белвью терпеливо ожидают дня, когда их «благословенное совершенство» будет завершено — день, который, как верит Кловин, быстро приближается. (Если спросить, почему, Кловин говорит лишь, что его отец, Сайрус, только недавно был сделан совершенным. Кловин делится, что он уверен, что его черёд наступит следующим, учитывая его собственную давнюю верность и службу Аббату)
 
 Если игроки спрашивают Кловина о Вистани, описанной в чтении мадам Евы, он замечает лишь (и с лёгким раздражением), что Аббат ответит на их вопросы
 
-## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+## K2b. Главный зал
 
-> [!profile]+ **Profile: The Abbot**
-> **Roleplaying Information**
-> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+>[!Главный зал]
+> Если Кловин не с игроками, то сверху доносится мягкая музыка, как будто какой-то невидимый маэстро играет на неизвестном струнном инструменте
+>
+> Первый этаж занят одной большой комнатой в 50 кв. футов с арочными окнами из освинцованного стекла. В камине на огне стоит котел, а над самим камином висит золотой диск с символом солнца. В одном углу находится ведущая вверх деревянная лестница, в другом – каменные ступени уходят вниз, во тьму
+>
+> Несколько стульев окружают деревянный стол, который тянется через всю комнату. На столе аккуратно расставлена деревянная посуда и золотые подсвечники, а за столом стоит одетая в рваный и грязный красный халат молодая женщина с алебастрово-белой кожей. Ее золотисто-рыжие волосы тщательно собраны в прическу, не касающуюся ее мягких плеч. Она выглядит глубоко задумавшейся
+>
+> Красивый молодой мужчина в коричневой монашеской рясе нежно берет женщину за руку. С его шеи свисает покрашенный деревянный святой символ солнца, подвешенный на цепочку. Он двигается с грацией святого
+
+Василька — это **голем плоти** с **Интеллектом 17**, **Харизмой 8**, **владением навыками Религия** и **Природа**, а также способностью говорить и понимать **Общий** и **язык Небожителей**
+
+Персонажи в 5 футах от Васильки могут увидеть швы на ее напудренной коже, в местах, где различные части тела, украденные из могил в Крезке, были аккуратно сшиты вместе
+
+> [!profile]+ **Профиль: Аббат**
+> **Информация для отыгрыша**
+> ***Резонанс***. Аббат должен вызывать дискомфорт своим стоицизмом и рутинными замечаниями о «смертных», отвращение — недостатком уважения к человеческой жизни или ценностям, гнев — своей высшей и непоколебимой самоуверенностью, и благодарность — своим (слегка отталкивающим) дружелюбием и готовностью исцелить игроков от ликантропии безвозмездно
 > 
-> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+> ***Эмоции***. Аббат чаще всего чувствует любопытство, заинтригованность, холодность, бесстрастность или (редко) ярость
 > 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+> ***Мотивации***. Аббат хочет снять «проклятие» с Баровии и сохранить «святость» Аббатства Святой Марковии
 > 
-> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
+> ***Вдохновения***. При отыгрыше Аббата ориентируйтесь на Вижна (Marvel), Дейту (Звёздный путь) и Доктора Манхэттена (Хранители)
 > 
-> **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+> **Информация о персонаже**
+> ***Персона***. Для мира Аббат — это безмятежный, но бесчеловечно бесстрастный святой человек и «учёный». Только Аббат знает, что он — Итуриэль: ангел Утреннего Владыки, посланный почтить память Святой Марковии
 > 
-> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
+> **Боевой дух**. В бою Аббат явит свою божественную форму, затем прикажет своим врагам сложить оружие и сдаться. Если они не сделали этого, он атакует их безжалостно, стремясь сокрушить любое сопротивление, пока они не сдадутся или не сбегут
 > 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ***Отношения***. Аббат, ангел Утреннего Владыки, некогда звавшийся Итуриэлем, является хозяином Аббатства Святой Марковии, включая полукровок Отто, Зигфрек и Кловина Белвью. Он также является создателем голема плоти Васильки и воскресителем Калы Крезковой
 
 The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
 
