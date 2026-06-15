@@ -443,12 +443,12 @@
 >
 > Тишину разрывают ужасные крики, исходящие из сараев
 
-> [!lore]+ **The Belviews' Perfection**
-> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
-> 
-> The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
-> 
-> It was Strahd, in disguise as Vasili von Holtz, who delivered the answer, furnishing the Abbot with forbidden lore plucked from the Amber Temple. With Vasili’s aid, the Abbot offered a new and unique treatment for each of the Belviews in turn, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a mule, liver-spotted skin with the scales of a snake, and swollen feet with the wings of a bat.
+> [!lore]+ **Совершенство Белвью**
+> Когда предки Белвью пришли к Аббату более века назад, как описано в разделе Аббат (стр. 225), они страдали врождённой болезнью, которая поражала в ранней взрослости, оставляя своих жертв физически слабыми и преждевременно состаренными на вид
+>
+> Аббат, хотя и способный излечивать обычные болезни, не мог исцелить их от этого состояния. Разочарованный, отчаявшийся и неохотно подталкиваемый мольбами Белвью, Аббат искал другие способы сделать это
+>
+> Именно Страд, под маской Василия вон Хольца, доставил ответ, снабдив Аббата запретными знаниями, извлечёнными из Янтарного Храма. С помощью Василия Аббат предложил новое и уникальное лечение для каждого из Белвью по очереди, заменяя ослепшие глаза глазами кошки, артритные колени ногами мула, покрытую старческими пятнами кожу чешуёй змеи, а распухшие ноги крыльями летучей мыши
 > 
 > The Belviews were delighted with their new appearances and attributes. The Abbot’s experiments, however, drove them to a strange kind of madness, infecting them with the mental traits of the animals whose parts they now shared. Those with carnivorous limbs or organs proved most dangerous to those around them, but even those with herbivorous parts proved unpredictable and uncontrollable at best.
 > 
