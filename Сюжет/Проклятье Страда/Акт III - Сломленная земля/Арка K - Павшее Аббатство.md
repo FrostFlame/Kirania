@@ -543,14 +543,13 @@
 
 ### Урок Васильки
 
-Before escorting the players to Ezmerelda’s room, the Abbot first asks them to assist in Vasilka’s next lesson.
+Прежде чем проводить игроков в комнату Эсмеральды, Аббат сначала просит их помочь в следующем уроке Васильки
 
-Although the Abbot has much experience in love of the divine, he admits he is wholly ignorant in the ways of love between a man and a woman. He therefore asks the players to teach Vasilka their knowledge of romantic love, including any tales they may have of their experiences with it. "If she is to wed," he says, “she must first understand the complex and irrational ways of mortal love."
+Хотя Аббат имеет большой опыт в любви божественной, он признаёт, что совершенно несведущ в путях любви между мужчиной и женщиной. Поэтому он просит игроков обучить Васильку их знаниям о романтической любви, включая любые истории, которые у них могут быть об их опыте с ней. «Если ей предстоит выйти замуж, — говорит он, — она должна сначала понять сложные и иррациональные пути смертной любви»
 
-If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief “lesson," though he steps in to discourage unsavory topics if necessary.
+Если игроки соглашаются, Аббат просит Васильку представиться, что она и делает с маленьким, хоть и неуклюжим, реверансом. Аббат почти полностью полагается на игроков в течение этого краткого «урока», хотя вмешивается, чтобы пресечь неприятные темы, если это необходимо
 
 ![[Vasilka.png]]
-<span class="credit">"Vasilka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Vasilka, the Flesh Golem**
 > **Roleplaying Information**
