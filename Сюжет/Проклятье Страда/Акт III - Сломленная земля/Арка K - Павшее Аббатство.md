@@ -581,10 +581,13 @@
 
 Василька сначала спрашивает, чтобы подтвердить, что цветы — это способ выразить заботу. (Если игроки ранее сказали ей, что это не так, она выглядит опечаленной и слегка смущённой, спрашивая.) Затем она может поделиться следующей информацией:
 
-* The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
-* The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate constitution" and “afflict her mind with unpleasant thoughts."
-* Vasilka has watched it from a distance, and feels that it must be lonely. She feels sorrowful for it, and believes that it deserves recognition and respect for its toils. “We are siblings, in a way," she says quietly. “Were we not both made by the same hand?"
-* While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the east wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
+- Восточное крыло Аббатства охраняется **големом плоти**, таким же как она, но у которого отсутствует та искра, что позволяет ей думать и говорить. Василька знает о нём немного, но знает, что Аббат построил его до неё, чтобы сначала потренироваться
+
+- Аббат строго запретил ей приближаться к нему, настаивая, что взаимодействие с таким грубияном *«нарушит её хрупкое состояние»* и *«поразит её разум неприятными мыслями»*
+
+- Василька наблюдала за ним издалека и чувствует, что ему, должно быть, одиноко. Она испытывает к нему печаль и верит, что он заслуживает признания и уважения за свои труды. ***«Мы брат и сестра, в некотором смысле»***, — говорит она тихо — ***«Разве мы оба не были созданы одной рукой?»***
+
+- Исследуя сад, Василька была поражена красотой полевых цветов там и связала их в гирлянду, чтобы подарить голему в качестве подарка. ***«Это так ужасно, что он всегда должен таиться во тьме восточного крыла***, — говорит она, — ***и никогда не видеть чудесных вещей, что ждут снаружи»***. Однако она спрятала гирлянду, боясь, что Аббат не одобрил бы её назначения
 
 > [!abstract]+ **Anna's Sacrifice**
 > If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
