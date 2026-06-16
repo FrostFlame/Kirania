@@ -502,7 +502,7 @@
 
 Аббат приветствует игроков с теплотой, приветствуя их в Аббатстве Святой Марковии. Если спросить о Вистани, описанной в чтении мадам Евы, он может поделиться следующей информацией:
 
-* **Если Эсмеральда ещё не вернулась** (до 11 ноября), Аббат сообщает игрокам, что Вистани по имени Эсмеральда д'Авенир отсутствует по делам и ожидается, что она вернётся через 2 дня после полнолуния (11 ноября). (Аббат не знает, где находится Эсмеральда, и мягко замечает, что её дела — это её личное. «Она свободный дух, эта», — замечает он задумчиво)
+* **Если Эсмеральда ещё не вернулась** (до 11 ноября), Аббат сообщает игрокам, что Вистани по имени Эсмеральда д'Авенир отсутствует по делам и ожидается, что она вернётся через 2 дня после полнолуния (11 ноября). (Аббат не знает, где находится Эсмеральда, и мягко замечает, что её дела — это её личное. ***«Она свободный дух, эта девушка»***, — замечает он задумчиво)
 * **Если Эсмеральда вернулась**, Аббат предлагает проводить игроков в её комнату. Однако сначала он просит игроков помочь ему с определённым заданием. (Смотрите [[#Урок Васильки|Урок Васильки]] ниже)
 
 ![[The Abbot.png]]
@@ -603,15 +603,15 @@
 >
 > Как быстро она влетает, фигуру яростно дёргает обратно, остановленную в её воздушном побеге, когда столб и цепь зацепляются за угол подоконника. Вой разочарования срывается с её губ, когда цепь натягивается. ***«Где Сайрус?»*** — кричит она, скрежеща жвалами вместе — ***«Хочу Сайруса!»***
 
-The Abbot descends to the courtyard immediately thereafter, landing with the sound of heavy, beating wings before assuming human form once more. (If the players have not already concealed it, Vasilka glances toward the flower garland with wide, terrified eyes.)
+Аббат спускается во внутренний двор сразу после этого, приземляясь со звуком тяжёлых, бьющих крыльев, прежде чем снова принять человеческий облик. (Если игроки ещё не спрятали её, Василька бросает взгляд на цветочную гирлянду с широкими, испуганными глазами)
 
-As the Abbot re-enters the main hall, accompanied by Clovin Belview, he apologizes to the players for the disturbance. He then moves to inspect Marzena. 
+Когда Аббат вновь входит в главный зал, сопровождаемый Кловином Белвью, он извиняется перед игроками за беспокойство. Затем он направляется осмотреть Маржену
 
-“Cyrus has gone, child," he reminds her, calmly moving to untangle her chain from the windowsill. “He has moved on to the next stage of his journey. Perhaps you shall join him, someday." (As the Abbot takes hold of her chain, Marzena collapses onto the floor, sobbing quietly in anger and despair.)
+***«Сайрус ушёл, дитя***, — напоминает он ей, спокойно начиная распутывать её цепь с подоконника — ***Он перешёл на следующую стадию своего путешествия. Возможно, однажды ты присоединишься к нему»***. (Когда Аббат берётся за её цепь, Маржена падает на пол, тихо рыдая в гневе и отчаянии)
 
-The Abbot then hands Marzena’s chain to Clovin, and asks that she be bound in one of the sheds in the courtyard. “I had thought the light and air would prove a curative for her diseased mind," he says sorrowfully. “But the solemnity of solitude may provide a better environment for her reflection and healing."
+Затем Аббат передаёт цепь Маржены Кловину и просит, чтобы её привязали в одном из сараев во внутреннем дворе. ***«Я думал, что свет и воздух окажутся целительными для её больного разума***, — говорит он печально — ***Но уединение может предоставить лучшую среду для её размышлений и исцеления»***
 
-As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot apologizes again to the players, thanks them for sharing their knowledge with Vasilka, and offers to lead them to the east wing of the Abbey, where Ezmerelda is staying. He can also share the following information about Cyrus as they walk:
+Пока Кловин ведёт рыдающую, не сопротивляющуюся Маржену во внутренний двор, Аббат снова извиняется перед игроками, благодарит их за то, что поделились своими знаниями с Василькой, и предлагает проводить их в восточное крыло Аббатства, где остановилась Эсмеральда. Он также может поделиться следующей информацией о Сайрусе, пока они идут:
 
 * Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
