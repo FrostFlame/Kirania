@@ -619,30 +619,47 @@
 
 ## K2c. Восточное крыло
 
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+Аббат провожает игроков к дверному проёму фойе Восточного Крыла, которое описано в S14. Фойе (стр. 151). Когда он открывает дверь, **голем плоти** ждёт их. Прочитайте:
 
-<div class="description">
-<p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
-<p>Its eyes are deep, empty sockets filled with a dark, glassy material that reflects no light. Arms hang by its sides, each finger elongated and tipped with a jagged nail, resembling more the claws of a beast than the hands of a man.</p>
-</div>
+>[!read]
+> Прямо за дверной рамой стоит возвышающаяся фигура, превышающая семь футов в высоту, её плечи широкие и громадные. Лоскутная работа из кожи — различающейся по цвету, текстуре и возрасту — покрывает её тело, грубо сшитая толстой, тёмной нитью, что зигзагами пересекает её форму, словно кошмар картографа. Мышцы выпирают неестественно, будто переполненные, и вы видите места, где швы натянуты так туго, что кожа почти рвётся от напряжения
+>
+> Её глаза — глубокие, пустые впадины, заполненные тёмным, стеклянистым материалом, не отражающим света. Руки висят по бокам, каждый палец удлинён и заканчивается зазубренным ногтем, напоминая скорее когти зверя, чем руки человека
 
-The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
+>[!Фойе]
+> Эта комната когда-то была кабинетом, о чем говорят обломки стола и стула. Коридор к югу ведет к лестнице наверх. Темный коридор к востоку полон неестественных шепотов, безумного смеха и звериных запахов
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
+Аббат просит голема «проводить наших гостей в покои мисс д'Авенир». Голем не издаёт словесного ответа, но поворачивается и замирает, будто ожидая, что игроки последуют за ним. Если игроки делают это, Аббат прощается с ними и возвращается в главный зал
 
-If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
+Голем ведёт игроков мимо S15. Сумасшедший Дом (стр. 148) и вверх по лестнице в S20. Верхний Кабинет (стр. 154). Затем он открывает дверь, ведущую к <span class="citation">S18. Соединительная Стена (стр. 154)</span>, и молча указывает в сторону <span class="citation">S19. Казармы (стр. 154)</span>, хотя сам никогда не ступает за пределы Восточного Крыла. (Каждая из этих областей в остальном описана в оригинальном модуле)
 
-The door to the barracks is slightly ajar, and the sound of scratching chalk can be heard from the other side. As the players move to knock or enter, they can hear the sound of chalk breaking, followed by a muffled curse immediately after. (If the players knock, an annoyed woman’s voice invites them to come in a moment later.)
-### Meeting Ezmerelda
-The barracks are largely described as in <span class="citation">S19. Barracks (p. 154)</span>. However, add the following to the end of this area’s description:
+>[!Сумасшедший дом]
+> В этом темном коридоре есть несколько дверей, за которыми скрываются существа, разрывающие тишину своим безумным хохотом и тихими проклятьями. Здесь стоит чудовищная вонь
+>
+> 60 полукровок, которых тут держат, регулярно кормит Кловин Белвью. Кормежка объявляется звоном колокола (область S17). Эти полукровки не связаны, но они отказываются выходить из комнат, опасаясь смерти от рук голема, или изгнания из аббатства. Вдобавок к кинжалу, у каждого полукровки есть собственная деревянная миска для супа
 
-<div class="description">
-<p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
-<p>Beside this small camp stands a half-finished chalk circle nearly ten feet across, a five-pointed star inscribed across it. An olive-skinned Vistani woman stands crouched along its edge, her long, black, frizzy hair tied back with a wide, orange-red headband.</p>
-<p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
-</div>
+>[!Верхний кабинет]
+> Деревянная L-образная конторка стоит в передней части этого просторного кабинета. Вся остальная мебель давно сгнила, оставив лишь кучки заплесневевшего дерева и выцветшей ткани. Само дерево конторки старое и мягкое, его легко сломать
 
-This is Ezmerelda d’Avenir. Her statistics are given below.
+>[!Соединительная стена]
+> На стенах аббатства стоят пугала, будто бы смотрящие наружу. Они облачены в рваные кольчуги и сжимают копья со ржавыми наконечниками. Двор внизу покрыт туманом
+
+Если игрок протягивает ожерелье-гирлянду Васильки голему, тот рассматривает его с малым пониманием. Если попросить его опустить шею, чтобы игрок надел ожерелье, голем делает это без протеста. Если игроки дают голему ожерелье, чтобы он держал его, его можно увидеть носящим ожерелье, когда игроки в следующий раз вернутся к нему
+
+Дверь в казармы слегка приоткрыта, и звук царапающего мела слышен с другой стороны. Когда игроки движутся, чтобы постучать или войти, они слышат звук ломающегося мела, за которым немедленно следует приглушённое проклятие. (Если игроки стучат, раздражённый женский голос приглашает их войти мгновение спустя)
+
+### Знакомство с Эсмеральдой
+
+>[!Бараки]
+> Двухэтажные кровати со временем развалились, их обломки лежат вдоль стен этой заплесневевшей комнаты в 30 кв. футов
+>
+> В центре палаты десятифутовый квадрат, очищенный от плесени, стоит в резком контрасте с окружающей гнилью. Развёрнутый спальный мешок покоится внутри этого маленького островка чистоты, сопровождаемый поношенным рюкзаком и тройкой ножен с оружием, лежащих поблизости
+>
+> Рядом с этим маленьким лагерем стоит наполовину законченный меловой круг почти десять футов в поперечнике, с пятиконечной звездой, вписанной в него. Оливковокожая вистанка сидит на корточках у его края, её длинные, чёрные, кучерявые волосы стянуты назад широкой, оранжево-красной повязкой
+>
+> Она носит испачканный грязью длиннополый плащ схожего цвета, хорошо смазанный доспех из шипованной кожи ловит свет прямо под ним. На ней, кажется, сапоги двух разных цветов: один обычный коричневый, а другой тусклого, металлически-медного цвета. Она злобно смотрит на сломанный кусок белого мела в своей руке
+
+Это [[Эсмеральда д'Авенир]]
 
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
