@@ -589,8 +589,8 @@
 
 - Исследуя сад, Василька была поражена красотой полевых цветов там и связала их в гирлянду, чтобы подарить голему в качестве подарка. ***«Это так ужасно, что он всегда должен таиться во тьме восточного крыла***, — говорит она, — ***и никогда не видеть чудесных вещей, что ждут снаружи»***. Однако она спрятала гирлянду, боясь, что Аббат не одобрил бы её назначения
 
-> [!abstract]+ **Anna's Sacrifice**
-> If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
+> [!abstract]+ **Жертва Анны**
+> Если игроки спрашивают Васильку о жертве сердца Анны Крезковой, Василька делится своим искренним дискомфортом и сочувствием к положению Анны. ***«Но я доверяю Аббату***, — говорит она, несколько неохотно, и добавляет: — ***Разумеется, у него должны быть веские причины для его решений»***
 
 Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
 
