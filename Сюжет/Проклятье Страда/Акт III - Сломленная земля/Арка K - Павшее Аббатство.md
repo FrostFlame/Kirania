@@ -551,22 +551,22 @@
 
 ![[Vasilka.png]]
 
-> [!profile]+ **Profile: Vasilka, the Flesh Golem**
-> **Roleplaying Information**
-> ***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
+> [!profile]+ **Профиль: Василька, Голем Плоти**
+> **Информация для отыгрыша**
+> ***Резонанс***. Василька должна вызывать нежность своей неуклюжей милотой, временами неловкой наивностью, всепоглощающей невинностью, ненасытной любовью к учению и способностью находить светлую сторону во всём, сочувствие — своей тревогой и страхом разгневать Аббата, и лесть — своим искренним и восторженным увлечением игроками и их героическими приключениями
 > 
-> ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
+> ***Эмоции***. Василька чаще всего чувствует любопытство, радость, задумчивость, застенчивость, тревогу, надежду и мечтательность
 > 
-> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+> ***Мотивации***. Василька хочет радовать Аббата, подружиться со своим «братом» **големом плоти** и узнать как можно больше о людях и мире
 > 
-> ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
+> ***Вдохновения***. При отыгрыше Васильки ориентируйтесь на Ньюта Саламандера («Фантастические твари»), Хинату Хьюгу («Наруто») и Алису («Алиса в Стране чудес»)
 > 
-> **Character Information**
-> ***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
+> **Информация о персонаже**
+> ***Персона***. Для мира Василька — вежливая, замкнутая и благовоспитанная дева. Для тех, кому она доверяет, она — застенчивый, временами тревожный и отчаянно любопытный дух
 > 
-> ***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
+> ***Боевой дух***. В то время, когда игроки встречают её, Василька съёжится и будет умолять о мире, если на неё нападут, не сражаясь даже ради самозащиты
 > 
-> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+> ***Отношения***. Василька — творение Аббата и «младшая сестра» безмозглого **голема плоти** Аббатства
 
 Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
 
