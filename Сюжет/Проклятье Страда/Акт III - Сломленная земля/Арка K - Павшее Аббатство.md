@@ -532,14 +532,14 @@
 * Именно Таша Петровна, оракул и жрица Утреннего Владыки, с руководством одного из ангелов Утреннего Владыки возвысила Святую Марковию как нового пророка веры Утреннего Владыки. Однако после внутреннего раздора со Святым Андралом, Верховным Жрецом церкви Утреннего Владыки, Святая Марковия покинула святые земли Утреннего Владыки и построила новое святилище в тихой глуши: Аббатство Святой Марковии, которое служило одновременно монастырём и госпиталем
 * Вскоре после того как проклятие Страда пало на долину, Святая Марковия собрала своих последователей и двинулась на замок Рэйвенлофт. Страд уничтожил их всех, и те, кто остался в Аббатстве, вскоре впали в безумие и отчаяние. (***«Тьму нельзя победить одной лишь сталью»***, — бормочет Аббат скорбно — ***«Только свет может сделать это»***. Если спросить о «мече солнечного света», упомянутом мадам Евой, Аббат качает головой и мягко смеётся, настаивая, что ничего подобного не существует в Баровии)
 
-> [!lore]+ **Who is the Abbot?**
-> The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
+> [!lore]+ **Кто такой Аббат?**
+> Аббат — в действительности дэва по имени Итуриэль — некогда был ангельским посланником Утреннего Владыки. Именно он избрал Марковию стать пророком Утреннего Владыки, и именно он направил оракула Ташу Петровну найти и освятить её, даровав Марковии святую реликвию, что однажды станет Иконой Благодати Рассвета — знак служения, содержавший искру чистой божественности Аббата. (Именно в этот случай Аббат — по случайности — впервые встретил Страда вон Заровича, тогда ещё командующего офицера в армии короля Барова)
 > 
-> The Abbot, who first arrived in Krezk as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> and <span class="citation">The Abbot (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
+> Аббат, впервые прибывший в Крезк, как описано в Главе 8: Деревня Крезк (стр. 143) и разделе Аббат (стр. 225), пришёл в Аббатство в память о Святой Марковии, надеясь почтить и восстановить наследие женщины, которую он когда-то возвысил
 > 
-> However, the Dark Powers have corrupted his soul, subtly binding and tainting the Abbot’s divinity with chains and shrouds of spiritual mist. It was the Belviews who, through the Dark Powers’ quiet machinations, forged the first link in that chain—and Strahd who helped the Abbot fall from grace completely.
+> Однако Тёмные Силы развратили его душу, незаметно сковав и запятнав божественность Аббата цепями и пеленами духовного тумана. Именно Белвью, через тихие махинации Тёмных Сил, выковали первое звено в этой цепи — и Страд помог Аббату пасть окончательно
 > 
-> The Abbot has since descended into madness and quiet zealotry, wholly convinced of his own righteousness. Only by defeating him and unlocking his soul with the *Icon of Dawn's Grace* can the players cleanse the corruption that taints his heart and restore him to sanity.
+> С тех пор Аббат погрузился в безумие и тихий фанатизм, полностью убеждённый в своей праведности. Только победив его и открыв его душу с помощью Иконы Благодати Рассвета, игроки могут очистить порчу, что пятнает его сердце, и вернуть ему рассудок
 
 ### Урок Васильки
 
