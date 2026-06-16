@@ -592,11 +592,11 @@
 > [!abstract]+ **Жертва Анны**
 > Если игроки спрашивают Васильку о жертве сердца Анны Крезковой, Василька делится своим искренним дискомфортом и сочувствием к положению Анны. ***«Но я доверяю Аббату***, — говорит она, несколько неохотно, и добавляет: — ***Разумеется, у него должны быть веские причины для его решений»***
 
-Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
+Василька просит игроков доставить ожерелье-гирлянду голему плоти в подарок от неё. ***«Я не знаю, считает ли он меня своей младшей сестрой***, — говорит она мягко — ***Я не знаю, думает ли он вообще обо мне. Но кажется жестоким оставлять его одного и нелюбимым»***
 
-If the players agree, Vasilka asks them to keep the garland hidden from the Abbot until they’ve delivered it to the golem, fearing how the Abbot might respond upon learning of her duplicity.
+Если игроки соглашаются, Василька просит их прятать гирлянду от Аббата, пока они не доставят её голему, опасаясь, как Аббат может отреагировать, узнав о её двуличии
 
-Whether the players accept or refuse Vasilka’s request, Marzena Belview bursts in through a courtyard-facing window shortly thereafter. Read:
+Примут ли игроки просьбу Васильки или откажутся, Маржена Белвью врывается через окно, выходящее во внутренний двор, вскоре после этого. Прочитайте:
 
 <div class="description">
 <p>With a deafening clash of shattering glass, a winged figure bursts through one of the main hall's towering windows—the bat-winged Belview you saw in the courtyard. Her leathery wings beat desperately, and a heavy wooden post and chain dangle beside her.</p>
