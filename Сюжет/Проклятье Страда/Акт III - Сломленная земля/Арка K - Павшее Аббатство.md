@@ -500,13 +500,12 @@
 > 
 > ***Отношения***. Аббат, ангел Утреннего Владыки, некогда звавшийся Итуриэлем, является хозяином Аббатства Святой Марковии, включая полукровок Отто, Зигфрек и Кловина Белвью. Он также является создателем голема плоти Васильки и воскресителем Калы Крезковой
 
-The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
+Аббат приветствует игроков с теплотой, приветствуя их в Аббатстве Святой Марковии. Если спросить о Вистани, описанной в чтении мадам Евы, он может поделиться следующей информацией:
 
-* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
-* **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
+* **Если Эсмеральда ещё не вернулась** (до 11 ноября), Аббат сообщает игрокам, что Вистани по имени Эсмеральда д'Авенир отсутствует по делам и ожидается, что она вернётся через 2 дня после полнолуния (11 ноября). (Аббат не знает, где находится Эсмеральда, и мягко замечает, что её дела — это её личное. «Она свободный дух, эта», — замечает он задумчиво)
+* **Если Эсмеральда вернулась**, Аббат предлагает проводить игроков в её комнату. Однако сначала он просит игроков помочь ему с определённым заданием. (Смотрите **Урок Васильки** ниже)
 
 ![[The Abbot.png]]
-<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### The Abbot’s Knowledge
 The Abbot can also share the following information about himself, Vasilka, and Strahd if asked:
