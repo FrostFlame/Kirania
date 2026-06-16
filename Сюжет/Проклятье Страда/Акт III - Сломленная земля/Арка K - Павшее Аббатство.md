@@ -613,9 +613,12 @@
 
 Пока Кловин ведёт рыдающую, не сопротивляющуюся Маржену во внутренний двор, Аббат снова извиняется перед игроками, благодарит их за то, что поделились своими знаниями с Василькой, и предлагает проводить их в восточное крыло Аббатства, где остановилась Эсмеральда. Он также может поделиться следующей информацией о Сайрусе, пока они идут:
 
-* Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
-* All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
-## K2c. The East Wing
+- Сайрус является — или являлся — патриархом клана Белвью до недавнего времени. Маржена, его внучатая племянница, относилась к нему с особенно высоким уважением
+
+- Все Белвью стремятся к совершенству, как и их предки. ***«Сайрус***, — говорит Аббат мягко, — ***перешёл на следующую стадию в своём путешествии. Однако другим Белвью трудно слышать, что их оставили позади. Я предпочитаю не обсуждать это, ибо это глубоко расстраивает их, и без всякого значимого результата»***. (Аббат отказывается обсуждать Сайруса дальше, отмечая свою веру в то, что «праздные сплетни» — это тупая и ядовитая болезнь)
+
+## K2c. Восточное крыло
+
 The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
 
 <div class="description">
