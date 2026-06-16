@@ -568,19 +568,18 @@
 > 
 > ***Отношения***. Василька — творение Аббата и «младшая сестра» безмозглого **голема плоти** Аббатства
 
-Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
+На протяжении урока Василька слушает игроков с восторженным вниманием и очарованием, задавая частые уточняющие и дополнительные вопросы
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
+В подходящее время она спрашивает игроков, являются ли цветы надлежащим способом выразить свою заботу о другом. Как только игроки ответят на этот вопрос, Маржена, Белвью с крыльями летучей мыши во внутреннем дворе (описанная в S12d. Столбы для Привязи, стр. 150), сбегает со своего поста. Прочитайте:
 
-<div class="description">
-<p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
-</div>
+>[!read]
+> Ужасный треск дерева внезапно раскалывает воздух, за которым немедленно следует звук гремящих цепей, бьющих кожистых крыльев и неразборчивый крик триумфа. Мгновение спустя широкоглазый Кловин Белвью врывается сквозь двери, его грудь вздымается, пока херувимская голова на его плече рыдает в отчаянии. ***«Маржена сбежала»***, — задыхается он
 
-The Abbot gracefully excuses himself, insisting that the players continue their lesson with Vasilka rather than accompany him. He accompanies Clovin outside into the courtyard, whereupon he uses his ***change shape*** feature to assume the form of a **giant eagle**. He then takes to the skies in pursuit of Marzena. (Clovin stands guard in the courtyard, politely asking any players who depart the main hall to remain there until the Abbot has returned.)
+Аббат изящно извиняется, настаивая, чтобы игроки продолжали свой урок с Василькой, а не сопровождали его. Он выходит с Кловином наружу во внутренний двор, после чего использует свою черту ***смена облика***, чтобы принять облик **гигантского орла**. Затем он поднимается в небо в погоне за Марженой. (Кловин стоит на страже во внутреннем дворе, вежливо прося любых игроков, покидающих главный зал, оставаться там, пока Аббат не вернётся)
 
-Once the Abbot has gone, Vasilka shyly asks whether she can share something with the players. If the players assent, she removes the golden sun disk hanging about the fireplace, which no longer conceals a *potion of healing (superior)*, but a small, clumsily-made garland necklace of red wildflowers.
+Как только Аббат уходит, Василька застенчиво спрашивает, может ли она поделиться кое-чем с игроками. Если игроки соглашаются, она снимает золотой солнечный диск, висящий над камином, который скрывает маленькое, неуклюже сделанное ожерелье-гирлянду из красных полевых цветов
 
-Vasilka first asks to confirm that flowers are a way to signify care. (If the players previously told her that they are not, she appears crestfallen and slightly abashed upon asking.) She can then share the following information:
+Василька сначала спрашивает, чтобы подтвердить, что цветы — это способ выразить заботу. (Если игроки ранее сказали ей, что это не так, она выглядит опечаленной и слегка смущённой, спрашивая.) Затем она может поделиться следующей информацией:
 
 * The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
 * The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate constitution" and “afflict her mind with unpleasant thoughts."
