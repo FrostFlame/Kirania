@@ -598,10 +598,10 @@
 
 Примут ли игроки просьбу Васильки или откажутся, Маржена Белвью врывается через окно, выходящее во внутренний двор, вскоре после этого. Прочитайте:
 
-<div class="description">
-<p>With a deafening clash of shattering glass, a winged figure bursts through one of the main hall's towering windows—the bat-winged Belview you saw in the courtyard. Her leathery wings beat desperately, and a heavy wooden post and chain dangle beside her.</p>
-<p>As quickly as it enters, the figure is violently yanked back, stopped in her airborne escape as the post and chain snag on the corner of the windowsill. A wail of frustration tears from her lips as the chain goes taut. "Where Cyrus?" she screams, gnashing her mandibles together. "Want Cyrus!"</p>
-</div>
+>[!read]
+> С оглушительным звоном разбивающегося стекла крылатая фигура врывается сквозь одно из высоких окон главного зала — крылатая как летучая мышь Белвью, которую вы видели во внутреннем дворе. Её кожистые крылья отчаянно бьют, и тяжёлый деревянный столб с цепью болтаются рядом с ней
+>
+> Как быстро она влетает, фигуру яростно дёргает обратно, остановленную в её воздушном побеге, когда столб и цепь зацепляются за угол подоконника. Вой разочарования срывается с её губ, когда цепь натягивается. ***«Где Сайрус?»*** — кричит она, скрежеща жвалами вместе — ***«Хочу Сайруса!»***
 
 The Abbot descends to the courtyard immediately thereafter, landing with the sound of heavy, beating wings before assuming human form once more. (If the players have not already concealed it, Vasilka glances toward the flower garland with wide, terrified eyes.)
 
