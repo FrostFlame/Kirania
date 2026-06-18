@@ -708,13 +708,14 @@
 * Вместо того чтобы путешествовать с караваном Вистани, она охотится на монстров — ***«включая старых, пыльных вампиров»***. (Эсмеральда делится этим фактом с ироничной усмешкой)
 * Она была обучена ***«лучшим охотником на вампиров из ныне живущих»***, человеком, чьё имя настолько легендарно, что даже монстры не смеют пугать в ночи, услышав его. (Её хвастливая улыбка затем угасает, и она добавляет тихо: ***«По крайней мере, если он всё ещё жив, чтобы произнести его»***)
 
-If the players share that they’ve come to recruit her to their cause, Ezmerelda raises an eyebrow and asks, amusedly, exactly *how* they found her. If the players share the words of Madam Eva’s Tarokka reading, Ezmerelda is willing to share the following information:
+Если игроки делятся тем, что пришли завербовать её в своё дело, Эсмеральда поднимает бровь и спрашивает с весельем, *как* именно они её нашли. Если игроки делятся словами чтения Таррокки мадам Евы, Эсмеральда готова поделиться следующей информацией:
 
-* Her mentor is Dr. Rudolph van Richten, the legendary vampire hunter. Three months ago, she and his other former students received a letter he’d sent announcing his intention to travel to Barovia. 
-* As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
+- Её наставник — доктор Рудольф ван Рихтен, легендарный охотник на вампиров. 3 месяца назад она и другие его бывшие ученики получили письмо, отправленное им, в котором он объявлял о своём намерении отправиться в Баровию
+- Будучи единственной Вистани среди его учеников, только она смогла проследить его путь сквозь туманы и выследить его в долине. По прибытии, однако, она узнала от странствующего каравана Вистани, что доктор Ван Рихтен, по слухам, мёртв, пав в бою в провалившемся восстании у замка Рэйвенлофт
 
-> [!abstract]+ **Ezmerelda & Van Richten**
-> If the players mention meeting Dr. Van Richten in [[Арка E - Пропавшая Вистана]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
+> [!abstract]+ **Эсмеральда и Ван Рихтен**
+> Если игроки упоминают о встрече с доктором Ван Рихтеном в [[Арка E - Пропавшая Вистана]], Эсмеральда в восторге и благодарна узнать, что её наставник всё ещё жив. Однако она просит игроков воздержаться от раскрытия его местоположения, по крайней мере сейчас. ***«Знание становится тем опаснее, чем дальше оно распространяется***, — говорит она, — ***особенно когда вампир может легко выпытать его из тебя. Если старик хочет оставаться скрытым, вероятно, лучше, чтобы так оно и оставалось»***
+
 ### What Ezmerelda Knows
 Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
 
