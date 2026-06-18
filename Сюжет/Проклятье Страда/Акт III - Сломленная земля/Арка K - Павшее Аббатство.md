@@ -716,13 +716,14 @@
 > [!abstract]+ **Эсмеральда и Ван Рихтен**
 > Если игроки упоминают о встрече с доктором Ван Рихтеном в [[Арка E - Пропавшая Вистана]], Эсмеральда в восторге и благодарна узнать, что её наставник всё ещё жив. Однако она просит игроков воздержаться от раскрытия его местоположения, по крайней мере сейчас. ***«Знание становится тем опаснее, чем дальше оно распространяется***, — говорит она, — ***особенно когда вампир может легко выпытать его из тебя. Если старик хочет оставаться скрытым, вероятно, лучше, чтобы так оно и оставалось»***
 
-### What Ezmerelda Knows
-Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
+### Что известно Эсмеральде
 
-* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
-* Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
-* Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
-* After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
+Как только она убедится, что игрокам можно доверять, Эсмеральда готова поделиться следующей информацией:
+
+- Она пришла в Аббатство, потому что бургомистр Дмитрий Крезков сказал ей, что Аббат, казалось, становился всё более нестабильным, и что он опасался за безопасность Крезка в результате
+- При первом посещении Аббатства Эсмеральда — слабая ясновидящая — быстро почувствовала, что беспокойные духи задержались в его затенённых залах. С тех пор она намеревалась вернуться, планируя связаться с этими духами, чтобы дальше исследовать личность Аббата и причину его растущего безумия. (Меловой круг должен обеспечить средство для спиритического сеанса, фокусируя энергии, к которым Эсмеральда должна воззвать, и действуя как защитный барьер против злобных духов)
+- 3 ночи назад она успешно нашла то, что считает местоположением Ильи: пещеру у основания отрога горы Бараток вдоль северо-западного берега озера Бараток. Однако есть одна загвоздка: стая оборотней Баровии использует эту пещеру как своё логово, делая любую попытку спасти Илью чрезвычайно рискованной
+- Захватив и допросив оборотня из баровианской стаи, Эсмеральда узнала, что основная часть стаи скоро покинет Баровию, чтобы бродить за Туманами с разрешения Страда. Экспедиция стаи, делится Эсмеральда, состоится на закате следующей ночи. ***«Мой источник не знал, как долго стая будет отсутствовать***, — замечает она — ***Это может быть от 12 часов до 12 дней, так что мы захотим войти и выйти до рассвета»***
 
 If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Арка L - Логово Волков]].)
 
