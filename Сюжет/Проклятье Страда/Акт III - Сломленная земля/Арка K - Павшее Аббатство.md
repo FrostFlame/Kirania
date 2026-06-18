@@ -703,10 +703,10 @@
 - Она прибыла в Баровию сама чуть менее двух недель назад на фургоне. С тех пор она оставалась в основном в Крезке и его окрестностях, хотя оставила свой фургон у берега озера Бараток в качестве передвижной базы. Она искала в близлежащих лесах Илью Крезкова, пропавшего сына бургомистра Дмитрия Крезкова и его жены Анны. (***«Они спасли меня от края смерти, однажды»***, — говорит она тихо. — ***«Я обязана им по меньшей мере этим»***)
 - - С момента своего прибытия она была встревожена тем, насколько сильно Баровия изменилась с её последнего визита — во многом благодаря, это ясно, пробуждению Страда вон Заровича. (Она игриво прищуривается, оглядывает игроков и замечает: ***«Раз хозяин замка поднялся и расхаживает, полагаю, нетрудно попасть под его влияние. Ни у кого из вас нет клыков или жажды моей крови, надеюсь?»***)
 
-If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
+Если игроки делятся тем, что они враги Страда вон Заровича (***«Ах, так это делает нас либо союзниками, либо соперниками!»*** — восклицает она), она готова поделиться следующей информацией:
 
-* Rather than traveling with a Vistani caravan, she hunts monsters—"old, dusty vampires included." (Ezmerelda shares this fact with a wry grin.)
-* She was trained by “the finest vampire hunter alive," a man whose name is so legendary that not even monsters dare go “bump" in the night upon hearing it. (Her boastful smile then fades, and she adds, quietly, “At least, if he’s still alive to speak it.")
+* Вместо того чтобы путешествовать с караваном Вистани, она охотится на монстров — ***«включая старых, пыльных вампиров»***. (Эсмеральда делится этим фактом с ироничной усмешкой)
+* Она была обучена ***«лучшим охотником на вампиров из ныне живущих»***, человеком, чьё имя настолько легендарно, что даже монстры не смеют пугать в ночи, услышав его. (Её хвастливая улыбка затем угасает, и она добавляет тихо: ***«По крайней мере, если он всё ещё жив, чтобы произнести его»***)
 
 If the players share that they’ve come to recruit her to their cause, Ezmerelda raises an eyebrow and asks, amusedly, exactly *how* they found her. If the players share the words of Madam Eva’s Tarokka reading, Ezmerelda is willing to share the following information:
 
