@@ -684,24 +684,24 @@
 > 
 > ***Отношения***. Эсмеральда — бывшая ученица доктора Рудольфа ван Рихтена и дочь семьи д'Авенир, похитившей и продавшей его сына, Эрасмуса, вампиру барону Метусу
 
-As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
+Когда игроки входят в комнату, если они не использовали скрытность при приближении, Эсмеральда бросает на них взгляд с поднятыми бровями. ***«Судя по шуму, что вы подняли, поднимаясь сюда***, — замечает она иронично, — ***я полагаю, вы пришли не убивать меня?»***
 
-If the players indicate that they’ve come to recruit her or otherwise mention Madam Eva’s name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share “what sounds like a *very* interesting tale.*
+Если игроки указывают, что пришли завербовать её или иным образом упоминают имя мадам Евы, Эсмеральда немедленно заинтригована. Она встаёт, отряхивается и представляется с усмешкой. Затем она приглашает их войти и поделиться **«тем, что звучит как *очень* интересная история»**
 
-Ezmerelda shares the following information freely if asked:
+Эсмеральда свободно делится следующей информацией, если спросить:
 
-* Her name is Ezmerelda d’Avenir. 
-* She is a Vistana, though she travels with no caravan.
-* Unbeknownst to the Krezkovs, she has come to the Abbey to learn the source of the Abbot's madness, and how it might be cured in order to save Anna Krezkov's life.
+- Её зовут Эсмеральда д'Авенир
+- Она Вистани, хотя путешествует без каравана
+- Без ведома Крезковых она пришла в Аббатство, чтобы узнать источник безумия Аббата и как его можно исцелить, чтобы спасти жизнь Анны Крезковой
 
-Ezmerelda is reluctant to share further information unless the players first prove that they can be trusted. If the players attempt to dig more deeply into her personal life or her purpose at the Abbey, she says, amusedly, “Well, that depends—who wants to know?"
+Эсмеральда неохотно делится дальнейшей информацией, если только игроки сначала не докажут, что им можно доверять. Если игроки пытаются копнуть глубже в её личную жизнь или её цель в Аббатстве, она говорит с весельем: ***«Ну, смотря кто спрашивает?»***
 
-Ezmerelda invites the players to explain themselves and their presence before she shares anything more personal. “I’ve only just met you," she says, laughing softly. “Knowledge is power, and I’ve not survived this long by letting any stranger put a blade to my throat."
+Эсмеральда предлагает игрокам объяснить себя и своё присутствие, прежде чем она поделится чем-то более личным. ***«Я вас только встретила***, — говорит она, мягко смеясь. — ***Знание — сила, и я выжила так долго не потому, что позволяла любому незнакомцу приставлять клинок к моему горлу»***
 
 If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
 
-* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
-* Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
+- She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
+- Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
 
 If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
 
