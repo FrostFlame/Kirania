@@ -743,16 +743,17 @@
 Как только игроки готовы, Эсмеральда приглашает их сесть вокруг краёв круга и соединить руки. Прочитайте:
 
 >[!read]
-> 
-<div class="description">
-<p>
-<p>Ezmerelda’s eyes meet each of yours in turn before closing. She bows her head, black curls cascading across her shoulders, and softly begins to chant.</p>
-<p>The air thickens, as if charged with static, and the hairs on your arms begin to stand on end. You hear the soft scrape of chalk against stone as, one by one, the lines of the pentagram begin to glow faintly, emanating a soft, silver light.</p>
-<p>A low, resonant hum fills the room, vibrating through the floor and into the soles of your feet, as if the very stones of the Abbey have joined in the chant. The ambient sounds beyond the walls fade away, leaving only the rhythmic cadence of Ezmerelda's whispered incantations, which rise and fall like a distant tide. The air grows colder, each breath forming wisps of mist that rise and swirl above your heads.</p>
-<p>"Spirits," Ezmerelda murmurs, swaying faintly. “We seek your wisdom and knowledge. The Abbot of this Abbey has fallen to darkness and corruption. Aid us, and tell us how the stains upon his soul may be cleansed."</p>
-<p>There is a pause — and then the temperature plunges, your skin prickling fiercely. You feel a sudden sense of being watched, as an unmistakable, yet unseeable presence settles like a shroud across the room.</p>
-<p>Ezmerelda’s eyes snap open. “We are not alone," she whispers.</p>
-</div>
+> Глаза Эсмеральды встречаются с каждым из ваc по очереди, прежде чем закрыться. Она склоняет голову, чёрная коса слегка позванивает, свисая с её плеча, и она мягко начинает напевать
+>
+> Воздух сгущается, словно заряженный статикой, и волоски на ваших руках начинают вставать дыбом. Вы слышите тихий скрежет мела о камень, когда, одна за другой, линии пентаграммы начинают слабо светиться, испуская мягкий, серебристый свет
+>
+> Низкий, резонансный гул наполняет комнату, вибрируя сквозь пол и в подошвы ваших ног, словно сами камни Аббатства присоединились к напеву. Окружающие звуки за стенами затихают, оставляя лишь ритм произносимых шёпотом заклинаний Эсмеральды, что вздымаются и опадают, как далёкий прилив. Воздух становится холоднее, каждый вздох формирует струйки тумана, что поднимаются и кружатся над вашими головами
+>
+> ***«Духи***, — бормочет Эсмеральда, слегка покачиваясь — ***Мы ищем вашу мудрость и знание. Аббат этого Аббатства пал во тьму и порчу. Помогите нам и расскажите, как пятна на его душе могут быть очищены»***
+>
+> Наступает пауза — а затем температура резко падает, ваша кожа сильно покалывает. Вы чувствуете внезапное ощущение, что за вами наблюдают, когда безошибочное, но невидимое присутствие оседает, словно саван, по всей комнате
+>
+> Глаза Эсмеральды резко открываются. ***«Мы не одни»***, — шепчет она
 
 The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards face-up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all face-up cards face down and chooses a new set of cards to flip face-up.
 
