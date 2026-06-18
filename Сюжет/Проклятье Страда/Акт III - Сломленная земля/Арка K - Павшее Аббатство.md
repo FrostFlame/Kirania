@@ -768,7 +768,7 @@
 > При выборе карт для ответа на вопрос игрока используйте следующие рекомендации:
 > 
 > - **Неизвестные Ответы**: Для ответов, на которые Св. Марковия не знает ответа, переверните Туманы (Неизвестное). (Помните, что Св. Марковия умерла вскоре после того, как Страд стал вампиром, что она не знает всех секретов Страда и что её дух не видел ничего за пределами своего склепа и Аббатства с момента её смерти. Например, Марковия не может рассказать игрокам о Янтарном Храме, Горном Народе, невестах Страда или ловушках и планировке замка Рэйвенлофт)
-> - **Простые Вопросы, Ответы Да/Нет**: Для простых вопросов, на которые можно ответить простым «Да» или «Нет», переверните либо Прорицателя (Да), либо Анархиста (Нет), либо обоих (Может быть)
+> - **Простые Вопросы, Ответы Да/Нет**: Для простых вопросов, на которые можно ответить простым «Да» или «Нет», переверните либо Прорицающего (Да), либо Анархиста (Нет), либо обоих (Может быть)
 > - **Простые Вопросы, Простые Ответы**: Для прямолинейных вопросов, которые ищут прямого определения или ответов да/нет, выберите одну карту или пару карт, которые символизируют ответ наиболее кратко
 > - **Сложные Вопросы, Несколько Карт**: Если вопрос требует нюансированного или подробного ответа, не стесняйтесь переворачивать несколько карт. Каждая карта может представлять отдельный аспект сложного ответа, который вы хотите донести
 > - **Контекстуальное Толкование**: Карты могут иметь множественные значения в зависимости от контекста вопроса. Не стесняйтесь использовать одни и те же карты для разных запросов, но убедитесь, что их толкование соответствует контексту
@@ -780,24 +780,24 @@
 > - **Важность**: Если вопрос касается черт или качеств, вы можете поместить наиболее доминирующую черту или наиболее важную карту первой, за которой следуют карты, представляющие вторичные или третичные качества
 > - **Контраст и Переход**: Когда вы выбираете карты, представляющие контрастирующие идеи или состояния, расположите их в порядке, который наилучшим образом иллюстрирует контраст или переход от одного состояния к другому
 
-> [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Арка K - Павшее Аббатство]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Арка K - Павшее Аббатство]], rescuing the **werewolf** Emil Toranescu in [[Арка L - Логово Волков]], and/or recovering Argynvost’s skull in [[Арка M - Поместье Дракона]].
+> [!abstract]+ **Совет Эсмеральды**
+> Если ей расскажут о приглашении Страда после того, как она присоединится к их делу в [[Арка K - Павшее Аббатство]], Эсмеральда д'Авенир с готовностью советует игрокам принять его — если они ещё не сделали этого — как уникальную возможность разведать замок перед тем, как добыть *Икону Благодати Рассвета* в [[Арка K - Павшее Аббатство]], спасти **оборотня** Эмиля Торанеску в [[Арка L - Логово Волков]] и/или вернуть череп Аргинвоста в [[Арка M - Поместье Дракона]]
 >
-> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
+> Однако Эсмеральда замечает, что она *не* была приглашена на ужин и поэтому не может присутствовать открыто. Она готова, впрочем, предпринять свой собственный независимый курс действий, пока игроки ужинают со Страдом. По предложению игроков она может провести вечер, охраняя Ирину, тайно исследуя территорию замка на предмет альтернативных входов и возможных стражников (хотя она не войдёт в сам замок в одиночку) или предпринять какое-либо другое действие в интересах партии
 
-If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
+Если игроки теряются в догадках, какие вопросы задать, Эсмеральда предлагает задать любые или все из следующих вопросов:
 
-* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
-* “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
-* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
-* “What happened to the Abbot?" (The spirit responds by flipping the Marionette card and the Enchanter card.)
-* “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
-* “What does this artifact do?" (The spirit responds by flipping the Healer card.)
-* “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards.)
-* “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards.)
-* “Who do we need to kill?" (The spirit responds by flipping the Broken One card.)
+* ***«Кто ты?»*** (Дух отвечает, переворачивая карту Жрец, которую затем переворачивает лицом вниз. Затем он переворачивает карту Миссионер, которую затем переворачивает лицом вниз. Затем он переворачивает карту Пастырь)
+* ***«Ты Святая Марковия?»*** (Дух отвечает, переворачивая карту Прорицатель)
+* ***«Кто такой Аббат?»*** (Дух отвечает, переворачивая карту Целитель, которую затем переворачивает лицом вниз. Затем он переворачивает карту Сломленный)
+* ***«Что случилось с Аббатом?»*** (Дух отвечает, переворачивая карты Марионетка и Чародей)
+* ***«Как мы можем восстановить Аббата?»*** (Дух отвечает, переворачивая карту Артефакт)
+* ***«Что делает этот артефакт?»*** (Дух отвечает, переворачивая карту Целитель)
+* ***«Где мы можем найти артефакт?»*** (Дух отвечает, переворачивая карты Тёмный Властелин и Донжон)
+* ***«Как мы можем использовать артефакт, когда найдём его?»*** (Дух отвечает, переворачивая карты Воин и Палач)
+* ***«Кого нам нужно убить?»*** (Дух отвечает, переворачивая карту Сломленный)
 
-Immediately after the spirit answers the players’ tenth question, the players experience a series of visions. Read:
+Сразу после того, как дух отвечает на 10-й вопрос игроков, игроки переживают серию видений. Прочитайте:
 
 <div class="description">
 <p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
