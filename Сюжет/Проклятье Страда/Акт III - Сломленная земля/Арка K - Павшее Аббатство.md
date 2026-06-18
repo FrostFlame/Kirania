@@ -755,9 +755,9 @@
 >
 > Глаза Эсмеральды резко открываются. ***«Мы не одни»***, — шепчет она
 
-The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards face-up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all face-up cards face down and chooses a new set of cards to flip face-up.
+Присутствие — это дух Святой Марковии, который может общаться с игроками, переворачивая отдельные карты Таррокки лицом вверх с Эфирного Плана. Каждый раз, когда игроки задают новый вопрос, дух переворачивает все открытые карты лицом вниз и выбирает новый набор карт, чтобы перевернуть лицом вверх
 
- (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
+(Игрок, осматривающий комнату с помощью *зеркала духов*, видит Святую Марковию, стоящую над плечом Эсмеральды, одетую в чистые белые одежды жреца с золотой булавой в форме солнечного блеска, вложенной в ножны за её спиной)
 
 > [!info]+ **Seances with the Tarokka Deck**
 > When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
