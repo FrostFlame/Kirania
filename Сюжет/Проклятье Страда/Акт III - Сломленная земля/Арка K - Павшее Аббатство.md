@@ -663,26 +663,26 @@
 
 ![[Ezmerelda.png]]
 
-The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
+Оружие на полу узнаваемо как [[одноручный топор]], [[короткий меч]] и [[рапира]]. Непокрытое лезвие [[Одноручный топор|одноручного топора]] странно блестит на свету. (Игрок, сотворивший ***Обнаружение магии***, замечает, что [[рапира]] и [[одноручный топор]] являются **магическими**, как и [[Доспехи и щиты#Лёгкие доспехи|кожаный доспех]] Эсмеральды)
 
-A player who inspects Ezmerelda’s boots automatically notices that the copper-colored boot is not a boot at all, but an intricate metallic prosthetic that has replaced her right leg below the hem of her breeches.
+Игрок, осматривающий сапоги Эсмеральды, автоматически замечает, что сапог медного цвета — вовсе не сапог, а замысловатый металлический протез, заменивший её правую ногу ниже края бриджей
 
-> [!profile]+ **Profile: Ezmerelda d'Avenir**
-> **Roleplaying Information**
-> ***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+> [!profile]+ **Профиль: Эсмеральда д'Авенир**
+> **Информация для отыгрыша**
+> ***Резонанс***. Эсмеральда должна вызывать веселье своим непочтительным чувством юмора, благодарность — своей хладнокровной компетентностью, нежность — своим пламенным духом перед лицом невзгод и сочувствие — своими сложными чувствами по отношению к доктору Рудольфу ван Рихтену
 > 
-> ***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+> ***Эмоции***. Эсмеральда чаще всего чувствует решимость, задумчивость, скептицизм, гордость, воодушевление, гнев, веселье, настороженность или осторожность
 > 
-> ***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+> ***Мотивации***. Эсмеральда хочет спасать невинных от того, что пугает в ночи, избежать тёмного наследия своих родителей и доказать, что она такой же способный охотник на вампиров, как и доктор Ван Рихтен
 > 
-> ***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+> ***Вдохновения***. Десятый Доктор («Доктор Кто»), Капитан Джек Харкнесс («Доктор Кто»), Баффи Саммерс («Баффи — истребительница вампиров»), Малькольм Рейнольдс («Светлячок»)
 > 
-> **Character Information**
-> ***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+> **Информация о персонаже**
+> ***Персона***. Для мира Эсмеральда — крутой, учтивый, профессиональный охотник на монстров. Для тех, кому она доверяет, Эсмеральда — пламенный, острословящий и вечно преданный друг. В глубине души Эсмеральда задаётся вопросом, считал ли доктор Ван Рихтен, что она недостаточно хороша — или же преступления её семьи против него достаточно, чтобы запятнать её наследие навсегда
 > 
-> ***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+> **Боевой дух**. В бою Эсмеральда двигается быстро и тактически, чтобы обеспечить непреодолимое преимущество, а затем бьёт, когда в подходящий момент
 > 
-> ***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+> ***Отношения***. Эсмеральда — бывшая ученица доктора Рудольфа ван Рихтена и дочь семьи д'Авенир, похитившей и продавшей его сына, Эрасмуса, вампиру барону Метусу
 
 As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
 
