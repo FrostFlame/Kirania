@@ -759,26 +759,26 @@
 
 (Игрок, осматривающий комнату с помощью *зеркала духов*, видит Святую Марковию, стоящую над плечом Эсмеральды, одетую в чистые белые одежды жреца с золотой булавой в форме солнечного блеска, вложенной в ножны за её спиной)
 
-> [!info]+ **Seances with the Tarokka Deck**
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> [!info]+ **Сеансы с колодой Тарокки**
+> При использовании карт колоды Таррокки для ответа на вопросы игроков во время спиритического сеанса каждая карта обладает уникальным значением, описанным в Приложение E: Колода Таррокки (стр. 239-240). (Например, карта **Артефакт** представляет ***«Важность некоего физического предмета, который должен быть добыт, защищён или уничтожен любой ценой»***)
+>
+> Если она присутствует, Эсмеральда может поделиться значением каждой карты напрямую, хотя игроки должны истолковать это значение самостоятельно в контексте их изначального вопроса. Игрок с владением в использовании карт Таррокки также знает все значения карт автоматически. В противном случае игрок должен преуспеть в **проверке Магии Сл 15**, чтобы вспомнить значение конкретной карты
 > 
-> If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
+> **Выбор карт**
+> При выборе карт для ответа на вопрос игрока используйте следующие рекомендации:
 > 
-> **Choosing Cards**
-> When choosing cards to answer a player question, use the following guidelines:
+> - **Неизвестные Ответы**: Для ответов, на которые Св. Марковия не знает ответа, переверните Туманы (Неизвестное). (Помните, что Св. Марковия умерла вскоре после того, как Страд стал вампиром, что она не знает всех секретов Страда и что её дух не видел ничего за пределами своего склепа и Аббатства с момента её смерти. Например, Марковия не может рассказать игрокам о Янтарном Храме, Горном Народе, невестах Страда или ловушках и планировке замка Рэйвенлофт)
+> - **Простые Вопросы, Ответы Да/Нет**: Для простых вопросов, на которые можно ответить простым «Да» или «Нет», переверните либо Прорицателя (Да), либо Анархиста (Нет), либо обоих (Может быть)
+> - **Простые Вопросы, Простые Ответы**: Для прямолинейных вопросов, которые ищут прямого определения или ответов да/нет, выберите одну карту или пару карт, которые символизируют ответ наиболее кратко
+> - **Сложные Вопросы, Несколько Карт**: Если вопрос требует нюансированного или подробного ответа, не стесняйтесь переворачивать несколько карт. Каждая карта может представлять отдельный аспект сложного ответа, который вы хотите донести
+> - **Контекстуальное Толкование**: Карты могут иметь множественные значения в зависимости от контекста вопроса. Не стесняйтесь использовать одни и те же карты для разных запросов, но убедитесь, что их толкование соответствует контексту
 > 
-> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
-> * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes), the Anarchist (No), or both (Maybe).
-> * **Simple Questions, Simple Answers**: For straightforward questions that seek direct identification or yes/no answers, opt for a single card or a pair of cards that symbolize the answer most succinctly.
-> * **Complex Questions, Multiple Cards**: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
-> * **Contextual Interpretation**: Cards can have multiple meanings depending on the context of the question. Feel free to reuse cards for different queries, but ensure that their interpretation aligns with the context.
+> **Очерёдность карт**
+> При переворачивании нескольких карт рассмотрите использование следующих рекомендаций для их последовательности:
 > 
-> **Sequencing Cards**
-> When flipping multiple cards, consider using the following guidelines for sequencing them:
-> 
-> * **Chronological Order**: When the question pertains to events that have occurred over time or a transformation, arrange the cards in a chronological sequence to depict the evolution or the series of events.
-> * **Importance**: If the question is about traits or qualities, you might choose to place the most dominant feature or most important card first, followed by cards that represent secondary or tertiary qualities.
-> * **Contrast and Transition**: When you choose cards that represent contrasting ideas or states, arrange them in an order that best illustrates the contrast or transition from one state to another.
+> - **Хронологический Порядок**: Когда вопрос касается событий, происходивших с течением времени, или трансформации, расположите карты в хронологической последовательности, чтобы изобразить эволюцию или череду событий
+> - **Важность**: Если вопрос касается черт или качеств, вы можете поместить наиболее доминирующую черту или наиболее важную карту первой, за которой следуют карты, представляющие вторичные или третичные качества
+> - **Контраст и Переход**: Когда вы выбираете карты, представляющие контрастирующие идеи или состояния, расположите их в порядке, который наилучшим образом иллюстрирует контраст или переход от одного состояния к другому
 
 > [!abstract]+ **Ezmerelda’s Advice**
 > If told of Strahd’s invitation once recruited to their cause in [[Арка K - Павшее Аббатство]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Арка K - Павшее Аббатство]], rescuing the **werewolf** Emil Toranescu in [[Арка L - Логово Волков]], and/or recovering Argynvost’s skull in [[Арка M - Поместье Дракона]].
