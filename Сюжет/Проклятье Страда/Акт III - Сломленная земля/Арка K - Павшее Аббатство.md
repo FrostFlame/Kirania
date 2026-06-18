@@ -698,10 +698,10 @@
 
 Эсмеральда предлагает игрокам объяснить себя и своё присутствие, прежде чем она поделится чем-то более личным. ***«Я вас только встретила***, — говорит она, мягко смеясь. — ***Знание — сила, и я выжила так долго не потому, что позволяла любому незнакомцу приставлять клинок к моему горлу»***
 
-If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
+Если игроки делятся тем, что они новоприбывшие в Баровию (***«ДА ЛАДНО? Как местные вы точно не выглядите»***, — замечает Эсмеральда), она готова поделиться следующей информацией:
 
-- She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
-- Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
+- Она прибыла в Баровию сама чуть менее двух недель назад на фургоне. С тех пор она оставалась в основном в Крезке и его окрестностях, хотя оставила свой фургон у берега озера Бараток в качестве передвижной базы. Она искала в близлежащих лесах Илью Крезкова, пропавшего сына бургомистра Дмитрия Крезкова и его жены Анны. (***«Они спасли меня от края смерти, однажды»***, — говорит она тихо. — ***«Я обязана им по меньшей мере этим»***)
+- - С момента своего прибытия она была встревожена тем, насколько сильно Баровия изменилась с её последнего визита — во многом благодаря, это ясно, пробуждению Страда вон Заровича. (Она игриво прищуривается, оглядывает игроков и замечает: ***«Раз хозяин замка поднялся и расхаживает, полагаю, нетрудно попасть под его влияние. Ни у кого из вас нет клыков или жажды моей крови, надеюсь?»***)
 
 If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
 
