@@ -8,7 +8,7 @@
 
 # Подготовка
 
-- 
+- [[Крылья полёта]]
 
 # K1. Деревня Крезк
 
@@ -805,41 +805,53 @@
 | Провидец         | Вдохновение и острый ум; результат предстоящего события будет зависеть от вашей сообразительности                                                    |
 | Искуситель       | Тот, кто подвергся риску или сбился с пути поддавшись искушению или глупости; тот, кто злонамеренно искушает других                                  |
 
-| Карта        | Название        | Значение                                                                                                |
-| ------------ | --------------- | ------------------------------------------------------------------------------------------------------- |
-| **Мечи**     |                 |                                                                                                         |
-| Мастер Мечей | Воин            | Олицетворение силы; насилие; те, кто использует силу для достижения своих целей                         |
-| 1 Мечей      | Мститель        | Справедливость и возмездие за великие грехи; те, кто стремится избавить мир от великого зла             |
-| 2 Мечей      | Паладин         | Справедливые и благородные воины; те, кто живет по кодексу честности и чести                            |
-| 3 Мечей      | Солдат          | Война и жертва; выносливость, которая требуется, чтобы пройти тяжелые испытания                         |
-| 4 Мечей      | Наёмник         | Внутренняя сила и стойкость; те, кто борется за власть или богатство                                    |
-| 5 Мечей      | Мирмидон        | Великие герои; внезапный поворот судьбы; триумф неудачника над могущественным врагом                    |
-| 6 Мечей      | Берсерк         | Суровая и варварская сторона войны; кровожадность; те, кто обладают зверским характером                 |
-| 7 Мечей      | Сокрытый        | Слепая приверженность, нетерпимость и ксенофобия; таинственное присутствие или незнакомец               |
-| 8 Мечей      | Диктатор        | Все плохое, происходящее из-за правительства и правителей; те, кто правят через устрашение и насилие    |
-| 9 Мечей      | Мучитель        | Страдание или беспощадная жестокость; неисправимо злой или кровожадный человек                          |
-| **Звёзды**   |                 |                                                                                                         |
-| Мастер Звёзд | Волшебник       | Тайны и загадки; неизвестный; те, кто жаждут магической силы и великих знаний                           |
-| 1 Звёзд      | Превращающий    | Новое открытие; появление неожиданностей; непредвиденные последствия и хаос                             |
-| 2 Звёзд      | Прорицающий     | Поиски знаний умеренные мудростью; правда и честность; мудрецы и пророчества                            |
-| 3 Звёзд      | Очарователь     | Внутреннее смятение, вызванное из-за путаницей, страхом неудачи или ложной информацией                  |
-| 4 Звёзд      | Преграждающий   | Те, кто руководствуется логикой и рассуждением; предупреждение о пропущенной подсказке или информации   |
-| 5 Звёзд      | Элементалист    | Победа природы над цивилизацией; стихийные бедствия и щедрые урожаи                                     |
-| 6 Звёзд      | Воплощающий     | Магическая или сверхъестественная сила, которую нельзя контролировать; магия призванная разрушать       |
-| 7 Звёзд      | Иллюзионист     | Ложь и обман; великие заговоры; тайные общества; присутствие обмана или диверсанта                      |
-| 8 Звёзд      | Некромант       | Неестественные события и нездоровые навязчивые идеи; те, кто следуют по пути разрушения                 |
-| 9 Звёзд      | Сотворяющий     | Появление неожиданной сверхъестественной угрозы; те, кто считает себя богами                            |
-| **Монеты**   |                 |                                                                                                         |
-| Мастер Монет | Плут            | Любой, для кого важны деньги; те, кто считают деньги своим ключом к успеху                              |
-| 1 Монет      | Бретёр          | Все, кто любит деньги и кутеж; в особенности плуты и шарлатаны                                          |
-| 2 Монет      | Филантроп       | Благотворительность и большие пожертвования; те, кто использует богатство для борьбы со злом и болезнью |
-| 3 Монет      | Торговец        | Торговля; контрабанда и черные рынки; честные и справедливые сделки                                     |
-| 4 Монет      | Купец           | Редкие товарные или деловые возможности; обманчивые или опасные деловые операции                        |
-| 5 Монет      | Член гильдии    | Объединение с единомышленниками ради общей цели; гордость за свою работу                                |
-| 6 Монет      | Попрошайка      | Внезапное изменение экономического статуса или состояния                                                |
-| 7 Монет      | Вор             | Те, кто крадет или грабит; потеря собственности, красоты, невинности, дружбы или репутации              |
-| 8 Монет      | Сборщик податей | Коррупция; честность в коррумпированном правительстве или организации                                   |
-| 9 Монет      | Скряга          | Накопленное богатство; те, кто необратимо несчастны или думают, что деньги бессмысленны                 |
+| Карта         | Название        | Значение                                                                                                |
+| ------------- | --------------- | ------------------------------------------------------------------------------------------------------- |
+| **Мечи**      |                 |                                                                                                         |
+| Мастер Мечей  | Воин            | Олицетворение силы; насилие; те, кто использует силу для достижения своих целей                         |
+| 1 Мечей       | Мститель        | Справедливость и возмездие за великие грехи; те, кто стремится избавить мир от великого зла             |
+| 2 Мечей       | Паладин         | Справедливые и благородные воины; те, кто живет по кодексу честности и чести                            |
+| 3 Мечей       | Солдат          | Война и жертва; выносливость, которая требуется, чтобы пройти тяжелые испытания                         |
+| 4 Мечей       | Наёмник         | Внутренняя сила и стойкость; те, кто борется за власть или богатство                                    |
+| 5 Мечей       | Мирмидон        | Великие герои; внезапный поворот судьбы; триумф неудачника над могущественным врагом                    |
+| 6 Мечей       | Берсерк         | Суровая и варварская сторона войны; кровожадность; те, кто обладают зверским характером                 |
+| 7 Мечей       | Сокрытый        | Слепая приверженность, нетерпимость и ксенофобия; таинственное присутствие или незнакомец               |
+| 8 Мечей       | Диктатор        | Все плохое, происходящее из-за правительства и правителей; те, кто правят через устрашение и насилие    |
+| 9 Мечей       | Мучитель        | Страдание или беспощадная жестокость; неисправимо злой или кровожадный человек                          |
+| **Звёзды**    |                 |                                                                                                         |
+| Мастер Звёзд  | Волшебник       | Тайны и загадки; неизвестный; те, кто жаждут магической силы и великих знаний                           |
+| 1 Звёзд       | Превращающий    | Новое открытие; появление неожиданностей; непредвиденные последствия и хаос                             |
+| 2 Звёзд       | Прорицающий     | Поиски знаний умеренные мудростью; правда и честность; мудрецы и пророчества                            |
+| 3 Звёзд       | Очарователь     | Внутреннее смятение, вызванное из-за путаницей, страхом неудачи или ложной информацией                  |
+| 4 Звёзд       | Преграждающий   | Те, кто руководствуется логикой и рассуждением; предупреждение о пропущенной подсказке или информации   |
+| 5 Звёзд       | Элементалист    | Победа природы над цивилизацией; стихийные бедствия и щедрые урожаи                                     |
+| 6 Звёзд       | Воплощающий     | Магическая или сверхъестественная сила, которую нельзя контролировать; магия призванная разрушать       |
+| 7 Звёзд       | Иллюзионист     | Ложь и обман; великие заговоры; тайные общества; присутствие обмана или диверсанта                      |
+| 8 Звёзд       | Некромант       | Неестественные события и нездоровые навязчивые идеи; те, кто следуют по пути разрушения                 |
+| 9 Звёзд       | Сотворяющий     | Появление неожиданной сверхъестественной угрозы; те, кто считает себя богами                            |
+| **Монеты**    |                 |                                                                                                         |
+| Мастер Монет  | Плут            | Любой, для кого важны деньги; те, кто считают деньги своим ключом к успеху                              |
+| 1 Монет       | Бретёр          | Все, кто любит деньги и кутеж; в особенности плуты и шарлатаны                                          |
+| 2 Монет       | Филантроп       | Благотворительность и большие пожертвования; те, кто использует богатство для борьбы со злом и болезнью |
+| 3 Монет       | Торговец        | Торговля; контрабанда и черные рынки; честные и справедливые сделки                                     |
+| 4 Монет       | Купец           | Редкие товарные или деловые возможности; обманчивые или опасные деловые операции                        |
+| 5 Монет       | Член гильдии    | Объединение с единомышленниками ради общей цели; гордость за свою работу                                |
+| 6 Монет       | Попрошайка      | Внезапное изменение экономического статуса или состояния                                                |
+| 7 Монет       | Вор             | Те, кто крадет или грабит; потеря собственности, красоты, невинности, дружбы или репутации              |
+| 8 Монет       | Сборщик податей | Коррупция; честность в коррумпированном правительстве или организации                                   |
+| 9 Монет       | Скряга          | Накопленное богатство; те, кто необратимо несчастны или думают, что деньги бессмысленны                 |
+| **Глифы**     |                 |                                                                                                         |
+| Мастер Глифов | Священник       | Просвещение; тот, кто следует за богом, придерживается системы ценностей или более высоких целей        |
+| 1 Глифов      | Монах           | Спокойствие; внутренняя сила и уверенность в себе; высшая уверенность, лишенная высокомерия             |
+| 2 Глифов      | Миссионер       | Те, кто делятся мудростью и верой с другими; предупреждения о распространении страха и невежества       |
+| 3 Глифов      | Лекарь          | Лечение; заразная болезнь, недуг или проклятие; те, кто практикуют искусство исцеления                  |
+| 4 Глифов      | Пастух          | Те, кто защищают других; тот, кто несет бремя слишком великое для одного                                |
+| 5 Глифов      | Друид           | Нерешительность и жестокость природы и тех, кто c ней cвязан; внутреннее смятение                       |
+| 6 Глифов      | Анархист        | Фундаментальное изменение, вызванное тем, чьи убеждения подвергаются испытанию                          |
+| 7 Глифов      | Шарлатан        | Лжецы; те, кто показывает, что верит в одно, но на самом деле считают иначе                             |
+| 8 Глифов      | Епископ         | Строгое соблюдение принципов или убеждений; те, кто замышляет и планирует                               |
+| 9 Глифов      | Предатель       | Предательство со стороны кого-то близкого и доверенного; ослабление или потеря веры                     |
+#### Дальше
 
 Если игроки теряются в догадках, какие вопросы задать, Эсмеральда предлагает задать любые или все из следующих вопросов:
 
@@ -855,66 +867,69 @@
 
 Сразу после того, как дух отвечает на 10-й вопрос игроков, игроки переживают серию видений. Прочитайте:
 
-<div class="description">
-<p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who directs a gold-robed woman to present her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The white-robed woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
-<p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
-</div>
+>[!read]
+> Порыв эфирного ветра проносится по комнате — и сияющий взрыв света извергается из центра пентаграммы, окрашивая стены в оттенки серебра и золота
+>
+> Вспышки образов мелькают перед вашим внутренним взором. Женщина в белых одеждах, преклоняющая колени перед мужчиной с крыльями, белыми, как чистейший снег, который направляет женщину в золотых одеждах вручить ей серебряную статуэтку жреца, стоящего на коленях в мольбе. Грудь статуэтки светится тем же золотым светом, что окружает голову мужчины. Женщина в белых одеждах, стоящая перед наполовину построенным сооружением на холодном горном отроге, её ладони мозолисты, пока она кладёт кирпичи на залитую раствором стену. Та же женщина, поднимающая золотую булаву над головой, с молитвой на устах, пока затенённая крепость нависает над ней. Серебряная статуэтка, сидящая в одиночестве в тёмной, холодной гробнице под тёмной, извращённой твердыней. Мужчина, один на вершине горы, пелена тумана застилает его глаза
+>
+> Каждый образ сопровождается всплеском эмоций: смирение, надежда, неповиновение и печаль, столь сильная, что она скребёт вашу грудь длинными, горькими когтями. Но так же быстро, как они появились — видения исчезают, и когда вы снова открываете глаза, вы видите комнату, вернувшуюся в прежнее состояние
 
-> [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
+> [!info]+ **Управление NPC в группе**
+> Партийные NPC, такие как Эсмеральда д'Авенир и Ирина Коляна, могут добавить глубины, резонанса и дополнительных возможностей для отыгрыша в вашу кампанию. Однако важно управлять ими так, чтобы не красть внимание у ваших игроков. Делая это, помните о следующих рекомендациях:
 > 
-> * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
-> * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
-> * **Multi-NPC Conversations**: If other NPCs engage party NPCs in conversation, try to redirect the interaction to include one or more players, keeping them involved and central to the current scene.
-> * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
+> - **Темы для Разговора**: Партийные NPC должны, как правило, оставаться на заднем плане, вступая в разговор только тогда, когда к ним обращаются, или когда беседа касается темы, напрямую связанной с ними или их интересами. Они также могут вставлять случайные шутки или замечания там, где это будет в рамках их характера
+> - **Уважение к Игрокам**: Партийные NPC должны, как правило, оставлять принятие решений за игроками. Их роль — поддерживать игроков, а не вести их. (Единственным исключением являются вопросы, имеющие глубокое личное или эмоциональное значение для партийного NPC, что может заставить их спорить или даже не соглашаться с игроками, если это соответствует их характеру)
+> - **Беседы с Несколькими NPC**: Если другие NPC вовлекают партийных NPC в разговор, постарайтесь перенаправить взаимодействие так, чтобы включить одного или нескольких игроков, сохраняя их вовлечёнными и центральными в текущей сцене
+> - **Советы и Рекомендации**: Избегайте использования партийных NPC для предоставления прямых решений головоломок, испытаний или стратегических решений. Хотя партийный NPC может дать тихий комментарий, если дело касается его компетенции, он должен предлагать ясные подсказки или руководство только тогда, когда его прямо просят, и объём его помощи должен быть относительно ограничен
 
-> [!info]+ **The Artifact**
-> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Арка P - Ограбление Рэйвенлофта#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
+> [!info]+ **Артефакт**
+> Статуэтка, изображённая в видении сеанса, в настоящее время находится в склепе Святой Марковии в K84. Катакомбы (стр. 85) и описана далее в [[Арка P - Ограбление Рэйвенлофта#Южные Склепы, Третий Ряд|Арка P - Ограбление Рэйвенлофта]]
 
-***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
-##### The Eavesdroppers
-Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
+***Веха.*** Вербовка Эсмеральды д'Авенир в качестве союзника завершает сюжетную веху. Когда игроки завершают спиритический сеанс, выдайте каждому игроку 1,000 XP
 
-<div class="description">
-<p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
-</div>
+##### Подслушиватели
 
-A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a tangled pile on the balcony beyond, each Belview cursing the others as they attempt to untangle themselves. When revealed, the Belviews look slightly abashed, with Clovin looking especially flushed at their discovery. (Clovin is not pleased that Otto or Zygfrek chose to join him in this eavesdropping expedition, and is further irritated that Otto’s clumsiness—while scratching an itch—caused them to get caught.)
+Вскоре после завершения сеанса Эсмеральда и любой игрок с **пассивным Восприятием 13** или выше слышит внезапный шум за дверью. Прочитайте:
 
-The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
+>[!read]
+> Внезапно, прямо из-за двери, вы слышите громкий глухой удар. Дверь содрогается на мгновение, словно по ней ударили падающим весом, за чем следует тройка высоких визгов и стонов
 
-The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey.
+Игрок, открывающий дверь, видит Кловина, Отто и Зигфрек Белвью, лежащих спутанной кучей на балконе за пределами, каждый Белвью ругает остальных, пока они пытаются распутаться. Когда их раскрывают, Белвью выглядят слегка смущёнными, причём Кловин выглядит особенно раскрасневшимся от их обнаружения. (Кловин не доволен, что Отто или Зигфрек решили присоединиться к нему в этой подслушивающей экспедиции, и ещё более раздражён тем, что неуклюжесть Отто — пока тот чесал зудящее место — привела к тому, что их поймали)
 
-If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
+Белвью могут поделиться, что они начали подслушивать игроков, потому что хотели узнать больше о мире за стенами Аббатства. Учитывая очевидный интерес игроков к замку Рэйвенлофт, трое Белвью решили, что игроки, возможно, смогут помочь им узнать судьбу их семейного патриарха, Сайруса Белвью, который, как они верят, был «усовершенствован» перед тем, как его немедленно умчали в замок Рэйвенлофт
 
-> [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+Белвью просят игроков найти и поговорить с Сайрусом, когда они посетят замок Рэйвенлофт. Они явно жаждут узнать больше о его опыте с «совершенством» — как о процессе, что создал его, так и о его жизни после его достижения. В обмен на новости о Сайрусе Кловин обещает предоставить игрокам сокровище, спрятанное где-то в Аббатстве
+
+Если игроки соглашаются выполнить их просьбу, трое Белвью глубоко благодарны, причём Отто прыгает и ослино кричит от радости, пока Кловин спешит утихомирить его
+
+> [!info]+ **Сокровище Кловина**
+> Если игроки возвращаются из замка Рэйвенлофт с новостями о Сайрусе, Кловин ведёт их к деревянной подставке, покрытой чёрной тканью в юго-восточном углу S17. Чердак и Колокольня (стр. 152). На подставке висят два набора [[Крылья полёта|крыльев полёта]] с каркасами из звериных костей. (Аббат создал эти крылья как часть своих изначальных экспериментов с Белвью, но давно забросил их.) Они имеют следующие изменения:
 > 
-> * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-> * A set of wings animates for 1 minute, rather than 1 hour
-> * Once a set of wings has been used, it can't be used again until dawn.
-> * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-> * A creature can attune itself to the wings in 1 minute.
+> - Крылья являются искусственными крыльями, а не плащами, и оживают при активации вместо того, чтобы трансформироваться
+> - Набор крыльев оживает на 1 минуту, а не на 1 час
+> - Как только набор крыльев был использован, его нельзя использовать снова до рассвета
+> - Один набор напоминает птичьи крылья и несёт сотни крупных, пуховых перьев, выщипанных из облика **гигантского орла** Аббата, в то время как другой напоминает крылья летучей мыши и несёт длинные перепонки из выдубленной звериной шкуры
+> - Существо может **настроиться** на крылья за **1 минуту**
 > 
 
-### The Abbot’s Wrath
-When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
+### Гнев Аббата
 
-As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
+Когда игроки вновь входят в Восточное Крыло, чтобы спуститься во внутренний двор, их снова встречает **голема плоти**. Если ему ранее передали цветочную гирлянду Васильки, голем теперь носит её как ожерелье на своей шее
 
-After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
+Когда игроки выходят из Восточного Крыла во внутренний двор, их приветствует Аббат, которого сопровождает Василька. Если Эсмеральда присутствует, Аббат тепло приветствует её
 
-A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
+После того как он обменялся любезностями с игроками, если **голема плоти** носит ожерелье Васильки, взгляд Аббата падает на него. Его взгляд становится напряжённым, и он спрашивает игроков, как голем заполучил такое украшение
 
-In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
+Игрок должен преуспеть в **проверке Обмана Сл 20**, чтобы успешно солгать Аббату. Если проверка провалена, Аббат понимает, что цветы из сада, замечает, что большинство из них выглядят сорванными несколько дней назад, и заключает, что игроки — которые прибыли лишь недавно — не могли их сорвать. Затем его взгляд заметно перемещается на Васильку, которая выглядит испуганной и опечаленной
 
-If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 20 Dexterity (Deception) check and a DC 20 Charisma (Persuasion) check. 
+В любом случае Аббат приказывает **голему плоти** опустить шею, после чего снимает гирлянду с него. ***«Украшения и наряды — первые шаги к гордыне и тщеславию***, — замечает он безмятежно, добавляя: — ***Такие глупости не пристали творениям богов»***
 
-If the player fails the first check, the Abbot notices their attention to Vasilka and asks her to confess if she has given her hands to “the sins of vanity and pride." If the player fails the second check, Vasilka meekly confesses that she made the necklace. In either case, Vasilka insists that she did so only because the flesh golem looked so lonely, and she wished for it not to feel so alone. The Abbot thanks Vasilka for her honesty, noting that “the Morninglord smiles upon those who reveal the truth"—but adds, quietly, that they will speak of her penance later.
+Если игроки не смогли обмануть его, тон Аббата становится холодным, а его глаза — напряжёнными. Кроме того, Аббат затем вслух просит виновного, создавшего ожерелье, выйти вперёд и получить просветление и милость Утреннего Владыки. Игрок может незаметно попытаться убедить Васильку не раскрывать себя (например, используя язык тела), преуспев в **проверке Обмана Сл 20** и **проверке Убеждения Сл 20**
 
-> [!abstract]+ **Vasilka's Punishment**
-> If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
+Если игрок проваливает первую проверку, Аббат замечает их внимание к Васильке и просит её признаться, предавала ли она свои руки «грехам тщеславия и гордыни». Если игрок проваливает вторую проверку, Василька кротко признаётся, что сделала ожерелье. В любом случае Василька настаивает, что сделала это лишь потому, что плоть-голем выглядел таким одиноким, и она желала, чтобы он не чувствовал себя столь одиноко. Аббат благодарит Васильку за её честность, отмечая, что ***«Утренний Владыка улыбается тем, кто открывает правду»*** — но добавляет тихо, что они поговорят о её покаянии позже
 
-> [!info]+ **Redeeming the Abbot**
-> The players can redeem the Abbot in [[Арка Q - Сияющий Маяк]], which takes place in the immediate aftermath of [[Арка P - Ограбление Рэйвенлофта]].
+> [!abstract]+ **Наказание Васильки**
+> Если игроки передали ожерелье Васильки голему плоти и не смогли обмануть Аббата, он позже наказывает Васильку, заставляя голема плоти сжечь ожерелье в очаге главного зала — задача, которая ужасает и терзает его из-за его черты ***отвращение к огню*** — пока она смотрит. Когда игроки в следующий раз возвращаются в Аббатство, Василька тиха и замкнута, и она решительно отказывается приближаться к очагу, если только её не заставят
+
+> [!info]+ **Искупление Аббата**
+> Игроки могут искупить Аббата в [[Арка Q - Сияющий Маяк]], которая происходит сразу после [[Арка P - Ограбление Рэйвенлофта]]
