@@ -48,6 +48,19 @@
 <br>Ooh.</p>
 </div>
 
+<div class="description" style="text-align: center;">
+<p>Услышьте, о звёзды, мою мольбу,
+<br>Объятий его я снова жду
+<br>
+<br>Потерян под звёздным морем он,
+<br>Его свет манит, как дивный сон,
+<br>Его шёпот притяни ко мне,
+<br>Чтобы видеть смогла я в его тьме
+<br>
+<br>Услышьте, услышьте, мою мольбу
+<br>Ооо.</p>
+</div>
+
 The source of the music is Bianca, a **werewolf** in human form sitting on the rocky shore of the causeway. When the players first see her, read:
 
 <div class="description">
