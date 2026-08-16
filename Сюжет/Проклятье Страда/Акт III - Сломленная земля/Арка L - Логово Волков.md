@@ -4,11 +4,12 @@
 
 С помощью Эсмеральды д'Авенир игроки могут выследить логово оборотней до тихого утёса на северо-западном берегу озера Бараток. Во время ночной засады на опушке Сваличского леса игроки должны дождаться, пока стая выйдет на охоту, затем проскользнуть в логово и обойти или одолеть оставшихся стражей, прежде чем пробиться к святилищу Матери Ночи
 
-With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
+Там игроки встречают Зулейку Торанеску — **оборотня**-жрицу Матери Ночи и старшую сестру барона Дмитрия Крезкова. Зулейка является партнёршей Эмиля Торанеску: бывшего вожака стаи **оборотней**, которого Кирил Стоянович сверг, когда Страд пробудился от своего сна. Зулейка соглашается снять защиту Матери Ночи со святилища и позволить игрокам забрать *Святой Символ Рэйвенлофта* и добиться свободы Ильи, если они также освободят её и пообещают спасти Эмиля из подземелий замка Рэйвенлофт
 
-There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
+# L1. Поиск Логова
 
-# L1. Finding the Den
+
+
 The players can locate the werewolves’ den in one of two ways:
 
 * They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Арка K - Павшее Аббатство]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
