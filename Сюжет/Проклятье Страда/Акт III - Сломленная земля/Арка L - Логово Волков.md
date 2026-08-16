@@ -19,9 +19,11 @@
 - Во-вторых, она и игроки разобьют лагерь в ложбине и будут ждать до наступления ночи, когда стая оборотней выйдет из логова на охоту
 - В-третьих, как только стая оборотней покинет логово, она и игроки проникнут в логово оборотней, чтобы спасти Илью из его плена
 
-> [!abstract]+ **Robbing Ez**
-> If the players stole from Ezmerelda's wagon in [[Арка E - Пропавшая Вистана]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
-# L2. Lake Baratok
+> [!abstract]+ **Ограбление Эсмеральды**
+> Если игроки украли из фургона Эсмеральды в [[Арка E - Пропавшая Вистана]], она раздражена их наглостью, пока её вещи не будут возвращены. Хотя она может затаить лёгкую обиду, если игроки принесут недостаточные извинения за кражу со взломом, она свободно прощает игроков, если они честно заявят, что действовали из лучших побуждений
+
+# L2. Озеро Бараток
+
 If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Арка E - Пропавшая Вистана]]. 
 
 When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
