@@ -8,18 +8,16 @@
 
 # L1. Поиск Логова
 
+Игроки могут найти логово оборотней одним из двух способов:
 
+- Они могут завербовать охотницу на монстров Эсмеральду д'Авенир в своё дело в [[Арка K - Павшее Аббатство]]. (После выслеживания Ильи Крезкова и стаи оборотней в течение последних нескольких дней Эсмеральда сильно подозревает, что Илья — пленник в логове). Присоединившись к игрокам, Эсмеральда просит их помочь ей в исследовании логова оборотней на следующий день
+- Они могут использовать заклинание [[Внушение]] или подобную магию, чтобы заставить оборотней в [[Арка C - В Долину|Арке C - В Долину]] или [[Арка E - Пропавшая Вистана]] привести их к логову
 
-The players can locate the werewolves’ den in one of two ways:
+В первом случае, прежде чем вести игроков к логову, Эсмеральда предлагает следующий план:
 
-* They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Арка K - Павшее Аббатство]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] or [[Арка E - Пропавшая Вистана]] to lead them to the den.
-
-In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
-
-* First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of major image* (in case they need a distraction), a *spell scroll of remove curse* (in case any of them is bitten), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
-* Second, she and the players will set up camp in the hollow and wait until nightfall for the werewolf pack to exit the den to hunt.
-* Third, once the werewolf pack has left the den, she and the players will infiltrate the werewolf den to rescue Ilya from his captivity.
+- Во-первых, она приведёт игроков к своему фургону на озере Бараток, чтобы забрать припасы — а именно: *свиток заклинания [[Образ]]* (на случай, если понадобится отвлечение), *свиток заклинания [[Снятие проклятия]]* (на случай, если кого-то укусят), подзорную трубу (чтобы вести наблюдение) и **10 посеребрённых арбалетных болтов** (чтобы пополнить их колчаны). **Всё уже украли**
+- Во-вторых, она и игроки разобьют лагерь в ложбине и будут ждать до наступления ночи, когда стая оборотней выйдет из логова на охоту
+- В-третьих, как только стая оборотней покинет логово, она и игроки проникнут в логово оборотней, чтобы спасти Илью из его плена
 
 > [!abstract]+ **Robbing Ez**
 > If the players stole from Ezmerelda's wagon in [[Арка E - Пропавшая Вистана]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
