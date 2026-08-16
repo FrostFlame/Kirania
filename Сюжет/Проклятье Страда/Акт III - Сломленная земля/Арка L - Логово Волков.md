@@ -1,6 +1,8 @@
-_An adventure for five 6th-level characters._
+*Приключение для пяти персонажей 6-го уровня*
 
-In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
+В этой арке игроки должны отыскать логово баровийской стаи оборотней, где хранится *Святой Символ Рэйвенлофта*, как было предсказано мадам Евой. Если игроки ранее раскрыли местоположение сына барона Дмитрия Крезкова, Ильи, в [[Арка I - Стены Крезка|Арке I: Стены Крезка]], барон Крезков также просит их спасти его из лап оборотней, обещая убежище и помощь, если они это сделают
+
+С помощью Эсмеральды д'Авенир игроки могут выследить логово оборотней до тихого утёса на северо-западном берегу озера Бараток. Во время ночной засады на опушке Сваличского леса игроки должны дождаться, пока стая выйдет на охоту, затем проскользнуть в логово и обойти или одолеть оставшихся стражей, прежде чем пробиться к святилищу Матери Ночи
 
 With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
 
