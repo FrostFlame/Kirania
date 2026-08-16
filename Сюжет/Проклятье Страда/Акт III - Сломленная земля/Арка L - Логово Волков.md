@@ -24,16 +24,16 @@
 
 # L2. Озеро Бараток
 
-If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Арка E - Пропавшая Вистана]]. 
+Если игроки соглашаются сопровождать Эсмеральду к озеру Бараток, чтобы забрать припасы из её фургона, местность описана в [[Арка E - Пропавшая Вистана]]
 
-When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
+Когда игроки прибывают, Эсмеральда входит в фургон через потайной люк в его днище. Вскоре после этого она сообщает игрокам — звуча потрясённо — что кто-то побывал внутри фургона и похитил несколько её вещей, включая два свитка заклинаний, лиру и три флакона духов
 
-Each player with a passive Wisdom (Perception) score of 12 or higher then notices the faint sound of music emanating from the far side of the tower. A player can also make a DC 14 Wisdom (Survival) check to identify a set of recent humanoid footprints leading from the wagon toward the source of the music—left no longer than an hour ago.
+Каждый игрок с **пассивным Восприятием 12** или выше затем замечает слабый звук музыки, доносящийся с дальней стороны башни. Игрок также может совершить **проверку Выживания Сл 14**, чтобы распознать набор свежих гуманоидных следов, ведущих от фургона к источнику музыки — оставленных не более **1 часа** назад
 
-As the players approach the source of the music, they can hear the following three stanzas of a haunting lament.
+Когда игроки приближаются к источнику музыки, они могут услышать следующие 3 строфы леденящей душу печальной песни:
 
-> [!info]+ **Bianca’s Lament**
-> Bianca’s song can be sung to the melody of *Lament of Orpheus* from the video game *Hades*.
+> [!info]+ **Плач Бьянки**
+> Песню Бьянки можно спеть на мелодию *Плача Орфея* из видеоигры *Hades* (https://www.youtube.com/watch?v=WbNQCwM4dW8)
 
 <div class="description" style="text-align: center;">
 <p>Hear, O stars, my yearning plea,
