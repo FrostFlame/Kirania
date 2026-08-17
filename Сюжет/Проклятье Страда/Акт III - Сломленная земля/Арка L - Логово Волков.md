@@ -285,7 +285,7 @@
 > Покидая Баровию, Кирил берёт с собой на охоту только давних членов стаи, оставляя своих 4 кровожадных приспешников присматривать за логовом и защищать его. Кирил не позволяет давним членам стаи съедать всё, что они добывают, и угрожает изувечить или убить их, если они посмеют прикоснуться к чему-либо, кроме объедков, которые он оставляет после себя
 
 >[!read]
-> Разинутая пасть волчьей головы создаёт 50-футовый навес над входом в пещеру, поддерживаемый естественными каменными опорами. Потолок находится в 20 футах над полом внутри пещеры. Тусклый желтоватый люминесцентный грибок растёт по стенам пещеры. Откуда-то из глубины до вас доносится отзвук флейты. Некоторые ноты болезненно диссонируют
+> Разинутая пасть волчьей головы создаёт 15-футовый навес над входом в пещеру, поддерживаемый естественными каменными опорами. Потолок находится в 20 футах над полом внутри пещеры. Тусклый желтоватый люминесцентный грибок растёт по стенам пещеры. Откуда-то из глубины до вас доносится отзвук флейты. Некоторые ноты болезненно диссонируют
 >
 > Огромная туша зверя лежит криво у подножия утёса рядом с входом в пещеру — огромный лось, ростом легко с двух мужчин, стоящих друг на друге. Большая часть плоти содрана с его костей, а всё горло вырвано
 
@@ -294,20 +294,20 @@
 > [!info]+ **Внутреннее освещение**
 > Стены пещеры не освещены факелами. Вместо них вдоль стен растут небольшие скопления светящегося жёлтого грибка, каждое из которых даёт тусклый свет в радиусе 5 футов
 
-## L4a. Cave Mouth & Guard Post
-<span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
+## L4a. Вход в пещеру и Сторожевой пост
 
-This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 203)</span> and <span class="citation">Z2. Guard Post (p. 203)</span>. However, revise the description of this area to read as follows:
+Эта область соответствует Z1. Вход в Пещеру (стр. 200) и Z2. Сторожевой Пост (стр. 200)
 
-<div class="description">
-<p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
-<p>Up ahead, the cave splits to the left and right around it. You can hear the faint sound of trickling water echoing from the right-side passage. Standing crouched on a five-foot-high ledge between the divide are two feral-looking women wearing shredded clothing and clutching spears.<p>
-<p>
-</div>
+>[!read]
+> Раскрытые челюсти волчьей головы образуют 15-футовый навес из камня над входом в пещеру, поддерживаемый естественными каменными колоннами. Внутри пещеры потолок поднимается на высоту 20 футов. Небольшие скопления янтарного света усеивают стены, отбрасывая слабое сияние на пол пещеры
+>
+> Впереди пещера разделяется на левый и правый проходы. Вы слышите слабый звук журчащей воды, доносящийся из правого прохода. На 5-футовом уступе в развилке, пригнувшись, стоят 2 дикого вида женщины в изодранной одежде, сжимающие копья
 
-Azianka and Davanka are bored, inattentive, and irritated at not being allowed to accompany Kiril beyond the Mists, and are currently arguing over whether goats or elk taste better. (If the players listen in, Azianka and Davanka eventually agree that men taste better than either goats *or* elk.)
+Азианка и Давка скучают, невнимательны и раздражены тем, что им не позволили сопровождать Кирила за Туманы, и в данный момент спорят, кто вкуснее: козы или лоси. (Если игроки подслушивают, Азианка и Давка в конце концов соглашаются, что мужчины вкуснее и коз, *и* лосей)
 
-Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
+Азианка и Давка беспокойны, и их легко выманить из входа в пещеру иллюзией, надоедливым **вервороном** в облике ворона, призванным *Свистком Хранителя*, или любым другим неугрожающим отвлечением. (Если игроки используют *Свисток Хранителя*, чтобы призвать **верворона** на помощь, общительный и восторженный **верворон** по имени Стефан Заленски появляется двумя минутами позже, чтобы помочь им.) Если их не отвлечь, женщины возвращаются в пещеру через 10 минут
+
+Если игроки входят в устье пещеры, пока Азианка и Даванка присутствуют, женщины требуют, чтобы они назвались, а затем благодарят их за то, что принесли «свежее мясо» прямо к их порогу. (Из-за черт **острое обоняние и слух** оборотней невидимые существа не могут скрыться от оборотней, если только они также не защищены *незаметным передвижением* или подобной магией.) Затем две **оборотня** (как описано в Бестиарии) отбрасывают свои копья, принимают гибридные облики и нападают. На счёте инициативы 20 боя обе женщины также воют, поднимая тревогу, призывая двух **оборотней-драчунов** и шесть **волков** из L4d. Глубокие Пещеры, которые прибывают через 1 раунд
 
 If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
 
