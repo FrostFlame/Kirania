@@ -128,14 +128,14 @@
 > 
 > ***Вдохновения***. При отыгрыше Бьянки ориентируйтесь на Йеннифэр из Венгерберга («Ведьмак»), Роуг («Люди Икс») и принцессу Амидалу («Звёздные войны»)
 > 
-> ***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
+> **Информация о персонаже**
+> ***Персона***. Для мира Бьянка — восторженная, хотя и на удивление утончённая женщина. Для тех, кому она доверяет, Бьянка тревожна и отчаянно желает вернуть Кирила с края безумия. В глубине души Бьянка задаётся вопросом, не жалеет ли она о том, что стала оборотнем вместе с Кирилом
+>
+> ***Боевой дух***. В бою Бьянка попыталась бы вести переговоры или сбежать, но сражалась бы свирепо, будучи загнанной в угол
 > 
-> **Character Information**
-> ***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring Kiril back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
-> 
-> ***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
-> 
-> ***Relationships.*** Bianca is Kiril's mate and wife, and the disinherited daughter of a noble family outside of Barovia.
+> ***Отношения***. Бьянка — партнёрша и жена Кирила, а также лишённая наследства дочь знатной семьи за пределами Баровии
+
+
 
 If the players identify themselves or Ezmerelda as the owner of the wagon, Bianca apologizes profusely for stealing from it. "I didn't mean to be a thief," she says, looking abashed. "I was just curious."
 
