@@ -253,14 +253,16 @@
 
 ***Чёрный Ужас.*** Эсмеральда рассказывает историю следующим образом:
 
-***The Black Terror.*** Ezmerelda tells the story as follows:
+>[!read]
+> ***«Это случилось через год после того, как я рассталась с доктором Ван Рихтеном, и мне казалось, что ни один монстр не может бросить мне вызов. Тогда я услышала шёпоты о звере, известном как Чёрный Ужас, — оборотне, который был проклятием нескольких деревень, раскинувшихся у тёмных лесов Демасии. Я поклялась выследить его и положить конец его царству террора»***
+>
+> ***«Много ночей расследований и изысканий потребовалось, но наконец я заметила зверя на краю затенённого болота, его клыки были обагрены кровью его последней трапезы. Моё сердце бешено колотилось, когда я смотрела, как он скользит в туманы — не обычный туман, но завесу, что окутывает сами миры, — и я знала, что если не последую за ним, мне придётся начать охоту заново»***
+>
+> ***«В своём высокомерии я думала, что справлюсь со всем, что ждёт по ту сторону. Я была Вистани — прирождённой странницей Туманов — и ученицей самого Рудольфа ван Рихтена. Я бросилась вперёд без раздумий — и Чёрный Ужас напал на меня из засады, выскочив из мрака с когтями и зубами. Он оторвал мою ногу ниже колена, моя яркая кровь запятнала его угольную шкуру»***
+>
+> ***«В тот миг я знала, что умру, одинокая и беспомощная — пока Дмитрий и Анна не вышли из леса, холодное серебро сверкало в их руках. Оборотень бежал, и Крезковы принесли меня обратно в свой дом, где выходили меня до выздоровления. Когда я оправилась, они отвезли меня в Валлаки и заказали местному игрушечнику, блестящему мастеру по имени Блинский, изготовить мне новую ногу. По сей день эта нога напоминает мне о важности осторожности — и об опасностях необузданного рвения»***
 
-<div class="description">
-<p>"It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.</p>
-<p>"It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.</p>
-<p>"In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
-<p>"In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal."</p>
-</div>
+
 
 When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
 
