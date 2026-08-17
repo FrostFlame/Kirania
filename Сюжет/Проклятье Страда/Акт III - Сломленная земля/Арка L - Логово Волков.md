@@ -204,15 +204,16 @@
 
 # L3. Сваличский лес
 
+Когда приближаются сумерки, Эсмеральда может привести игроков в тёмную и тихую ложбину в Сваличском лесу к западу от озера Бараток. Прочитайте:
+
+>[!read]
+> Эсмеральда ведёт вас к краю небольшой ложбины — естественного углубления в лесной почве. Её края обрамлены высоченными деревьями, чьи чёрные стволы обрамляют проблески каменистого берега озера Бараток. Гора Бараток возвышается над пейзажем в отдалении, её утёсы и каменистые отроги — резкая серость на фоне потемневших верхушек деревьев
+>
+> Земля у основания ложбины покрыта тонкой пеленой тумана поверх одеяла из опавших листьев и мха. На её северной стороне замысловатая сеть крупных, узловатых древесных корней создаёт арочную, подобную пещере структуру
+>
+> Воздух здесь прохладный и влажный, несущий землистый запах мокрой почвы и гниющих листьев. В самой ложбине тихо, если не считать слабого шелеста листвы и далёкого плеска воды о берег
 
 
-As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
-
-<div class="description">
-<p>Ezmerelda leads you to the brink of a small hollow—a natural depression in the forest floor. Its edges are framed by towering trees, their black trunks framing glimpses of Lake Baratok's rocky shore. Mount Baratok looms above the landscape in the distance, its cliffs and rocky spurs a stark gray against the darkened treetops.</p>
-<p>The ground at the base of the hollow is covered by a thin shroud of mist over a blanket of fallen leaves and moss. On its northern side, an intricate network of large, gnarled tree roots creates an arched, cave-like structure. </p>
-<p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
-</div>
 
 Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
 
