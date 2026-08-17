@@ -222,7 +222,7 @@
 Эсмеральда советует игрокам, что они могут оставаться скрытыми в ложбине, используя её как наблюдательный пункт, с которого можно следить за логовом оборотней. Если спросить, она указывает на вход в логово, который расположен вдоль северо-западного берега озера
 
 >[!read]
-> Над верхушками деревьев, вырубленная в склоне горы на каменном уступе, располагается широкая освещённая факелами пещера, выглядящая как оскал огромного волка
+> Над верхушками деревьев, вырубленная в склоне горы на каменном уступе, располагается широкая освещённая тусклым желтоватым светом, выглядящая как оскал огромного волка
 
 Спустившись в ложбину, Эсмеральда просит игроков собрать дрова и растопку. Как только небольшой костёр разведён, она достаёт маленькое огниво из своей сумки — [[Скрытный трут]] — и использует его, чтобы зажечь маленький, но уютный костёр под сводом корней
 
@@ -262,38 +262,38 @@
 >
 > ***«В тот миг я знала, что умру, одинокая и беспомощная — пока Дмитрий и Анна не вышли из леса, холодное серебро сверкало в их руках. Оборотень бежал, и Крезковы принесли меня обратно в свой дом, где выходили меня до выздоровления. Когда я оправилась, они отвезли меня в Валлаки и заказали местному игрушечнику, блестящему мастеру по имени Блинский, изготовить мне новую ногу. По сей день эта нога напоминает мне о важности осторожности — и об опасностях необузданного рвения»***
 
+Когда её история заканчивается, Эсмеральда смотрит в пламя. ***«Я в долгу перед Крезковыми, который никогда не смогу вернуть***, — говорит она тихо. — ***Но найти Илью и вернуть его домой, целым и невредимым, — это было бы началом»***
 
+Эсмеральда не уверена, остался ли Чёрный Ужас в Баровии. ***«Я почти надеюсь, что да***, — говорит она с ироничной улыбкой. Её хватка сжимается вокруг посеребрённого короткого меча. — ***У меня есть подарок, который я хотела бы ему преподнести»***
 
-When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
+# L4. Логово оборотней
 
-Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I very nearly hope he does," she says, a wry smile on her lips. Her grip tightens around her silvered shortsword. “I have a gift I’d like to give him."
-# L4. Werewolf Den
-One hour after nightfall, the majority of the werewolf pack departs the den. Read:
+Через час после наступления темноты большая часть стаи оборотней покидает логово. Прочитайте:
 
-<div class="description">
-<p>The night stirs as several large, dark shapes emerge from beneath the mountain crags. One among them towers above the others, its bulky body easily twice the size of theirs.</p>
-<p>The pack turns south, then west, loping along the shoreline of Lake Baratok until its members vanish into the dark, clustered trees of the Svalich Wood.</p>
-</div>
+>[!read]
+> Ночь оживает, когда несколько крупных тёмных фигур появляются из-под горных утёсов. Одна из них возвышается над остальными, её громоздкое тело легко вдвое больше их
+>
+> Стая поворачивает на юг, затем на запад, бежит вдоль берега озера Бараток, пока её члены не исчезают в тёмных, плотных деревьях Сваличского леса
 
-> [!lore]+ **Members of the Pack**
-> At the time the players first arrive at the werewolf den, the pack contains the following werewolves:
+> [!lore]+ **Члены Стаи**
+> В то время, когда игроки впервые прибывают к логову оборотней, стая включает следующих оборотней:
 > 
-> * Kiril Stoyanovich, the pack leader, and his wife, Bianca Stoyanovich
-> * Six long-time members of the pack formerly loyal to Emil Toranescu, who now follow Kiril out of fear of him and Strahd
-> * Four werewolves infected by Kiril within the past ten weeks, who follow Kiril slavishly and who embraced the curse through cannibalizing innocent humans as he did.
+> - Кирил Стоянович, вожак стаи, и его жена, Бьянка Стоянович
+> - 6 давних членов стаи, ранее преданных Эмилю Торанеску, которые теперь следуют за Кирилом из страха перед ним и Страдом
+> - 4 оборотней, заражённых Кирилом за последние десять недель, которые следуют за Кирилом раболепно и которые приняли проклятие, пожирая невинных людей, как делал он
 > 
-> When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
+> Покидая Баровию, Кирил берёт с собой на охоту только давних членов стаи, оставляя своих 4 кровожадных приспешников присматривать за логовом и защищать его. Кирил не позволяет давним членам стаи съедать всё, что они добывают, и угрожает изувечить или убить их, если они посмеют прикоснуться к чему-либо, кроме объедков, которые он оставляет после себя
 
-As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
+>[!read]
+> Разинутая пасть волчьей головы создаёт 50-футовый навес над входом в пещеру, поддерживаемый естественными каменными опорами. Потолок находится в 20 футах над полом внутри пещеры. Тусклый желтоватый люминесцентный грибок растёт по стенам пещеры. Откуда-то из глубины до вас доносится отзвук флейты. Некоторые ноты болезненно диссонируют
+>
+> Огромная туша зверя лежит криво у подножия утёса рядом с входом в пещеру — огромный лось, ростом легко с двух мужчин, стоящих друг на друге. Большая часть плоти содрана с его костей, а всё горло вырвано
 
-<div class="description">
-<p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
-</div>
+Успешная **проверка Медицины Сл 12** показывает, что горло лося было вырвано одной массивной челюстью, достаточно крупной, чтобы целиком проглотить туловище гуманоида
 
-A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
+> [!info]+ **Внутреннее освещение**
+> Стены пещеры не освещены факелами. Вместо них вдоль стен растут небольшие скопления светящегося жёлтого грибка, каждое из которых даёт тусклый свет в радиусе 5 футов
 
-> [!info]+ **Interior Lighting**
-> No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
 ## L4a. Cave Mouth & Guard Post
 <span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
 
