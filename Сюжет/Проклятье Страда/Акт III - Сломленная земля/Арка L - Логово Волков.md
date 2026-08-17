@@ -1,3 +1,9 @@
+# Заготовки
+
+- 
+
+# Введение
+
 *Приключение для пяти персонажей 6-го уровня*
 
 В этой арке игроки должны отыскать логово баровийской стаи оборотней, где хранится *Святой Символ Рэйвенлофта*, как было предсказано мадам Евой. Если игроки ранее раскрыли местоположение сына барона Дмитрия Крезкова, Ильи, в [[Арка I - Стены Крезка|Арке I: Стены Крезка]], барон Крезков также просит их спасти его из лап оборотней, обещая убежище и помощь, если они это сделают
@@ -213,20 +219,17 @@
 >
 > Воздух здесь прохладный и влажный, несущий землистый запах мокрой почвы и гниющих листьев. В самой ложбине тихо, если не считать слабого шелеста листвы и далёкого плеска воды о берег
 
+Эсмеральда советует игрокам, что они могут оставаться скрытыми в ложбине, используя её как наблюдательный пункт, с которого можно следить за логовом оборотней. Если спросить, она указывает на вход в логово, который расположен вдоль северо-западного берега озера
 
+>[!read]
+> Над верхушками деревьев, вырубленная в склоне горы на каменном уступе, располагается широкая освещённая факелами пещера, выглядящая как оскал огромного волка
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
+Спустившись в ложбину, Эсмеральда просит игроков собрать дрова и растопку. Как только небольшой костёр разведён, она достаёт маленькое огниво из своей сумки — [[Скрытный трут]] — и использует его, чтобы зажечь маленький, но уютный костёр под сводом корней
 
-Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
+Костёр не производит дыма, и его свет не распространяется за края ложбины. Если спросить о причине его разведения, Эсмеральда напоминает игрокам, что оборотни видят в темноте. ***«Если нам не повезёт, и они нас найдут***, — замечает она с усмешкой, — ***мы захотим свести на нет любое их преимущество»***. (Хотя Эсмеральда может сотворить заклинание ***Тёмное зрение***, она предпочитает не тратить ячейки заклинаний без причины, особенно если они могут понадобиться для боя с оборотнями и особенно в сопровождении других)
 
-The campfire produces no smoke, and its light does not extend beyond the edges of the hollow. If asked her reason for making it, Ezmerelda reminds the players that werewolves can see in the dark. “Should we be unlucky enough for them to find us," she notes, grinning, “we’ll want to nullify every advantage they can get." (While Ezmerelda can cast the *darkvision* spell, she prefers to avoid spending spell slots without cause, especially if she might need them to fight werewolves and especially when accompanied by others.)
+Эсмеральда предлагает партии выставить одного человека у края ложбины, чтобы следить за уходом стаи. Если игроки не предлагают этого сами, Эсмеральда предлагает сменять дозорных каждый час, чтобы избежать усталости
 
-> [!item]+ **Furtive Firestarter**
-> *Wondrous item, uncommon*
->
-> This finely crafted set of flint and steel bears small runes etched along the sides of both pieces. When the set is used to ignite a combustible material, the resulting flame sheds bright light in a 10-foot radius, sheds no dim light, and produces no smoke. While within thirty feet of a flame created in this way, the user can speak a command word to instantly extinguish the flame.
-
-Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
 As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
