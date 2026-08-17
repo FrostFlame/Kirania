@@ -61,11 +61,12 @@
 <br>Ооо.</p>
 </div>
 
-The source of the music is Bianca, a **werewolf** in human form sitting on the rocky shore of the causeway. When the players first see her, read:
+Источник музыки — Бьянка, **оборотень** в человеческом облике, сидящая на каменистом берегу дамбы. Когда игроки впервые видят её, прочитайте:
 
-<div class="description">
-<p>A woman sits alone on the rocky shore, clad in finely sewn animal skins and cradling a lyre in her arms. Her hair, a pale, lustrous white, cascades over her shoulders, and her eyes rest closed as she plucks the lyre's strings. A haunting refrain parts her lips as her body gently sways, her song continuing without acknowledgment for your approach.</p>
-</div>
+>[!read]
+> Женщина сидит в одиночестве на каменистом берегу, одетая в искусно сшитые звериные шкуры и прижимая лиру к своей груди. Её волосы, бледные, блестящие и белые, ниспадают каскадом на плечи, а глаза остаются закрытыми, пока она перебирает струны лиры. Леденящий душу напев срывается с её губ, тело мягко покачивается, и её песня продолжается без какого-либо признания вашего приближения
+
+Если игроки приближаются, они могут увидеть 2 украденных свитка заклинаний и три флакона духов, стоящих на камне рядом с ней. Один из флаконов откупорен, но, кажется, не использован
 
 If the players approach, they can see the two stolen spell scrolls and the three vials of perfume sitting on a rock next to her. One of the vials has been uncorked, but seems otherwise unused.
 
