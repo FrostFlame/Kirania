@@ -157,21 +157,22 @@
 
 Позволят ли игроки ей оставить лиру или нет, Бьянка прощается с ними и уходит по северной тропе прочь от озера, вскоре исчезая среди деревьев
 
-> [!abstract]+ **Bianca's Secret**
-> If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 15 Charisma (Intimidation) check, provided the players provide sufficient assurances of her safety if she does. 
+> [!abstract]+ **Секрет Бьянки**
+> Если подозрительные игроки определяют, что Бьянка представляет угрозу, её можно убедить раскрыть свою истинную природу **оборотня** успешной **проверкой Запугивания Сл 15**, при условии, что игроки предоставят достаточные гарантии её безопасности, если она это сделает
+>
+> Если игроки нападают на Бьянку, она умоляет их о пощаде и честно уверяет их, что не желает им зла. Если ей отказывают, она пытается сбежать, сначала в своём гуманоидном облике, затем в облике **волка**, как только достигает кромки деревьев
 > 
-> If the players attack Bianca, she pleads for their mercy and honestly assures them that she means them no harm. If refused, she attempts to flee, first in her humanoid form, then in her **wolf** form as soon as she reaches the tree line.
+> Игроки, убедившие Бьянку раскрыть её истинную ликантропическую природу, могут убедить её поделиться следующей информацией о логове оборотней успешной **проверкой Запугивания Сл 20**:
 > 
-> Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 20 Charisma (Intimidation) check:
-> * The pack is led by Kiril, her husband and a powerful werewolf, who seized power when the old leader stepped down.
-> * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
-> * When the pack leaves to hunt, Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
-> * In addition, four werewolves also remain to guard the den, rotating their watch in pairs. (The four werewolves, Azianka, Davanka, Kobal, and Radovan are newly infected by Kiril and obey him slavishly.) 
-> * Whilst all other werewolves will be on the hunt, about half a dozen wolves still remain at the den.
-> 
-> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
+> - Стаю возглавляет Кирил, её муж и могучий оборотень, захвативший власть, когда прежний вожак ушёл в отставку
+> - Пленников держат в святилище Матери Ночи, которое расположено в дальней части пещеры
+> - Когда стая уходит на охоту, Бьянка и Скеннис, прежний вожак стаи, остаются позади. (Бьянка мало желает видеть Кирила в облике зверя после его сделок с «болотной ведьмой» из Береза)
+> - Кроме того, четверо оборотней также остаются охранять логово, сменяя друг друга на посту парами. (Четверо оборотней — Азианка, Давка, Кобал и Радован — недавно заражены Кирилом и подчиняются ему раболепно)
+> - Пока все остальные оборотни будут на охоте, около полудюжины волков всё ещё остаются в логове
+>
+> Игроки, проявившие сочувствие и сострадание к супружеским бедам Бьянки, поделившиеся собственным опытом в схожей ситуации и преуспевшие в ***проверке Убеждения Сл 20***, могут убедить её поделиться информацией из **Падения Бьянки** ниже. (Бьянка не знает информацию, касающуюся Эсмеральды, Людмиллы или того, что Кирил сделал в Березе.) Игроки, которые затем преуспеют в дополнительной **проверке Убеждения Сл 15**, могут также убедить Бьянку провести их к святилищу Матери Ночи, когда они войдут в логово
 
-> [!lore]+ **Bianca’s Fall**
+> [!lore]+ **Падение Бьянки**
 > Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
 >
 > Eleven years ago, Kiril was bitten by a rogue **werewolf**—a defector from the Barovian werewolf pack—and infected with the curse of lycanthropy. Bianca, desperate to pierce Kiril’s shroud of guilt and self-loathing, tracked him down on the night of his transformation and allowed him to bite her, spreading the curse to her as well.
