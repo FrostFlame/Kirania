@@ -230,19 +230,24 @@
 
 Эсмеральда предлагает партии выставить одного человека у края ложбины, чтобы следить за уходом стаи. Если игроки не предлагают этого сами, Эсмеральда предлагает сменять дозорных каждый час, чтобы избежать усталости
 
-### L3a. Campfire Tales
-As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
+### L3a. Истории у костра
 
-At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
+С наступлением ночи Эсмеральда предлагает игрокам и Ирине поделиться историями о себе и в ответ предлагает рассказать свою собственную. ***«В конце концов***, — говорит она, — ***если нам предстоит сражаться вместе, я хотела бы знать, с кем я бьюсь плечом к плечу»***
 
-***Rudolph van Richten.*** Ezmerelda tells the story as follows:
+По выбору игроков Эсмеральда может поделиться одной или обеими из следующих историй, когда настанет её черёд: рассказом о том, как она познакомилась с доктором Рудольфом ван Рихтеном, или рассказом о том, как она потеряла ногу
 
-<div class="description">
-<p>"It was nearly two decades ago that I first saw him. My family was travelling with the Radanavich clan—a Vistani caravan—when a Radanavich child fell deathly ill. The child’s parents took him to a local doctor—a man by the name of Rudolph van Richten.</p>
-<p>"Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance.  My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.</p>
-<p>"Van Richten himself, desperate to rescue him, tracked our caravan down and bound my parents to a tree. After extracting his son's location, however, he departed without shedding a drop of their blood—an act of mercy I have never forgotten.</p>
-<p>"Ten years later, I ran from home, seeking to follow in Van Richten's footsteps. I found him a man changed—scarred and haunted by the years that had passed. His kindness, however, had never faded, and he agreed to take me on as his student. I spent two years with him, learning all I could about monsters and how to fight them, before we ultimately parted ways."</p>
-</div>
+***Рудольф ван Рихтен.*** Эсмеральда рассказывает историю следующим образом:
+
+>[!read]
+> ***«Это было почти два десятилетия назад, когда я впервые увидела его. Моя семья путешествовала с кланом Раданавичей — караваном Вистани — когда ребёнок Раданавичей смертельно заболел. Родители ребёнка отнесли его к местному доктору — человеку по имени Рудольф ван Рихтен»***
+>
+> ***«Ван Рихтен сделал всё возможное, чтобы сохранить мальчику жизнь. Три дня спустя, однако, тот скончался — и его отец, предводитель среди Раданавичей, обвинил Ван Рихтена в смерти своего ребёнка. Той ночью, с помощью пяти других, он пробрался в дом семьи Ван Рихтена и похитил его собственного сына в отместку. Мои родители разбудили меня в полночь, и мы немедленно уехали. Лишь позже я узнала, какой груз мы везли — и что мои собственные родители помогли его добыть»***
+>
+> ***«Сам Ван Рихтен, отчаянно желавший спасти сына, выследил наш караван и привязал моих родителей к дереву. Узнав местоположение своего сына, однако, он ушёл, не пролив и капли их крови — акт милосердия, которого я никогда не забывала»***
+>
+> ***«10 лет спустя я сбежала из дома, стремясь пойти по стопам Ван Рихтена. Я нашла его изменившимся — израненным и преследуемым прошедшими годами. Его доброта, однако, никогда не угасала, и он согласился взять меня в ученицы. Я провела с ним два года, изучая всё, что могла, о монстрах и о том, как с ними сражаться, прежде чем наши пути в конце концов разошлись»***
+
+Завершив свою историю, выражение лица Эсмеральды мрачнеет. ***«В ночь, когда я покинула его общество, мы обменялись резкими словами — словами, которые я предпочла бы забыть»***. Она вздыхает. ***«Даже так, когда я получила его последнее письмо, я тотчас отправилась в Баровию, молясь, чтобы он не встретился с Заровичем в одиночку»***
 
 After finishing her story, Ezmerelda's expression darkens. "The night I departed his company, we exchanged harsh words—words I'd prefer to forget." She sighs. "Even so, when I received his final letter, I came at once to Barovia, praying that he would not face Zarovich alone."
 
