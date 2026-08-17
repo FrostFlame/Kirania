@@ -151,13 +151,11 @@
 - Бьянка в ужасе, если кто-либо из игроков намекает — даже неявно — что Кирил мог причинить ей вред, клянясь, что он **«*никогда* не тронул бы и волоска на её голове»**. Однако она признаётся, что он, кажется, ***«пойман в вихре саморазрушения, бросаясь на себя и других»***
 - ***«Каждую неделю эта... ярость, кажется, пожирает всё больше его***, — тихо добавляет она. — ***Я не знаю, сколько от мужчины, за которого я вышла, ещё осталось внутри»***
 
+Если игроки выражают желание, Бьянка просит их совета, спрашивая, что бы они сделали на её месте. Хотя она не готова оставить Кирила позади, она ценит любой совет, который они могут дать, и искренне благодарит их за это. (Бьянка не готова отвести игроков на встречу с Кирилом, но уверяет их, что разыщет их, если не сможет унять его гнев самостоятельно)
 
+Бьянка с радостью отдаёт духи и свитки, но просит с душевной и печальной мольбой, чтобы ей позволили оставить лиру. ***«Прошло так много времени с тех пор, как я могла играть настоящую музыку»***, — умоляет она. Если игроки позволяют ей это, она глубоко благодарна. (Если Эсмеральда с партией, она ждёт ответа игроков. Если игроки просят её решить, она не против отдать лиру, если только партия не проявила нежелания доверять Бьянке)
 
-If the players express an interest in doing so, Bianca requests their counsel, asking what they would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice they might lend, and thanks them sincerely for doing so. (Bianca isn't willing to lead the players to meet Kiril, but assures them that she'll seek them out if she's unable to quell his anger on her own.)
-
-Bianca is happy to relinquish the perfume and scrolls, but asks, in a heartfelt and mournful request, that she be allowed to keep the lyre. “It’s been so long since I’ve been able to play real music," she pleads. If the players allow her to do so, she is deeply grateful. (If Ezmerelda is with the party, she waits for the players to respond. If the players ask her to decide, she doesn't mind relinquishing the lyre unless the party has shown a reluctance to trust Bianca.)
-
-Whether the players allow her to keep the lyre or not, Bianca bids them farewell and departs for the northern path away from the lake, vanishing into the trees shortly thereafter.
+Позволят ли игроки ей оставить лиру или нет, Бьянка прощается с ними и уходит по северной тропе прочь от озера, вскоре исчезая среди деревьев
 
 > [!abstract]+ **Bianca's Secret**
 > If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 15 Charisma (Intimidation) check, provided the players provide sufficient assurances of her safety if she does. 
