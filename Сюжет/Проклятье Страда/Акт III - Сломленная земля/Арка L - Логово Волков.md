@@ -68,9 +68,7 @@
 
 Если игроки приближаются, они могут увидеть 2 украденных свитка заклинаний и три флакона духов, стоящих на камне рядом с ней. Один из флаконов откупорен, но, кажется, не использован
 
-If the players approach, they can see the two stolen spell scrolls and the three vials of perfume sitting on a rock next to her. One of the vials has been uncorked, but seems otherwise unused.
-
-If the players allow Bianca to finish, her song concludes:
+Если игроки позволяют Бьянке допеть, её песня завершается:
 
 <div class="description" style="text-align: center;">
 <p>Near enough, his amber eye gleams
@@ -94,18 +92,41 @@ If the players allow Bianca to finish, her song concludes:
 <br>Don't look down</p>
 </div>
 
-Whether the players interrupt her or allow her to finish, Bianca greets them with some surprise and warmth and asks whether they’re the owners of the wagon beside the tower.
+<div class="description" style="text-align: center;">
+<p>Так близко, что его янтарный взор сияет,
+<br>Мои ноги предают, и душа моя страдает.
+<br>Серебрится путь, что в моих мечтах блуждает,
+<br>Его тёмный взгляд меня направляет
+<br>
+<br>Всё дальше
+<br>
+<br>Беги,
+<br>Прыгай,
+<br>Он всё убегает,
+<br>Но теперь мы в небе
+<br>Мы парим,
+<br>Падаем
+<br>
+<br>Не смотри вниз
+<br>Не смотри вниз
+<br>Не смотри вниз
+<br>Не смотри вниз
+<br>Не смотри вниз</p>
+</div>
+
+Прервут ли игроки её или позволят допеть, Бьянка приветствует их с некоторым удивлением и теплотой и спрашивает, не они ли владельцы фургона рядом с башней
 
 ![[Bianca Stoyanovich.png]]
-<span class="credit">"Bianca Stoyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Bianca Stoyanovich**
-> **Roleplaying Information**
-> ***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
+> [!profile]+ **Профиль: Бьянка Стоянович**
+> **Информация для отыгрыша**
+> ***Резонанс***. Когда игроки впервые встречают её, Бьянка должна вызывать сочувствие своей тревогой и неуверенностью и нежность своим хорошим настроением перед лицом стрессовой дилеммы
+>
+> ***Эмоции***. Бьянка чаще всего чувствует меланхолию, бодрость, веселье, задумчивость, любопытство, отчаяние или тревогу
 > 
-> ***Emotions.*** Bianca most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
+> ***Мотивации***. Бьянка хочет сохранить Кирила в безопасности, счастливым и в здравом уме, одновременно защищая стаю и невинных баровийцев от его гнева, голода и амбиций
 > 
-> ***Motivations.*** Bianca wants to keep Kiril safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
+> ***Вдохновения***. При отыгрыше Бьянки ориентируйтесь на Йеннифэр из Венгерберга («Ведьмак»), Роуг («Люди Икс») и принцессу Амидалу («Звёздные войны»)
 > 
 > ***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
 > 
