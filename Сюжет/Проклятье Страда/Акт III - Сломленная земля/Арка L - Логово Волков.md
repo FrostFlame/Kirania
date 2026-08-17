@@ -249,9 +249,9 @@
 
 Завершив свою историю, выражение лица Эсмеральды мрачнеет. ***«В ночь, когда я покинула его общество, мы обменялись резкими словами — словами, которые я предпочла бы забыть»***. Она вздыхает. ***«Даже так, когда я получила его последнее письмо, я тотчас отправилась в Баровию, молясь, чтобы он не встретился с Заровичем в одиночку»***
 
-After finishing her story, Ezmerelda's expression darkens. "The night I departed his company, we exchanged harsh words—words I'd prefer to forget." She sighs. "Even so, when I received his final letter, I came at once to Barovia, praying that he would not face Zarovich alone."
+Если спросить, Эсмеральда может поделиться тем, что Раданавичи продали сына Ван Рихтена — мальчика по имени Эрасмус, с которым Эсмеральда в детстве недолго играла в обручи — жестокому и ненавистному вампиру по имени барон Метус. ***«Я так и не узнала, что с ним стало после этого***, — говорит она печально. — ***Доктор Ван Рихтен никогда не желал об этом говорить»***
 
-If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a boy named Erasmus, with whom Ezmerelda had briefly played hoops as a child—to a cruel and hateful vampire called Baron Metus. “I never learned what became of him after that," she says, mournfully. “Dr. Van Richten never wished to speak of it."
+***Чёрный Ужас.*** Эсмеральда рассказывает историю следующим образом:
 
 ***The Black Terror.*** Ezmerelda tells the story as follows:
 
