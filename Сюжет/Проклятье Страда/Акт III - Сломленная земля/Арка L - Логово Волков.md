@@ -135,23 +135,23 @@
 > 
 > ***Отношения***. Бьянка — партнёрша и жена Кирила, а также лишённая наследства дочь знатной семьи за пределами Баровии
 
+Если игроки называют себя или Эсмеральду владельцем фургона, Бьянка обильно извиняется за кражу из него. ***«Я не хотела быть воровкой***, — говорит она, выглядя смущённой. — ***Мне просто было любопытно»***
+
+Бьянка может поделиться следующей информацией, если её спросят:
+
+- Её зовут Бьянка. Она травница, живущая в лесу неподалёку со своим мужем, Кирилом. (Это полуправда. Хотя Бьянка знающая и умелая в применении трав, успешная проверка **Проницательности Сл 14** указывает, что Бьянка слегка запинается, называя себя «травницей».) Если игроки спрашивают, как она защищается, Бьянка осторожно достаёт посеребрённый кинжал в ножнах из своего мехового сапога и уверяет их, что знает, как им пользоваться
+- Она увидела фургон Эсмеральды и заинтересовалась его содержимым. Вместо того чтобы открыть дверь, она осмотрелась и нашла люк в днище, через который вошла внутрь и исследовала его
+- Она взяла лиру и духи, потому что они напомнили ей воспоминания из далёкого прошлого — ***«из времени до встречи с моим мужем»***. Свитки она взяла, потому что всегда была очарована книгами, но была разочарована, когда не смогла их расшифровать. (Это ложь. Успешная **проверка Проницательности Сл 14** показывает, что глаза Бьянки мельком смотрят на свитки, когда она упоминает свою неспособность их расшифровать)
+- Песня, которую она пела, называется «Плач Безумца», и она о женщине, которая влюбляется в луну и преследует её с обрыва, в итоге падая на смерть. Помедлив мгновение, она добавляет мягко: ***«Вы когда-нибудь влюблялись в кого-то и задавались вопросом, не совершили ли ошибку?»***
+
+Если игроки спрашивают о муже Бьянки, она готова поделиться следующей информацией:
+
+- 13 лет назад Бьянка была дочерью богатой семьи. Однако она отказалась от своего наследства, когда влюбилась в мускулистого и крепкого молодого лесоруба по имени Кирил Стоянович. Вопреки воле родителей она сбежала от своей комфортной жизни, чтобы жить с ним в коттедже в близлежащих лесах
+- Пока «вампир» спал, дикие земли были более мирными — но с тех пор, как Страд пробудился, Кирила ***«преследует — не призрак, а его собственная ярость»***. (Если игроки спрашивают, на что злится Кирил, Бьянка заявляет просто и трезво: ***«Недостаток власти. Отсутствие контроля»***)
+- Бьянка в ужасе, если кто-либо из игроков намекает — даже неявно — что Кирил мог причинить ей вред, клянясь, что он **«*никогда* не тронул бы и волоска на её голове»**. Однако она признаётся, что он, кажется, ***«пойман в вихре саморазрушения, бросаясь на себя и других»***
+- ***«Каждую неделю эта... ярость, кажется, пожирает всё больше его***, — тихо добавляет она. — ***Я не знаю, сколько от мужчины, за которого я вышла, ещё осталось внутри»***
 
 
-If the players identify themselves or Ezmerelda as the owner of the wagon, Bianca apologizes profusely for stealing from it. "I didn't mean to be a thief," she says, looking abashed. "I was just curious."
-
-Bianca can share the following information if asked:
-
-* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 14 Wisdom (Insight) check indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it. 
-* She saw Ezmerelda’s wagon and was curious about its contents. Rather than open the door, she investigated further and found the trapdoor on its bottom, which she used to enter and explore its interior.
-* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 14 Wisdom (Insight) check reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
-* The song she was singing is titled “The Lunatic’s Lament," and is about a woman who falls in love with the moon and chases it off a cliff, ultimately falling to her death. After pausing for a moment, she adds, softly: "Have you ever fallen in love with someone, and wondered if you made a mistake?"
-
-If the players ask about Bianca's husband, she is willing to share the following information:
-
-* Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents' wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
-* While "the vampire" slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been "haunted—not by any ghost, but by his own rage." (If the players ask what Kiril is enraged by, Bianca states simply and soberly: "A lack of power. An absence of control.")
-* Bianca is horrified if any of the players suggest—even implicitly—that Kiril might have harmed her, vowing that he "would *never* harm a hair on her head." She confesses, however, that he seems to be "trapped in a whirlwind of self-destruction, lashing out at himself and others." 
-* "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
 
 If the players express an interest in doing so, Bianca requests their counsel, asking what they would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice they might lend, and thanks them sincerely for doing so. (Bianca isn't willing to lead the players to meet Kiril, but assures them that she'll seek them out if she's unable to quell his anger on her own.)
 
