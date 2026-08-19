@@ -334,18 +334,14 @@
 - Эридан - в клетке?
 - Винтерра - ?
 
-## L4c. Wolf Den
-<span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
+## L4c. Волчье логово
 
-This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203)</span>. However, add the following text to the end of the area’s description:
+>[!read]
+> 5-футовый каменный уступ нависает над большой пещерой, у западного края которой находится тлеющий костёр. Пол усеян обглоданными костями. Старый, тощий волк лежит, свернувшись у огня, его голова повёрнута от вас
 
-<div class="description">
-<p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
-</div>
+Волк — это Скеннис, старый, слепой **оборотень** с 36 хитами в облике волка. Других **волков** в этой пещере нет
 
-The wolf is Skennis, an old, blind **werewolf** with 36 hit points in wolf form. No other **wolves** are in this cave.
-
-> [!lore]+ **Skennis**
+> [!lore]+ **Скеннис**
 > Skennis was the leader of the werewolf pack until Emil succeeded him five years ago. Skennis’s health has deteriorated in his old age, however, claiming his sight and much of his mobility. Unable to hunt, Skennis relied on the rest of the pack for food—until Kiril claimed power three months ago.
 >
 >  Since then, Kiril has kept Skennis confined to the den, and forbidden the other werewolves from feeding him (and any other “weak" wolves), still jealous and resentful of Skennis’s selection of Emil to succeed him instead of Kiril. A few sympathetic pack members continue to slip Skennis enough scraps to keep him alive, but it’s unclear whether Skennis’s bitterness, spite, and small shreds of hope will allow him to cling to life much longer.
