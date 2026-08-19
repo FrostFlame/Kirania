@@ -351,15 +351,14 @@
 >[!read]
 > Дыхание волка поверхностное и медленное, выпускающее маленькие клубы пара в холодный воздух. Его тусклая серая шерсть свалялась и испачкалась, а рёбра видны под тонкой шкурой
 
-Скеннис не спит, а лишь дремлет. Игроки должны преуспеть в групповой проверке Скрытности Сл 14, чтобы пройти, не потревожив его. Если групповая проверка провалена, прочитайте:
+Скеннис не спит, а лишь дремлет. Игроки должны преуспеть в групповой **проверке Скрытности Сл 14**, чтобы пройти, не потревожив его. Если групповая проверка провалена, прочитайте:
 
-Skennis is not asleep, only dozing. The players must succeed on a group DC 14 Dexterity (Stealth) check to pass without alerting him. If the group check fails, read:
+>[!read]
+> Голова старого волка резко поднимается вверх, открывая три распухших пореза, рассекающих его щёку, их края покрыты засохшей кровью. Его глаза, молочно-белые и незрячие, безучастно смотрят вперёд, пока его ноздри раздуваются, а израненные уши быстро подёргиваются, внюхиваясь в холодный воздух. Его уши прижимаются к черепу, и он издаёт низкое, осторожное рычание
 
-<div class="description">
-<p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
-</div>
+Звук оповещает Скенниса о присутствии чужаков, но не об их личностях или местоположении. Игроки должны преуспеть в дополнительной групповой **проверке Скрытности Сл 15**, чтобы покинуть комнату, не привлекая внимания или гнева Скенниса. В противном случае игроки могут успокоить Скенниса, исцелив его порезы или предложив еду, которую он принимает с мягким, благодарным поскуливанием. (Порезы оставил Кирил, который «наказал» Скенниса за попытку украсть кусок козьего мяса прошлой ночью)
 
-The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
+Если игроки обращаются с ним по-доброму — а не просто пытаются успокоить его — Скеннис (оставаясь в облике волка) жестом просит их подождать, затем проходит через L4d. Глубокие Пещеры, поднимается по туннелю за Z6. Пещера Кирила (стр. 204) и выходит в Z8. Кольцо Камней (стр. 205). Добравшись туда, он ненадолго замирает, затем несколько раз лает, поднимая ложную тревогу, призывая **6 волков** из L4d. Глубокие Пещеры. (**2 оборотней-бойцов** там пробуждаются от шума, но продолжают дремать в своей пещере, снижая Сл любой проверки Скрытности, совершаемой, чтобы избежать их внимания, до 11)
 
 If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
