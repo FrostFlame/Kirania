@@ -324,12 +324,16 @@
 >[!read]
 > Мягкая рябь пробегает по поверхности тёмного пруда
 
+Существо, приближающееся к пруду, видит своё отражение искажённым. Вместо собственного отражения существо видит чудовищный образ, отражающий его худшие порывы, побуждения и желания. Например:
 
+- Эсмеральда видит собственное отражение, но с чёрными склерами и золотыми радужками, хищными клыками и маслянисто-чёрной шерстью, покрывающей её кожу, с ужасным оскалом, раскалывающим её лицо (буквально) от уха до уха. (Этот образ отражает ненависть Эсмеральды к монстрам и её подсознательный страх, что её защитная натура обратится в жестокость и фанатизм)
+- Ирина видит собственное отражение, но с кровавыми пустыми глазницами; бледной, пепельной плотью; её губы сшиты вместе; туманные цепи сковывают её запястья, а её собственная рапира пронзает ей живот. (Этот образ отражает пассивность Ирины и её подсознательный страх, что самопожертвование — её единственное спасение от ужасной судьбы)
 
-A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
+- Левик - каменный
+- Каири - в молодости как вор
+- Эридан - в клетке?
+- Винтерра - ?
 
-* Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
-* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
