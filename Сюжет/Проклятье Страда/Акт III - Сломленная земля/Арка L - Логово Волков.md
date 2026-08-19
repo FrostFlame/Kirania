@@ -314,16 +314,17 @@
 - _**Укус.**_ _Рукопашная Атака Оружием:_ **+4 к попаданию**, досягаемость **5 футов**. _Попадание:_ **7 (2к4 + 2) колющего урона**. Вместо нанесения урона волк может **схватить** цель (**Сл побега 11**)
 - _**Когти.**_ _Рукопашная Атака Оружием:_ **+4 к попаданию**, досягаемость **5 футов**. _Попадание:_ **6 (1к8 + 2) рубящего урона**. Если цель — существо, оно совершает **спасбросок Силы Сл 11**. При **провале** оно **сбивается с ног** или **отталкивается** на **5 футов** (на выбор волка)
 
-## L4b. Underground Spring
-<span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
+## L4b. Подземный ручей
 
-This area is largely as described in <span class="citation">Z4. Underground Spring (p. 203)</span>. However, the area is lit by yellow clumps of fungus, not torches.
+>[!read]
+> Разрыв в каменном потолке позволяет серому свету и мелкому дождику снаружи пробиваться в эту тёмную, освещаемую лишь скоплениями грибов пещеру, где подземный ручей создаёт водяной пруд около 40 футов в поперечнике и 10 футов глубиной. 5-футовой ширины уступ на севере нависает над прудом. Схожий уступ протянулся вдоль восточной стены, к которому ведут грубо вырубленные ступени. Несколько ящиков располагаются на восточном уступе
 
-Additionally, if the players linger or delve deeper into this chamber, read:
+Кроме того, если игроки задерживаются или углубляются в этот зал, прочитайте:
 
-<div class="description">
-<p>A soft ripple runs across the surface of the dark pool.</p>
-</div>
+>[!read]
+> Мягкая рябь пробегает по поверхности тёмного пруда
+
+
 
 A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
 
