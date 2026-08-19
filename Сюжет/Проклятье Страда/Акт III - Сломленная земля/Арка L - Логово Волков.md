@@ -307,16 +307,12 @@
 
 Азианка и Давка беспокойны, и их легко выманить из входа в пещеру иллюзией, надоедливым **вервороном** в облике ворона, призванным *Свистком Хранителя*, или любым другим неугрожающим отвлечением. (Если игроки используют *Свисток Хранителя*, чтобы призвать **верворона** на помощь, общительный и восторженный **верворон** по имени Стефан Заленски появляется двумя минутами позже, чтобы помочь им.) Если их не отвлечь, женщины возвращаются в пещеру через 10 минут
 
-Если игроки входят в устье пещеры, пока Азианка и Даванка присутствуют, женщины требуют, чтобы они назвались, а затем благодарят их за то, что принесли «свежее мясо» прямо к их порогу. (Из-за черт **острое обоняние и слух** оборотней невидимые существа не могут скрыться от оборотней, если только они также не защищены *незаметным передвижением* или подобной магией.) Затем две **оборотня** (как описано в Бестиарии) отбрасывают свои копья, принимают гибридные облики и нападают. На счёте инициативы 20 боя обе женщины также воют, поднимая тревогу, призывая двух **оборотней-драчунов** и шесть **волков** из L4d. Глубокие Пещеры, которые прибывают через 1 раунд
+Если игроки входят в устье пещеры, пока Азианка и Давка присутствуют, женщины требуют, чтобы они назвались, а затем благодарят их за то, что принесли «свежее мясо» прямо к их порогу. (Из-за черт **острое обоняние и слух** оборотней невидимые существа не могут скрыться от оборотней, если только они также не защищены *незаметным передвижением* или подобной магией.) Затем две **оборотня** (как описано в Бестиарии) отбрасывают свои копья, принимают гибридные облики и нападают. На счёте инициативы 20 боя обе женщины также воют, поднимая тревогу, призывая **2 оборотней-бойцов** и **6 волков** из L4d. Глубокие Пещеры, которые прибывают через 1 раунд
 
-If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
+Замените атаку ***укус*** волков следующими вариантами действий:
 
-The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
-
-Replace the wolves' ***bite*** attack with the following action options:
-
-* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
-* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
+- _**Укус.**_ _Рукопашная Атака Оружием:_ **+4 к попаданию**, досягаемость **5 футов**. _Попадание:_ **7 (2к4 + 2) колющего урона**. Вместо нанесения урона волк может **схватить** цель (**Сл побега 11**)
+- _**Когти.**_ _Рукопашная Атака Оружием:_ **+4 к попаданию**, досягаемость **5 футов**. _Попадание:_ **6 (1к8 + 2) рубящего урона**. Если цель — существо, оно совершает **спасбросок Силы Сл 11**. При **провале** оно **сбивается с ног** или **отталкивается** на **5 футов** (на выбор волка)
 
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
