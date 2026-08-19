@@ -342,15 +342,16 @@
 Волк — это Скеннис, старый, слепой **оборотень** с 36 хитами в облике волка. Других **волков** в этой пещере нет
 
 > [!lore]+ **Скеннис**
-> Skennis was the leader of the werewolf pack until Emil succeeded him five years ago. Skennis’s health has deteriorated in his old age, however, claiming his sight and much of his mobility. Unable to hunt, Skennis relied on the rest of the pack for food—until Kiril claimed power three months ago.
+> Скеннис был вожаком стаи оборотней, пока Эмиль не сменил его 5 лет назад. Однако здоровье Скенниса ухудшилось в его старости, забрав его зрение и большую часть подвижности. Неспособный охотиться, Скеннис полагался на остальную стаю в еде — пока Кирил не захватил власть 3 месяца назад
 >
->  Since then, Kiril has kept Skennis confined to the den, and forbidden the other werewolves from feeding him (and any other “weak" wolves), still jealous and resentful of Skennis’s selection of Emil to succeed him instead of Kiril. A few sympathetic pack members continue to slip Skennis enough scraps to keep him alive, but it’s unclear whether Skennis’s bitterness, spite, and small shreds of hope will allow him to cling to life much longer.
+> С тех пор Кирил держит Скенниса в логове и запрещает другим оборотням кормить его (и любых других «слабых» волков), всё ещё завидуя и негодуя из-за того, что Скеннис избрал Эмиля своим преемником вместо него. Несколько сочувствующих членов стаи продолжают тайком подбрасывать Скеннису достаточно объедков, чтобы поддерживать в нём жизнь, но неясно, позволят ли горечь, злоба и малые крупицы надежды Скенниса цепляться за жизнь намного дольше
 
-If a player approaches or inspects the wolf, read:
+Если игрок приближается к волку или осматривает его, прочитайте:
 
-<div class="description">
-<p>The wolf's breaths are shallow and slow, sending small puffs of steam into the chilly air. Its dull, grey fur is matted and dirty, and its ribs are visible beneath its thin hide.<p>
-</div>
+>[!read]
+> Дыхание волка поверхностное и медленное, выпускающее маленькие клубы пара в холодный воздух. Его тусклая серая шерсть свалялась и испачкалась, а рёбра видны под тонкой шкурой
+
+Скеннис не спит, а лишь дремлет. Игроки должны преуспеть в групповой проверке Скрытности Сл 14, чтобы пройти, не потревожив его. Если групповая проверка провалена, прочитайте:
 
 Skennis is not asleep, only dozing. The players must succeed on a group DC 14 Dexterity (Stealth) check to pass without alerting him. If the group check fails, read:
 
