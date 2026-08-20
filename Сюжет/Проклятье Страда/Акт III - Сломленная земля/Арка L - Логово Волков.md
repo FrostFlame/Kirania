@@ -1,6 +1,7 @@
 # Заготовки
 
-- 
+- [ ] 4 гибридных оборотня
+- [ ] 6 волков
 
 # Введение
 
@@ -358,21 +359,23 @@
 
 Звук оповещает Скенниса о присутствии чужаков, но не об их личностях или местоположении. Игроки должны преуспеть в дополнительной групповой **проверке Скрытности Сл 15**, чтобы покинуть комнату, не привлекая внимания или гнева Скенниса. В противном случае игроки могут успокоить Скенниса, исцелив его порезы или предложив еду, которую он принимает с мягким, благодарным поскуливанием. (Порезы оставил Кирил, который «наказал» Скенниса за попытку украсть кусок козьего мяса прошлой ночью)
 
-Если игроки обращаются с ним по-доброму — а не просто пытаются успокоить его — Скеннис (оставаясь в облике волка) жестом просит их подождать, затем проходит через L4d. Глубокие Пещеры, поднимается по туннелю за Z6. Пещера Кирила (стр. 204) и выходит в Z8. Кольцо Камней (стр. 205). Добравшись туда, он ненадолго замирает, затем несколько раз лает, поднимая ложную тревогу, призывая **6 волков** из L4d. Глубокие Пещеры. (**2 оборотней-бойцов** там пробуждаются от шума, но продолжают дремать в своей пещере, снижая Сл любой проверки Скрытности, совершаемой, чтобы избежать их внимания, до 11)
+Если игроки обращаются с ним по-доброму — а не просто пытаются успокоить его — Скеннис (оставаясь в облике волка) жестом просит их подождать, затем проходит через [[#L4d. Глубокие пещеры|L4d. Глубокие Пещеры]], поднимается по туннелю за Z6. Пещера Кирила (стр. 204) и выходит в Z8. Кольцо Камней (стр. 205). Добравшись туда, он ненадолго замирает, затем несколько раз лает, поднимая ложную тревогу, призывая **6 волков** из [[#L4d. Глубокие пещеры|L4d. Глубокие Пещеры]]. (**2 оборотней-бойца** там пробуждаются от шума, но продолжают дремать в своей пещере, снижая Сл любой проверки Скрытности, совершаемой, чтобы избежать их внимания, до 11)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+Если игроки остаются в пещере Скенниса, не накормив, не исцелив, не успокоив, не обезвредив его и не спрятавшись от него, его рычание перерастает в рокочущий оскал. Раундом позже он издаёт резкий, пронзительный вой, который эхом разносится по стенам пещеры и дальше в долину
 
-If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
+Вой Скенниса оповещает Илью и Зулейку в [[#L4e. Святилище Матери Ночи]], **2 оборотней-бойцов** и **6 волков** в [[#L4d. Глубокие Пещеры|L4d Глубоких Пещерах]], Бьянку в **Z8. Кольце Камней**, а также Азианку и Давку (если они ещё живы и находятся в пределах слышимости логова). Оборотни-бойцы и волки прибывают через 1 раунд, Азианка и Давка — не менее чем через 2 раунда
 
-Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], the two **werewolf brawlers** and six **wolves** in [[#L4d. Deep Caves]], Bianca in **Z8. Ring of Stone**, and Azianka and Davanka (if still alive and within earshot of the den). The werewolf brawlers and wolves arrive after one round, Azianka and Davanka arriving at least two rounds later.
-## L4d. Deep Caves
-<span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
+## L4d. Глубокие пещеры
 
-This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
+>[!read]
+> Лабиринт освещённых бледными жёлтыми грибами тоннелей и пещер простирается перед вами. Кости всюду разбросаны по полу
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
+>[!read]
+> Вы видите мерцающий свет из одной из пещер
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
+Бьянка, Венсенция и Келлен отсутствуют, когда прибывают игроки. Вместо этого Z5a. Южная Пещера (стр. 203) занята двумя дремлющими **оборотнями-бойцами** в облике волков по имени Кобал Миронович и Радован Липсиг, в то время как Z5b. Северная Пещера (стр. 203) занята 6 настороженными **волками**, преданными Страду и Кирилу
+
+Чтобы проскользнуть через эту область, не потревожив волков, игроки должны преуспеть в **проверке Скрытности Сл 19**, совершаемой **с помехой** из-за хрустящих костей н полу (кроме Эридан и парящей Винтерры). Если они слышат или видят возможного чужака, волки начинают рычать и лаять, пробуждая Кобала и Радована. Затем оборотни и волки направляются исследовать источник беспокойства. Как только они загоняют чужаков в угол, Кобал и Радован принимают свои гибридные облики и нападают
 
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
@@ -433,7 +436,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 > [!info]+ **Where Wolves?**
 > When the players first infiltrate the Werewolf Den, Bianca is sitting alone in <span class="citation">Z8. Ring of Stone (p. 205)</span>, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
 
-## L4e. Shrine of Mother Night
+## L4e. Святилище Матери Ночи
 <span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
 
 This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
