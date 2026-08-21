@@ -397,16 +397,18 @@
 ![[Zuleika Toranscu.png]]
 
 > [!lore]+ **Пленники Кирила**
-> ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
+> ***Зулейка.*** Когда Кирил узурпировал положение Эмиля как вожака стаи оборотней, разъярённая Зулейка напала на него. Однако Кирил легко одолел её и запер в святилище Матери Ночи в наказание. Кирил также забрал святой символ Зулейки — вырезанный из дерева полумесяц, подвешенный на ожерелье из кожаного шнура, — чтобы не дать ей призвать силу Матери Ночи для побега
 >
-> Although Kiril has forbidden the other members of the pack from feeding her, Mother Night sends rats each night bearing scraps for Zuleika to eat—not enough to keep her from starving, but enough to keep her from death.
+> Хотя Кирил запретил другим членам стаи кормить её, Мать Ночи каждую ночь посылает крыс, несущих объедки для Зулейки — недостаточно, чтобы не дать ей голодать, но достаточно, чтобы не дать ей умереть
+>
+> ***Илья.*** Когда буйство Ильи оставило его без сознания в одиночестве в Сваличском лесу, Кирил и стая оборотней учуяли на нём проклятие ликантропии и притащили его обратно в Логово Оборотней для допроса. Когда Илья очнулся, он быстро узнал Зулейку по облику Аббата и обвинил её в своих бедах
 > 
-> ***Ilya.*** When Ilya’s rampage left him unconscious and alone in the Svalich Wood, Kiril and the werewolf pack smelled the curse of lycanthropy on him and dragged him back to the Werewolf Den to question him. When Ilya awoke, he swiftly recognized Zuleika from the Abbot’s disguise and accused her of causing his predicament.
->
-> Upon learning that Ilya was Zuleika’s nephew, Kiril crafted a cruel plan. He imprisoned Ilya in a collar and cage and began to starve him of food, as he had Skennis and Zuleika. Eventually, Kiril knew, Ilya would have no choice but to consume the human flesh that had been left by his cage—and, when Ilya was ready, kill and devour a human captive, thereby embracing his curse the same way Kiril had.
+> Узнав, что Илья — племянник Зулейки, Кирил разработал жестокий план. Он заточил Илью в ошейник и клетку и начал морить его голодом, как делал со Скеннисом и Зулейкой. Кирил знал, что в конце концов у Ильи не останется выбора, кроме как съесть человеческую плоть, оставленную у его клетки, — а когда Илья будет готов, убить и сожрать человека-пленника, тем самым приняв своё проклятие так же, как это сделал Кирил
 
-> [!item]+ **Silverthorn Collar**
-> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
+> [!item]+ **Ошейник серебряного шипа**
+> И Зулейка, и Илья носят *ошейники серебряного шипа*, магические предметы, изготовленные для Кирила Бабой Лисягой, болотной ведьмой из Береза. Пока ошейник надет на ликантропа, ликантроп не может регенерировать. Кроме того, внутренняя часть ошейника *серебряного шипа* выпускает крошечные серебряные шипы каждый раз, когда ликантроп пытается превратиться, нанося 1 колющего урона и предотвращая превращение
+>
+> Каждый ошейник магически заперт и имеет единственную маленькую замочную скважину, ключ от которой Кирил носит на шнурке на своей шее. Запертый ошейник также можно открыть успешной проверкой Силы Сл 25 или успешной проверкой Ловкости (Воровские Инструменты) Сл 25. Однако каждый раз, когда существо пытается открыть ошейник, не отперев его сначала, или пытается взломать замок без надлежащего ключа, это существо должно совершить спасбросок Ловкости Сл 17, иначе получит 7к8 колющего урона. Вне зависимости от того, преуспело существо или провалило спасбросок, носитель ошейника также немедленно получает 31 (7к8) колющего урона, поскольку ошейник выпускает крупные шипы, пронзающие шею носителя
 >
 > Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
