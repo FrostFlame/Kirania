@@ -412,11 +412,11 @@
 >
 > Заклинания *Рассеивание магии* и *Открывание* не оказывают эффекта ни на один из ошейников. Кроме того, если пленник телепортируется, нося ошейник, ошейник телепортируется вместе с носителем
 
-> [!info]+ **Collars and Anti-Magic**
-> A _silverthorn collar_ is affected normally by <span class="citation">Khazan's Spell Drain (p. 167)</span> at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Арка P - Ограбление Рэйвенлофта]].
+> [!info]+ **Ошейники и Антимагия**
+> На *ошейник серебряного шипа* обычным образом воздействует Антимагия Хазана (стр. 167) в Главе 11: Башня Ван Рихтена (стр. 167). Если её ошейник снят, Зулейка рада помочь игрокам спасти Эмиля из замка Рэйвенлофт в Арке P - Ограбление Рэйвенлофта
 
-> [!info]+ **The Chains**
-> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook (p. 151)</span>, with an AC of 19. 
+> [!info]+ **Цепи**
+> Цепи, соединяющие ошейники Ильи и Зулейки со стеной пещеры, имеют характеристики *[[Снаряжение#Цепь|цепи]] (10 футов)*, как описано в Книге Игрока (стр. 151), с КД 19
 
 When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
 
