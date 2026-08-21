@@ -420,7 +420,7 @@
 
 Когда двое пленников впервые замечают игроков, Илья прижимается к задней стенке своей клетки, явно напуганный, в то время как Зулейка тихо наблюдает. Илья требует знать, кто такие игроки и являются ли они членами стаи оборотней
 
-When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
+Если игроки представляются и относятся к нему по-доброму, Илья готов поделиться следующей информацией:
 
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
