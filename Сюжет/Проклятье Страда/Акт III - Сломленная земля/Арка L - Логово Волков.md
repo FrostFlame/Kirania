@@ -377,84 +377,24 @@
 
 Чтобы проскользнуть через эту область, не потревожив волков, игроки должны преуспеть в **проверке Скрытности Сл 19**, совершаемой **с помехой** из-за хрустящих костей н полу (кроме Эридан и парящей Винтерры). Если они слышат или видят возможного чужака, волки начинают рычать и лаять, пробуждая Кобала и Радована. Затем оборотни и волки направляются исследовать источник беспокойства. Как только они загоняют чужаков в угол, Кобал и Радован принимают свои гибридные облики и нападают
 
-<div class="statblock">
-<h2>Werewolf Brawler</h2>
-<em>Medium Humanoid, Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 14 in humanoid form, 15 (natural armor) in wolf or hybrid form
-<br>
-<strong>Hit Points</strong> 142 (20d8 + 60)
-<br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>17 (+3)</td>
-      <td>13 (+1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>11 (+0)</td>
-      <td>12 (+1)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Str +6, Con +6<br>
-<strong>Skills</strong> Athletics +6, Intimidation +4, Perception +6, Stealth +4<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus</strong> +3<br>
-<hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Brute.</em></strong> A melee weapon deals one extra die of its damage when the werewolf hits with it (included in the attack).</p>
-<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Constitution modifier.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks with its spear (humanoid form) or one attack with its bite and two attacks with its claws (wolf or hybrid form). It can replace one claws attack with a lob.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be grappled.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<p><strong><em>Lob.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Strength saving throw. On a failure, the creature is thrown 10 feet and falls prone. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
-</div>
-
-> [!info]+ **Where Wolves?**
-> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in <span class="citation">Z8. Ring of Stone (p. 205)</span>, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
+> [!info]+ **Где волки?**
+> Когда игроки впервые проникают в Логово Оборотней, Бьянка сидит в одиночестве в Z8. Кольцо Камней (стр. 205), спускаясь в главную пещеру только если Скеннис поднимет тревогу. Венсенция больше не существует как член стаи оборотней, а Келлен стал взрослым членом стаи и участником рейдового отряда Кирила
 
 ## L4e. Святилище Матери Ночи
-<span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
+Эта область соответствует Z7. Святилище Матери Ночи (стр. 201)
 
-This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
+>[!read]
+> Грубо вытесанные ступени ведут вниз к освещённой факелами пещере. Из небольшой трещины в потолке зала столб лунного света освещает грубую деревянную статую, стоящую у дальней стены, изображающую приблизительное подобие женщины с волчьей головой, обвешенной гирляндами из лоз и ночных цветов. Вокруг её шеи висит сверкающий платиновый медальон в форме солнечного блика с крупным рубином в центре, а у её основания высокими грудами навалены золото, серебро и драгоценные камни. Позади статуи 2 трупа, кишащие опарышами, свисают с железных кандалов, прибитых к стене. Золотые монеты вбиты в пустые глазницы, где должны были быть их глаза
+>
+> 2 деревянные клетки стоят по бокам от статуи, их крышки удерживаются закрытыми тяжёлыми камнями. В левой клетке, стоя на коленях, находится юноша с запавшими глазами и свободной, изодранной одеждой, а перед его клеткой на земле лежит гниющая человеческая нога. В правой клетке сидит темнокожая женщина с янтарными глазами, одетая в изодранную одежду, скрестив ноги, её косматые, похожие на верёвки пряди волос стянуты назад за чёрной банданой. Серебряные ошейники на их шеях прикованы цепями к стене позади, каждый обод ошейника украшен резьбой с узорами злобно выглядящих шипов
 
-<div class="description">
-<p>Rough-hewn stairs lead down to a torchlit cave. From a small crack in the chamber ceiling, a shaft of moonlight illuminates a crude wooden statue standing against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Around its neck hangs a gleaming platinum medallion in the shape of a sunburst, a large ruby set in its center, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>
-<p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
-</div>
+Медальон — это *Святой Символ Рэйвенлофта*. Юноша — Илья Крезков, 13-летний **оборотень** с 36 хитами. Женщина — Зулейка Торанеску, тётя Ильи и **оборотень**-жрица Матери Ночи. И Илья, и Зулейка голодают и в результате имеют [[ДМовские заметки#Истощение|3 степени истощения]]
 
-The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a thirteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
-
-Players who saw Ilya's sketch of Zuleika in [[Арка K - Павшее Аббатство#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
+Игроки, видевшие набросок Зулейки, сделанный Ильёй, в [[Арка K - Павшее Аббатство#Спальня Ильи|Арке K - Павшее Аббатство]], узнают в ней женщину с рисунка
 
 ![[Ilya Krezkov.png]]
 
 ![[Zuleika Toranscu.png]]
-
-<span class="credit">"Ilya Krezkov" and "Zuleika Toranescu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Kiril’s Prisoners**
 > ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
