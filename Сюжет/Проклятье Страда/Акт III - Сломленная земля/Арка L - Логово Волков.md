@@ -396,7 +396,7 @@
 
 ![[Zuleika Toranscu.png]]
 
-> [!lore]+ **Kiril’s Prisoners**
+> [!lore]+ **Пленники Кирила**
 > ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
 >
 > Although Kiril has forbidden the other members of the pack from feeding her, Mother Night sends rats each night bearing scraps for Zuleika to eat—not enough to keep her from starving, but enough to keep her from death.
