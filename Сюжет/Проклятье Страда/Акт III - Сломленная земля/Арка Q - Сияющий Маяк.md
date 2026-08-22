@@ -660,18 +660,19 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > ***«Так вы те самые маленькие мыши, что шмыгнули через моё логово»***, — рокочет зверь. Он облизывает губы в явном предвкушении, нить слюны стекает с его зазубренных зубов. ***«Похоже, вы не могли бежать вечно»***
 
 > [!info]+ **Ключи Кирила**
-> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
+> Игроки, внимательно осматривающие шею Кирила, замечают 2 ключа, висящих на цепи вокруг его шеи. Цепь рвётся, когда Кирил входит в свою **вторую фазу** (смотрите ниже), позволяя игрокам забрать их. Если ключи добыты, они могут отпереть *ошейники серебряного шипа*, в которые заключены Илья и Зулейка в логове оборотней
 
-The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
+Зверь — Кирил в своей первой фазе (смотрите ниже). Если Эсмеральда присутствует, её глаза расширяются, и она шипит игрокам, что узнаёт узор его шерсти. ***«Ублюдок стал больше, чем был 2 года назад***, — шепчет она сквозь стиснутые зубы, — ***но это Чёрный Ужас»***. (Эсмеральда может тихо напомнить игрокам, если спросят, что Чёрным Ужасом звали оборотня, откусившего её ногу)
 
-Like a cat playing with its prey, Kiril is in no immediate hurry to kill the players, and hopes to taunt, demean, and demoralize them before he attacks. As the conversation unfolds, if Emil Toranescu is present, read:
+Подобно кошке, играющей со своей добычей, Кирил не торопится убивать игроков и надеется подразнить, унизить и деморализовать их перед атакой. По мере развития разговора, если Эмиль Торанеску присутствует, прочитайте:
 
-<div class="description">
-<p>Kiril’s eyes slide toward the man at your side, and his black lip curls. He stares for a moment, then throws his head back in uproarious laughter.</p>
-<p>"You brought the whelp back with you!" he booms. “Congratulations, weakling. How does it feel to know that you needed these <em>mice</em> to rescue you? Though I’m impressed—how <em>did</em> they do it?</p>
-</div>
+>[!read]
+> Глаза Кирила скользят к человеку рядом с вами, и его чёрная губа скривляется. Он смотрит мгновение, затем запрокидывает голову в громогласном смехе
+>
+> ***«Вы привели щенка с собой!»*** — гремит он. ***«Поздравляю, слабак. Каково это — знать, что тебе понадобились эти мыши, чтобы спасти тебя? Хотя я впечатлён — как они это сделали?»***
 
-> [!abstract]+ **Imprisoned Emil**
+> [!abstract]+ **Заточённый Эмиль**
+> 
 > If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
 
 At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
