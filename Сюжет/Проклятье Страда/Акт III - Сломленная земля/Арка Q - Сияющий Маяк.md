@@ -646,19 +646,20 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > Во второй раз, когда игрок атакует, или если игрок атакует его **посеребрённым оружием**, атакой или заклинанием, наносящим **некротический урон**, либо **заклинанием 3-го уровня** или выше, Кирил рычит, его ноздри раздуваются, а глаза широко распахиваются. ***«Не терпится умереть, маленький кусок мяса? Тогда я не заставлю тебя ждать»***. Затем Кирил нападает
 
 > [!info]+ **Лунный луч**
-> 
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
+> Из-за порчи Кирила его гибридный облик — а не человеческий — стал его «истинным обликом». Поэтому, хотя он получает урон от *Лунного луча* как обычно, заклинание не может заставить его вернуться в человеческий облик
 
-When the players first approach Kiril, or vice-versa, read:
+Когда игроки впервые приближаются к Кирилу, или наоборот, прочитайте:
 
-<div class="description">
-<p>The monstrous silhouette steps forward, a sliver of silvery moonlight illuminating the charcoal-black fur that covers its hide.</p>
-<p>It stands just over nine feet tall, its arms, legs, and torso layered with thick, ropy muscle. Its scimitar-shaped fangs jut out beyond its muzzle, descending so far beneath its jaw that they seem almost like tusks. Its claws, long, dark, and stained with layers of blood, twitch and flex eagerly, as if ready to slice through flesh once more.</p>
-<p>The beast’s scarlet irises pierce through the mist that swirls around and below it, and its lupine muzzle curls into a bestial grin. When it speaks, its voice is a low, snarling rumble that echoes through the gloomy night.</p>
-<p>"So you’re the little mice that scampered through my den," the beast rumbles. It licks its lips in obvious anticipation, a line of saliva drooling from its jagged teeth. “Seems you couldn’t run forever."</p>
-</div>
+>[!read]
+> Чудовищный силуэт шагает вперёд, полоска серебристого лунного света освещает угольно-чёрную шерсть, что покрывает его шкуру
+>
+> Он стоит чуть выше 9 футов ростом, его руки, ноги и туловище покрыты толстыми, канатоподобными мышцами. Его клыки в форме скимитаров выступают за пределы морды, спускаясь так далеко под челюсть, что кажутся почти бивнями. Его когти, длинные, тёмные и покрытые слоями крови, подёргиваются и сгибаются в нетерпении, словно готовые вновь разрезать плоть
+>
+> Алые радужки зверя пронзают туман, что клубится вокруг и под ним, а его волчья морда скручивается в звериный оскал. Когда он говорит, его голос — низкий, рычащий рокот, что эхом разносится сквозь мрачную ночь
+>
+> ***«Так вы те самые маленькие мыши, что шмыгнули через моё логово»***, — рокочет зверь. Он облизывает губы в явном предвкушении, нить слюны стекает с его зазубренных зубов. ***«Похоже, вы не могли бежать вечно»***
 
-> [!info]+ **Kiril’s Keys**
+> [!info]+ **Ключи Кирила**
 > Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
 
 The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
