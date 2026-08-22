@@ -462,29 +462,27 @@
 
 Если спросить об ошейниках или если игроки предлагают или пытаются их снять, Зулейка может поделиться следующей информацией:
 
-If asked about the collars, or if the players offer or attempt to remove them, Zuleika can share the following information:
+- Ошейники несут на себе смрад болотной ведьмы, Бабы Лисяги. Каждый раз, когда она пытается превратиться, они образуют магические серебряные шипы, пронзающие её шею, гася её силу. Каждый раз, когда она или Илья пытаются их снять, ошейники образуют более крупные шипы, которые глубоко впиваются в их шеи и грозят вырвать им глотки
+- Только у Кирила есть ключ от их ошейников, который он носит на шнурке из выдубленных человеческих жил на своей шее рядом с деревянным святым символом Зулейки. Он никогда не расстаётся с ними и не снимает их со своей шеи
 
-* The collars bear the stink of the swamp witch, Baba Lysaga. Each time she attempts to transform, they form magical silver thorns that pierce her neck, extinguishing her strength. Each time she or Ilya attempts to remove them, the collars form larger spikes, which dig deep into their necks and threaten to rip out their throats.
-* Only Kiril has the key to their collars, which he wears on a cord around his neck made of tanned human sinews beside Zuleika’s wooden holy symbol. He never parts with them or removes them from his neck.
+Если спросить о святилище, трупах, сокровищах или *Святом Символе Рэйвенлофта*, или если игроки пытаются забрать сокровища или *Святой Символ*, Зулейка может поделиться следующим предостережением:
 
-If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or if the players attempt to retrieve the treasure or *Holy Symbol*, Zuleika can share the following warning:
+- Оборотни называют себя Детьми Матери Ночи и на протяжении многих поколений подносили ей сокровища и дары. Однако сокровищница проклята: существо, укравшее у Матери Ночи, поплатится за это своей жизнью
+- Когда Страд впервые пробудился, он послал **2 порождений вампира**, чтобы сообщить стае о его возрождении. Когда эти порождения попытались забрать часть «сокровищ» стаи как налог для Страда, проклятие заморозило их и пожрало их жизненную силу, разлагая их тела, пока они не умерли от некроза. Затем Эмиль приказал прибить их трупы к стене за святилищем, как предупреждение тем, кто стал бы красть у Матери Ночи. (***«При всех его усилиях***, — самодовольно замечает Зулейка, — ***Кирил так и не смог их убрать. Даже он боится гнева Матери Ночи, как ему и положено»***)
+- Зулейка не знает, что такое *Святой Символ Рэйвенлофта* — лишь то, что статуя Матери Ночи носила его на протяжении десятилетий
 
-* The werewolves call themselves the Children of Mother Night, and have offered her treasures and gifts for many generations. The hoard, however, is cursed: a creature that steals from Mother Night will lose its life in the process.
-* When Strahd first awoke, he sent two **vampire spawn** to inform the pack of his revival. When those spawn attempted to collect some of the pack’s “treasure" as a tax to Strahd, the curse froze them and devoured their life force, rotting their bodies away until they died of necrosis. Emil then ordered their corpses bolted to the wall behind the shrine, as a warning to those who would steal from Mother Night. (“For all his efforts," Zuleika notes smugly, “Kiril has been quite unable to remove them. Even he fears Mother Night’s wrath, as well he should.")
-* Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades. 
-
-> [!info]+ **The Curse of Mother Night**
-> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item. (A creature that attempts to indirectly retrieve an item, such as by using a tool, a spell, or another creature to do so, is similarly affected. In such a case, the effect doesn’t end until the item is returned to Mother Night’s hoard.)
+> [!info]+ **Проклятие Матери Ночи**
+> Предметы в сокровищнице Матери Ночи, включая *Святой Символ Рэйвенлофта* и статую Матери Ночи, не могут быть перемещены или изъяты без разрешения. Кроме того, существо, пытающееся физически забрать предмет из сокровищницы без разрешения, совершает **спасбросок Мудрости Сл 25**, иначе станет [[ДМовские заметки#Недееспособность|недееспособным]], пока не отпустит предмет. (Существо, пытающееся косвенно забрать предмет, например, используя инструмент, заклинание или другое существо, подвергается тому же воздействию. В таком случае эффект не заканчивается, пока предмет не будет возвращён в сокровищницу Матери Ночи)
 >
-> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
-> 
-> A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
+> Будучи [[ДМовские заметки#Недееспособность|недееспособным]] таким образом, существо не может двигать ни одной частью своего тела, кроме рук и лица, и не может убрать руку из сокровищницы, кроме как отпустив взятый предмет. Кроме того, существо совершает **спасбросок Телосложения Сл 25 в конце каждого хода**, пока остаётся [[ДМовские заметки#Недееспособность|недееспособным]], получая **8к8 некротического урона** при **провале** или **половину** при **успехе**
+>
+> Жрица Матери Ночи может даровать существу разрешение взять предмет из святилища. Однако это разрешение не имеет силы, если жрица находится под манипуляцией или принуждением
 
-Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
+Зулейка готова даровать игрокам разрешение взять *Святой Символ Рэйвенлофта* — и никакие другие сокровища — если игроки поклянутся Матери Ночи спасти Эмиля из темниц замка Рэйвенлофт и помочь ему вернуть положение вожака стаи у Кирила
 
-Zuleika warns the players that, should they fail to keep their oath by the moon's first light after the next new moon, their vitality and strength will sap each night that their oath remains unfulfilled. (See **Oath of the New Moon** below for details.)
+Зулейка предупреждает игроков, что если они не сдержат свою клятву к первому свету луны после следующего новолуния, их жизненные силы и мощь будут истощаться каждую ночь, пока их клятва остаётся невыполненной. (Подробности смотрите в разделе **Клятва Новой Луны** ниже)
 
-> [!info]+ **Oath of the New Moon**
+> [!info]+ **Клятва Новой Луны**
 > Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
 > 
 > The next new moon takes place on Neyavr 15th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 16th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
