@@ -2,6 +2,7 @@
 
 - [ ] 4 гибридных оборотня
 - [ ] 6 волков
+- [ ] Кирил
 
 # Введение
 
@@ -528,11 +529,12 @@ If the players attack Bianca, she immediately shatters the crystal. (See **Kiril
 The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
 
 If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
-## L4f. Kiril’s Return
-If Bianca breaks the _crystal of alarm_, the werewolf pack returns to the den after 10 minutes. The pack includes eighteen **wolves**, eight **werewolves**, and [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
+## L4f. Возвращение Кирила
 
-If the players remain at the den, Kiril directs the wolves and werewolves to attack them as described in [[Арка Q - Сияющий Маяк#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+Если Бьянка разбивает *кристалл тревоги*, стая оборотней возвращается в логово через 10 минут. Стая включает **18 волков**, **8 оборотней** и [[Неигровые Персонажи#Кирил Стоянович|Кирила Стояновича]]
 
-If the players have departed the den, but failed to conceal their trail with magic (e.g., *pass without trace* or *dimension door*), Kiril and the pack pursue them. If the players remain outside of a settlement's walls, they must succeed on a DC 19 group Dexterity (Stealth) check to evade the pack's notice. If the pack finds the players, Kiril directs the wolves and werewolves to attack them as described in [[Арка Q - Сияющий Маяк#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+Если игроки остаются в логове, Кирил приказывает волкам и оборотням атаковать их, как описано в [[Арка Q - Сияющий Маяк#Q5. Атака Стаи|Арке Q - Сияющий Маяк]]
 
-***Milestone.*** Meeting Ilya and Zuleika completes a story milestone. If the players successfully escape the werewolf den after making a deal with Zuleika, award each player 1,500 XP. If the players also free Ilya and Zuleika from the den, award each player an additional 250 XP.
+Если игроки покинули логово, но не смогли скрыть свой след с помощью магии (например, *Бесследного передвижения* или *Пространственной двери*), Кирил и стая преследуют их. Если игроки остаются вне стен поселения, они должны преуспеть в **групповой проверке Скрытности Сл 19**, чтобы избежать внимания стаи. Если стая находит игроков, Кирил приказывает волкам и оборотням атаковать их, как описано в [[Арка Q - Сияющий Маяк#Q5. Атака Стаи|Арке Q - Сияющий Маяк]]
+
+***Веха.*** Встреча с Ильёй и Зулейкой завершает сюжетную веху. Если игроки успешно сбегают из логова оборотней после заключения сделки с Зулейкой, выдайте каждому игроку 1,500 ОП. Если игроки также освобождают Илью и Зулейку из логова, выдайте каждому игроку дополнительные 250 ОП
