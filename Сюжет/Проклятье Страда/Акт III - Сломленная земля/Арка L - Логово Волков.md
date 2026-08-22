@@ -4,6 +4,7 @@
 - [ ] 6 волков
 - [ ] Кирил, Альфа оборотень
 - [ ] Кирил, Ликан мутант
+- [ ] Святой Символ Рэйвенлофта
 
 # Введение
 
@@ -483,15 +484,15 @@
 Зулейка предупреждает игроков, что если они не сдержат свою клятву к первому свету луны после следующего новолуния, их жизненные силы и мощь будут истощаться каждую ночь, пока их клятва остаётся невыполненной. (Подробности смотрите в разделе **Клятва Новой Луны** ниже)
 
 > [!info]+ **Клятва Новой Луны**
-> Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
+> Зулейка готова позволить игрокам взять *Святой Символ Рэйвенлофта* только если все они, включая любых НИП-спутников, принесут Клятву Новой Луны перед статуей Матери Ночи
+>
+> Следующее новолуние наступает 15 Ноября — на седьмой день после последнего полнолуния. Каждый раз, когда луна восходит после новолуния, начиная с наступления ночи 16 Ноября, каждый игрок, принёсший клятву, страдает от следующих эффектов: его **максимальные хиты уменьшаются на одну седьмую его изначального максимума** (округляя вверх), и он получает **кумулятивный штраф -1 к проверкам характеристик и спасброскам**. (Персонаж умирает, если этот эффект уменьшает его максимум хитов до 0. Эти уменьшения сохраняются, пока не будут сняты заклинанием *Желание* или подобной магией)
 > 
-> The next new moon takes place on Neyavr 15th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 16th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
-> 
-> A cleric of Mother Night, including Zuleika, can use their action to release a character from their oath and remove any penalties they've suffered for failing to fulfill it. (Zuleika won't do so unless the players free Emil from Castle Ravenloft.) This action has no effect if the cleric is being manipulated or coerced.
+> Жрица Матери Ночи, включая Зулейку, может **действием** освободить персонажа от его клятвы и снять любые штрафы, которые он понёс за её невыполнение. (Зулейка не сделает этого, пока игроки не освободят Эмиля из замка Рэйвенлофт.) Это **действие** не имеет силы, если жрица находится под манипуляцией или принуждением
 
-If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ravenkind*, it has been revised as follows:
+Если игроки соглашаются принести клятву Зулейки и забрать *Святой Символ Вороньего Рода*, он был переработан следующим образом: [[Святой Символ Вороньего Рода]]
 
-> [!item]+ **Holy Symbol of Ravenkind**
+> [!item]+ **Святой Символ Рэйвенлофта**
 > 
 > *Wondrous item, legendary (requires attunement by a creature of good alignment)*
 > 
