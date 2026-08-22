@@ -422,20 +422,19 @@
 
 Если игроки представляются и относятся к нему по-доброму, Илья готов поделиться следующей информацией:
 
-If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
+- Он Илья Крезков, сын бургомистра Крезка. (Эсмеральда, если присутствует, узнаёт его и приходит в ужас от его нынешнего состояния)
+- Он был похищен оборотнем и доставлен сюда как пленник. (Это полуправда. Игрок, преуспевший в **проверке Проницательности Сл 10**, видит, как Илья на мгновение отводит взгляд в сторону, и замечает капли пота на его лбу)
 
-* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
-* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
+Если игроки спрашивают о Зулейке, она представляется как Зулейка Торанеску, хотя призывает игроков говорить тише. ***«Вожак стаи, возможно, ушёл на свою охоту***, — шипит она. — ***Но другие могут всё ещё таиться глубже в логове»***
 
-If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
+Если игроки спрашивают, почему она и Илья заключены здесь, она честно говорит им, что их заточил здесь Кирил Стоянович, «вожак этой стаи». Если её узнают как сестру Дмитрия Крезкова, она признаётся, что приходится Илье тётей. ***«Хотя***, — замечает она сухо, бросив взгляд в сторону Ильи, — ***я не видела его довольно давно»***
 
-If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by Kiril Stoyanovich, “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
+Если её опознают как оборотня, Зулейка свободно признаётся в этом. Если её человечность в результате ставят под сомнение, она наклоняет голову и спрашивает с любопытством: ***«Вы осуждаете меня за состояние, которого я не просила и которое я никогда не использовала во зло?»***
 
-If identified as a werewolf, Zuleika freely admits to being one. If her humanity is questioned as a result, she tilts her head and asks, curiously, “You judge me for a condition that I did not ask for, and which I have never used in malice?"
+Если Илью опознают как оборотня, он вздрагивает и горячо отрицает это. (Пока он это делает, Зулейка смотрит на него с сочувствием и жалостью)
 
-If Ilya is identified as a werewolf, he flinches and heatedly denies it. (As he does, Zuleika regards him with sympathy and pity.)
+Если ему говорят, что игроки посланы от имени Дмитрия и Анны Крезковых, Илья с тревогой спрашивает, здоровы ли его родители и сестра. Он заметно испытывает облегчение, если ему говорят, что его семья всё ещё жива; однако, если ему рассказывают о состоянии Калы, его нижняя губа дрожит, и он начинает рыдать
 
-If told that the players have been sent on behalf of Dmitri and Anna Krezkov, Ilya anxiously asks whether his parents and sister are well. He is visibly relieved if told that his family is still alive; however, if told of Kala’s condition, his lower lips trembles and he begins to sob.
 #### What Ilya Knows
  If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
 
