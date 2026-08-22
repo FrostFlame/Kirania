@@ -437,16 +437,21 @@
 
 Если ему говорят, что игроки посланы от имени Дмитрия и Анны Крезковых, Илья с тревогой спрашивает, здоровы ли его родители и сестра. Он заметно испытывает облегчение, если ему говорят, что его семья всё ещё жива; однако, если ему рассказывают о состоянии Калы, его нижняя губа дрожит, и он начинает рыдать
 
-#### What Ilya Knows
- If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
+#### Что известно Илье
+ 
+ Если игроки относятся к Илье по-доброму и преуспевают в **проверке Убеждения Сл 10**, они могут убедить его поделиться следующей информацией, которую он передаёт с тихим ужасом и стыдом:
+ 
+ - 3 недели назад женщина, похожая на Зулейку, подошла к нему у Святилища Белого Солнца в Крезке. Она назвалась Зулейкой Крезковой, его давно отсутствующей тётей, и сказала ему, что его отец тайно **оборотень** — и что его проклятие перешло и на Илью. (Зулейка упорно отрицает это и настаивает, что кто-то имитировал её внешность в своих целях — утверждение, в которое Илья со временем поверил)
+- «Зулейка» сказала Илье, что его проклятие — это могучее оружие против Страда вон Заровича и слуг тьмы, но предупредила, что его родители вскоре попытаются подавить это «благословение» до того, как оно проявится. Она велела ему отказываться от любых *зелий аконита*, которые его родители попытаются ему дать, а затем покинула Крезк
+- Илья не поверил ей, но вскоре изменил своё мнение, когда его родители раскрыли правду о его наследии всего несколько дней спустя. Решив защитить свою семью от Страда и его прислужников, он тайно вылил *зелье аконита*, которое дали ему родители, прежде чем его мать заперла его и его отца в тайном подвале их коттеджа
+- Илья не помнит, что произошло дальше. Всё, что он знает, — что на следующее утро он очнулся в клетке в логове, и кровь запятнала его рот. С тех пор его преследует мысль о тех, кому он мог причинить вред
 
-* Three weeks ago, a woman resembling Zuleika approached him at the Shrine of the White Sun in Krezk. She identified herself as Zuleika Krezkova, his long-absent aunt, and told him that his father was secretly a **werewolf**—and that his curse had passed to Ilya as well. (Zuleika has steadfastly denied doing so, and insists that someone imitated her appearance for their own purposes—a claim that Ilya has come to believe.)
-* “Zuleika" told Ilya that his curse was a mighty weapon against Strahd von Zarovich and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
-* Ilya didn’t believe her, but soon changed his mind when his parents revealed the truth of his heritage mere days later. Determined to keep his family safe from Strahd and his minions, he secretly poured out the *potion of wolfsbane* his parents gave him before his mother locked him and his father away in their cottage’s secret basement.
-* Ilya doesn’t remember what happened next. All he knows is that he awoke in a cage in the den the following morning, with blood staining his mouth. He’s been haunted ever since by the thought of those he may have harmed.
+Илья винит ложную «Зулейку» за своё нынешнее положение и отчасти винит своих родителей за сокрытие правды от него, но больше всех винит самого себя за раны, которые он мог причинить. Илья не винит настоящую Зулейку за свою судьбу и глубоко благодарен ей за её утешения и попытки облегчить его участь
 
-Ilya blames the false “Zuleika" for his current predicament, and somewhat blames his parents for concealing the truth from him, but blames no one more than himself for the injuries he may have caused. Ilya doesn't blame the real Zuleika for his fate, and is deeply grateful to her for her reassurances and efforts to keep him comfortable.
-### What Zuleika Knows
+### Что известно Зулейке
+
+
+
 If questioned, Zuleika can share the following information:
 
 * She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.

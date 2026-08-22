@@ -603,9 +603,13 @@ The revenant apologizes sincerely to the players “for the harm it may be force
 The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain in Krezk, and departs once it has conveyed its message.
 # Q5. Атака стаи
 
-> [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Арка L - Логово Волков]], thereby allowing Kiril to detect that outsiders had entered the den.
-## Q5a. The Pack Arrives
+> [!abstract]+ **Атакует ли стая?**
+> Эта сцена происходит только если (1) игроки забрали *Святой Символ* из логова оборотней, тем самым указав, что кто-то украл из святилища Матери Ночи, или (2) игроки не смогли скрыть свои запахи (например, используя *Бесследное передвижение*) при проникновении в логово оборотней в [[Арка L - Логово Волков]], тем самым позволив Кирилу обнаружить, что в логово входили чужаки
+
+## Q5a. Прибытие стаи
+
+С наступлением темноты в день, когда игроки вступают в противостояние с Аббатом, если игроки ещё не победили его, Кирил Стоянович поднимает стаю оборотней — включая **18 волков** и восемь **оборотней** — и ведёт их к руинам Береза. Там он советуется с Бабой Лисягой, которая использует свою магию, чтобы определить текущее местоположение игроков. Затем Кирил ведёт свою стаю к этому месту, надеясь убить и сожрать чужаков, проникших в логово ранее
+
 At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
 
 ***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
