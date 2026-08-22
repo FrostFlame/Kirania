@@ -672,8 +672,7 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > ***«Вы привели щенка с собой!»*** — гремит он. ***«Поздравляю, слабак. Каково это — знать, что тебе понадобились эти мыши, чтобы спасти тебя? Хотя я впечатлён — как они это сделали?»***
 
 > [!abstract]+ **Заточённый Эмиль**
-> 
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
+> Если игроки не смогли спасти Эмиля из замка Рэйвенлофт, когда Кирил чувствует, что пришло время заканчивать разговор, он приказывает волкам, окружающим его, убить игроков. Игроки, указывающие на очевидный голод волков и преуспевающие в **проверке Убеждения Сл 18**, могут убедить стаю отступить, пока игроки разбираются с Кирилом напрямую. В противном случае волки и оборотни (кроме Кирила) атакуют. Кирил нападает на игроков, как только остальная стая побеждена или убита
 
 At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
 
