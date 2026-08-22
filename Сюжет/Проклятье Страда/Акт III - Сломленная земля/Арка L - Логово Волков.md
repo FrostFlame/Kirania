@@ -438,7 +438,7 @@
 
 Если ему говорят, что игроки посланы от имени Дмитрия и Анны Крезковых, Илья с тревогой спрашивает, здоровы ли его родители и сестра. Он заметно испытывает облегчение, если ему говорят, что его семья всё ещё жива; однако, если ему рассказывают о состоянии Калы, его нижняя губа дрожит, и он начинает рыдать
 
-#### Что известно Илье
+### Что известно Илье
  
  Если игроки относятся к Илье по-доброму и преуспевают в **проверке Убеждения Сл 10**, они могут убедить его поделиться следующей информацией, которую он передаёт с тихим ужасом и стыдом:
  
@@ -492,10 +492,13 @@
 
 Если игроки соглашаются принести клятву Зулейки и забрать *Святой Символ Вороньего Рода*, он был переработан следующим образом: [[Святой Символ Вороньего Рода]]
 
-### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
+### Возвращение Бьянки
 
-Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
+В середине разговора игроков с Зулейкой — до того, как игроки узнают, как освободить Илью или получить *Святой Символ Рэйвенлофта*, — Бьянка Стоянович спускается из Z8. Кольцо Камней (стр. 205), проходит через Z6. Пещеру Кирила (стр. 204) и приближается к Z7. Святилищу Матери Ночи (стр. 204)
+
+Любой персонаж с **пассивным Восприятием 18** или выше слышит, как Бьянка проходит сквозь занавес в задней части Пещеры Кирила. Персонажи, действующие быстро, могут скрыться из виду, переместившись вдоль южной лестницы и преуспев в **групповой проверке Скрытности Сл 20**. (При провале **Бьянка** сталкивается с ними на вершине южной лестницы, преграждая им путь к бегству)
+
+Если Бьянка не замечает игроков, она действует следующим образом, при условии, что игроки подслушивают и не вмешиваются:
 
 If Bianca doesn’t notice the players, she proceeds as follows, assuming the players listen in and don’t interrupt:
 
