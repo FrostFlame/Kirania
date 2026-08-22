@@ -610,46 +610,43 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 
 С наступлением темноты в день, когда игроки вступают в противостояние с Аббатом, если игроки ещё не победили его, Кирил Стоянович поднимает стаю оборотней — включая **18 волков** и восемь **оборотней** — и ведёт их к руинам Береза. Там он советуется с Бабой Лисягой, которая использует свою магию, чтобы определить текущее местоположение игроков. Затем Кирил ведёт свою стаю к этому месту, надеясь убить и сожрать чужаков, проникших в логово ранее
 
-At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
+***За Стенами.*** Если игроки разбили лагерь в Башне Ван Рихтена или Аргинвостхольте, их будит хор воя, ведомый глубоким, ужасающим рёвом
 
-***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
+Когда игроки впервые приближаются к стае, прочитайте:
 
-When the players first approach the pack, read:
+>[!read]
+> Более двух дюжин волков выходят из густого, похожего на суп тумана, что стелется по земле снаружи, их золотые глаза поблескивают в слабом лунном свете. Чудовищный, двуногий силуэт стоит во главе их, его косматая голова высотой почти в целый этаж
 
-<div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight. A monstrous, two-legged silhouette stands at their head, its shaggy head nearly a full story high.</p>
-</div>
+Если Эмиль Торанеску сопровождает игроков, его рука сжимается в кулак у бока, а ногти удлиняются в когти. ***«Кирил»***, — шепчет он
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
+***Внутри Стен.*** Если игроки отдыхают в Крезке или Валлаки, Кирил прибывает к воротам со стаей и требует, чтобы стража выдала ему ***«чужаков — паразитов, что топтались в его логове»***. Перепуганный стражник затем доставляет послание в коттедж Крезковых (если в Крезке) или в таверну «Синяя Вода» (если в Валлаки), надеясь найти игроков там. (Если игроков там нет, барон Крезков или Урвин Мартиков доставляют послание сами)
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+Когда игроки впервые приближаются к стае, прочитайте:
 
-When the players first approach the pack, read:
+>[!read]
+> Более двух дюжин волков выходят из густого, похожего на суп тумана, что стелется по земле снаружи, их золотые глаза поблескивают в слабом лунном свете
 
-<div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
-</div>
+Волки скалят зубы на игроков, но не нападают сразу. Игрок с **пассивным Восприятием 12** или выше замечает, что волки выглядят на удивление истощёнными, и у некоторых рёбра видны сквозь шкуру. Если Эмиль Торанеску с ними, игрок с **пассивной Проницательностью 13** или выше замечает, что волки смотрят на него с опаской и удивлением. Если Бьянка Стоянович всё ещё жива, она стоит неподвижно сбоку от стаи, бледнолицая и молчаливая
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+> [!info]+ **Голодающие волки**
+> Из-за своего обжорства и гордыни Кирил забирал первую — и, безусловно, самую большую — долю каждой добычи, что стая добывала с момента исчезновения Эмиля. В результате остальные члены стаи, кроме Бьянки, страдали от плохого питания и лишений на протяжении последних нескольких недель, вынужденные выживать за счёт кроликов, крыс и другой мелкой дичи, теряя заметные количества веса
 
-> [!info]+ **The Starving Wolves**
-> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
+Вскоре после того, как игроки приближаются к волкам, или когда они впервые окликают Кирила, прочитайте:
 
-Shortly after the players approach the wolves, or when they first call out for Kiril, read:
+>[!read]
+> Чудовищный, двуногий силуэт выходит из тумана, его косматая голова на высоте почти в целый этаж
 
-<div class="description">
-<p>A monstrous, two-legged silhouette lumbers out of the mist, its shaggy head nearly a full story high.</p>
-</div>
+Если Эмиль Торанеску сопровождает игроков, его рука сжимается в кулак у бока, а ногти удлиняются в когти. ***«Кирил»***, — шепчет он
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
-## Q5b. Kiril’s Challenge
+## Q5b. Вызов Кирила
 
-> [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
->
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+> [!abstract]+ **Нетерпеливые игроки**
+> Кирил не чувствует угрозы от игроков. Поэтому, если какой-либо отдельный игрок атакует его впервые, используя **непосеребрённое** оружие, **заклинание ниже 3-го уровня** или любую атаку или заклинание, **не наносящее некротический урон**, Кирил смеётся, пока его природная регенерация исцеляет его раны, вместо того чтобы отвечать тем же. ***«Твоё барахтанье щекочет меня, маленький кусок мяса»***, — рокочет он. Он облизывает свои челюсти, устремляя на них устойчивый взгляд предвкушения. ***«Возможно, я позволю тебе пощекотать мои зубы — у меня там застрял кусочек-другой мяса, с которым мне не помешала бы помощь»***
+> 
+> Во второй раз, когда игрок атакует, или если игрок атакует его **посеребрённым оружием**, атакой или заклинанием, наносящим **некротический урон**, либо **заклинанием 3-го уровня** или выше, Кирил рычит, его ноздри раздуваются, а глаза широко распахиваются. ***«Не терпится умереть, маленький кусок мяса? Тогда я не заставлю тебя ждать»***. Затем Кирил нападает
 
-> [!info]+ **Moonbeam**
+> [!info]+ **Лунный луч**
+> 
 > Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
 
 When the players first approach Kiril, or vice-versa, read:
