@@ -500,30 +500,29 @@
 
 Если Бьянка не замечает игроков, она действует следующим образом, при условии, что игроки подслушивают и не вмешиваются:
 
-If Bianca doesn’t notice the players, she proceeds as follows, assuming the players listen in and don’t interrupt:
+- Она спускается к святилищу и бросает нерешительный взгляд на Зулейку и Илью, прежде чем опуститься на колени перед статуей Матери Ночи
+* Несколько мгновений спустя Зулейка хрипит: ***«Не хватает духа для охот Кирила, Бьянка?»***
+* Бьянка поворачивается к Зулейке и выплёвывает: ***«Мне не нужны твои оскорбления. Особенно от собаки в клетке»***
+* Зулейка смотрит на Бьянку с сочувствием. ***«Возможно, я в клетке, зато мой дух свободен»***
+* Бьянка рычит, встаёт и шагает к клетке Зулейки, используя свою черту ***смена облика***, чтобы принять свой белошёрстный гибридный облик. ***«Твоя жалость мне тоже не нужна»***, — рычит она
+* Зулейка морщится. ***«Не жалость***, — говорит она. — ***Лишь дружеские слова»***
+* Бьянка скалит зубы и снова рычит. ***«Я сделала свой выбор. Я нужна ему»***
+* Зулейка хватается за прутья своей клетки. ***«Он сделал свой выбор давно. Ты всё ещё можешь найти другой путь»***
+* Бьянка бросается к клетке Зулейки и обхватывает когтями прутья, просовывая морду между ними. ***«Я отказалась от всего ради него. Ты хоть представляешь, чем я пожертвовала, чтобы быть здесь?»***
+* Зулейка встречает взгляд Бьянки, не дрогнув. Затем она тихо отвечает: ***«А ты?»***
+* Бьянка замирает, затем возвращается в свою истинную человеческую форму. Затем она отворачивается от клетки Зулейки, медлит и устало говорит: ***«Это не имеет значения. И никогда не имело»***. Затем Бьянка направляется к Z6. Пещере Кирила (стр. 204), где использует свою черту ***смена облика***, чтобы принять свой белошёрстный волчий облик, сворачивается на земле и безучастно смотрит в пустоту пещеры
 
-* She descends to the shrine and spares a hesitant glance for Zuleika and Ilya before kneeling before the statue of Mother Night
-* A few moments later, Zuleika rasps: “No stomach for Kiril’s hunts, Bianca?"
-* Bianca turns toward Zuleika and spits: “I don’t need your insults. Especially not from a dog in a cage."
-* Zuleika eyes Bianca with sympathy. “I may be caged, but at least my spirit is free."
-* Bianca snarls, stands, and steps toward Zuleika’s cage, using her ***shapechange*** feature to assume her white-furred hybrid form. “I don’t need your pity, either," she growls.
-* Zuleika grimaces. “Not pity," she says. “Only the words of a friend."
-* Bianca bares her teeth and growls again. “I made my choice. He needs me."
-* Zuleika grasps the bars of her cage. “He made his choice long ago. You can still find a different path."
-* Bianca lunges for Zuleika’s cage and wraps her claws around the bars, thrusting her muzzle between them. “I gave up *everything* for him. Do you have any idea what I’ve sacrificed to be here?"
-* Zuleika meets Bianca’s gaze without flinching. She then replies, softly, “Do you?"
-* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to <span class="citation">Z6. Kiril's Cave (p. 204)</span>, where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
+Если Бьянка замечает и сталкивается с игроками, или если игроки не предпринимают усилий скрыться или сбежать, она требует тихим, смертоносным тоном, чтобы они немедленно покинули логово и никогда не возвращались. Если они не подчиняются, она угрожает разбить *кристалл тревоги* на своей шее, призывая Кирила и остальную стаю обратно в Баровию. ***«Когда Кирил вернётся***, — предупреждает она с придыханием, — ***он сдерёт с вас кожу заживо»***
 
-If Bianca notices and confronts the players, or if the players make no efforts to conceal themselves or escape, she demands, in a quiet, deadly tone, that they depart the den immediately and never return. If they fail to do so, she threatens to break the _crystal of alarm_ around her neck, summoning Kiril and the rest of the pack back to Barovia. “When Kiril returns," she warns breathlessly, “he’ll skin you alive."
+> [!item]+ **Кристалл тревоги**
+> Бьянка носит *кристалл тревоги*, который выглядит как маленькая безделушка из хрупкого, жёлто-золотого кристаллического стекла в форме волчьего клыка. Кристалл магически связан с Кирилом, который немедленно узнаёт, если кристалл был разбит
 
-> [!item]+ **Crystal of Alarm**
-> Bianca wears a _crystal of alarm_, which resembles a small bauble of fragile, yellow-gold crystalline glass in the shape of a wolf's fang. The crystal has a magical bond to Kiril, who immediately knows if the crystal has been broken.
+Если игроки нападают на Бьянку, она немедленно разбивает кристалл. (Смотрите **Возвращение Кирила** ниже для дополнительной информации о прибытии Кирила.) Бьянка также разбивает кристалл, если игроки не могут отвлечь или удовлетворить её в течение разумного периода времени. Бьянка принимает свой волчий облик и сбегает, если игроки продолжают атаковать
 
-If the players attack Bianca, she immediately shatters the crystal. (See **Kiril’s Return** below for more information on Kiril’s arrival.) Bianca also shatters the crystal if the players fail to distract or satisfy her within a reasonable period of time. Bianca assumes her wolf form and flees if the players continue to attack.
+Игроки могут убедить Бьянку отступить успешной **проверкой Запугивания Сл 20** или, если они затрагивают её трудные отношения с Кирилом и относятся к ней по-доброму, успешной **проверкой Убеждения Сл 10**. **Проверка Убеждения автоматически успешна**, если игроки подружились с Бьянкой у озера Бараток. В любом случае Бьянка не предпринимает действий против игроков, пока те завершают свой разговор с Ильёй и Зулейкой, хотя тихо называет Зулейку и игроков «глупцами» за их сопротивление воле Кирила
 
-The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
+Если спросить об источнике её страха, Бьянка вздрагивает и говорит лишь: ***«У него всегда был горячий нрав. Но сейчас всё гораздо хуже, чем когда-либо, и он стал намного сильнее, чем раньше. Если он вернётся и найдёт вас здесь, вы даже не представляете, что он с вами сделает»***. (Бьянка уверена, что Кирил никогда не причинит ей вреда. Однако она боится ужасных судеб игроков, если Кирил вернётся и найдёт их, и предпочитает не иметь таких кошмаров на своей совести)
 
-If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
 ## L4f. Возвращение Кирила
 
 Если Бьянка разбивает *кристалл тревоги*, стая оборотней возвращается в логово через 10 минут. Стая включает **18 волков**, **8 оборотней** и [[Неигровые Персонажи#Кирил Стоянович|Кирила Стояновича]]
