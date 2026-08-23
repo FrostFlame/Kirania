@@ -715,17 +715,16 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 >
 > ***«Тебе не за что извиняться***, — яростно перебивает Эмиль, обнимая его в ответ. — ***Это я подвёл вас»***. Затем он жестом указывает на игроков, добавляя: ***«И это они спасли нас всех»***
 
+Широкоплечий мужчина, Келлен, первым начинает выражать благодарность игрокам за их усилия, затем к нему присоединяются остальные оборотни. При этом он спрашивает игроков: ***«Я не понимаю. Вампир позволил вам вернуть Эмиля из замка? А если нет — что станет с нами теперь, когда Кирил мёртв?»***
 
+Если игроки не могут этого сделать, Эмиль хлопает Келлена по плечу и заверяет его, что стае нечего бояться, ибо игроки — ***«великие воины»***, чья храбрость ***«приведёт к погибели вампира»***. Хотя Келлен поначалу выглядит сомневающимся, он благодарен за любые заверения, которые игроки могут дать
 
-The broad-shouldered man, Kellen, leads the other werewolves in thanking the players for their efforts. As they do, he asks the players: “I don’t understand. Did the vampire allow you to return Emil from the castle? And if he didn’t—what will become of us, now that Kiril is dead?"
+Эмиль рад позволить игрокам сопровождать его и остаток стаи обратно в логово оборотней. (Смотрите раздел [[#Q7. Возвращение в Логово Оборотней]] для дополнительной информации, если они это сделают.) В противном случае он снова благодарит их за помощь, прежде чем попрощаться. Если игроки отдают ему ключи с цепи на шее Кирила, Эмиль обещает освободить и Зулейку, и Илью, как только вернётся в логово, и лично проследить, чтобы Илью проводили обратно к его семье в Крезк
 
-If the players fail to do so, Emil claps a hand on Kellen’s shoulder and reassures him that the pack has nothing to fear, for the players are “great warriors" whose courage “will see to the vampire’s undoing." Although Kellen initially looks doubtful, he is grateful for any reassurances the players can provide.
+Эмиль также рад попросить Зулейку освободить игроков от *Клятвы Новой Луны*, если они принесли клятву перед уходом из логова оборотней. Если спросить, Эмиль заверяет игроков, что стая больше не будет охотиться за человеческой плотью. ***«Нам никогда не было предназначено охотиться на себе подобных***, — обещает он. — ***Хотя мы стоим в стороне от вас, мы ваши братья, а не враги»***
 
-Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk. 
+***Веха.*** Победа над Кирилом завершает сюжетную веху. Когда игроки делают это, выдайте каждому игроку 2,000 ОП
 
-Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
-
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
@@ -1045,7 +1044,8 @@ Continue with the following, modifying the text as necessary to reflect each non
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
 ***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
-# Q7. Return to the Werewolf Den
+
+# Q7. Возвращение в логово оборотней
 
 > [!abstract]+ **Fighting Kiril**
 > Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
