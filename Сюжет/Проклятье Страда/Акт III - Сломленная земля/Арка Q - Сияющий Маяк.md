@@ -1055,8 +1055,6 @@ All creatures that oppose Strahd, including the players, then gain the effects o
 >
 > Если бой происходит в логове, Кирил предпочитает вывести его наружу. В остальном сцена разворачивается в основном так, как описано в разделе [[#Q5. Атака Стаи]]
 
+Как только Кирил повержен, игроки могут легко освободить Илью и Зулейку из их *ошейников серебряного шипа* с помощью ключей с цепи на шее Кирила
 
-
-Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
-
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+Если игроки спасли Эмиля из замка Рэйвенлофт, Эмиль и Зулейка рады позволить им взять любые сокровища из святилища Матери Ночи, не навлекая на себя проклятие богини. (***«Большая часть того, что вы видите, была захвачена Кирилом***, — печально говорит Эмиль, — ***украдена у законных владельцев за туманами в его многочисленных кровавых набегах. У нас не больше прав на это, чем у вас»***.) В дополнение к сокровищам, описанным в Z7. Святилище Матери Ночи (стр. 204), сокровищница также содержит **1 бриллиант ценой 300 зм**
