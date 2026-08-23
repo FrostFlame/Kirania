@@ -704,14 +704,18 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 
 ## Q5c. Кирил повержен
 
-Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
+Вскоре после поражения Кирила, если Эмиль присутствует, **оборотни** из стаи принимают свои человеческие облики, чтобы поприветствовать его. Прочитайте:
 
-<div class="description">
-<p>Eight of the wolves stand higher—and then higher, rising upon their hind legs as fur falls away, muzzles compress into faces, and forelegs twist into arms.</p>
-<p>Where eight wolves once sat, eight men and women now stand, clad in animal skins and furs. They hesitate, briefly, regarding you with wariness and caution—until one of them, a broad-shouldered man with thick, shaggy sideburns steps forward and embraces Emil.</p>
-<p>"We thought you were dead," he says gruffly. “I’m sorry we didn’t—"</p>
-<p>"You have nothing to apologize for," Emil interrupts fiercly, embracing him in return. “It was I who failed you." He then gestures toward the players, adding, “And it was they who saved us both."
-</div>
+>[!read]
+> 8 волков поднимаются выше — а затем ещё выше, вставая на задние лапы, когда шерсть опадает, морды сжимаются в лица, а передние лапы скручиваются в руки
+>
+> Там, где когда-то сидели 8 волков, теперь стоят 8 мужчин и женщин, одетые в звериные шкуры и меха. Они медлят на мгновение, глядя на вас с настороженностью и осторожностью — пока один из них, широкоплечий мужчина с густыми, косматыми бакенбардами, не шагает вперёд и не обнимает Эмиля
+>
+> ***«Мы думали, ты мёртв***, — говорит он хрипло. — ***Прости, что мы не...»***
+>
+> ***«Тебе не за что извиняться***, — яростно перебивает Эмиль, обнимая его в ответ. — ***Это я подвёл вас»***. Затем он жестом указывает на игроков, добавляя: ***«И это они спасли нас всех»***
+
+
 
 The broad-shouldered man, Kellen, leads the other werewolves in thanking the players for their efforts. As they do, he asks the players: “I don’t understand. Did the vampire allow you to return Emil from the castle? And if he didn’t—what will become of us, now that Kiril is dead?"
 
