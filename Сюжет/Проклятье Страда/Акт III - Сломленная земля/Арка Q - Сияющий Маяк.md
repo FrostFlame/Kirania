@@ -696,14 +696,13 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. 
 > * **Six Players**. Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack.
 
-> [!warning]+ **Leaping While Grappling**
-> 
-> As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
+> [!warning]+ **Прыжок во время захвата**
+> Будучи Огромным, Кирил способен приземляться на существ Среднего размера или меньше и может прыгать, удерживая существ [[ДМовские заметки#Захват|захваченными]] своими атаками когтями или укусом
 
-> [!warning] **Dragging Grappled Creatures**
-> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+> [!warning] **Перетаскивание захваченных существ**
+> Помните, что Кирил во второй фазе, будучи Огромным существом, не замедляется, захватывая и перетаскивая существо Среднего размера или меньше, как указано в разделе Перемещение Схваченной Цели (Книга Игрока, стр. 195)
 
-## Q5c. Kiril Vanquished
+## Q5c. Кирил повержен
 
 Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
 
