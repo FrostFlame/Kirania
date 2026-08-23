@@ -1047,13 +1047,15 @@ All creatures that oppose Strahd, including the players, then gain the effects o
 
 # Q7. Возвращение в логово оборотней
 
-> [!abstract]+ **Fighting Kiril**
-> Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
+> [!abstract]+ **Битва с Кирилом**
+> Игроки, которых Кирил не преследует в разделе [[#Q5. Атака Стаи]], могут встретить его снова одним из двух способов:
 >
-> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation">Z6. Kiril’s Cave (p. 204)</span> in his dire wolf form.
-> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation">Leader of the Pack (p. 205)</span>.
+> - Если они прибывают в логово оборотней в светлое время суток, Кирил спит в Z6. Пещере Кирила (стр. 204) в своём облике лютого волка
+> - Если они прибывают в логово оборотней в ночные часы, Кирил и стая на охоте, но в конце концов возвращаются, как описано в разделе Вожак Стаи (стр. 205)
 >
-> If a fight occurs in the den, Kiril prefers to lead it outside. The scene otherwise unfolds largely as described in [[#Q5. Pack Attack]].
+> Если бой происходит в логове, Кирил предпочитает вывести его наружу. В остальном сцена разворачивается в основном так, как описано в разделе [[#Q5. Атака Стаи]]
+
+
 
 Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
 
