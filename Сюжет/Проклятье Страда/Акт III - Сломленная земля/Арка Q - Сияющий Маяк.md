@@ -674,17 +674,19 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > [!abstract]+ **Заточённый Эмиль**
 > Если игроки не смогли спасти Эмиля из замка Рэйвенлофт, когда Кирил чувствует, что пришло время заканчивать разговор, он приказывает волкам, окружающим его, убить игроков. Игроки, указывающие на очевидный голод волков и преуспевающие в **проверке Убеждения Сл 18**, могут убедить стаю отступить, пока игроки разбираются с Кирилом напрямую. В противном случае волки и оборотни (кроме Кирила) атакуют. Кирил нападает на игроков, как только остальная стая побеждена или убита
 
-At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
+В подходящий момент разговора, если он присутствует, Эмиль бросает Кирилу вызов за лидерство над стаей. Если игроки не вмешиваются, происходит следующий обмен:
 
-* Emil steps forward, his eyes glinting gold in the dim light. “Kiril," he intones. “I cannot stand by and watch what you have done to our pack—our family. You have betrayed them for your own pride, hunger, and ego."
-* Kiril’s muzzle curls into a wolfish, toothy grin. “Pride? Hunger? Those are *strength*, weakling. I have brought the pack nothing but glory."
-* Emil’s eyes narrow. “You have sought to bring *yourself* glory."
-* Kiril snarls. “I am alpha! In my glory, the pack is exalted."
-* “A leader *cares* for his pack," Emil replies cooly. “He hunts for them, not himself."
-* “Do you challenge me, then, whelp?" Kiril responds. “You and your little mice?"
-* Emil then looks to the players to seek their assent. If they express an interest in fighting Kiril alongside him and don’t reply to Kiril themselves, Emil turns to Kiril and says, “We do."
-* Kiril laughs, and replies, “A wolf does not concern himself with the defiance of sheep." He glances toward the wolves flanking him, then gestures toward the players. “Kill them."
-* As the other members of the pack hesitantly step forward, Emil meets the largest wolf’s eyes and says, “Kellen—this is *your* choice, not his." The wolf falters, and Emil turns to face the rest of the pack, adding, “I failed you once before. I have no right to ask your loyalty. I ask only that you remain loyal to yourselves, and to each other—and not to any man who would demand your submission." He turns to face Kiril evenly, his clawed hand curling into a fist. “For we are wolves, not dogs—and obedience is a thing of men."
+- Эмиль шагает вперёд, его глаза отливают золотом в тусклом свете. ***«Кирил***, — произносит он. — ***Я не могу стоять в стороне и смотреть на то, что ты сделал с нашей стаей — нашей семьёй. Ты предал их ради своей гордыни, голода и эго»***
+- Морда Кирила скручивается в волчий, зубастый оскал. ***«Гордыня? Голод? Это сила, слабак. Я не принёс стае ничего, кроме славы»***
+- Глаза Эмиля сужаются. **«Ты стремился принести славу *себе*»**
+- Кирил рычит. ***«Я альфа! В моей славе стая возвышена»***
+- ***«Вожак заботится о своей стае***, — холодно отвечает Эмиль. — ***Он охотится для них, а не для себя»***
+- ***«Ты бросаешь мне вызов, щенок?*** — отвечает Кирил. — ***Ты и твои маленькие мыши?»***
+- Затем Эмиль смотрит на игроков в поисках их согласия. Если они выражают желание сражаться с Кирилом вместе с ним и не отвечают Кирилу сами, Эмиль поворачивается к Кирилу и говорит: ***«Да»***
+- Кирил смеётся и отвечает: ***«Волка не заботит неповиновение овец»***. Он бросает взгляд на волков, окружающих его, затем жестом указывает на игроков. ***«Убейте их»***
+- Пока остальные члены стаи нерешительно шагают вперёд, Эмиль встречает взгляд самого крупного волка и говорит: ***«Келлен — это твой выбор, не его»***. Волк колеблется, и Эмиль поворачивается лицом к остальной стае, добавляя: ***«Я однажды подвёл вас. У меня нет права просить вашей верности. Я прошу лишь, чтобы вы оставались верны себе и друг другу — и никому, кто требовал бы вашего подчинения»***. Он спокойно поворачивается лицом к Кирилу, его когтистая рука сжимается в кулак. ***«Ибо мы волки, а не псы — а послушание это удел людей»***
+- 
+
 * One by one, each wolf stops, turns, and returns to its original place, where it sits upon the ground—waiting.
 * Kiril’s eyes flash crimson, and his claws and fangs grow slightly longer, his massive body trembling with rage. “Cowards and traitors!" he snarls. He turns to face Emil and the players. “It’s a shame the vampire will never reclaim his prisoner," he rumbles—"because when I’m through with you, there won’t be a single bone left!"
 
