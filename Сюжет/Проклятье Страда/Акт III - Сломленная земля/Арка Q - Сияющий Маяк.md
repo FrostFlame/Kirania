@@ -601,92 +601,94 @@ If the players do so, the revenant gravely informs them that it has received a m
 The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
 
 The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain in Krezk, and departs once it has conveyed its message.
-# Q5. Pack Attack
+# Q5. Атака стаи
 
-> [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Арка L - Логово Волков]], thereby allowing Kiril to detect that outsiders had entered the den.
-## Q5a. The Pack Arrives
-At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
+> [!abstract]+ **Атакует ли стая?**
+> Эта сцена происходит только если (1) игроки забрали *Святой Символ* из логова оборотней, тем самым указав, что кто-то украл из святилища Матери Ночи, или (2) игроки не смогли скрыть свои запахи (например, используя *Бесследное передвижение*) при проникновении в логово оборотней в [[Арка L - Логово Волков]], тем самым позволив Кирилу обнаружить, что в логово входили чужаки
 
-***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
+## Q5a. Прибытие стаи
 
-When the players first approach the pack, read:
+С наступлением темноты в день, когда игроки вступают в противостояние с Аббатом, если игроки ещё не победили его, Кирил Стоянович поднимает стаю оборотней — включая **18 волков** и восемь **оборотней** — и ведёт их к руинам Береза. Там он советуется с Бабой Лисягой, которая использует свою магию, чтобы определить текущее местоположение игроков. Затем Кирил ведёт свою стаю к этому месту, надеясь убить и сожрать чужаков, проникших в логово ранее
 
-<div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight. A monstrous, two-legged silhouette stands at their head, its shaggy head nearly a full story high.</p>
-</div>
+***За Стенами.*** Если игроки разбили лагерь в Башне Ван Рихтена или Аргинвостхольте, их будит хор воя, ведомый глубоким, ужасающим рёвом
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
+Когда игроки впервые приближаются к стае, прочитайте:
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+>[!read]
+> Более двух дюжин волков выходят из густого, похожего на суп тумана, что стелется по земле снаружи, их золотые глаза поблескивают в слабом лунном свете. Чудовищный, двуногий силуэт стоит во главе их, его косматая голова высотой почти в целый этаж
 
-When the players first approach the pack, read:
+Если Эмиль Торанеску сопровождает игроков, его рука сжимается в кулак у бока, а ногти удлиняются в когти. ***«Кирил»***, — шепчет он
 
-<div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
-</div>
+***Внутри Стен.*** Если игроки отдыхают в Крезке или Валлаки, Кирил прибывает к воротам со стаей и требует, чтобы стража выдала ему ***«чужаков — паразитов, что топтались в его логове»***. Перепуганный стражник затем доставляет послание в коттедж Крезковых (если в Крезке) или в таверну «Синяя Вода» (если в Валлаки), надеясь найти игроков там. (Если игроков там нет, барон Крезков или Урвин Мартиков доставляют послание сами)
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+Когда игроки впервые приближаются к стае, прочитайте:
 
-> [!info]+ **The Starving Wolves**
-> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
+>[!read]
+> Более двух дюжин волков выходят из густого, похожего на суп тумана, что стелется по земле снаружи, их золотые глаза поблескивают в слабом лунном свете
 
-Shortly after the players approach the wolves, or when they first call out for Kiril, read:
+Волки скалят зубы на игроков, но не нападают сразу. Игрок с **пассивным Восприятием 12** или выше замечает, что волки выглядят на удивление истощёнными, и у некоторых рёбра видны сквозь шкуру. Если Эмиль Торанеску с ними, игрок с **пассивной Проницательностью 13** или выше замечает, что волки смотрят на него с опаской и удивлением. Если Бьянка Стоянович всё ещё жива, она стоит неподвижно сбоку от стаи, бледнолицая и молчаливая
 
-<div class="description">
-<p>A monstrous, two-legged silhouette lumbers out of the mist, its shaggy head nearly a full story high.</p>
-</div>
+> [!info]+ **Голодающие волки**
+> Из-за своего обжорства и гордыни Кирил забирал первую — и, безусловно, самую большую — долю каждой добычи, что стая добывала с момента исчезновения Эмиля. В результате остальные члены стаи, кроме Бьянки, страдали от плохого питания и лишений на протяжении последних нескольких недель, вынужденные выживать за счёт кроликов, крыс и другой мелкой дичи, теряя заметные количества веса
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
-## Q5b. Kiril’s Challenge
+Вскоре после того, как игроки приближаются к волкам, или когда они впервые окликают Кирила, прочитайте:
 
-> [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
+>[!read]
+> Чудовищный, двуногий силуэт выходит из тумана, его косматая голова на высоте почти в целый этаж
+
+Если Эмиль Торанеску сопровождает игроков, его рука сжимается в кулак у бока, а ногти удлиняются в когти. ***«Кирил»***, — шепчет он
+
+## Q5b. Вызов Кирила
+
+> [!abstract]+ **Нетерпеливые игроки**
+> Кирил не чувствует угрозы от игроков. Поэтому, если какой-либо отдельный игрок атакует его впервые, используя **непосеребрённое** оружие, **заклинание ниже 3-го уровня** или любую атаку или заклинание, **не наносящее некротический урон**, Кирил смеётся, пока его природная регенерация исцеляет его раны, вместо того чтобы отвечать тем же. ***«Твоё барахтанье щекочет меня, маленький кусок мяса»***, — рокочет он. Он облизывает свои челюсти, устремляя на них устойчивый взгляд предвкушения. ***«Возможно, я позволю тебе пощекотать мои зубы — у меня там застрял кусочек-другой мяса, с которым мне не помешала бы помощь»***
+> 
+> Во второй раз, когда игрок атакует, или если игрок атакует его **посеребрённым оружием**, атакой или заклинанием, наносящим **некротический урон**, либо **заклинанием 3-го уровня** или выше, Кирил рычит, его ноздри раздуваются, а глаза широко распахиваются. ***«Не терпится умереть, маленький кусок мяса? Тогда я не заставлю тебя ждать»***. Затем Кирил нападает
+
+> [!info]+ **Лунный луч**
+> Из-за порчи Кирила его гибридный облик — а не человеческий — стал его «истинным обликом». Поэтому, хотя он получает урон от *Лунного луча* как обычно, заклинание не может заставить его вернуться в человеческий облик
+
+Когда игроки впервые приближаются к Кирилу, или наоборот, прочитайте:
+
+>[!read]
+> Чудовищный силуэт шагает вперёд, полоска серебристого лунного света освещает угольно-чёрную шерсть, что покрывает его шкуру
 >
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+> Он стоит чуть выше 9 футов ростом, его руки, ноги и туловище покрыты толстыми, канатоподобными мышцами. Его клыки в форме скимитаров выступают за пределы морды, спускаясь так далеко под челюсть, что кажутся почти бивнями. Его когти, длинные, тёмные и покрытые слоями крови, подёргиваются и сгибаются в нетерпении, словно готовые вновь разрезать плоть
+>
+> Алые радужки зверя пронзают туман, что клубится вокруг и под ним, а его волчья морда скручивается в звериный оскал. Когда он говорит, его голос — низкий, рычащий рокот, что эхом разносится сквозь мрачную ночь
+>
+> ***«Так вы те самые маленькие мыши, что шмыгнули через моё логово»***, — рокочет зверь. Он облизывает губы в явном предвкушении, нить слюны стекает с его зазубренных зубов. ***«Похоже, вы не могли бежать вечно»***
 
-> [!info]+ **Moonbeam**
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
+> [!info]+ **Ключи Кирила**
+> Игроки, внимательно осматривающие шею Кирила, замечают 2 ключа, висящих на цепи вокруг его шеи. Цепь рвётся, когда Кирил входит в свою **вторую фазу** (смотрите ниже), позволяя игрокам забрать их. Если ключи добыты, они могут отпереть *ошейники серебряного шипа*, в которые заключены Илья и Зулейка в логове оборотней
 
-When the players first approach Kiril, or vice-versa, read:
+Зверь — Кирил в своей первой фазе (смотрите ниже). Если Эсмеральда присутствует, её глаза расширяются, и она шипит игрокам, что узнаёт узор его шерсти. ***«Ублюдок стал больше, чем был 2 года назад***, — шепчет она сквозь стиснутые зубы, — ***но это Чёрный Ужас»***. (Эсмеральда может тихо напомнить игрокам, если спросят, что Чёрным Ужасом звали оборотня, откусившего её ногу)
 
-<div class="description">
-<p>The monstrous silhouette steps forward, a sliver of silvery moonlight illuminating the charcoal-black fur that covers its hide.</p>
-<p>It stands just over nine feet tall, its arms, legs, and torso layered with thick, ropy muscle. Its scimitar-shaped fangs jut out beyond its muzzle, descending so far beneath its jaw that they seem almost like tusks. Its claws, long, dark, and stained with layers of blood, twitch and flex eagerly, as if ready to slice through flesh once more.</p>
-<p>The beast’s scarlet irises pierce through the mist that swirls around and below it, and its lupine muzzle curls into a bestial grin. When it speaks, its voice is a low, snarling rumble that echoes through the gloomy night.</p>
-<p>"So you’re the little mice that scampered through my den," the beast rumbles. It licks its lips in obvious anticipation, a line of saliva drooling from its jagged teeth. “Seems you couldn’t run forever."</p>
-</div>
+Подобно кошке, играющей со своей добычей, Кирил не торопится убивать игроков и надеется подразнить, унизить и деморализовать их перед атакой. По мере развития разговора, если Эмиль Торанеску присутствует, прочитайте:
 
-> [!info]+ **Kiril’s Keys**
-> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
+>[!read]
+> Глаза Кирила скользят к человеку рядом с вами, и его чёрная губа скривляется. Он смотрит мгновение, затем запрокидывает голову в громогласном смехе
+>
+> ***«Вы привели щенка с собой!»*** — гремит он. ***«Поздравляю, слабак. Каково это — знать, что тебе понадобились эти мыши, чтобы спасти тебя? Хотя я впечатлён — как они это сделали?»***
 
-The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
+> [!abstract]+ **Заточённый Эмиль**
+> Если игроки не смогли спасти Эмиля из замка Рэйвенлофт, когда Кирил чувствует, что пришло время заканчивать разговор, он приказывает волкам, окружающим его, убить игроков. Игроки, указывающие на очевидный голод волков и преуспевающие в **проверке Убеждения Сл 18**, могут убедить стаю отступить, пока игроки разбираются с Кирилом напрямую. В противном случае волки и оборотни (кроме Кирила) атакуют. Кирил нападает на игроков, как только остальная стая побеждена или убита
 
-Like a cat playing with its prey, Kiril is in no immediate hurry to kill the players, and hopes to taunt, demean, and demoralize them before he attacks. As the conversation unfolds, if Emil Toranescu is present, read:
+В подходящий момент разговора, если он присутствует, Эмиль бросает Кирилу вызов за лидерство над стаей. Если игроки не вмешиваются, происходит следующий обмен:
 
-<div class="description">
-<p>Kiril’s eyes slide toward the man at your side, and his black lip curls. He stares for a moment, then throws his head back in uproarious laughter.</p>
-<p>"You brought the whelp back with you!" he booms. “Congratulations, weakling. How does it feel to know that you needed these <em>mice</em> to rescue you? Though I’m impressed—how <em>did</em> they do it?</p>
-</div>
+- Эмиль шагает вперёд, его глаза отливают золотом в тусклом свете. ***«Кирил***, — произносит он. — ***Я не могу стоять в стороне и смотреть на то, что ты сделал с нашей стаей — нашей семьёй. Ты предал их ради своей гордыни, голода и эго»***
+- Морда Кирила скручивается в волчий, зубастый оскал. ***«Гордыня? Голод? Это сила, слабак. Я не принёс стае ничего, кроме славы»***
+- Глаза Эмиля сужаются. **«Ты стремился принести славу *себе*»**
+- Кирил рычит. ***«Я альфа! В моей славе стая возвышена»***
+- ***«Вожак заботится о своей стае***, — холодно отвечает Эмиль. — ***Он охотится для них, а не для себя»***
+- ***«Ты бросаешь мне вызов, щенок?*** — отвечает Кирил. — ***Ты и твои маленькие мыши?»***
+- Затем Эмиль смотрит на игроков в поисках их согласия. Если они выражают желание сражаться с Кирилом вместе с ним и не отвечают Кирилу сами, Эмиль поворачивается к Кирилу и говорит: ***«Да»***
+- Кирил смеётся и отвечает: ***«Волка не заботит неповиновение овец»***. Он бросает взгляд на волков, окружающих его, затем жестом указывает на игроков. ***«Убейте их»***
+- Пока остальные члены стаи нерешительно шагают вперёд, Эмиль встречает взгляд самого крупного волка и говорит: ***«Келлен — это твой выбор, не его»***. Волк колеблется, и Эмиль поворачивается лицом к остальной стае, добавляя: ***«Я однажды подвёл вас. У меня нет права просить вашей верности. Я прошу лишь, чтобы вы оставались верны себе и друг другу — и никому, кто требовал бы вашего подчинения»***. Он спокойно поворачивается лицом к Кирилу, его когтистая рука сжимается в кулак. ***«Ибо мы волки, а не псы — а послушание это удел людей»***
+- Один за другим каждый волк останавливается, поворачивается и возвращается на своё прежнее место, где садится на землю — ожидая
+- Глаза Кирила вспыхивают багровым, и его когти и клыки становятся чуть длиннее, его массивное тело дрожит от ярости. ***«Трусы и предатели!»*** — рычит он. Он поворачивается лицом к Эмилю и игрокам. ***«Жаль, что вампир никогда не вернёт своего пленника***, — рокочет он, — ***потому что, когда я закончу с вами, от вас не останется ни единой кости!»***
 
-> [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
-
-At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
-
-* Emil steps forward, his eyes glinting gold in the dim light. “Kiril," he intones. “I cannot stand by and watch what you have done to our pack—our family. You have betrayed them for your own pride, hunger, and ego."
-* Kiril’s muzzle curls into a wolfish, toothy grin. “Pride? Hunger? Those are *strength*, weakling. I have brought the pack nothing but glory."
-* Emil’s eyes narrow. “You have sought to bring *yourself* glory."
-* Kiril snarls. “I am alpha! In my glory, the pack is exalted."
-* “A leader *cares* for his pack," Emil replies cooly. “He hunts for them, not himself."
-* “Do you challenge me, then, whelp?" Kiril responds. “You and your little mice?"
-* Emil then looks to the players to seek their assent. If they express an interest in fighting Kiril alongside him and don’t reply to Kiril themselves, Emil turns to Kiril and says, “We do."
-* Kiril laughs, and replies, “A wolf does not concern himself with the defiance of sheep." He glances toward the wolves flanking him, then gestures toward the players. “Kill them."
-* As the other members of the pack hesitantly step forward, Emil meets the largest wolf’s eyes and says, “Kellen—this is *your* choice, not his." The wolf falters, and Emil turns to face the rest of the pack, adding, “I failed you once before. I have no right to ask your loyalty. I ask only that you remain loyal to yourselves, and to each other—and not to any man who would demand your submission." He turns to face Kiril evenly, his clawed hand curling into a fist. “For we are wolves, not dogs—and obedience is a thing of men."
-* One by one, each wolf stops, turns, and returns to its original place, where it sits upon the ground—waiting.
-* Kiril’s eyes flash crimson, and his claws and fangs grow slightly longer, his massive body trembling with rage. “Cowards and traitors!" he snarls. He turns to face Emil and the players. “It’s a shame the vampire will never reclaim his prisoner," he rumbles—"because when I’m through with you, there won’t be a single bone left!"
-
-Kiril then attacks.
+Затем Кирил атакует
   
 > [!combat]- **Balancing the Mutant Lycan** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -694,158 +696,35 @@ Kiril then attacks.
 > * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. 
 > * **Six Players**. Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack.
 
-<div class="statblock">
-<h2>Kiril, Werewolf Alpha</h2>
-<em>Large Monstrosity (Shapechanger), Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 16 (Natural Armor)
-<br>
-<strong>Hit Points</strong> 306 (36d12 + 144)
-<br>
-<strong>Speed</strong> 50 ft. in hybrid or dire wolf form (30 ft. in humanoid form)
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>18 (+4)</td>
-      <td>12 (+1)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Strength +10, Constitution +10<br>
-<strong>Skills</strong> Perception +9, Stealth +9<br>
-<strong>Senses</strong> passive Perception 19<br>
-<strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
-<strong>Challenge</strong> 19, or 18 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +6<br>
-<hr>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes three melee attacks, up to one of which can be a Bite. He can then immediately use <strong><em>alpha's howl</em></strong></p>
-<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 13 (2d8 + 4) slashing damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 11 (2d6 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies. If the target was already cursed with werewolf lycanthropy and has gained a werewolf's regeneration feature, it can't regenerate until it completes a long rest.</p>
-<p><strong><em>Alpha's Howl.</em></strong> Any number of targets within 60 feet that can hear Kiril and which Kiril or his infected victims have cursed with werewolf lycanthropy must make a DC 18 Wisdom saving throw, losing one level of bloodlust on a success (minimum 0). On a failure, a target gains one level of bloodlust (maximum 2) and must immediately use its reaction, if available, to move up to its speed toward a random creature other than Kiril. If it has at least one level of bloodlust, it must make an attack against the other creature with its claws (see below). If it has two levels of bloodlust, it must also make an attack against the other creature with its bite (see below).</p>
-<p>A target with one level of bloodlust gains wolflike claws and can use its claws to make an attack using its Strength modifier (minimum 2), dealing 2d4 slashing damage plus its Strength modifier (minimum 2) on a hit. A target with two levels of bloodlust also gains a wolflike muzzle and can use its bite to make an attack using its Strength modifier (minimum 2), dealing 1d8 piercing damage plus its Strength modifier (minimum 2) on a hit. A target with bloodlust is proficient with its claws and bite. A Humanoid bitten in this way must succeed on a DC 18 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 18 Dexterity saving throw, taking 14 (4d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to being missed by an attack made by a creature he can see, hear, or smell, Kiril moves up to his speed toward that creature without triggering opportunity attacks. He can then attack that creature with his claws if it's within reach.</p>
-<p><strong><em>Maul.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
-</div>
-<br>
+> [!warning]+ **Прыжок во время захвата**
+> Будучи Огромным, Кирил способен приземляться на существ Среднего размера или меньше и может прыгать, удерживая существ [[ДМовские заметки#Захват|захваченными]] своими атаками когтями или укусом
 
-![[The Black Terror.png]]
-<span class="credit">"Kiril, Mutant Lycan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> [!warning] **Перетаскивание захваченных существ**
+> Помните, что Кирил во второй фазе, будучи Огромным существом, не замедляется, захватывая и перетаскивая существо Среднего размера или меньше, как указано в разделе Перемещение Схваченной Цели (Книга Игрока, стр. 195)
 
-<div class="statblock">
-<h2>Kiril, Mutant Lycan</h2>
-<em>Huge Monstrosity, Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 17 (Natural Armor)
-<br>
-<strong>Hit Points</strong> 306 (36d12 + 144)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>21 (+5)</td>
-      <td>8 (-1)</td>
-      <td>19 (+4)</td>
-      <td>5 (-3)</td>
-      <td>9 (-1)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Strength +11, Constitution +10<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Condition Immunities</strong> frightened<br>
-<strong>Senses</strong> passive Perception 14<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 18, or 17 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +6<br>
-<hr>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. <em>Hit:</em> 15 (4d4 + 5) slashing damage, and the target must succeed on a DC 18 Dexterity saving throw or be pushed 10 feet away or grappled (Kiril's choice).</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. Hit: 27 (4d10 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
-<p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
-<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws.</p>
-<p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
-<p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
-</div>
+## Q5c. Кирил повержен
 
-> [!warning]+ **Leaping While Grappling**
-> 
-> As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
+Вскоре после поражения Кирила, если Эмиль присутствует, **оборотни** из стаи принимают свои человеческие облики, чтобы поприветствовать его. Прочитайте:
 
-> [!warning] **Dragging Grappled Creatures**
-> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+>[!read]
+> 8 волков поднимаются выше — а затем ещё выше, вставая на задние лапы, когда шерсть опадает, морды сжимаются в лица, а передние лапы скручиваются в руки
+>
+> Там, где когда-то сидели 8 волков, теперь стоят 8 мужчин и женщин, одетые в звериные шкуры и меха. Они медлят на мгновение, глядя на вас с настороженностью и осторожностью — пока один из них, широкоплечий мужчина с густыми, косматыми бакенбардами, не шагает вперёд и не обнимает Эмиля
+>
+> ***«Мы думали, ты мёртв***, — говорит он хрипло. — ***Прости, что мы не...»***
+>
+> ***«Тебе не за что извиняться***, — яростно перебивает Эмиль, обнимая его в ответ. — ***Это я подвёл вас»***. Затем он жестом указывает на игроков, добавляя: ***«И это они спасли нас всех»***
 
-## Q5c. Kiril Vanquished
+Широкоплечий мужчина, Келлен, первым начинает выражать благодарность игрокам за их усилия, затем к нему присоединяются остальные оборотни. При этом он спрашивает игроков: ***«Я не понимаю. Вампир позволил вам вернуть Эмиля из замка? А если нет — что станет с нами теперь, когда Кирил мёртв?»***
 
-Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
+Если игроки не могут этого сделать, Эмиль хлопает Келлена по плечу и заверяет его, что стае нечего бояться, ибо игроки — ***«великие воины»***, чья храбрость ***«приведёт к погибели вампира»***. Хотя Келлен поначалу выглядит сомневающимся, он благодарен за любые заверения, которые игроки могут дать
 
-<div class="description">
-<p>Eight of the wolves stand higher—and then higher, rising upon their hind legs as fur falls away, muzzles compress into faces, and forelegs twist into arms.</p>
-<p>Where eight wolves once sat, eight men and women now stand, clad in animal skins and furs. They hesitate, briefly, regarding you with wariness and caution—until one of them, a broad-shouldered man with thick, shaggy sideburns steps forward and embraces Emil.</p>
-<p>"We thought you were dead," he says gruffly. “I’m sorry we didn’t—"</p>
-<p>"You have nothing to apologize for," Emil interrupts fiercly, embracing him in return. “It was I who failed you." He then gestures toward the players, adding, “And it was they who saved us both."
-</div>
+Эмиль рад позволить игрокам сопровождать его и остаток стаи обратно в логово оборотней. (Смотрите раздел [[#Q7. Возвращение в Логово Оборотней]] для дополнительной информации, если они это сделают.) В противном случае он снова благодарит их за помощь, прежде чем попрощаться. Если игроки отдают ему ключи с цепи на шее Кирила, Эмиль обещает освободить и Зулейку, и Илью, как только вернётся в логово, и лично проследить, чтобы Илью проводили обратно к его семье в Крезк
 
-The broad-shouldered man, Kellen, leads the other werewolves in thanking the players for their efforts. As they do, he asks the players: “I don’t understand. Did the vampire allow you to return Emil from the castle? And if he didn’t—what will become of us, now that Kiril is dead?"
+Эмиль также рад попросить Зулейку освободить игроков от *Клятвы Новой Луны*, если они принесли клятву перед уходом из логова оборотней. Если спросить, Эмиль заверяет игроков, что стая больше не будет охотиться за человеческой плотью. ***«Нам никогда не было предназначено охотиться на себе подобных***, — обещает он. — ***Хотя мы стоим в стороне от вас, мы ваши братья, а не враги»***
 
-If the players fail to do so, Emil claps a hand on Kellen’s shoulder and reassures him that the pack has nothing to fear, for the players are “great warriors" whose courage “will see to the vampire’s undoing." Although Kellen initially looks doubtful, he is grateful for any reassurances the players can provide.
+***Веха.*** Победа над Кирилом завершает сюжетную веху. Когда игроки делают это, выдайте каждому игроку 2,000 ОП
 
-Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk. 
-
-Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
-
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
@@ -1165,16 +1044,17 @@ Continue with the following, modifying the text as necessary to reflect each non
 All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
 
 ***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
-# Q7. Return to the Werewolf Den
 
-> [!abstract]+ **Fighting Kiril**
-> Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
+# Q7. Возвращение в логово оборотней
+
+> [!abstract]+ **Битва с Кирилом**
+> Игроки, которых Кирил не преследует в разделе [[#Q5. Атака Стаи]], могут встретить его снова одним из двух способов:
 >
-> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation">Z6. Kiril’s Cave (p. 204)</span> in his dire wolf form.
-> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation">Leader of the Pack (p. 205)</span>.
+> - Если они прибывают в логово оборотней в светлое время суток, Кирил спит в Z6. Пещере Кирила (стр. 204) в своём облике лютого волка
+> - Если они прибывают в логово оборотней в ночные часы, Кирил и стая на охоте, но в конце концов возвращаются, как описано в разделе Вожак Стаи (стр. 205)
 >
-> If a fight occurs in the den, Kiril prefers to lead it outside. The scene otherwise unfolds largely as described in [[#Q5. Pack Attack]].
+> Если бой происходит в логове, Кирил предпочитает вывести его наружу. В остальном сцена разворачивается в основном так, как описано в разделе [[#Q5. Атака Стаи]]
 
-Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
+Как только Кирил повержен, игроки могут легко освободить Илью и Зулейку из их *ошейников серебряного шипа* с помощью ключей с цепи на шее Кирила
 
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+Если игроки спасли Эмиля из замка Рэйвенлофт, Эмиль и Зулейка рады позволить им взять любые сокровища из святилища Матери Ночи, не навлекая на себя проклятие богини. (***«Большая часть того, что вы видите, была захвачена Кирилом***, — печально говорит Эмиль, — ***украдена у законных владельцев за туманами в его многочисленных кровавых набегах. У нас не больше прав на это, чем у вас»***.) В дополнение к сокровищам, описанным в Z7. Святилище Матери Ночи (стр. 204), сокровищница также содержит **1 бриллиант ценой 300 зм**

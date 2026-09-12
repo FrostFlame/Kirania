@@ -1986,7 +1986,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 21 (p
 
 This area is as described in <span class="citation">K87. Guardians (p. 94)</span> and <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>.
 ## P12c. South Catacombs
-### South Crypts
+### Южные склепы
 #### South Crypts, First Row
 This row of crypts is largely as described in <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 27 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, and <span class="citation">Crypt 29 (p. 91)</span>. However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
 #### South Crypts, Second Row
@@ -1996,7 +1996,7 @@ In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntr
 
 > [!item]+ **Spear of the Huntress**
 > This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Арка T - Три Святилища]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
-#### South Crypts, Third Row
+#### Южные склепы, Третий Ряд
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Balancing the Thirty-Fifth Crypt** 
