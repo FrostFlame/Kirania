@@ -37,14 +37,17 @@ Rahadin greets the players and informs them that he has come to deliver them an 
 
 If opened, the envelope reads as follows, beginning with a list of the players' names and filling in the blank with the number of days until the night before the next new moon. (Due to Barovia's shortened lunar calendar, the next new moon takes place seven days after the players' first full moon in Barovia.)
 
-<div class="description">
-<p>To [Player Names],</p> 
-<p>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.</p>
-<p>I expect your attendance at dusk on the night of the moon's last light, in ___ days' time. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.</p>
-<p>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.</p>
-<p>Your host,<br>
-Strahd von Zarovich</p>
-</div>
+>[!Приглашение]
+> Винтерре, Каири, Эридан и Левику
+>
+> До меня дошли слухи о ваших недавних деяниях в моих владениях, и я желаю поближе узнать тех, кто прибыл в мой любимый край — Баровию. Посему я приглашаю вас разделить со мной трапезу в моем замке, дабы мы могли встретиться в достойной обстановке.  
+>
+> Жду вас в сумерках, в ночь, когда луна сияет в последний раз — через 7 дней. Ваш путь в мой дом и обратно будет безопасен, и вы будете желанными гостями, пока пребываете в замке Равенлофт.  
+>
+> Моя карета встретит вас на перекрестке Равенлофт, за западными воротами. С нетерпением жду вашего прибытия.
+>
+> Ваш хозяин,  
+> Страд фон Зарович
 
 Rahadin declines to depart until the players have read Strahd’s invitation and confirmed their attendance. If the players accept Strahd’s invitation, Rahadin inclines his head and notes that he will expect them at Castle Ravenloft promptly at dusk on the noted date.
 
